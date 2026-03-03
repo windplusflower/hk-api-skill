@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace GlobalEnums
+{
+	// Token: 0x02000671 RID: 1649
+	public enum HeroSounds
+	{
+		// Token: 0x04002C50 RID: 11344
+		FOOTSTEPS_RUN,
+		// Token: 0x04002C51 RID: 11345
+		FOOTSTEPS_WALK,
+		// Token: 0x04002C52 RID: 11346
+		JUMP,
+		// Token: 0x04002C53 RID: 11347
+		WALLJUMP,
+		// Token: 0x04002C54 RID: 11348
+		SOFT_LANDING,
+		// Token: 0x04002C55 RID: 11349
+		HARD_LANDING,
+		// Token: 0x04002C56 RID: 11350
+		BACKDASH,
+		// Token: 0x04002C57 RID: 11351
+		DASH,
+		// Token: 0x04002C58 RID: 11352
+		TAKE_HIT,
+		// Token: 0x04002C59 RID: 11353
+		WALLSLIDE,
+		// Token: 0x04002C5A RID: 11354
+		NAIL_ART_CHARGE,
+		// Token: 0x04002C5B RID: 11355
+		NAIL_ART_READY,
+		// Token: 0x04002C5C RID: 11356
+		FALLING
+	}
+}

@@ -1,0 +1,43 @@
+﻿using System;
+
+namespace GlobalEnums
+{
+	// Token: 0x0200067A RID: 1658
+	public enum HeroActionButton
+	{
+		// Token: 0x04002C87 RID: 11399
+		JUMP,
+		// Token: 0x04002C88 RID: 11400
+		ATTACK,
+		// Token: 0x04002C89 RID: 11401
+		DASH,
+		// Token: 0x04002C8A RID: 11402
+		SUPER_DASH,
+		// Token: 0x04002C8B RID: 11403
+		CAST,
+		// Token: 0x04002C8C RID: 11404
+		QUICK_MAP,
+		// Token: 0x04002C8D RID: 11405
+		INVENTORY,
+		// Token: 0x04002C8E RID: 11406
+		MENU_SUBMIT,
+		// Token: 0x04002C8F RID: 11407
+		MENU_CANCEL,
+		// Token: 0x04002C90 RID: 11408
+		DREAM_NAIL,
+		// Token: 0x04002C91 RID: 11409
+		UP,
+		// Token: 0x04002C92 RID: 11410
+		DOWN,
+		// Token: 0x04002C93 RID: 11411
+		LEFT,
+		// Token: 0x04002C94 RID: 11412
+		RIGHT,
+		// Token: 0x04002C95 RID: 11413
+		QUICK_CAST,
+		// Token: 0x04002C96 RID: 11414
+		MENU_PANE_LEFT,
+		// Token: 0x04002C97 RID: 11415
+		MENU_PANE_RIGHT
+	}
+}

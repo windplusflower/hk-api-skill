@@ -1,0 +1,31 @@
+﻿using System;
+
+namespace GlobalEnums
+{
+	// Token: 0x02000677 RID: 1655
+	public enum GamepadType
+	{
+		// Token: 0x04002C75 RID: 11381
+		NONE,
+		// Token: 0x04002C76 RID: 11382
+		UNKNOWN,
+		// Token: 0x04002C77 RID: 11383
+		XBOX_ONE,
+		// Token: 0x04002C78 RID: 11384
+		XBOX_360,
+		// Token: 0x04002C79 RID: 11385
+		PS4,
+		// Token: 0x04002C7A RID: 11386
+		PS_VITA,
+		// Token: 0x04002C7B RID: 11387
+		WII_U_GAMEPAD,
+		// Token: 0x04002C7C RID: 11388
+		WII_U_PRO_CONTROLLER,
+		// Token: 0x04002C7D RID: 11389
+		PS3_WIN,
+		// Token: 0x04002C7E RID: 11390
+		SWITCH_JOYCON_DUAL,
+		// Token: 0x04002C7F RID: 11391
+		SWITCH_PRO_CONTROLLER
+	}
+}
