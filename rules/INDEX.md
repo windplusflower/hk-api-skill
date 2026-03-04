@@ -53,6 +53,14 @@
 | [Resource Management](development/resources.md) | 资源加载和管理 |
 | [Best Practices](development/best-practices.md) | 最佳实践和技巧 |
 
+### Libraries（第三方库）
+
+常用第三方库使用指南。
+
+| 文档 | 用途 |
+|------|------|
+| [Satchel](libraries/satchel.md) | **Satchel 工具库**（BetterMenus/FUtils/自定义 UI） |
+
 ---
 
 ## 🔍 按任务查找
@@ -118,11 +126,13 @@ hk-api-skill/
 │   │   ├── nail-arts.md
 │   │   ├── audio-system.md
 │   │   └── game-modification-patterns.md   # 游戏自带系统修改模式
-│   └── development/      # 开发指南
-│       ├── common-hooks.md
-│       ├── code-patterns.md
-│       ├── resources.md
-│       └── best-practices.md
+│   ├── development/      # 开发指南
+│   │   ├── common-hooks.md
+│   │   ├── code-patterns.md
+│   │   ├── resources.md
+│   │   └── best-practices.md
+│   └── libraries/        # 第三方库
+│       └── satchel.md    # Satchel 工具库
 └── analysis/             # 分析报告（参考用）
 ```
 
