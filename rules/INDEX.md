@@ -60,7 +60,25 @@
 ### 我想...
 
 **修改 Boss 行为**
-→ [FSM Reference](core/fsm-reference.md) → [Common Hooks](development/common-hooks.md)
+→ [Game Modification Patterns](systems/game-modification-patterns.md) → [FSM Reference](core/fsm-reference.md) → [Common Hooks](development/common-hooks.md)
+
+**修改 Boss 名称**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - Boss 名称修改模式
+
+**修改商店**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 商店 FSM 修改模式
+
+**生成自定义敌人**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 敌人预加载模式
+
+**监听敌人死亡**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 死亡事件订阅模式
+
+**修改场景流程**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 场景状态管理模式
+
+**添加多语言支持**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 文本本地化模式
 
 **添加新护符效果**
 → [Item IDs](core/item-ids.md) → [Code Patterns](development/code-patterns.md)
@@ -70,9 +88,6 @@
 
 **修改骨钉技**
 → [Nail Arts](systems/nail-arts.md) → [FSM Reference](core/fsm-reference.md)
-
-**添加自定义敌人**
-→ [Preload Names](core/preload-names.md) → [Code Patterns](development/code-patterns.md)
 
 **修改伤害计算**
 → [Combat System](systems/combat-system.md) → [Item IDs](core/item-ids.md)
