@@ -40,7 +40,7 @@
 | [Spell System](systems/spell-system.md) | 法术拦截和修改 |
 | [Nail Arts](systems/nail-arts.md) | 骨钉技拦截 |
 | [Audio System](systems/audio-system.md) | 音效和音频管理 |
-| [Rogue Systems](systems/rogue-systems.md) | **Roguelike 系统合集**（商店/Boss/波次/物品等 8 个系统） |
+| [Game Modification Patterns](systems/game-modification-patterns.md) | **游戏自带系统修改模式**（商店/Boss/敌人/场景等 8 个模式） |
 
 ### Development（开发指南）
 
@@ -102,7 +102,7 @@ hk-api-skill/
 │   │   ├── spell-system.md
 │   │   ├── nail-arts.md
 │   │   ├── audio-system.md
-│   │   └── rogue-systems.md   # Roguelike 系统合集
+│   │   └── game-modification-patterns.md   # 游戏自带系统修改模式
 │   └── development/      # 开发指南
 │       ├── common-hooks.md
 │       ├── code-patterns.md
