@@ -4,6 +4,8 @@
 
 本文档整理了常见的代码模式和最佳实践。
 
+**注意**：本文档只包含通用的、不依赖第三方库的模式。
+
 ## 常用模式列表
 
 | 模式名称 | 用途 | 示例代码 |
@@ -15,10 +17,6 @@
 | FSM Custom Action | 创建自定义 FSM 动作 | 见下方详细说明 |
 | FSM Event Triggering | 触发 FSM 事件来取消或重定向状态流 | `fsm.SendEvent("CANCEL")` |
 | FSM Variable Access | 访问和修改 FSM 浮点变量 | `fsm.GetFloat("variableName")` |
-| **状态机模式** | | |
-| EntityStateMachine | 使用 RingLib 的自定义状态机，带 [State] 属性 | 见下方详细说明 |
-| Coroutine-based Transitions | 使用 WaitFor, WaitTill, ToState 进行状态过渡 | 见下方详细说明 |
-| SkillPhases Pattern | 将技能逻辑封装为 Appear/Loop/Disappear 阶段 | 见下方详细说明 |
 | **对象管理** | | |
 | Object Pooling | 使用 Queue<T> 进行对象池管理 | 见下方详细说明 |
 | Component Attachment | 添加自定义 MonoBehaviour 组件 | `gameObject.AddComponent<T>()` |
@@ -49,7 +47,6 @@
 | RandomSelector for Attack Choice | Boss 攻击模式的加权随机选择 | 见下方详细说明 |
 | SmoothDamp Movement | 使用 Vector2.SmoothDamp 平滑敌人移动 | 见下方详细说明 |
 | Level-based Difficulty Scaling | 技能根据 Boss 血量阈值分级（1-3 级） | 见下方详细说明 |
-| Skill Usage Balancing | 追踪技能使用次数，偏好最少使用的技能 | 见下方详细说明 |
 | **工具类** | | |
 | LocateMyFSM | 在 GameObject 上按名称查找 PlayMakerFSM 的扩展方法 | 见下方详细说明 |
 | CopyOnto<T> | 扩展方法，将组件属性复制到另一个对象 | 见下方详细说明 |
@@ -57,7 +54,6 @@
 | Callback System | GameMapHooks.Init 接受回调注册自定义区域 | 见下方详细说明 |
 | IHitResponder Interface | 自定义接口处理平台上的命中事件 | 见下方详细说明 |
 | Input Manager | 使用 ContinuousInput 和 InputBuffer 的自定义输入管理 | 见下方详细说明 |
-| RingLib State Machine | 带状态集合的自定义状态机库 | 见下方详细说明 |
 | Water Physics Simulation | 基于弹簧的水面模拟，带扩散效果 | 见下方详细说明 |
 
 ## 详细模式说明
@@ -101,68 +97,28 @@ public class CustomAction : FsmStateAction {
 }
 ```
 
-### EntityStateMachine 模式
+### FSM 事件触发
 
-使用 RingLib 的自定义状态机：
+触发 FSM 事件来取消或重定向状态流：
 
 ```csharp
-internal class CustomStateMachine : EntityStateMachine {
-    public CustomStateMachine() : base(
-        startState: nameof(Idle),
-        globalTransitions: new Dictionary<Type, string>(),
-        terrainLayer: "terrain") { }
-    
-    [State]
-    private IEnumerator<Transition> Idle() {
-        yield return new WaitTill(() => playerDetected);
-        yield return new ToState { State = nameof(Chase) };
-    }
-}
+// 取消当前状态
+fsm.SendEvent("CANCEL");
+
+// 重定向到另一个状态
+fsm.SendEvent("FSM CANCEL");
 ```
 
-### 协程过渡模式
+### FSM 变量访问
 
-使用协程进行状态过渡：
-
-```csharp
-[State]
-private IEnumerator<Transition> Attack() {
-    PlayAnimation("attack");
-    yield return new WaitFor(0.5f);
-    
-    if (playerInRange) {
-        DealDamage();
-    }
-    
-    yield return new ToState { State = nameof(Idle) };
-}
-```
-
-### SkillPhases 模式
-
-将技能逻辑封装为三个阶段：
+访问和修改 FSM 浮点变量：
 
 ```csharp
-private IEnumerator<Transition> Appear() {
-    // 出现动画
-    yield return new WaitFor(1.0f);
-    yield return new ToState { State = nameof(Loop) };
-}
+// 获取 FSM 变量
+var variable = fsm.FsmVariables.GetFsmFloat("VariableName");
 
-[State]
-private IEnumerator<Transition> Loop() {
-    // 循环行为
-    while (true) {
-        UseSkill();
-        yield return new WaitFor(2.0f);
-    }
-}
-
-private IEnumerator<Transition> Disappear() {
-    // 消失动画
-    yield return new WaitFor(1.0f);
-    yield return new ToState { State = nameof(Idle) };
-}
+// 设置 FSM 变量
+fsm.FsmVariables.GetFsmFloat("VariableName").Value = 10f;
 ```
 
 ### 对象池模式
@@ -185,6 +141,44 @@ void ReturnToPool(GameObject obj) {
     obj.SetActive(false);
     pool.Enqueue(obj);
 }
+```
+
+### 组件附加模式
+
+添加自定义 MonoBehaviour 组件：
+
+```csharp
+// 检查并添加组件
+if (gameObject.GetComponent<CustomComponent>() == null) {
+    gameObject.AddComponent<CustomComponent>();
+}
+```
+
+### 组件清理模式
+
+移除实例化模板中的不必要组件：
+
+```csharp
+var template = preloadedObjects["Scene"]["Object"];
+
+// 清理不需要的组件
+Destroy(template.GetComponent<PersistentBoolItem>());
+Destroy(template.GetComponent<ConstrainPosition>());
+```
+
+### 游戏对象清理
+
+创建新对象前销毁旧对象：
+
+```csharp
+// 销毁场景中所有同名对象
+var oldObjects = GameObject.FindGameObjectsWithTag("Enemy");
+foreach (var obj in oldObjects) {
+    Destroy(obj);
+}
+
+// 创建新对象
+var newObject = Instantiate(prefab, position, Quaternion.identity);
 ```
 
 ### 伤害计算模式
@@ -236,6 +230,8 @@ int CalculateSoulGain(bool isMainSoulFull) {
 
 ### 相机锁定模式
 
+Boss 战期间锁定相机位置和缩放：
+
 ```csharp
 private static readonly FieldInfo xLockField = typeof(CameraController)
     .GetField("xLockPos", BindingFlags.Instance | BindingFlags.NonPublic);
@@ -256,7 +252,23 @@ void LockCamera(float x, float y, float zoom = 1.0f) {
 }
 ```
 
+### 输入轴读取
+
+使用 Input.GetAxisRaw 读取玩家输入：
+
+```csharp
+float horizontal = Input.GetAxisRaw("Horizontal");
+float vertical = Input.GetAxisRaw("Vertical");
+
+// 用于 Boss 攻击方向判断
+if (horizontal > 0.5f) {
+    // 玩家向右移动
+}
+```
+
 ### 加权随机选择
+
+Boss 攻击模式的加权随机选择：
 
 ```csharp
 public class RandomSelector<T> {
@@ -278,6 +290,62 @@ public class RandomSelector<T> {
         
         return options[0].item;
     }
+}
+
+// 使用示例
+var attackSelector = new RandomSelector<string>();
+attackSelector.Add("ChargeAttack", 30f);
+attackSelector.Add("GroundAttack", 25f);
+attackSelector.Add("Shots", 25f);
+attackSelector.Add("Suck", 20f);
+
+var selectedAttack = attackSelector.Select();
+```
+
+### 平滑移动模式
+
+使用 Vector2.SmoothDamp 平滑敌人移动：
+
+```csharp
+Vector2 velocity = Vector2.zero;
+float smoothTime = 0.3f;
+
+void Update() {
+    Vector2 targetPosition = GetTargetPosition();
+    transform.position = Vector2.SmoothDamp(
+        transform.position, 
+        targetPosition, 
+        ref velocity, 
+        smoothTime
+    );
+}
+```
+
+### 难度分级模式
+
+技能根据 Boss 血量阈值分级（1-3 级）：
+
+```csharp
+int GetSkillLevel(float currentHP, float maxHP) {
+    float hpPercent = currentHP / maxHP;
+    
+    if (hpPercent <= 0.33f) return 3;  // 狂暴阶段
+    if (hpPercent <= 0.66f) return 2;  // 中期阶段
+    return 1;  // 初期阶段
+}
+
+// 使用示例
+int skillLevel = GetSkillLevel(bossHP, maxBossHP);
+switch (skillLevel) {
+    case 1:
+        // 使用基础技能
+        break;
+    case 2:
+        // 使用进阶技能
+        break;
+    case 3:
+        // 使用狂暴技能
+        break;
 }
 ```
 
@@ -302,7 +370,57 @@ Sprite LoadSpriteFromAssembly(string resourceName, float pixelsPerUnit = 100f) {
 }
 ```
 
+### 精灵表加载
+
+从嵌入资源加载精灵表：
+
+```csharp
+Sprite[] LoadSpriteSheet(string resourceName, int frameWidth, int frameHeight) {
+    var texture = LoadTextureFromAssembly(resourceName);
+    
+    int cols = texture.width / frameWidth;
+    int rows = texture.height / frameHeight;
+    int totalFrames = cols * rows;
+    
+    Sprite[] sprites = new Sprite[totalFrames];
+    for (int i = 0; i < totalFrames; i++) {
+        int col = i % cols;
+        int row = i / cols;
+        
+        sprites[i] = Sprite.Create(texture,
+            new Rect(col * frameWidth, row * frameHeight, frameWidth, frameHeight),
+            new Vector2(0.5f, 0.5f));
+    }
+    
+    return sprites;
+}
+```
+
+### 预加载对象提取
+
+从预加载对象中提取特定 GameObject：
+
+```csharp
+public override List<(string, string)> GetPreloadNames() {
+    return new List<(string, string)> {
+        ("GG_Radiance", "Boss Control/Absolute Radiance"),
+        ("Tutorial_01", "_Enemies/Buzzer"),
+    };
+}
+
+public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects) {
+    // 提取预加载对象
+    var radiance = preloadedObjects["GG_Radiance"]["Boss Control/Absolute Radiance"];
+    var fsm = radiance.LocateMyFSM("Attack Commands");
+    
+    // 从 FSM 中提取预制体
+    var prefab = fsm.GetAction<SpawnObjectFromGlobalPool>("Comb Top", 0).gameObject.Value;
+}
+```
+
 ### Hook 注入模式
+
+在 Mod.Initialize() 中注册 On Hooks：
 
 ```csharp
 public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects) {
@@ -316,7 +434,64 @@ public override void Initialize(Dictionary<string, Dictionary<string, GameObject
 }
 ```
 
+### Hook 拦截模式
+
+使用 On Hooks 拦截和修改游戏逻辑：
+
+```csharp
+// 拦截攻击输入
+private void HeroController_Attack(On.HeroController.orig_Attack orig, 
+    HeroController self, AttackDirection dir) {
+    
+    // 修改攻击行为
+    if (customAttackMode) {
+        FireCustomProjectile(self, dir);
+        return;  // 不调用原始方法
+    }
+    
+    orig(self, dir);  // 调用原始方法
+}
+
+// 拦截 FSM 启用
+private void PlayMakerFSM_OnEnable(On.PlayMakerFSM.orig_OnEnable orig, 
+    PlayMakerFSM self) {
+    
+    if (self.gameObject.name == "Boss" && self.FsmName == "Control") {
+        // 注入自定义逻辑
+        InjectCustomAction(self, "Idle");
+    }
+    
+    orig(self);
+}
+```
+
+### IL Hook 注入
+
+使用 ILCursor 注入自定义逻辑：
+
+```csharp
+private void IL_Hook(ILContext il) {
+    var cursor = new ILCursor(il);
+    
+    // 查找目标指令
+    if (cursor.TryGotoNext(MoveType.After,
+        x => x.MatchLdarg(0),
+        x => x.MatchCall<PlayerData>("GetInt"))) {
+        
+        // 注入自定义逻辑
+        cursor.Emit(OpCodes.Ldarg_0);
+        cursor.EmitDelegate<Func<int, int>>(ModifyValue);
+    }
+}
+
+private int ModifyValue(int original) {
+    return original * 2;  // 自定义修改逻辑
+}
+```
+
 ### 菜单集成模式
+
+创建游戏内 Mod 配置菜单：
 
 ```csharp
 public class ModClass : Mod, IGlobalSettings<Settings>, IMenuMod {
@@ -334,7 +509,29 @@ public class ModClass : Mod, IGlobalSettings<Settings>, IMenuMod {
 }
 ```
 
+### 设置持久化模式
+
+使用 IGlobalSettings 实现设置持久化：
+
+```csharp
+public class ModClass : Mod, IGlobalSettings<Settings> {
+    private Settings settings = new();
+    
+    public Settings GetGlobalSettings() => settings;
+    
+    public void SetGlobalSettings(Settings s) => settings = s;
+}
+
+[Serializable]
+public class Settings {
+    public bool Enabled { get; set; } = true;
+    public float Difficulty { get; set; } = 1.0f;
+}
+```
+
 ### LocateMyFSM 扩展方法
+
+在 GameObject 上按名称查找 PlayMakerFSM：
 
 ```csharp
 public static class FSMUtility {
@@ -348,6 +545,165 @@ public static class FSMUtility {
     public static void SendEventToGameObject(GameObject go, string eventName, bool requireReceiver = false) {
         foreach (var fsm in go.GetComponents<PlayMakerFSM>()) {
             fsm.SendEvent(eventName);
+        }
+    }
+}
+
+// 使用示例
+var fsm = bossGameObject.LocateMyFSM("Control");
+fsm?.SendEvent("START");
+```
+
+### 工具类扩展方法
+
+扩展方法，将组件属性复制到另一个对象：
+
+```csharp
+public static class ComponentExtensions {
+    public static T CopyOnto<T>(this T source, GameObject target) where T : Component {
+        var copy = target.AddComponent<T>();
+        
+        // 复制属性
+        foreach (var prop in typeof(T).GetProperties()) {
+            if (prop.CanWrite) {
+                prop.SetValue(copy, prop.GetValue(source));
+            }
+        }
+        
+        return copy;
+    }
+}
+```
+
+### 亮度调整工具
+
+通过修改材质调整 GameObject 亮度：
+
+```csharp
+public static class BrightnessUtil {
+    public static void SetBrightness(GameObject go, float brightness) {
+        var renderer = go.GetComponent<SpriteRenderer>();
+        if (renderer != null) {
+            var color = renderer.color;
+            color.a = brightness;
+            renderer.color = color;
+        }
+    }
+}
+```
+
+### 回调注册系统
+
+GameMapHooks.Init 接受回调注册自定义区域：
+
+```csharp
+GameMapHooks.Init += () => {
+    // 注册自定义区域
+    CustomRegions.Register("WHITE_PALACE", new CustomRegion {
+        BackgroundMusic = "wp_music",
+        AmbientLight = Color.white
+    });
+};
+```
+
+### IHitResponder 接口
+
+自定义接口处理平台上的命中事件：
+
+```csharp
+public interface IHitResponder {
+    void OnHit(HitInstance hit);
+    bool CanBeHit();
+}
+
+// 实现示例
+public class CustomPlatform : MonoBehaviour, IHitResponder {
+    public void OnHit(HitInstance hit) {
+        // 处理命中逻辑
+        TakeDamage(hit.DamageDealt);
+    }
+    
+    public bool CanBeHit() {
+        return !isInvincible;
+    }
+}
+```
+
+### 输入管理器
+
+使用 ContinuousInput 和 InputBuffer 的自定义输入管理：
+
+```csharp
+public class InputManager : MonoBehaviour {
+    private Queue<InputAction> inputBuffer = new();
+    private float inputWindow = 0.2f;  // 输入窗口（秒）
+    
+    void Update() {
+        // 缓冲输入
+        if (Input.GetKeyDown(KeyCode.Z)) {
+            inputBuffer.Enqueue(new InputAction {
+                Type = ActionType.Jump,
+                Time = Time.time
+            });
+        }
+        
+        // 处理缓冲输入
+        ProcessBufferedInputs();
+    }
+    
+    private void ProcessBufferedInputs() {
+        while (inputBuffer.Count > 0) {
+            var action = inputBuffer.Peek();
+            if (Time.time - action.Time > inputWindow) {
+                inputBuffer.Dequeue();  // 超时移除
+            } else {
+                ExecuteAction(action);
+                break;
+            }
+        }
+    }
+}
+```
+
+### 水面物理模拟
+
+基于弹簧的水面模拟，带扩散效果：
+
+```csharp
+public class WaterPhysics : MonoBehaviour {
+    private float[] springs;
+    private float[] velocities;
+    private float tension = 0.025f;
+    private float dampening = 0.025f;
+    private float spread = 0.05f;
+    
+    void Start() {
+        springs = new float[width];
+        velocities = new float[width];
+    }
+    
+    void Update() {
+        // 弹簧物理
+        for (int i = 0; i < width; i++) {
+            float x = springs[i];
+            velocities[i] = tension * x - velocities[i] * dampening;
+            springs[i] -= velocities[i];
+        }
+        
+        // 扩散效果
+        float[] leftDeltas = new float[width];
+        float[] rightDeltas = new float[width];
+        
+        for (int j = 0; j < 8; j++) {
+            for (int i = 0; i < width; i++) {
+                if (i > 0) leftDeltas[i] = spread * (springs[i] - springs[i - 1]);
+                if (i < width - 1) rightDeltas[i] = spread * (springs[i] - springs[i + 1]);
+            }
+            
+            for (int i = 0; i < width; i++) {
+                if (i > 0) springs[i - 1] += leftDeltas[i];
+                if (i < width - 1) springs[i + 1] += rightDeltas[i];
+            }
         }
     }
 }
