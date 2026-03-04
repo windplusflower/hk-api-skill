@@ -55,11 +55,12 @@
 
 ### Libraries（第三方库）
 
-常用第三方库使用指南。
+常用第三方库使用指南和源码索引。
 
 | 文档 | 用途 |
 |------|------|
 | [Satchel](libraries/satchel.md) | **Satchel 工具库**（BetterMenus/FUtils/自定义 UI） |
+| [Satchel Source Index](libraries/satchel-src-index.md) | **Satchel 源代码索引**（快速定位源码位置） |
 
 ---
 
