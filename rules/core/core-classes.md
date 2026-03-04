@@ -75,16 +75,43 @@ const int CHARM_SPELL_TWISTER = 33; // Spell Twister
 
 **Purpose**: Enemy health and damage handling
 
+**⚠️ Required Components** (must be added BEFORE HealthManager):
+- `SpriteRenderer` - Sprite rendering
+- `tk2dSpriteAnimator` - Animation control
+- `SpriteFlash` - Hit flash effect
+- `ParticleSystem` - Hit effect (optional)
+- `AudioSource` - Hit sound (optional)
+
 **Location**: `HealthManager.cs`
 
 **Key Members**:
 ```csharp
 public int hp;                          // Current HP
+public int maxHP;                       // Maximum HP
 public bool isDead;                     // Death state
 
 public void Hit(HitInstance hitInstance);
-public void ApplyExtraDamage(int damage);
-public void Die(float? attackDirection, AttackTypes attackType, bool ignoreKill, bool doKillFreeze = true);
+void ApplyExtraDamage(int damage);
+void Die(float? attackDirection, AttackTypes attackType, bool ignoreKill, bool doKillFreeze = true);
+
+// Events
+event Action OnDeath;                   // Subscribe to death event
+```
+
+**Setup Order** (Important!):
+```csharp
+// 1. Add rendering components FIRST
+var sprite = enemy.AddComponent<SpriteRenderer>();
+var animator = enemy.AddComponent<tk2dSpriteAnimator>();
+var spriteFlash = enemy.AddComponent<SpriteFlash>();
+
+// 2. Add HealthManager LAST
+var healthManager = enemy.AddComponent<HealthManager>();
+healthManager.hp = 5;
+healthManager.maxHP = 5;
+healthManager.OnDeath += () => {
+    // Death logic
+};
 ```
 
 **Damage Example**:
@@ -99,6 +126,9 @@ HitInstance hit = new HitInstance
 };
 healthManager.Hit(hit);
 ```
+
+**⚠️ Common Mistake**:
+Adding HealthManager without required components will cause null reference errors when the enemy takes damage.
 
 ---
 

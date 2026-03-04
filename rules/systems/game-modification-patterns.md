@@ -143,6 +143,31 @@ On.PlayMakerFSM.OnEnable += ModifyBoss;
 4. **多阶段处理** - 为不同阶段添加不同组件
 5. **调用原始方法** - 必须调用 `orig(self)` 保持游戏正常逻辑
 
+### ⚠️ FSM 使用建议
+
+**修改游戏原有对象** → 使用 PlayMakerFSM
+```csharp
+// ✅ 正确：修改游戏 Boss 的 FSM
+On.PlayMakerFSM.OnEnable += (orig, self) => {
+    if (self.gameObject.name == "Radiance") {
+        // 修改原有 FSM
+    }
+    orig(self);
+};
+```
+
+**从零创建对象** → 使用自定义 MonoBehaviour
+```csharp
+// ✅ 正确：自己创建的对象用 MonoBehaviour
+public class CustomEnemy : MonoBehaviour {
+    public int hp = 5;
+    void Update() { /* AI logic */ }
+}
+
+// ❌ 错误：不要给自己创建的对象添加 PlayMakerFSM
+var fsm = enemy.AddPlayMakerFSM(); // 不要这样做
+```
+
 ### 注意事项
 
 - ✅ 在 `orig(self)` 之前添加自定义逻辑
