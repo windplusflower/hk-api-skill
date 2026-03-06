@@ -1,3 +1,10 @@
+---
+title: Preload Names and Object Paths
+impact: HIGH
+impactDescription: Required for loading game objects and prefabs
+tags: hk-api, preload, prefabs, game-objects, scenes
+---
+
 # Preload Names Reference
 
 ## 概述

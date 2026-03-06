@@ -1,3 +1,10 @@
+---
+title: Common Code Patterns for HK Modding
+impact: MEDIUM
+impactDescription: Reusable patterns for common modding tasks
+tags: hk-api, code-patterns, fsm, hooks, object-pooling
+---
+
 # Code Patterns Reference
 
 ## 概述

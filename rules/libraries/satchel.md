@@ -1,3 +1,10 @@
+---
+title: Satchel Library Guide
+impact: MEDIUM
+impactDescription: Third-party utility library for HK modding
+tags: hk-api, satchel, library, better-menus, futils
+---
+
 # Satchel Library Guide
 
 ## 概述

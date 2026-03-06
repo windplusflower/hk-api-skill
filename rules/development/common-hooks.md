@@ -1,3 +1,10 @@
+---
+title: Common Hooks Reference
+impact: HIGH
+impactDescription: Essential hooks for intercepting game logic
+tags: hk-api, hooks, on-hooks, modhooks, il-hooks
+---
+
 # Common Hooks Reference
 
 ## 概述

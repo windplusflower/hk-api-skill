@@ -1,6 +1,7 @@
 ---
-name: hk-api
+name: hk_api
 description: Query Hollow Knight API knowledge and source code locations to assist with mod development. Use when working with Hollow Knight modding, FSM hooks, game mechanics, or finding API implementations.
+compatibility: opencode
 ---
 
 # Hollow Knight API Guide

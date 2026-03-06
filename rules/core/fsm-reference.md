@@ -1,3 +1,10 @@
+---
+title: FSM Reference Guide
+impact: HIGH
+impactDescription: Essential for understanding and modifying game state machines
+tags: hk-api, fsm, playmaker, state-machine, boss-control
+---
+
 # FSM Reference
 
 ## 概述

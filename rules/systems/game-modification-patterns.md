@@ -1,3 +1,10 @@
+---
+title: Game System Modification Patterns
+impact: HIGH
+impactDescription: Essential patterns for modifying core game systems
+tags: hk-api, game-systems, modification-patterns, shop, boss, enemy
+---
+
 # Game System Modification Patterns
 
 ## 概述

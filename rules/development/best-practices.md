@@ -1,3 +1,10 @@
+---
+title: HK Modding Best Practices
+impact: HIGH
+impactDescription: Critical patterns and anti-patterns for stable mods
+tags: hk-api, best-practices, fsm, hooks, optimization
+---
+
 # Best Practices
 
 ## 概述

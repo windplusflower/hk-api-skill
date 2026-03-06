@@ -1,3 +1,10 @@
+---
+title: Item IDs and PlayerData Fields
+impact: HIGH
+impactDescription: Critical for accessing game data and charm effects
+tags: hk-api, items, charms, player-data, ids
+---
+
 # Item IDs Reference
 
 ## 概述
