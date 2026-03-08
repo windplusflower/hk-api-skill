@@ -57,17 +57,7 @@ public int MPCharge;        // Current soul
 public int maxMP;           // Maximum soul
 ```
 
-**Charm IDs** (Common):
-```csharp
-const int CHARM_STRENGTH = 25;      // Fragile/Unbreakable Strength
-const int CHARM_FURY = 6;           // Fury of the Fallen
-const int CHARM_PRIDE = 13;         // Mark of Pride
-const int CHARM_LONGNAIL = 18;      // Longnail
-const int CHARM_SOUL_CATCHER = 20;  // Soul Catcher
-const int CHARM_SOUL_EATER = 21;    // Soul Eater
-const int CHARM_SHAMAN_STONE = 19;  // Shaman Stone
-const int CHARM_SPELL_TWISTER = 33; // Spell Twister
-```
+**护符检测**：关于护符 ID 的完整列表和检测方法，请参考 [Item IDs](item-ids.md#护符检测)
 
 ---
 
@@ -169,6 +159,8 @@ public FsmVariables FsmVariables;  // Variable access
 var fsm = gameObject.LocateMyFSM("FSM Name");
 fsm.SendEvent("Event Name");
 ```
+
+**参考文档**: [FSM Reference](fsm-reference.md) - 完整的 FSM 操作示例和常用 FSM 列表
 
 ---
 

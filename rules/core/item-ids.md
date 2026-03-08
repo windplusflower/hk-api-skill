@@ -59,7 +59,7 @@ tags: hk-api, items, charms, player-data, ids
 | gotGHMap | bool | 是否获得 GH 地图 |
 | gotWPMap | bool | 是否获得 WP 地图 |
 
-## 代码示例
+## 护符检测 {#护符检测}
 
 ### 读取 PlayerData
 

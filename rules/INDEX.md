@@ -40,7 +40,7 @@
 | [Spell System](systems/spell-system.md) | 法术拦截和修改 |
 | [Nail Arts](systems/nail-arts.md) | 骨钉技拦截 |
 | [Audio System](systems/audio-system.md) | 音效和音频管理 |
-| [Game Modification Patterns](systems/game-modification-patterns.md) | **游戏自带系统修改模式**（商店/Boss/敌人/场景等 8 个模式） |
+| [Game Modification Patterns](systems/game-modification-patterns.md) | **游戏自带系统修改模式**（商店/Boss/敌人/场景等 8 个模式）<br>⚠️ 本文档较长，建议按需阅读或使用快速导航 |
 
 ### Development（开发指南）
 
@@ -69,7 +69,7 @@
 ### 我想...
 
 **修改 Boss 行为**
-→ [Game Modification Patterns](systems/game-modification-patterns.md) → [FSM Reference](core/fsm-reference.md) → [Common Hooks](development/common-hooks.md)
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - Boss 组件附加模式 → [FSM Reference](core/fsm-reference.md) → [Common Hooks](development/common-hooks.md)
 
 **修改 Boss 名称**
 → [Game Modification Patterns](systems/game-modification-patterns.md) - Boss 名称修改模式
@@ -106,6 +106,33 @@
 
 **优化资源加载**
 → [Resource Management](development/resources.md) → [Preload Names](core/preload-names.md)
+
+**添加新物品**
+→ [Item IDs](core/item-ids.md) → [Game Modification Patterns](systems/game-modification-patterns.md) - 商店 FSM 修改模式 → [Code Patterns](development/code-patterns.md)
+
+**修改地图**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 场景状态管理模式 → [Preload Names](core/preload-names.md)
+
+**添加新 NPC**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 文本本地化模式 → [FSM Reference](core/fsm-reference.md) → [Code Patterns](development/code-patterns.md)
+
+**修改存档系统**
+→ [Core Classes](core/core-classes.md) - PlayerData → [Code Patterns](development/code-patterns.md) - IGlobalSettings
+
+**添加新成就**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 场景状态管理模式 → [Core Classes](core/core-classes.md) - PlayerData
+
+**修改菜单 UI**
+→ [Game Modification Patterns](systems/game-modification-patterns.md) - 商店 FSM 修改模式（参考 UI 修改方法）→ [Code Patterns](development/code-patterns.md) - IMenuMod
+
+**添加新粒子效果**
+→ [Code Patterns](development/code-patterns.md) - 动画与特效 → [Resource Management](development/resources.md)
+
+**修改音频/音效**
+→ [Audio System](systems/audio-system.md) → [Code Patterns](development/code-patterns.md)
+
+**拦截玩家输入**
+→ [Common Hooks](development/common-hooks.md) → [Code Patterns](development/code-patterns.md) - Input Axis Reading
 
 ---
 

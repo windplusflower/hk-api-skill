@@ -7,9 +7,17 @@ tags: hk-api, fsm, playmaker, state-machine, boss-control
 
 # FSM Reference
 
+## 相关文档
+
+- [Code Patterns](../development/code-patterns.md) - 通用代码模式（Hook、对象池、数据访问等）
+- [Game Modification Patterns](../systems/game-modification-patterns.md) - 游戏系统修改模式（商店、Boss、敌人等）
+- [Core Classes](core-classes.md) - 核心类参考（HeroController、PlayerData、HealthManager）
+
 ## 概述
 
 本文档整理了常见的 PlayMaker FSM 相关信息，包括 FSM 名称、状态、事件等。
+
+**本文档范围**：FSM 基础操作、FSM 列表、事件列表、代码示例。
 
 ## 常用 FSM 列表
 

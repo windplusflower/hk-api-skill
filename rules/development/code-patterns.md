@@ -7,11 +7,24 @@ tags: hk-api, code-patterns, fsm, hooks, object-pooling
 
 # Code Patterns Reference
 
+## 本文档范围
+
+本文档包含**通用代码模式**，适用于各种 Mod 开发场景：
+- Hook 模式（拦截、注入）
+- 数据访问模式（PlayerData、HeroController）
+- 对象管理（池化、组件管理）
+- 输入处理、相机控制
+- 资源加载
+
+**不包含**：游戏系统特定的修改方法（如商店、Boss 战、敌人生成等）。这些请参考 [Game Modification Patterns](../systems/game-modification-patterns.md)。
+
 ## 概述
 
 本文档整理了常见的代码模式和最佳实践。
 
 **注意**：本文档只包含通用的、不依赖第三方库的模式。
+
+**FSM 相关操作**：详细的 FSM 操作示例请参考 [FSM Reference](../core/fsm-reference.md#代码示例)。
 
 ## 常用模式列表
 
@@ -65,68 +78,25 @@ tags: hk-api, code-patterns, fsm, hooks, object-pooling
 
 ## 详细模式说明
 
-### FSM 注入模式
+### FSM 基础操作
 
-在现有 FSM 中注入自定义动作：
-
-```csharp
-private void InjectCustomAction(PlayMakerFSM fsm, string stateName) {
-    var state = fsm.Fsm.GetState(stateName);
-    if (state == null) return;
-    
-    // 在状态动作列表开头插入自定义动作
-    var newActions = new FsmStateAction[state.Actions.Length + 1];
-    newActions[0] = new CustomAction();
-    Array.Copy(state.Actions, 0, newActions, 1, state.Actions.Length);
-    state.Actions = newActions;
-}
-```
-
-### FSM 状态复制
-
-复制 FSM 状态并添加自定义过渡：
+FSM（有限状态机）是空洞骑士的核心行为控制系统。以下是常用操作：
 
 ```csharp
-fsm.CopyState("Source State", "Target State");
-fsm.AddTransition("Source State", "CUSTOM_EVENT", "Target State");
+// 定位 FSM
+var fsm = gameObject.LocateMyFSM("FSM Name");
+
+// 发送事件
+fsm.SendEvent("EVENT_NAME");
+
+// 复制状态
+fsm.CopyState("Source State", "New State");
+
+// 修改过渡
+fsm.ChangeTransition("State", "Event", "NewTargetState");
 ```
 
-### 自定义 FSM 动作
-
-创建自定义 FSM 动作：
-
-```csharp
-public class CustomAction : FsmStateAction {
-    public override void OnEnter() {
-        // 自定义逻辑
-        Finish();
-    }
-}
-```
-
-### FSM 事件触发
-
-触发 FSM 事件来取消或重定向状态流：
-
-```csharp
-// 取消当前状态
-fsm.SendEvent("CANCEL");
-
-// 重定向到另一个状态
-fsm.SendEvent("FSM CANCEL");
-```
-
-### FSM 变量访问
-
-访问和修改 FSM 浮点变量：
-
-```csharp
-// 获取 FSM 变量
-var variable = fsm.FsmVariables.GetFsmFloat("VariableName");
-
-// 设置 FSM 变量
-fsm.FsmVariables.GetFsmFloat("VariableName").Value = 10f;
-```
+**详细示例**：完整的 FSM 操作示例请参考 [FSM Reference](../core/fsm-reference.md#代码示例)。
 
 ### 对象池模式
 
@@ -190,50 +160,11 @@ var newObject = Instantiate(prefab, position, Quaternion.identity);
 
 ### 伤害计算模式
 
-考虑护符加成的伤害计算：
-
-```csharp
-float CalculateDamageMultiplier() {
-    float multiplier = 1f;
-    var pd = PlayerData.instance;
-    
-    // 力量护符
-    if (pd.GetBool("equippedCharm_25")) {
-        multiplier *= 1.5f;
-    }
-    
-    // 亡者之怒（残血）
-    if (pd.GetBool("equippedCharm_6") && pd.GetInt("health") == 1) {
-        multiplier *= 1.75f;
-    }
-    
-    // 萨满之石
-    if (pd.GetBool("equippedCharm_19")) {
-        multiplier *= 1.5f;  // 法术伤害
-    }
-    
-    return multiplier;
-}
-```
+考虑护符加成的伤害计算。关于护符 ID 的完整列表和检测方法，请参考 [Item IDs](../core/item-ids.md#护符检测)。
 
 ### 灵魂获取计算
 
-```csharp
-int CalculateSoulGain(bool isMainSoulFull) {
-    int baseSoul = isMainSoulFull ? 6 : 11;
-    var pd = PlayerData.instance;
-    
-    if (pd.GetBool("equippedCharm_20")) {
-        baseSoul += isMainSoulFull ? 2 : 3;  // 灵魂捕手
-    }
-    
-    if (pd.GetBool("equippedCharm_21")) {
-        baseSoul += isMainSoulFull ? 6 : 8;  // 噬魂者
-    }
-    
-    return baseSoul;
-}
-```
+计算灵魂获取，包含护符加成。关于护符 ID 的完整列表和检测方法，请参考 [Item IDs](../core/item-ids.md#护符检测)。
 
 ### 相机锁定模式
 
