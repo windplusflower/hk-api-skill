@@ -1,6 +1,6 @@
 ---
 name: hk-api
-description: Query Hollow Knight API knowledge and source code locations to assist with mod development. Use when working with Hollow Knight modding, FSM hooks, game mechanics, or finding API implementations.
+description: Proactively use this whenever the user mentions Hollow Knight or HK modding, or when the current repository appears to be a Hollow Knight mod project. Covers FSM hooks, PlayMakerFSM, HeroController, PlayerData, charms, spells, scene objects, game mechanics, and API implementation lookup.
 ---
 
 # Hollow Knight API Guide
@@ -17,6 +17,30 @@ description: Query Hollow Knight API knowledge and source code locations to assi
 
 This provides API knowledge for Hollow Knight modding, locating source code, and explaining game mechanics.
 
+## Proactive Trigger Rules
+
+Load this skill immediately when either of these is true:
+
+1. The user asks about Hollow Knight, HK, or Hollow Knight modding.
+2. The current workspace looks like a Hollow Knight mod repository.
+
+Treat these as strong triggers:
+
+- Hollow Knight, HK, 空洞骑士, 空洞骑士mod, HK mod, Modding API
+- FSM, PlayMakerFSM, state machine, hook, detour, IL hook, On., ModHooks
+- HeroController, PlayerData, HealthManager, GameManager, HeroAnimationController
+- charms, spells, nail arts, scenes, preload names, enemy logic, bosses
+- Satchel, HKMirror, ItemChanger, ModCommon, Benchwarp, WeaverCore
+
+Treat the repository as a Hollow Knight mod project when you notice signals such as:
+
+- C# mod structure with references to HollowKnight, Modding, or HK libraries
+- `.csproj` files that reference common HK mod assemblies or a `GameDir` build property
+- code mentioning `Mod`, `Initialize`, `GetVersion`, `ModHooks`, `On.`, `IL.`, or `PlayMakerFSM`
+- folders or docs mentioning hk, hollow knight, charms, spells, enemies, scenes, or FSMs
+
+When triggered, load this skill before answering so you can use the rules and `hkapi/` source effectively.
+
 ## Important: FSM Implementation
 
 > **Note**: All FSM (Finite State Machine) implementations are **not present in the source code** and will not appear in code files. Each FSM has at most **one instance** in the game. When you need to work with FSMs, ask the user for the specific FSM name/state context.
@@ -30,6 +54,8 @@ This provides API knowledge for Hollow Knight modding, locating source code, and
 
 ## When to Use
 
+- Proactively on any Hollow Knight or HK modding question, even if the user did not explicitly ask for this skill
+- Proactively when the current repository appears to be a Hollow Knight mod project
 - Looking for specific class or method usage
 - Understanding game internal mechanics
 - Finding implementation of a feature in source code
@@ -44,10 +70,23 @@ This provides API knowledge for Hollow Knight modding, locating source code, and
 
 When you ask about an API, I will:
 
+0. Trigger early: if the prompt or repository matches Hollow Knight modding signals, load this skill first
 1. Search class definitions via `glob` / `grep`
 2. Read relevant source files
 3. Explain class behavior, members, and usage
 4. Provide implementation examples
+
+## Repository Detection Workflow
+
+When the user has not explicitly said "Hollow Knight" but the repository may be related, I should quickly inspect obvious project signals and load this skill if Hollow Knight modding is likely.
+
+Check lightweight signals such as:
+
+1. `.csproj`, `.sln`, or README content
+2. references to HK mod libraries, common hook APIs, or known HK class names
+3. files or namespaces containing `Mod`, `HK`, `HollowKnight`, `PlayMakerFSM`, or `ModHooks`
+
+If multiple signals match, I should treat the repo as Hollow Knight modding context and use this skill proactively.
 
 ## Knowledge Gap Evolution (Required)
 
