@@ -23,37 +23,6 @@ This skill provides Hollow Knight API knowledge, source-code lookup, and local F
 
 ## Proactive Trigger Rules
 
----
-
-## Important: FSM Lookup Workflow
-
-PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式存在于 `hkapi/` 源码中，所以 FSM 查询不能只靠搜代码。
-
-本技能现在自带一套本地 FSM 导出数据：
-
-- `fsm-export/`: 2743 个 FSM Markdown 文件，按 `group/scene/file.md` 组织
-- `fsm-index/fsm-manifest.tsv`: 2743 条索引，字段为 `group, scene, gameobject_segment, fsm_name, fsm_id, relative_path`
-- `fsm-index/scene-summary.md`: 161 个 scene 的汇总入口
-- `fsm-index/boss-shortcuts.md`: Boss / 关键战斗场景快速入口
-
-当任务涉及 FSM 时，应先查这套本地索引和导出，再决定是否回到源码或运行时 Hook。
-
-## What I do
-
-1. Query API knowledge for `HeroController`, `HealthManager`, `PlayMakerFSM`, `PlayerData` and related classes.
-2. Locate source code inside `hkapi/`.
-3. Locate FSM instances, states, actions, transitions, and events from the bundled `fsm-export/` dataset.
-4. Explain how source code and FSM behavior connect in actual modding work.
-5. Provide implementation patterns and caveats for HK mods.
-
-## When to Use
-
-- Looking for a specific HK class, method, or field
-- Understanding game internal mechanics
-- Locating a concrete PlayMaker FSM instance in a scene
-- Finding states, actions, events, or transitions for a boss / NPC / UI flow
-- Solving API-related or FSM-related issues in mod development
-
 Load this skill immediately when either of these is true:
 
 1. The user asks about Hollow Knight, HK, or Hollow Knight modding.
@@ -74,29 +43,41 @@ Treat the repository as a Hollow Knight mod project when you notice signals such
 - code mentioning `Mod`, `Initialize`, `GetVersion`, `ModHooks`, `On.`, `IL.`, or `PlayMakerFSM`
 - folders or docs mentioning hk, hollow knight, charms, spells, enemies, scenes, or FSMs
 
-When triggered, load this skill before answering so you can use the rules and `hkapi/` source effectively.
+When triggered, load this skill before answering so you can use the rules, FSM dataset, and `hkapi/` source effectively.
 
-## Important: FSM Implementation
+## What This Skill Covers
 
-> **Note**: All FSM (Finite State Machine) implementations are **not present in the source code** and will not appear in code files. Each FSM has at most **one instance** in the game. When you need to work with FSMs, ask the user for the specific FSM name/state context.
-
-## What I do
-
-1. Query API knowledge for core classes and systems
-2. Locate source code from `hkapi/`
-3. Explain implementation details and modding patterns
-4. Provide practical examples and best practices
+1. Query API knowledge for `HeroController`, `HealthManager`, `PlayMakerFSM`, `PlayerData` and related classes.
+2. Locate source code inside `hkapi/`.
+3. Locate FSM instances, states, actions, transitions, and events from the bundled `fsm-export/` dataset.
+4. Explain how source code and FSM behavior connect in actual modding work.
+5. Provide implementation patterns and caveats for HK mods.
 
 ## When to Use
 
 - Proactively on any Hollow Knight or HK modding question, even if the user did not explicitly ask for this skill
 - Proactively when the current repository appears to be a Hollow Knight mod project
-- Looking for specific class or method usage
+- Looking for a specific HK class, method, or field
 - Understanding game internal mechanics
-- Finding implementation of a feature in source code
-- Solving API-related issues in mod development
+- Locating a concrete PlayMaker FSM instance in a scene
+- Finding states, actions, events, or transitions for a boss / NPC / UI flow
+- Solving API-related or FSM-related issues in mod development
 - Bootstrapping a new HK mod template from an empty directory
->>>>>>> 98a8a92352c3f9b37aff53b9c15a7feb3809d3a9
+
+## Important: FSM Lookup Workflow
+
+PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式存在于 `hkapi/` 源码中，所以 FSM 查询不能只靠搜代码。
+
+本技能现在自带一套本地 FSM 导出数据：
+
+- `fsm-export/`: 2743 个 FSM Markdown 文件，按 `group/scene/file.md` 组织
+- `fsm-index/fsm-manifest.tsv`: 2743 条索引，字段为 `group, scene, gameobject_segment, fsm_name, fsm_id, relative_path`
+- `fsm-index/scene-summary.md`: 161 个 scene 的汇总入口
+- `fsm-index/boss-shortcuts.md`: Boss / 关键战斗场景快速入口
+
+处理 FSM 任务时，先查这套本地索引和导出，再决定是否回到源码或运行时 Hook。
+
+同名 FSM 很常见，必须联合 `scene + gameobject_segment + fsm_id` 判断；需要落地修改时，再结合 Hook、日志和运行时验证。
 
 ## Data Locations
 
@@ -170,10 +151,9 @@ When triggered, load this skill before answering so you can use the rules and `h
 ### 1) 未找到目标类/方法
 
 - 可能原因：类名或方法名拼写错误、版本差异、目标逻辑主要存在于 FSM 而不是 C#。
-- 回退策略：
-- 先搜索相似名称。
-- 如果是流程行为问题，切换到 `fsm-index/` 和 `fsm-export/` 查询。
-- 查阅 `rules/development/` 下的 Hook 与代码模式文档，寻找替代拦截点。
+- 回退策略：先搜索相似名称。
+- 回退策略：如果是流程行为问题，切换到 `fsm-index/` 和 `fsm-export/` 查询。
+- 回退策略：查阅 `rules/development/` 下的 Hook 与代码模式文档，寻找替代拦截点。
 
 ### 2) FSM 相关限制
 
@@ -184,10 +164,9 @@ When triggered, load this skill before answering so you can use the rules and `h
 ### 3) 版本漂移处理
 
 - 不同 HKAPI / 游戏版本可能存在 API 变动。
-- 输出结论时建议标注置信度：
-- **确定**：已在当前源码或导出文件中明确定位并验证。
-- **可能**：存在高相似实现但缺少运行时确认。
-- **需确认**：仅有推断，需用户提供版本或日志。
+- 输出结论时建议标注置信度：**确定** 表示已在当前源码或导出文件中明确定位并验证。
+- 输出结论时建议标注置信度：**可能** 表示存在高相似实现但缺少运行时确认。
+- 输出结论时建议标注置信度：**需确认** 表示仅有推断，需用户提供版本或日志。
 
 ### 4) 失败排查入口
 
@@ -196,10 +175,6 @@ When triggered, load this skill before answering so you can use the rules and `h
 - 按 Boss 查：[`fsm-index/boss-shortcuts.md`](fsm-index/boss-shortcuts.md)
 - 按 scene 查：[`fsm-index/scene-summary.md`](fsm-index/scene-summary.md)
 - 按名称查：[`rules/core/fsm-query-guide.md`](rules/core/fsm-query-guide.md)
-
-## 📖 完整索引
-
-查看所有文档的分类索引：[`rules/INDEX.md`](rules/INDEX.md)
 
 ## Learn More
 
