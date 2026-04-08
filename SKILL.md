@@ -1,6 +1,6 @@
 ---
-name: HK API
-description: Hollow Knight API - 查询 HKAPI Mod 源码和文档
+name: hk-api
+description: Proactively use this whenever the user mentions Hollow Knight or HK modding, or when the current repository appears to be a Hollow Knight mod project. Covers FSM hooks, PlayMakerFSM, HeroController, PlayerData, charms, spells, scene objects, game mechanics, and API implementation lookup.
 compatibility: all
 user-invocable: true
 disable-model-invocation: false
@@ -20,6 +20,10 @@ metadata.openclaw: {"skillKey":"hk-api","os":["linux","macos","windows"],"primar
 ## Overview
 
 This skill provides Hollow Knight API knowledge, source-code lookup, and local FSM dataset lookup for modding tasks.
+
+## Proactive Trigger Rules
+
+---
 
 ## Important: FSM Lookup Workflow
 
@@ -50,11 +54,55 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 - Finding states, actions, events, or transitions for a boss / NPC / UI flow
 - Solving API-related or FSM-related issues in mod development
 
+Load this skill immediately when either of these is true:
+
+1. The user asks about Hollow Knight, HK, or Hollow Knight modding.
+2. The current workspace looks like a Hollow Knight mod repository.
+
+Treat these as strong triggers:
+
+- Hollow Knight, HK, 空洞骑士, 空洞骑士mod, HK mod, Modding API
+- FSM, PlayMakerFSM, state machine, hook, detour, IL hook, On., ModHooks
+- HeroController, PlayerData, HealthManager, GameManager, HeroAnimationController
+- charms, spells, nail arts, scenes, preload names, enemy logic, bosses
+- Satchel, HKMirror, ItemChanger, ModCommon, Benchwarp, WeaverCore
+
+Treat the repository as a Hollow Knight mod project when you notice signals such as:
+
+- C# mod structure with references to HollowKnight, Modding, or HK libraries
+- `.csproj` files that reference common HK mod assemblies or a `GameDir` build property
+- code mentioning `Mod`, `Initialize`, `GetVersion`, `ModHooks`, `On.`, `IL.`, or `PlayMakerFSM`
+- folders or docs mentioning hk, hollow knight, charms, spells, enemies, scenes, or FSMs
+
+When triggered, load this skill before answering so you can use the rules and `hkapi/` source effectively.
+
+## Important: FSM Implementation
+
+> **Note**: All FSM (Finite State Machine) implementations are **not present in the source code** and will not appear in code files. Each FSM has at most **one instance** in the game. When you need to work with FSMs, ask the user for the specific FSM name/state context.
+
+## What I do
+
+1. Query API knowledge for core classes and systems
+2. Locate source code from `hkapi/`
+3. Explain implementation details and modding patterns
+4. Provide practical examples and best practices
+
+## When to Use
+
+- Proactively on any Hollow Knight or HK modding question, even if the user did not explicitly ask for this skill
+- Proactively when the current repository appears to be a Hollow Knight mod project
+- Looking for specific class or method usage
+- Understanding game internal mechanics
+- Finding implementation of a feature in source code
+- Solving API-related issues in mod development
+- Bootstrapping a new HK mod template from an empty directory
+>>>>>>> 98a8a92352c3f9b37aff53b9c15a7feb3809d3a9
+
 ## Data Locations
 
-- `hkapi/Assembly-CSharp/`: Hollow Knight decompiled source snapshot
-- `fsm-export/`: Full local FSM markdown export
-- `fsm-index/`: FSM navigation layer
+- `hkapi/Assembly-CSharp/`: Hollow Knight decompiled source snapshot (~2000+ C# files)
+- `fsm-export/`: 2743 PlayMaker FSM Markdown files, organized by `group/scene/`
+- `fsm-index/`: FSM navigation layer (manifest, scene summary, boss shortcuts)
 
 ## Standard Query Workflow
 
@@ -104,6 +152,7 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 | [Code Patterns](rules/development/code-patterns.md) | 常见代码模式 |
 | [Resource Management](rules/development/resources.md) | 资源加载和管理 |
 | [Best Practices](rules/development/best-practices.md) | 最佳实践和技巧 |
+| [Template Bootstrap](rules/development/mod-template-bootstrap.md) | 从空目录创建 HK Mod 模板 |
 
 ## Key Classes Quick Reference
 
@@ -148,9 +197,14 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 - 按 scene 查：[`fsm-index/scene-summary.md`](fsm-index/scene-summary.md)
 - 按名称查：[`rules/core/fsm-query-guide.md`](rules/core/fsm-query-guide.md)
 
+## 📖 完整索引
+
+查看所有文档的分类索引：[`rules/INDEX.md`](rules/INDEX.md)
+
 ## Learn More
 
-- [rules/INDEX.md](rules/INDEX.md)
-- [fsm-index/README.md](fsm-index/README.md)
-- [rules/core/fsm-reference.md](rules/core/fsm-reference.md)
-- [rules/core/fsm-query-guide.md](rules/core/fsm-query-guide.md)
+- [rules/INDEX.md](rules/INDEX.md) - 完整文档索引
+- [fsm-index/README.md](fsm-index/README.md) - FSM 数据集入口
+- [rules/core/fsm-reference.md](rules/core/fsm-reference.md) - FSM 数据集概况
+- [rules/core/fsm-query-guide.md](rules/core/fsm-query-guide.md) - FSM 查询流程
+- [EVOLUTION.md](EVOLUTION.md) - 知识进化机制
