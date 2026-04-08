@@ -1,0 +1,102 @@
+# deactivate
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | deactivate |
+| GameObject Name | Fungal Wastes |
+| GameObject Path | _GameCameras/HudCamera/Inventory/Map/World Map/Wide Map |
+| Source Asset | /home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets |
+| Start State | Pause |
+| FSM PathId | 19742 |
+| GameObject PathId | 6137 |
+
+## Variables
+
+### Strings
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| playerData bool | mapFungalWastes | String: mapFungalWastes |
+
+## States
+
+### Pause
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. NextFrameEvent
+
+Full Name: HutongGames.PlayMaker.Actions.NextFrameEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Check
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. PlayerDataBoolTest
+
+Full Name: HutongGames.PlayMaker.Actions.PlayerDataBoolTest
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault GameManager | OwnerDefault GameManager |  |  |
+| boolName | string playerData bool | string playerData bool |  |  |
+| isTrue | Event() | Event() |  |  |
+| isFalse | Event(DEACTIVATE) | Event(DEACTIVATE) |  |  |
+
+### Deactivate
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| activate | false | false |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+## Transitions
+
+| From | Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- | --- |
+| Pause | FINISHED | Check | 0 | 0 | 0 |
+| Check | DEACTIVATE | Deactivate | 0 | 0 | 0 |
+
+## Global Transitions
+
+| Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+| DEACTIVATE | false |
+

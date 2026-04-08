@@ -1,0 +1,983 @@
+# corpse
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | corpse |
+| GameObject Name | Corpse Infected Knight |
+| GameObject Path |  |
+| Source Asset | /home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets343.assets |
+| Start State | Music |
+| FSM PathId | 116 |
+| GameObject PathId | 33 |
+
+## Variables
+
+### Floats
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Fadeout Time | 5 | Single: 5 |
+| emissionRate | 50 | Single: 50 |
+| emissionSpeed | 5 | Single: 5 |
+
+### GameObjects
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Battle Scene | [null] | NamedAssetPPtr:  |
+| Camera | [null] | NamedAssetPPtr:  |
+| Corpse Steam | Corpse Infected Knight/Corpse Steam (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets343.assets) | NamedAssetPPtr: Corpse Infected Knight/Corpse Steam (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets343.assets) |
+| Music Folder | [null] | NamedAssetPPtr:  |
+| Self | [null] | NamedAssetPPtr:  |
+| Shiny | [null] | NamedAssetPPtr:  |
+| Smoker | [null] | NamedAssetPPtr:  |
+| Track 1 | [null] | NamedAssetPPtr:  |
+| Wave | [null] | NamedAssetPPtr:  |
+
+## States
+
+### Init
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. SetPlayerDataBool
+
+Full Name: HutongGames.PlayMaker.Actions.SetPlayerDataBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| boolName | "corn_abyssLeft" | "corn_abyssLeft" |  |  |
+| value | true | true |  |  |
+
+##### 2. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(BroadcastAll):FSM Owner | EventTarget(BroadcastAll):FSM Owner |  |  |
+| sendEvent | "STOP SPAWN" | "STOP SPAWN" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 3. CheckCollisionSideEnter
+
+Full Name: HutongGames.PlayMaker.Actions.CheckCollisionSideEnter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| topHit | false | false | Variable |  |
+| rightHit | false | false | Variable |  |
+| bottomHit | false | false | Variable |  |
+| leftHit | false | false | Variable |  |
+| topHitEvent | Event() | Event() |  |  |
+| rightHitEvent | Event() | Event() |  |  |
+| bottomHitEvent | Event(LAND) | Event(LAND) |  |  |
+| leftHitEvent | Event() | Event() |  |  |
+| otherLayer | false | false |  |  |
+| otherLayerNumber | 0 | 0 |  |  |
+| ignoreTriggers | false | false |  |  |
+
+##### 4. CheckCollisionSide
+
+Full Name: HutongGames.PlayMaker.Actions.CheckCollisionSide
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| topHit | false | false | Variable |  |
+| rightHit | false | false | Variable |  |
+| bottomHit | false | false | Variable |  |
+| leftHit | false | false | Variable |  |
+| topHitEvent | Event() | Event() |  |  |
+| rightHitEvent | Event() | Event() |  |  |
+| bottomHitEvent | Event(LAND) | Event(LAND) |  |  |
+| leftHitEvent | Event() | Event() |  |  |
+| otherLayer | false | false |  |  |
+| otherLayerNumber | 0 | 0 |  |  |
+| ignoreTriggers | false | false |  |  |
+
+##### 5. GetOwner
+
+Full Name: HutongGames.PlayMaker.Actions.GetOwner
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| storeGameObject | GameObject Self | GameObject Self | Variable |  |
+
+##### 6. AudioPlayerOneShotSingle
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlayerOneShotSingle
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| audioPlayer | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| audioClip | [boss_final_hit (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [boss_final_hit (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| pitchMin | 1f | 1f |  |  |
+| pitchMax | 1f | 1f |  |  |
+| volume | 1f | 1f |  |  |
+| delay | 0f | 0f |  |  |
+| storePlayer |  |  |  |  |
+
+##### 7. FindGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.FindGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| objectName | "" | "" |  |  |
+| withTag | "CameraParent" | "CameraParent" | Tag |  |
+| store | GameObject Camera | GameObject Camera | Variable |  |
+
+##### 8. FindGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.FindGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| objectName | "" | "" |  |  |
+| withTag | "Battle Scene" | "Battle Scene" | Tag |  |
+| store | GameObject Battle Scene | GameObject Battle Scene | Variable |  |
+
+##### 9. SetFsmBool
+
+Full Name: HutongGames.PlayMaker.Actions.SetFsmBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Battle Scene | OwnerDefault Battle Scene |  |  |
+| fsmName | "Battle Control" | "Battle Control" | FsmName |  |
+| variableName | "Activated" | "Activated" | FsmBool |  |
+| setValue | true | true |  |  |
+| everyFrame | false | false |  |  |
+
+##### 10. CreateObject
+
+Full Name: HutongGames.PlayMaker.Actions.CreateObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | [Global] [Death Wave Infected (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [Global] [Death Wave Infected (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| position | Vector3(0, 0, -1) | Vector3(0, 0, -1) |  |  |
+| rotation | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| storeObject | GameObject Wave | GameObject Wave | Variable |  |
+| networkInstantiate | false | false |  |  |
+| networkGroup | 0 | 0 |  |  |
+
+##### 11. SetScale
+
+Full Name: HutongGames.PlayMaker.Actions.SetScale
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Wave | OwnerDefault Wave |  |  |
+| vector | Vector3(0, 0, 0) | Vector3(0, 0, 0) | Variable |  |
+| x | 3f | 3f |  |  |
+| y | 3f | 3f |  |  |
+| z | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+| lateUpdate | false | false |  |  |
+
+##### 12. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "AverageShake" | "AverageShake" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+### Steam
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. SpawnBloodTime
+
+Full Name: SpawnBloodTime
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| delay | 0.1f | 0.1f |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| position | Vector3(0, 0, 0.002) | Vector3(0, 0, 0.002) |  |  |
+| spawnMin | 12 | 12 |  |  |
+| spawnMax | 15 | 15 |  |  |
+| speedMin | 24f | 24f |  |  |
+| speedMax | 30f | 30f |  |  |
+| angleMin | 0f | 0f |  |  |
+| angleMax | 360f | 360f |  |  |
+| colorOverride | Color(0, 0, 0, 1) | Color(0, 0, 0, 1) |  |  |
+
+##### 2. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Death" | "Death" |  |  |
+
+##### 3. AudioPlayerOneShotSingle
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlayerOneShotSingle
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| audioPlayer | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| audioClip | [boss_gushing (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [boss_gushing (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| pitchMin | 1f | 1f |  |  |
+| pitchMax | 1f | 1f |  |  |
+| volume | 1f | 1f |  |  |
+| delay | 0f | 0f |  |  |
+| storePlayer |  |  |  |  |
+
+##### 4. CreateObject
+
+Full Name: HutongGames.PlayMaker.Actions.CreateObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | [Global] [Death Puff Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [Global] [Death Puff Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| position | Vector3(0, 0, -5) | Vector3(0, 0, -5) |  |  |
+| rotation | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| storeObject | GameObject Smoker | GameObject Smoker | Variable |  |
+| networkInstantiate | false | false |  |  |
+| networkGroup | 0 | 0 |  |  |
+
+##### 5. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "BigShake" | "BigShake" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 6. SetFsmBool
+
+Full Name: HutongGames.PlayMaker.Actions.SetFsmBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Camera | OwnerDefault Camera |  |  |
+| fsmName | "CameraShake" | "CameraShake" | FsmName |  |
+| variableName | "RumblingMed" | "RumblingMed" | FsmBool |  |
+| setValue | true | true |  |  |
+| everyFrame | false | false |  |  |
+
+##### 7. FloatAdd
+
+Full Name: HutongGames.PlayMaker.Actions.FloatAdd
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| floatVariable | float emissionRate | float emissionRate | Variable |  |
+| add | 5f | 5f |  |  |
+| everyFrame | true | true |  |  |
+| perSecond | false | false |  |  |
+
+##### 8. FloatAdd
+
+Full Name: HutongGames.PlayMaker.Actions.FloatAdd
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| floatVariable | float emissionSpeed | float emissionSpeed | Variable |  |
+| add | 1f | 1f |  |  |
+| everyFrame | true | true |  |  |
+| perSecond | false | false |  |  |
+
+##### 9. FloatClamp
+
+Full Name: HutongGames.PlayMaker.Actions.FloatClamp
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| floatVariable | float emissionSpeed | float emissionSpeed | Variable |  |
+| minValue | 0f | 0f |  |  |
+| maxValue | 110f | 110f |  |  |
+| everyFrame | true | true |  |  |
+
+##### 10. SetParticleEmissionRate
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmissionRate
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emissionRate | float emissionRate | float emissionRate |  |  |
+| everyFrame | true | true |  |  |
+
+##### 11. SetParticleEmissionSpeed
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmissionSpeed
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emissionSpeed | float emissionSpeed | float emissionSpeed |  |  |
+| everyFrame | true | true |  |  |
+
+##### 12. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 3f | 3f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### Blow
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. SetMeshRenderer
+
+Full Name: HutongGames.PlayMaker.Actions.SetMeshRenderer
+Enabled: false
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| active | false | false |  |  |
+
+##### 2. CallMethodProper
+
+Full Name: HutongGames.PlayMaker.Actions.CallMethodProper
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault GameManager | OwnerDefault GameManager |  |  |
+| behaviour | "GameManager" | "GameManager" | Behaviour |  |
+| methodName | "AwardAchievement" | "AwardAchievement" | Method |  |
+| parameters | FSMViewAvalonia2.FsmArray2 | FSMViewAvalonia2.FsmArray2 |  |  |
+| storeResult | Var | Var | Variable | Store Result |
+
+##### 3. SetFsmBool
+
+Full Name: HutongGames.PlayMaker.Actions.SetFsmBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Camera | OwnerDefault Camera |  |  |
+| fsmName | "CameraShake" | "CameraShake" | FsmName |  |
+| variableName | "RumblingMed" | "RumblingMed" | FsmBool |  |
+| setValue | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+##### 4. AudioPlayerOneShotSingle
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlayerOneShotSingle
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| audioPlayer | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| audioClip | [boss_explode (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [boss_explode (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| pitchMin | 1f | 1f |  |  |
+| pitchMax | 1f | 1f |  |  |
+| volume | 1f | 1f |  |  |
+| delay | 0f | 0f |  |  |
+| storePlayer |  |  |  |  |
+
+##### 5. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "StopRumble" | "StopRumble" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 6. CreateObject
+
+Full Name: HutongGames.PlayMaker.Actions.CreateObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | [Global] [Death Explode Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [Global] [Death Explode Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| position | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| rotation | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| storeObject |  |  | Variable |  |
+| networkInstantiate | false | false |  |  |
+| networkGroup | 0 | 0 |  |  |
+
+##### 7. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "BigShake" | "BigShake" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 8. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: Battle Control]:Battle Scene | EventTarget(GameObjectFSM)[SendToFSM: Battle Control]:Battle Scene |  |  |
+| sendEvent | "END" | "END" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 9. SetParticleEmission
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmission
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emission | false | false |  |  |
+
+##### 10. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Death 2" | "Death 2" |  |  |
+
+##### 11. PlayParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.PlayParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Corpse Steam | OwnerDefault Corpse Steam |  |  |
+| emit | 0 | 0 |  |  |
+
+##### 12. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 5.25f | 5.25f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### Ready
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. SetParticleEmissionRate
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmissionRate
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emissionRate | float emissionRate | float emissionRate |  |  |
+| everyFrame | true | true |  |  |
+
+##### 2. SetParticleEmissionSpeed
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmissionSpeed
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emissionSpeed | float emissionSpeed | float emissionSpeed |  |  |
+| everyFrame | true | true |  |  |
+
+##### 3. EaseFloat
+
+Full Name: HutongGames.PlayMaker.Actions.EaseFloat
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| fromValue | float emissionRate | float emissionRate |  |  |
+| toValue | 0f | 0f |  |  |
+| floatVariable | float emissionRate | float emissionRate | Variable |  |
+| time | 0.5f | 0.5f |  |  |
+| speed | 0f | 0f |  |  |
+| delay | 0f | 0f |  |  |
+| easeType | 21 | 21 |  |  |
+| reverse | false | false |  |  |
+| finishEvent | Event() | Event() |  |  |
+| realTime | false | false |  |  |
+
+##### 4. EaseFloat
+
+Full Name: HutongGames.PlayMaker.Actions.EaseFloat
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| fromValue | float emissionSpeed | float emissionSpeed |  |  |
+| toValue | 0f | 0f |  |  |
+| floatVariable | float emissionSpeed | float emissionSpeed | Variable |  |
+| time | 0.5f | 0.5f |  |  |
+| speed | 0f | 0f |  |  |
+| delay | 0f | 0f |  |  |
+| easeType | 21 | 21 |  |  |
+| reverse | false | false |  |  |
+| finishEvent | Event() | Event() |  |  |
+| realTime | false | false |  |  |
+
+##### 5. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 1f | 1f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### Pause
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Death Land" | "Death Land" |  |  |
+
+##### 2. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 1f | 1f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+##### 3. SetVelocity2d
+
+Full Name: HutongGames.PlayMaker.Actions.SetVelocity2d
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector2(0, 0) | Vector2(0, 0) |  |  |
+| x | 0f | 0f |  |  |
+| y | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+### Item
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Shiny | OwnerDefault Shiny |  |  |
+| activate | true | true |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+##### 2. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 1f | 1f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### BG Open
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(BroadcastAll):FSM Owner | EventTarget(BroadcastAll):FSM Owner |  |  |
+| sendEvent | "IK GATE OPEN" | "IK GATE OPEN" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 2. EndGGBossScene
+
+Full Name: EndGGBossScene
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+### Music
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. GGCheckIfBossScene
+
+Full Name: GGCheckIfBossScene
+Enabled: false
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| bossSceneEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| regularSceneEvent | Event() | Event() |  |  |
+
+##### 2. TransitionToAudioSnapshot
+
+Full Name: HutongGames.PlayMaker.Actions.TransitionToAudioSnapshot
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| snapshot | [Silent (AudioMixerSnapshotController) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Silent (AudioMixerSnapshotController) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| transitionTime | 2f | 2f |  |  |
+
+### Sting
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. GGCheckIfBossScene
+
+Full Name: GGCheckIfBossScene
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| bossSceneEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| regularSceneEvent | Event() | Event() |  |  |
+
+##### 2. AudioPlayerOneShotSingle
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlayerOneShotSingle
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| audioPlayer | [Global] [Audio Player NoDestroy (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Global] [Audio Player NoDestroy (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| audioClip | [Boss Defeat (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets40.assets)] | [Boss Defeat (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets40.assets)] |  |  |
+| pitchMin | 1f | 1f |  |  |
+| pitchMax | 1f | 1f |  |  |
+| volume | 1f | 1f |  |  |
+| delay | 0f | 0f |  |  |
+| storePlayer |  |  |  |  |
+
+### Chinese?
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 2
+
+#### Actions
+
+##### 1. CheckIsChineseBuild
+
+Full Name: HutongGames.PlayMaker.Actions.CheckIsChineseBuild
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| trueEvent | Event(CHINESE) | Event(CHINESE) |  |  |
+| falseEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Chinese Blow
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Tk2dSpriteSetColor
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dSpriteSetColor
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| color | Color(0, 0, 0, 1) | Color(0, 0, 0, 1) | FsmColor |  |
+| everyframe | false | false |  |  |
+
+##### 2. CallMethodProper
+
+Full Name: HutongGames.PlayMaker.Actions.CallMethodProper
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault GameManager | OwnerDefault GameManager |  |  |
+| behaviour | "GameManager" | "GameManager" | Behaviour |  |
+| methodName | "AwardAchievement" | "AwardAchievement" | Method |  |
+| parameters | FSMViewAvalonia2.FsmArray2 | FSMViewAvalonia2.FsmArray2 |  |  |
+| storeResult | Var | Var | Variable | Store Result |
+
+##### 3. SetFsmBool
+
+Full Name: HutongGames.PlayMaker.Actions.SetFsmBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Camera | OwnerDefault Camera |  |  |
+| fsmName | "CameraShake" | "CameraShake" | FsmName |  |
+| variableName | "RumblingMed" | "RumblingMed" | FsmBool |  |
+| setValue | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+##### 4. AudioPlayerOneShotSingle
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlayerOneShotSingle
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| audioPlayer | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [Global] [Audio Player Actor (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| audioClip | [boss_explode (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [boss_explode (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| pitchMin | 1f | 1f |  |  |
+| pitchMax | 1f | 1f |  |  |
+| volume | 1f | 1f |  |  |
+| delay | 0f | 0f |  |  |
+| storePlayer |  |  |  |  |
+
+##### 5. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "StopRumble" | "StopRumble" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 6. CreateObject
+
+Full Name: HutongGames.PlayMaker.Actions.CreateObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | [Global] [Death Explode Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] | [Global] [Death Explode Boss (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets32.assets)] |  |  |
+| spawnPoint | GameObject Self | GameObject Self |  |  |
+| position | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| rotation | Vector3(0, 0, 0) | Vector3(0, 0, 0) |  |  |
+| storeObject |  |  | Variable |  |
+| networkInstantiate | false | false |  |  |
+| networkGroup | 0 | 0 |  |  |
+
+##### 7. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:Camera |  |  |
+| sendEvent | "BigShake" | "BigShake" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 8. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: Battle Control]:Battle Scene | EventTarget(GameObjectFSM)[SendToFSM: Battle Control]:Battle Scene |  |  |
+| sendEvent | "END" | "END" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 9. SetParticleEmission
+
+Full Name: HutongGames.PlayMaker.Actions.SetParticleEmission
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Smoker | OwnerDefault Smoker |  |  |
+| emission | false | false |  |  |
+
+##### 10. PlayParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.PlayParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Corpse Steam | OwnerDefault Corpse Steam |  |  |
+| emit | 0 | 0 |  |  |
+
+##### 11. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Death 2" | "Death 2" |  |  |
+
+##### 12. Tk2dPlayFrame
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayFrame
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| frame | 100 | 100 |  |  |
+
+##### 13. SendEvent
+
+Full Name: HutongGames.PlayMaker.Actions.SendEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(Self):FSM Owner | EventTarget(Self):FSM Owner |  |  |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+## Transitions
+
+| From | Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- | --- |
+| Init | LAND | Pause | 0 | 0 | 0 |
+| Steam | FINISHED | Ready | 0 | 0 | 0 |
+| Blow | FINISHED | BG Open | 0 | 0 | 0 |
+| Ready | FINISHED | Sting | 0 | 0 | 0 |
+| Pause | FINISHED | Steam | 0 | 0 | 0 |
+| Item | FINISHED | BG Open | 0 | 0 | 0 |
+| Music | FINISHED | Init | 0 | 0 | 0 |
+| Sting | FINISHED | Chinese? | 0 | 0 | 0 |
+| Chinese? | FINISHED | Blow | 0 | 0 | 0 |
+| Chinese? | CHINESE | Chinese Blow | 0 | 0 | 0 |
+| Chinese Blow | FINISHED | BG Open | 0 | 0 | 0 |
+
+## Global Transitions
+
+| Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+| CHINESE | false |
+| ENTER | false |
+| LAND | false |
+| TEST | false |
+

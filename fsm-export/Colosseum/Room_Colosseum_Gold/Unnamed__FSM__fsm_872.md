@@ -1,0 +1,276 @@
+# FSM
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | FSM |
+| GameObject Name | Unnamed |
+| GameObject Path |  |
+| Source Asset | /home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets34.assets |
+| Start State | Pause Frame |
+| FSM PathId | 872 |
+| GameObject PathId |  |
+
+## Variables
+
+### Floats
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| X Scale | 0 | Single: 0 |
+| Y Scale | 0 | Single: 0 |
+
+### Bools
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Pause Frame | true | Boolean: true |
+
+### Vector3s
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Pos | Vector3(0, 0, 0) | Vector3: Vector3(0, 0, 0) |
+
+### GameObjects
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Parent | [null] | NamedAssetPPtr:  |
+| Self | [null] | NamedAssetPPtr:  |
+
+## States
+
+### Follow
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. GetOwner
+
+Full Name: HutongGames.PlayMaker.Actions.GetOwner
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| storeGameObject | GameObject Self | GameObject Self | Variable |  |
+
+##### 2. GetParent
+
+Full Name: HutongGames.PlayMaker.Actions.GetParent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| storeResult | GameObject Parent | GameObject Parent | Variable |  |
+
+##### 3. SetParent
+
+Full Name: HutongGames.PlayMaker.Actions.SetParent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| parent |  |  |  |  |
+| resetLocalPosition | false | false |  |  |
+| resetLocalRotation | false | false |  |  |
+
+##### 4. GetPosition
+
+Full Name: HutongGames.PlayMaker.Actions.GetPosition
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Parent | OwnerDefault Parent |  |  |
+| vector | Vector3 Pos | Vector3 Pos | Variable |  |
+| x | 0f | 0f | Variable |  |
+| y | 0f | 0f | Variable |  |
+| z | 0f | 0f | Variable |  |
+| space | UnityEngine.Space::World | 0 |  |  |
+| everyFrame | true | true |  |  |
+
+##### 5. GetScale
+
+Full Name: HutongGames.PlayMaker.Actions.GetScale
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3(0, 0, 0) | Vector3(0, 0, 0) | Variable |  |
+| xScale | float X Scale | float X Scale | Variable |  |
+| yScale | float Y Scale | float Y Scale | Variable |  |
+| zScale | 0f | 0f | Variable |  |
+| space | UnityEngine.Space::World | 0 |  |  |
+| everyFrame | true | true |  |  |
+
+##### 6. SetPosition
+
+Full Name: HutongGames.PlayMaker.Actions.SetPosition
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3 Pos | Vector3 Pos | Variable |  |
+| x | 0f | 0f |  |  |
+| y | 0f | 0f |  |  |
+| z | 0f | 0f |  |  |
+| space | UnityEngine.Space::World | 0 |  |  |
+| everyFrame | true | true |  |  |
+| lateUpdate | false | false |  |  |
+
+##### 7. SetScale
+
+Full Name: HutongGames.PlayMaker.Actions.SetScale
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3(0, 0, 0) | Vector3(0, 0, 0) | Variable |  |
+| x | float X Scale | float X Scale |  |  |
+| y | float Y Scale | float Y Scale |  |  |
+| z | 0f | 0f |  |  |
+| everyFrame | true | true |  |  |
+| lateUpdate | false | false |  |  |
+
+### Pause Frame
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. BoolTest
+
+Full Name: HutongGames.PlayMaker.Actions.BoolTest
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| boolVariable | bool Pause Frame | bool Pause Frame | Variable |  |
+| isTrue | Event() | Event() |  |  |
+| isFalse | Event(FINISHED) | Event(FINISHED) |  |  |
+| everyFrame | false | false |  |  |
+
+##### 2. NextFrameEvent
+
+Full Name: HutongGames.PlayMaker.Actions.NextFrameEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Follow 2
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. GetOwner
+
+Full Name: HutongGames.PlayMaker.Actions.GetOwner
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| storeGameObject | GameObject Self | GameObject Self | Variable |  |
+
+##### 2. GetParent
+
+Full Name: HutongGames.PlayMaker.Actions.GetParent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| storeResult | GameObject Parent | GameObject Parent | Variable |  |
+
+##### 3. SetParent
+
+Full Name: HutongGames.PlayMaker.Actions.SetParent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| parent |  |  |  |  |
+| resetLocalPosition | false | false |  |  |
+| resetLocalRotation | false | false |  |  |
+
+##### 4. GetPosition
+
+Full Name: HutongGames.PlayMaker.Actions.GetPosition
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Parent | OwnerDefault Parent |  |  |
+| vector | Vector3 Pos | Vector3 Pos | Variable |  |
+| x | 0f | 0f | Variable |  |
+| y | 0f | 0f | Variable |  |
+| z | 0f | 0f | Variable |  |
+| space | UnityEngine.Space::World | 0 |  |  |
+| everyFrame | true | true |  |  |
+
+##### 5. SetPosition
+
+Full Name: HutongGames.PlayMaker.Actions.SetPosition
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3 Pos | Vector3 Pos | Variable |  |
+| x | 0f | 0f |  |  |
+| y | 0f | 0f |  |  |
+| z | 0f | 0f |  |  |
+| space | UnityEngine.Space::World | 0 |  |  |
+| everyFrame | true | true |  |  |
+| lateUpdate | false | false |  |  |
+
+##### 6. SetScale
+
+Full Name: HutongGames.PlayMaker.Actions.SetScale
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3(0, 0, 0) | Vector3(0, 0, 0) | Variable |  |
+| x | 1f | 1f |  |  |
+| y | 1f | 1f |  |  |
+| z | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+| lateUpdate | false | false |  |  |
+
+## Transitions
+
+| From | Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- | --- |
+| Pause Frame | FINISHED | Follow 2 | 0 | 0 | 0 |
+
+## Global Transitions
+
+| Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+
