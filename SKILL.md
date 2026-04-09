@@ -1,10 +1,6 @@
 ---
 name: hk-api
 description: Proactively use this whenever the user mentions Hollow Knight or HK modding, or when the current repository appears to be a Hollow Knight mod project. Covers FSM hooks, PlayMakerFSM, HeroController, PlayerData, charms, spells, scene objects, game mechanics, and API implementation lookup.
-compatibility: all
-user-invocable: true
-disable-model-invocation: false
-metadata.openclaw: {"skillKey":"hk-api","os":["linux","macos","windows"],"primaryEnv":"HOLLOW_KNIGHT_MOD","requires":{"bins":["grep","find"]},"install":{"type":"none"}}
 ---
 
 # Hollow Knight API Guide
