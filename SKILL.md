@@ -81,7 +81,7 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 
 ## Data Locations
 
-- `hkapi/Assembly-CSharp/`: Hollow Knight decompiled source snapshot (~2000+ C# files)
+- `hkapi/`: Hollow Knight decompiled source files
 - `fsm-export/`: 2743 PlayMaker FSM Markdown files, organized by `group/scene/`
 - `fsm-index/`: FSM navigation layer (manifest, scene summary, boss shortcuts)
 
