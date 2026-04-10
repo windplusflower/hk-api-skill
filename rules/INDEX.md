@@ -52,6 +52,7 @@
 | [Code Patterns](development/code-patterns.md) | 常见代码模式 |
 | [Resource Management](development/resources.md) | 资源加载和管理 |
 | [Best Practices](development/best-practices.md) | 最佳实践和技巧 |
+| [Template Bootstrap](development/mod-template-bootstrap.md) | 从空目录创建 HK Mod 模板 |
 
 ### Libraries（第三方库）
 
@@ -103,6 +104,9 @@
 
 **添加游戏内设置菜单**
 → [Code Patterns](development/code-patterns.md) - 搜索 "Menu"
+
+**从空目录创建 Mod 模板**
+→ [Template Bootstrap](development/mod-template-bootstrap.md) → [Best Practices](development/best-practices.md)
 
 **优化资源加载**
 → [Resource Management](development/resources.md) → [Preload Names](core/preload-names.md)
@@ -159,9 +163,12 @@ hk-api-skill/
 │   │   ├── code-patterns.md
 │   │   ├── resources.md
 │   │   └── best-practices.md
-│   └── libraries/        # 第三方库
-│       └── satchel.md    # Satchel 工具库
-└── analysis/             # 分析报告（参考用）
+│   ├── libraries/        # 第三方库
+│   │   └── satchel.md    # Satchel 工具库
+│   └── _pending/         # 待确认的知识增量
+│       └── README.md
+├── EVOLUTION.md          # 进化机制说明
+└── EVOLUTION_LOG.md      # 进化日志
 ```
 
 ---
