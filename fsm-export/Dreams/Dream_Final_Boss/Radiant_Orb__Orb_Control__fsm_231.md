@@ -1,0 +1,617 @@
+# Orb Control
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | Orb Control |
+| GameObject Name | Radiant Orb |
+| GameObject Path |  |
+| Source Asset | /home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets |
+| Start State | Init |
+| FSM PathId | 231 |
+| GameObject PathId | 77 |
+
+## Variables
+
+### GameObjects
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Appear Glow | [null] | NamedAssetPPtr:  |
+| Fader | [null] | NamedAssetPPtr:  |
+| Hero Hurter | Radiant Orb/Hero Hurter (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) | NamedAssetPPtr: Radiant Orb/Hero Hurter (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) |
+| Impact | Radiant Orb/Impact (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) | NamedAssetPPtr: Radiant Orb/Impact (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) |
+| Impact Particles | Radiant Orb/Impact Particles (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) | NamedAssetPPtr: Radiant Orb/Impact Particles (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) |
+| Particle System | Radiant Orb/Particle System (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) | NamedAssetPPtr: Radiant Orb/Particle System (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets407.assets) |
+
+## States
+
+### Init
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 2
+
+#### Actions
+
+##### 1. AudioPlaySimple
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlaySimple
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| volume | 1f | 1f |  |  |
+| oneShotClip | [] | [] |  |  |
+
+##### 2. SetIsKinematic2d
+
+Full Name: HutongGames.PlayMaker.Actions.SetIsKinematic2d
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| isKinematic | true | true |  |  |
+
+##### 3. SetScale
+
+Full Name: HutongGames.PlayMaker.Actions.SetScale
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector3(0, 0, 0) | Vector3(0, 0, 0) | Variable |  |
+| x | 1.4f | 1.4f |  |  |
+| y | 1.4f | 1.4f |  |  |
+| z | 1f | 1f |  |  |
+| everyFrame | false | false |  |  |
+| lateUpdate | false | false |  |  |
+
+##### 4. PlayParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.PlayParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Particle System | OwnerDefault Particle System |  |  |
+| emit | 0 | 0 |  |  |
+
+##### 5. SetMeshRenderer
+
+Full Name: HutongGames.PlayMaker.Actions.SetMeshRenderer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| active | true | true |  |  |
+
+##### 6. SetDamageHeroAmount
+
+Full Name: SetDamageHeroAmount
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| target | OwnerDefault Hero Hurter | OwnerDefault Hero Hurter | Variable |  |
+| damageDealt | 2 | 2 |  |  |
+
+##### 7. FindChild
+
+Full Name: HutongGames.PlayMaker.Actions.FindChild
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| childName | "Fader" | "Fader" |  |  |
+| storeResult | GameObject Fader | GameObject Fader | Variable |  |
+
+##### 8. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Fader | OwnerDefault Fader |  |  |
+| activate | true | true |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+##### 9. FindChild
+
+Full Name: HutongGames.PlayMaker.Actions.FindChild
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| childName | "Appear Glow" | "Appear Glow" |  |  |
+| storeResult | GameObject Appear Glow | GameObject Appear Glow | Variable |  |
+
+##### 10. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Appear Glow | OwnerDefault Appear Glow |  |  |
+| activate | true | true |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+### Orbiting
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 2
+
+#### Actions
+
+_None_
+
+### Chase Hero
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 3
+
+#### Actions
+
+##### 1. Trigger2dEventLayer
+
+Full Name: HutongGames.PlayMaker.Actions.Trigger2dEventLayer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| trigger | PlayMakerUnity2d/Trigger2DType::OnTriggerEnter2D | 0 |  |  |
+| collideTag | "" | "" | Tag |  |
+| collideLayer | 20 | 20 | Layer |  |
+| sendEvent | Event(END) | Event(END) |  |  |
+| storeCollider |  |  | Variable |  |
+
+##### 2. SetIsKinematic2d
+
+Full Name: HutongGames.PlayMaker.Actions.SetIsKinematic2d
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| isKinematic | false | false |  |  |
+
+##### 3. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 2.25f | 2.25f |  |  |
+| finishEvent | Event(DISSIPATE) | Event(DISSIPATE) |  |  |
+| realTime | false | false |  |  |
+
+##### 4. ChaseObjectV2
+
+Full Name: HutongGames.PlayMaker.Actions.ChaseObjectV2
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner | Variable |  |
+| target | [Global] GameObject Hero | [Global] GameObject Hero | Variable |  |
+| speedMax | 20f | 20f |  |  |
+| accelerationForce | 50f | 50f |  |  |
+| offsetX | 0f | 0f |  |  |
+| offsetY | 0f | 0f |  |  |
+
+##### 5. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 0.5f | 0.5f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### Recycle
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. RecycleSelf
+
+Full Name: HutongGames.PlayMaker.Actions.RecycleSelf
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+### Impact
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. AudioStop
+
+Full Name: HutongGames.PlayMaker.Actions.AudioStop
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+
+##### 2. AudioPlaySimple
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlaySimple
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| volume | 1f | 1f |  |  |
+| oneShotClip | [mage_lord_projectile_impact (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] | [mage_lord_projectile_impact (AudioClip) (/home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/resources.assets)] |  |  |
+
+##### 3. SetMeshRenderer
+
+Full Name: HutongGames.PlayMaker.Actions.SetMeshRenderer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| active | false | false |  |  |
+
+##### 4. SetDamageHeroAmount
+
+Full Name: SetDamageHeroAmount
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| target | OwnerDefault Hero Hurter | OwnerDefault Hero Hurter | Variable |  |
+| damageDealt | 0 | 0 |  |  |
+
+##### 5. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Impact | OwnerDefault Impact |  |  |
+| activate | true | true |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+##### 6. SetRandomRotation
+
+Full Name: HutongGames.PlayMaker.Actions.SetRandomRotation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Impact | OwnerDefault Impact |  |  |
+| x | false | false |  |  |
+| y | false | false |  |  |
+| z | true | true |  |  |
+
+##### 7. PlayParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.PlayParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Impact Particles | OwnerDefault Impact Particles |  |  |
+| emit | 0 | 0 |  |  |
+
+##### 8. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 2f | 2f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+##### 9. SendEventByName
+
+Full Name: HutongGames.PlayMaker.Actions.SendEventByName
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| eventTarget | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:CameraParent | EventTarget(GameObjectFSM)[SendToFSM: CameraShake]:CameraParent |  |  |
+| sendEvent | "EnemyKillShake" | "EnemyKillShake" |  |  |
+| delay | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 10. SetVelocity2d
+
+Full Name: HutongGames.PlayMaker.Actions.SetVelocity2d
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| vector | Vector2(0, 0) | Vector2(0, 0) |  |  |
+| x | 0f | 0f |  |  |
+| y | 0f | 0f |  |  |
+| everyFrame | false | false |  |  |
+
+##### 11. StopParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.StopParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Particle System | OwnerDefault Particle System |  |  |
+
+##### 12. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Fader | OwnerDefault Fader |  |  |
+| activate | false | false |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+### Dissipate
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. AudioStop
+
+Full Name: HutongGames.PlayMaker.Actions.AudioStop
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+
+##### 2. iTweenScaleTo
+
+Full Name: HutongGames.PlayMaker.Actions.iTweenScaleTo
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| id | "" | "" |  |  |
+| transformScale |  |  |  |  |
+| vectorScale | Vector3(0.1, 0.1, 0.1) | Vector3(0.1, 0.1, 0.1) |  |  |
+| time | 0.2f | 0.2f |  |  |
+| delay | 0f | 0f |  |  |
+| speed | 0f | 0f |  |  |
+| easeType | iTween/EaseType::linear | 21 |  |  |
+| loopType | iTween/LoopType::none | 0 |  |  |
+| startEvent | Event() | Event() |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+| stopOnExit | true | true |  |  |
+| loopDontFinish | true | true |  |  |
+
+##### 3. DecelerateV2
+
+Full Name: HutongGames.PlayMaker.Actions.DecelerateV2
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| deceleration | 0.9f | 0.9f |  |  |
+
+##### 4. SetDamageHeroAmount
+
+Full Name: SetDamageHeroAmount
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| target | OwnerDefault Hero Hurter | OwnerDefault Hero Hurter | Variable |  |
+| damageDealt | 2 | 2 |  |  |
+
+##### 5. ActivateGameObject
+
+Full Name: HutongGames.PlayMaker.Actions.ActivateGameObject
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Fader | OwnerDefault Fader |  |  |
+| activate | false | false |  |  |
+| recursive | false | false |  |  |
+| resetOnExit | false | false |  |  |
+| everyFrame | false | false |  |  |
+
+### Stop Particles
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. StopParticleEmitter
+
+Full Name: HutongGames.PlayMaker.Actions.StopParticleEmitter
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault Particle System | OwnerDefault Particle System |  |  |
+
+##### 2. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 0.6f | 0.6f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+##### 3. SetMeshRenderer
+
+Full Name: HutongGames.PlayMaker.Actions.SetMeshRenderer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| active | false | false |  |  |
+
+### Impact pause
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. NextFrameEvent
+
+Full Name: HutongGames.PlayMaker.Actions.NextFrameEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Chase Hero 2
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 2
+
+#### Actions
+
+##### 1. Trigger2dEventLayer
+
+Full Name: HutongGames.PlayMaker.Actions.Trigger2dEventLayer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| trigger | PlayMakerUnity2d/Trigger2DType::OnTriggerEnter2D | 0 |  |  |
+| collideTag | "" | "" | Tag |  |
+| collideLayer | 20 | 20 | Layer |  |
+| sendEvent | Event(END) | Event(END) |  |  |
+| storeCollider |  |  | Variable |  |
+
+##### 2. SetIsKinematic2d
+
+Full Name: HutongGames.PlayMaker.Actions.SetIsKinematic2d
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| isKinematic | false | false |  |  |
+
+##### 3. Trigger2dEventLayer
+
+Full Name: HutongGames.PlayMaker.Actions.Trigger2dEventLayer
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| trigger | PlayMakerUnity2d/Trigger2DType::OnTriggerStay2D | 1 |  |  |
+| collideTag | "" | "" | Tag |  |
+| collideLayer | 8 | 8 | Layer |  |
+| sendEvent | Event(END) | Event(END) |  |  |
+| storeCollider |  |  | Variable |  |
+
+##### 4. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 2.25f | 2.25f |  |  |
+| finishEvent | Event(DISSIPATE) | Event(DISSIPATE) |  |  |
+| realTime | false | false |  |  |
+
+##### 5. ChaseObjectV2
+
+Full Name: HutongGames.PlayMaker.Actions.ChaseObjectV2
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner | Variable |  |
+| target | [Global] GameObject Hero | [Global] GameObject Hero | Variable |  |
+| speedMax | 20f | 20f |  |  |
+| accelerationForce | 50f | 50f |  |  |
+| offsetX | 0f | 0f |  |  |
+| offsetY | 0f | 0f |  |  |
+
+## Transitions
+
+| From | Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- | --- |
+| Init | FINISHED | Orbiting | 0 | 0 | 0 |
+| Init | FIRE | Chase Hero | 0 | 0 | 0 |
+| Orbiting | FIRE | Chase Hero | 0 | 0 | 0 |
+| Orbiting | DISSIPATE | Dissipate | 0 | 0 | 0 |
+| Chase Hero | DISSIPATE | Dissipate | 0 | 0 | 0 |
+| Chase Hero | FINISHED | Chase Hero 2 | 0 | 0 | 0 |
+| Chase Hero | ORBIT SHIELD | Impact | 0 | 0 | 0 |
+| Impact | FINISHED | Recycle | 0 | 0 | 0 |
+| Dissipate | FINISHED | Stop Particles | 0 | 0 | 0 |
+| Stop Particles | FINISHED | Recycle | 0 | 0 | 0 |
+| Impact pause | FINISHED | Impact | 0 | 0 | 0 |
+| Chase Hero 2 | END | Impact pause | 0 | 0 | 0 |
+| Chase Hero 2 | DISSIPATE | Dissipate | 0 | 0 | 0 |
+
+## Global Transitions
+
+| Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- |
+| DESTROY | Dissipate | 0 | 0 | 0 |
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+| DESTROY | false |
+| DISSIPATE | false |
+| END | false |
+| FIRE | false |
+| ORBIT SHIELD | false |
+

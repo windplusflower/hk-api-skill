@@ -9,107 +9,107 @@ tags: hk-api, fsm, playmaker, state-machine, boss-control
 
 ## 相关文档
 
-- [Code Patterns](../development/code-patterns.md) - 通用代码模式（Hook、对象池、数据访问等）
-- [Game Modification Patterns](../systems/game-modification-patterns.md) - 游戏系统修改模式（商店、Boss、敌人等）
-- [Core Classes](core-classes.md) - 核心类参考（HeroController、PlayerData、HealthManager）
+- [FSM Query Guide](fsm-query-guide.md) - 按 Boss / scene / 名称检索具体 FSM
+- [FSM Index README](../../fsm-index/README.md) - 数据集入口和字段说明
+- [Scene Summary](../../fsm-index/scene-summary.md) - 按区域 / scene 汇总
+- [Boss Shortcuts](../../fsm-index/boss-shortcuts.md) - Boss / 战斗场景快捷入口
+- [Code Patterns](../development/code-patterns.md) - 通用代码模式
+- [Game Modification Patterns](../systems/game-modification-patterns.md) - 商店、Boss、敌人等系统修改模式
 
 ## 概述
 
-本文档整理了常见的 PlayMaker FSM 相关信息，包括 FSM 名称、状态、事件等。
+本技能内置了一套本地 FSM 导出数据，用来回答“这个场景有哪些 FSM”“某个 Boss 的 Control 在哪里”“某个状态里有什么动作”这类问题。
 
-**本文档范围**：FSM 基础操作、FSM 列表、事件列表、代码示例。
+这套数据优先于单纯搜索 `hkapi/` 源码，因为很多 PlayMaker 逻辑图并不会完整体现在 C# 文本里。
 
-## 常用 FSM 列表
+## Dataset Snapshot
 
-### Boss 相关
+| Item | Value |
+| --- | --- |
+| FSM markdown files | 2743 |
+| Groups | 23 |
+| Scenes | 161 |
+| Export root | [`../../fsm-export/`](../../fsm-export/) |
+| Manifest | [`../../fsm-index/fsm-manifest.tsv`](../../fsm-index/fsm-manifest.tsv) |
+| Scene summary | [`../../fsm-index/scene-summary.md`](../../fsm-index/scene-summary.md) |
+| Boss shortcuts | [`../../fsm-index/boss-shortcuts.md`](../../fsm-index/boss-shortcuts.md) |
 
-| FSM 名称 | 用途 |
-|----------|------|
-| Mossy Control | Boss 行为控制 |
-| Attack Commands | Boss 攻击生成控制 |
-| Control | 预制体行为控制 |
-| Orb Control | 轨道球控制 |
+## 每个导出文件包含什么
 
-### 玩家相关
+单个 `fsm-export/<group>/<scene>/<file>.md` 文件通常包含：
 
-| FSM 名称 | 用途 |
-|----------|------|
-| Spell Control | 法术施放控制 |
-| Nail Arts | 骨钉技控制 |
-| Roar Lock | 吼叫锁定（Boss 战期间锁定玩家） |
+- `Summary`: FSM 名、GameObject 名 / 路径、源 asset、起始状态、`FSM PathId`
+- `Variables`: 按类型分组的变量值
+- `States`: 每个状态的描述、动作列表、动作参数
+- `Transitions`: 局部转移
+- `Global Transitions`: 全局转移
+- `Events`: FSM 事件列表
 
-### 效果相关
+这意味着大多数“状态名是什么”“某个动作参数当前是多少”“某个事件跳到哪里”都可以直接回答，不需要猜。
 
-| FSM 名称 | 用途 |
-|----------|------|
-| CameraShake | 相机震动效果 |
-| emitter | 粒子发射器控制 |
-| Appear | 出现动画 |
-| npc_control | NPC 行为控制 |
+## 推荐查询顺序
 
-### 地图/UI 相关
+1. 已知 Boss / 战斗场景：先查 [Boss Shortcuts](../../fsm-index/boss-shortcuts.md)
+2. 已知 scene：先查 [Scene Summary](../../fsm-index/scene-summary.md)
+3. 只知道 GameObject / FSM 名：查 [fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv)
+4. 确认候选后：打开对应 `fsm-export/...md` 读取状态 / 动作 / 转移细节
+5. 同名候选很多时：用 `scene + gameobject_segment + fsm_id` 消歧
 
-| FSM 名称 | 用途 |
-|----------|------|
-| UI Control | UI 控制 |
-| Quick Map | 快速地图 |
-| Shiny Control | 发光物品控制 |
-| Set Compass Point | 设置指南针点位 |
-| map_isroom | 地图房间标识 |
-| deactivate | 区域可见性控制 |
+## 常见 FSM 名模式
 
-### 伤害相关
+这些名字在数据集中高频出现，通常不是唯一实例：
 
-| FSM 名称 | 用途 |
-|----------|------|
-| damages_hero | 对玩家造成伤害 |
-| Spike Hit Effect | 尖刺击中效果 |
+| FSM 名 | 常见含义 | 查询建议 |
+| --- | --- | --- |
+| `Control` | 主控制 FSM，常见于敌人、Boss、特效、UI | 必须联合 scene 和 GameObject 看 |
+| `FSM` | 通用默认名，信息量最低 | 先看 GameObject，再看 `fsm_id` |
+| `npc_control` | NPC 行为 / 对话流程 | 配合 `Conversation_Control` 一起看 |
+| `damages_hero` | 对玩家造成伤害 | 常见于碰撞器、弹体、特效 |
+| `Orb_Control` / `Ball_Control` | 投射物 / 球体控制 | 多出现在 Boss 战或特效对象 |
+| `Music_Region` / `Enviro_Region` | 区域环境 / 音乐控制 | 往往不是战斗核心 FSM |
+| `Set_Compass_Point` / `map_isroom` | 地图 / 指南针 / 房间标记 | 常见于 UI / 地图对象 |
 
-## 常用事件
+## 常见事件名
 
-| 事件名 | 用途 |
-|--------|------|
-| FINISHED | 状态完成过渡 |
-| CANCEL | 取消当前状态 |
-| FSM CANCEL | FSM 取消 |
-| FIRE | 触发攻击/发射 |
-| ANTIC | 预备动作 |
-| START | 开始 |
-| END | 结束 |
+| 事件名 | 常见用途 |
+| --- | --- |
+| `FINISHED` | 当前状态完成后的默认转移 |
+| `CANCEL` | 取消当前流程 |
+| `START` | 初始化 / 开始 |
+| `END` | 收尾 / 结束 |
+| `FIRE` | 发射 / 攻击 / 触发输出 |
+| `ANTIC` | 攻击前摇 / 预备 |
 
-## 代码示例
+具体事件仍以对应导出文件里的 `Transitions` / `Global Transitions` 为准。
+
+## 运行时代码示例
 
 ### 定位 FSM
 
 ```csharp
-var fsm = gameObject.LocateMyFSM("FSM Name");
+var fsm = gameObject.LocateMyFSM("Control");
 ```
 
 ### 发送事件
 
 ```csharp
-fsm.SendEvent("EVENT_NAME");
+fsm.SendEvent("FINISHED");
 ```
 
-### 复制状态
+### 修改转移
 
 ```csharp
-fsm.CopyState("Source State", "New State");
-```
-
-### 修改过渡
-
-```csharp
-fsm.ChangeTransition("State", "Event", "NewTargetState");
+fsm.ChangeTransition("Idle", "FINISHED", "Attack");
 ```
 
 ### 注入自定义动作
 
 ```csharp
-private void InjectCustomAction(PlayMakerFSM fsm, string stateName) {
+private void InjectCustomAction(PlayMakerFSM fsm, string stateName)
+{
     var state = fsm.Fsm.GetState(stateName);
     if (state == null) return;
-    
+
     var newActions = new FsmStateAction[state.Actions.Length + 1];
     newActions[0] = new CustomAction();
     Array.Copy(state.Actions, 0, newActions, 1, state.Actions.Length);
@@ -117,11 +117,36 @@ private void InjectCustomAction(PlayMakerFSM fsm, string stateName) {
 }
 ```
 
-### 禁用 FSM
+### 禁用某个伤害 FSM
 
 ```csharp
 var fsm = gameObject.LocateMyFSM("damages_hero");
-if (fsm != null) {
+if (fsm != null)
+{
     fsm.enabled = false;
 }
 ```
+
+## 回答 FSM 问题时应包含什么
+
+如果用户问的是具体 FSM，回答里尽量包含这些定位信息：
+
+- `group`
+- `scene`
+- `gameobject_segment`
+- `fsm_name`
+- `fsm_id`
+- `relative_path`
+
+如果进一步分析状态 / 动作，则再补：
+
+- 起始状态
+- 关键状态名
+- 关键动作类型
+- 关键事件 / 转移
+
+## 适用边界
+
+- 本地导出数据非常适合回答“结构是什么”。
+- 运行时动态注入、Hook 顺序、Mod 改写冲突，仍然要结合源码和实际运行验证。
+- 同名 `Control` / `FSM` 很多，不要只凭一个名字下结论。

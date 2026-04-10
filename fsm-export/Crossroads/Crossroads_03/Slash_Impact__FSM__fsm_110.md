@@ -1,0 +1,180 @@
+# FSM
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | FSM |
+| GameObject Name | Slash Impact |
+| GameObject Path |  |
+| Source Asset | /home/windflower/snap/steam/common/.local/share/Steam/steamapps/common/Hollow Knight/hollow_knight_Data/sharedassets39.assets |
+| Start State | Choose Anim |
+| FSM PathId | 110 |
+| GameObject PathId | 67 |
+
+## Variables
+
+### Bools
+
+| Name | Value | Raw/Type |
+| --- | --- | --- |
+| Chooser | false | Boolean: false |
+
+## States
+
+### Choose Anim
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 2
+
+#### Actions
+
+##### 1. BoolTest
+
+Full Name: HutongGames.PlayMaker.Actions.BoolTest
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| boolVariable | bool Chooser | bool Chooser | Variable |  |
+| isTrue | Event(TRUE) | Event(TRUE) |  |  |
+| isFalse | Event(FALSE) | Event(FALSE) |  |  |
+| everyFrame | false | false |  |  |
+
+##### 2. RandomBool
+
+Full Name: HutongGames.PlayMaker.Actions.RandomBool
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| storeResult | bool Chooser | bool Chooser | Variable |  |
+
+### Anim 1
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Slash Impact 1" | "Slash Impact 1" |  |  |
+
+##### 2. NextFrameEvent
+
+Full Name: HutongGames.PlayMaker.Actions.NextFrameEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Anim 2
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Tk2dPlayAnimation
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dPlayAnimation
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animLibName | "" | "" |  |  |
+| clipName | "Slash Impact 2" | "Slash Impact 2" |  |  |
+
+##### 2. NextFrameEvent
+
+Full Name: HutongGames.PlayMaker.Actions.NextFrameEvent
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| sendEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+### Watch
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Tk2dWatchAnimationEvents
+
+Full Name: HutongGames.PlayMaker.Actions.Tk2dWatchAnimationEvents
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject | OwnerDefault FSM Owner | OwnerDefault FSM Owner |  |  |
+| animationTriggerEvent | Event() | Event() |  |  |
+| animationCompleteEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+
+##### 2. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time | 0.17f | 0.17f |  |  |
+| finishEvent | Event(FINISHED) | Event(FINISHED) |  |  |
+| realTime | false | false |  |  |
+
+### Kill
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. DestroySelf
+
+Full Name: HutongGames.PlayMaker.Actions.DestroySelf
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| detachChildren | false | false |  |  |
+
+## Transitions
+
+| From | Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- | --- |
+| Choose Anim | TRUE | Anim 1 | 0 | 0 | 0 |
+| Choose Anim | FALSE | Anim 2 | 0 | 0 | 0 |
+| Anim 1 | FINISHED | Watch | 0 | 0 | 0 |
+| Anim 2 | FINISHED | Watch | 0 | 0 | 0 |
+| Watch | FINISHED | Kill | 0 | 0 | 0 |
+
+## Global Transitions
+
+| Event | To | ColorIndex | LinkStyle | LinkConstraint |
+| --- | --- | --- | --- | --- |
+| _(none)_ |  |  |  |  |
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+| FALSE | false |
+| TRUE | false |
+
