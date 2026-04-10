@@ -117,3 +117,36 @@ private IEnumerator<Transition> Choose() {
 }
 ```
 
+## 7. 日志最佳实践
+
+```csharp
+// 优先使用 Modding API 日志，进入 ModLog.txt
+Log("Orb system initialized");
+LogDebug($"Filled slots = {filledSlots}");
+LogWarn("Orb runtime was missing during scene change");
+LogError("Failed to rebuild orb runtime");
+
+// 或显式使用 Modding.Logger
+Modding.Logger.Log("[DeVectMod] - Orb system initialized");
+Modding.Logger.LogDebug("[DeVectMod] - Filled slots = 3");
+```
+
+- 模组业务日志默认应进入 `ModLog.txt`，不要把 `UnityEngine.Debug.Log*` 当作 HK mod 的主日志通道。
+- 排障时优先读取 `ModLog.txt`，常见目录是 `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`。
+- `Player.log` 只作为 Unity / 游戏主流程异常的补充参考。
+
+
+### Fallback Learning (2026-03-15)
+<!-- evolution:a9c508bfc034 -->
+- Question: HK mod代码里的日志应该走哪个接口，ModLog一般在哪
+- Facts:
+  - Mod继承自Loggable，mod类内的Log/LogDebug/LogWarn/LogError都走Modding.Logger而不是UnityEngine.Debug。
+  - Loggable.Log会把消息格式化为带类名前缀的文本，再转发到Logger.Log。
+  - Logger.InitializeFileStream会在Application.persistentDataPath下创建ModLog.txt，并把历史日志归档到Old ModLogs目录。
+  - Logger.WriteToFile会把日志写入ModLog.txt，并同步到ModHooks.LogConsole。
+- Sources:
+  - `hkapi/Modding/Mod.cs:25`
+  - `hkapi/Modding/Loggable.cs:71`
+  - `hkapi/Modding/Logger.cs:20`
+  - `hkapi/Modding/Logger.cs:25`
+  - `hkapi/Modding/Logger.cs:42`
