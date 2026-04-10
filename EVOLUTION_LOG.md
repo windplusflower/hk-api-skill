@@ -13,3 +13,9 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - pending_note: `rules/_pending/20260315_070344_hk-mod-modlog.md`
 - status: `applied`
+## 2026-04-11 06:58:28
+- question: 修复 SpellDetectAction 法术方向判定时，HK mod 应该读取哪个输入系统
+- target: `rules/systems/spell-system.md`
+- risk: `low`
+- pending_note: `rules/_pending/20260411_065828_spelldetectaction-hk-mod.md`
+- status: `applied`

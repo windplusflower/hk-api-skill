@@ -46,7 +46,7 @@ tags: hk-api, code-patterns, fsm, hooks, object-pooling
 | Charm Damage Multiplier | 根据装备护符计算伤害倍数 | 见下方详细说明 |
 | Soul Gain Calculation | 计算灵魂获取，包含护符加成 | 见下方详细说明 |
 | **输入与相机** | | |
-| Input Axis Reading | 使用 Input.GetAxisRaw 读取玩家输入 | `Input.GetAxisRaw("Horizontal")` |
+| Gameplay Input Reading | 使用 `InputHandler.Instance.inputActions` / `HeroActions` 读取玩法输入 | `inputActions.right.IsPressed` |
 | Camera Lock Pattern | Boss 战期间锁定相机位置和缩放 | 见下方详细说明 |
 | **动画与特效** | | |
 | Juice Animation | 对 Boss 部位应用挤压拉伸动画 | 见下方详细说明 |
@@ -190,19 +190,25 @@ void LockCamera(float x, float y, float zoom = 1.0f) {
 }
 ```
 
-### 输入轴读取
+### Gameplay Input Reading
 
-使用 Input.GetAxisRaw 读取玩家输入：
+玩法输入优先读取 `InputHandler.Instance?.inputActions`。这样会跟随 Hollow Knight 的按键映射、手柄状态和 `HeroActions` 阈值，不要默认用 `Input.GetAxisRaw()` 处理攻击、法术或骨钉技方向判定。
 
 ```csharp
-float horizontal = Input.GetAxisRaw("Horizontal");
-float vertical = Input.GetAxisRaw("Vertical");
+HeroActions? inputActions = InputHandler.Instance?.inputActions;
+bool leftPressed = inputActions != null && inputActions.left.IsPressed;
+bool rightPressed = inputActions != null && inputActions.right.IsPressed;
+bool upPressed = inputActions != null && inputActions.up.IsPressed;
+bool downPressed = inputActions != null && inputActions.down.IsPressed;
+float moveX = inputActions?.moveVector.Vector.x ?? 0f;
 
 // 用于 Boss 攻击方向判断
-if (horizontal > 0.5f) {
+if (rightPressed && !leftPressed) {
     // 玩家向右移动
 }
 ```
+
+只有在做 Unity 编辑器工具、鼠标调试或明确不走 HK 游戏内输入链时，才考虑直接读取 `UnityEngine.Input`。
 
 ### 加权随机选择
 

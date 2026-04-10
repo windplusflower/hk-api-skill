@@ -109,6 +109,14 @@ When working on Hollow Knight mods, treat logging as part of the API contract:
 3. **Log file priority**: when investigating a mod issue, check `ModLog.txt` first, then use `Player.log` only as a supplemental Unity/game trace.
 4. **Common ModLog location**: `Application.persistentDataPath` maps on this machine to `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight`, so the usual file is `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`.
 
+## Gameplay Input Rules
+
+When a Hollow Knight modding task depends on current gameplay input:
+
+1. Prefer `InputHandler.Instance?.inputActions` / `HeroActions`.
+2. Do not default to `UnityEngine.Input.GetAxisRaw()` for gameplay direction checks such as spells, attacks, or nail arts.
+3. If an injected FSM action runs before `ListenForUp` / `ListenForDown` / similar listen actions, do not trust FSM booleans like `Pressed Up`; read current `inputActions` directly.
+
 ## Repository Detection Workflow
 
 When the user has not explicitly said "Hollow Knight" but the repository may be related, I should quickly inspect obvious project signals and load this skill if Hollow Knight modding is likely.
@@ -144,7 +152,7 @@ When a question cannot be answered from `rules/**` and I need to fallback to `hk
 ### Record Command
 
 ```bash
-python scripts/evolution_record.py \
+python3 scripts/evolution_record.py \
   --question "How does HealthManager damage flow work?" \
   --target rules/core/core-classes.md \
   --fact "HealthManager.ApplyExtraDamage applies damage modifiers before hp reduction." \
