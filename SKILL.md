@@ -12,7 +12,7 @@ compatibility: opencode
 
 **要查 FSM？** 先看 [fsm-index/README.md](fsm-index/README.md) 和 [rules/core/fsm-query-guide.md](rules/core/fsm-query-guide.md)。
 
-**有具体 Boss / 场景？** 先看 [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md) 和 [fsm-index/scene-summary.md](fsm-index/scene-summary.md)。
+**有具体 Boss / 场景？** 先看 [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv)，再按需打开 [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md) 和 [fsm-index/scene-summary.md](fsm-index/scene-summary.md)。
 
 ## Overview
 
@@ -68,10 +68,10 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 
 本技能现在自带一套本地 FSM 导出数据：
 
-- `fsm-export/`: 2743 个 FSM Markdown 文件，按 `group/scene/file.md` 组织
-- `fsm-index/fsm-manifest.tsv`: 2743 条索引，字段为 `group, scene, gameobject_segment, fsm_name, fsm_id, relative_path`
-- `fsm-index/scene-summary.md`: 161 个 scene 的汇总入口
-- `fsm-index/boss-shortcuts.md`: Boss / 关键战斗场景快速入口
+- `fsm-export/`: 24701 个 FSM Markdown 文件，按 `group/scene/file.md` 组织，`scene` 目前采用导出时的 Unity scene 文件名，例如 `Abyss_01.unity`、`GG_Vengefly.unity`
+- `fsm-index/fsm-manifest.tsv`: 24701 条索引，字段为 `group, scene, gameobject_segment, fsm_name, fsm_id, relative_path, source_asset, content_hash`
+- `fsm-index/scene-summary.md`: 当前导出的 scene 汇总入口
+- `fsm-index/boss-shortcuts.md`: 当前导出的 Boss / 关键战斗场景快速入口
 
 处理 FSM 任务时，先查这套本地索引和导出，再决定是否回到源码或运行时 Hook。
 
@@ -80,7 +80,7 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 ## Data Locations
 
 - `hkapi/`: Hollow Knight decompiled source files
-- `fsm-export/`: 2743 PlayMaker FSM Markdown files, organized by `group/scene/`
+- `fsm-export/`: 24701 PlayMaker FSM Markdown files, organized by `group/scene/`
 - `fsm-index/`: FSM navigation layer (manifest, scene summary, boss shortcuts)
 
 ## Standard Query Workflow
@@ -94,8 +94,8 @@ PlayMaker FSM 的大部分行为图并不直接以易检索的 C# 逻辑形式�
 
 ### FSM Queries
 
-1. If the user knows the boss or encounter, start with [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md).
-2. If the user knows the scene, start with [fsm-index/scene-summary.md](fsm-index/scene-summary.md).
+1. If the user knows the boss or encounter, search [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv) first, then use [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md) as a convenience view.
+2. If the user knows the scene, first search [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv) for the scene name. Current scenes usually use Unity export names such as `Abyss_01.unity` or `GG_Vengefly.unity`.
 3. If the user only knows a GameObject or FSM name, search [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv).
 4. Open the matching `fsm-export/<group>/<scene>/<file>.md` file for full details.
 5. Use `fsm_id` and `relative_path` to disambiguate duplicate `Control` / `FSM` / `damages_hero` style entries.
@@ -247,8 +247,8 @@ Template bootstrap rule: for new mod projects, keep machine-specific DLL and gam
 
 - 总索引：[`rules/INDEX.md`](rules/INDEX.md)
 - FSM 索引入口：[`fsm-index/README.md`](fsm-index/README.md)
-- 按 Boss 查：[`fsm-index/boss-shortcuts.md`](fsm-index/boss-shortcuts.md)
-- 按 scene 查：[`fsm-index/scene-summary.md`](fsm-index/scene-summary.md)
+- 按 Boss 查：[`fsm-index/fsm-manifest.tsv`](fsm-index/fsm-manifest.tsv) 与 [`fsm-index/boss-shortcuts.md`](fsm-index/boss-shortcuts.md)
+- 按 scene 查：[`fsm-index/fsm-manifest.tsv`](fsm-index/fsm-manifest.tsv) 与 [`fsm-index/scene-summary.md`](fsm-index/scene-summary.md)
 - 按名称查：[`rules/core/fsm-query-guide.md`](rules/core/fsm-query-guide.md)
 
 ## Learn More

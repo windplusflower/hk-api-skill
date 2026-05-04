@@ -26,9 +26,9 @@ tags: hk-api, fsm, playmaker, state-machine, boss-control
 
 | Item | Value |
 | --- | --- |
-| FSM markdown files | 2743 |
+| FSM markdown files | 24701 |
 | Groups | 23 |
-| Scenes | 161 |
+| Scenes | Current export uses Unity scene file names such as `Abyss_01.unity` and `GG_Vengefly.unity` |
 | Export root | [`../../fsm-export/`](../../fsm-export/) |
 | Manifest | [`../../fsm-index/fsm-manifest.tsv`](../../fsm-index/fsm-manifest.tsv) |
 | Scene summary | [`../../fsm-index/scene-summary.md`](../../fsm-index/scene-summary.md) |
@@ -49,8 +49,8 @@ tags: hk-api, fsm, playmaker, state-machine, boss-control
 
 ## 推荐查询顺序
 
-1. 已知 Boss / 战斗场景：先查 [Boss Shortcuts](../../fsm-index/boss-shortcuts.md)
-2. 已知 scene：先查 [Scene Summary](../../fsm-index/scene-summary.md)
+1. 已知 Boss / 战斗场景：优先查 [fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv)，再用 [Boss Shortcuts](../../fsm-index/boss-shortcuts.md) 快速浏览
+2. 已知 scene：优先直接查 [fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv) 中的 `scene` 列，必要时再用 [Scene Summary](../../fsm-index/scene-summary.md) 浏览该 scene 全量文件
 3. 只知道 GameObject / FSM 名：查 [fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv)
 4. 确认候选后：打开对应 `fsm-export/...md` 读取状态 / 动作 / 转移细节
 5. 同名候选很多时：用 `scene + gameobject_segment + fsm_id` 消歧

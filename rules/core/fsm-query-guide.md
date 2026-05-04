@@ -17,8 +17,8 @@ tags: hk-api, fsm, query, manifest, boss
 
 | 用户已知信息 | 先看哪里 | 下一步 |
 | --- | --- | --- |
-| Boss / 战斗场景 | [../../fsm-index/boss-shortcuts.md](../../fsm-index/boss-shortcuts.md) | 打开对应 `fsm-export/...md` |
-| Scene 名 | [../../fsm-index/scene-summary.md](../../fsm-index/scene-summary.md) | 缩小到该 scene 的候选文件 |
+| Boss / 战斗场景 | [../../fsm-index/fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv) | 再用 [../../fsm-index/boss-shortcuts.md](../../fsm-index/boss-shortcuts.md) 浏览候选 |
+| Scene 名 | [../../fsm-index/fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv) | 先按 scene 名过滤候选文件 |
 | GameObject 名 | [../../fsm-index/fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv) | 按 `gameobject_segment` 过滤 |
 | FSM 名 | [../../fsm-index/fsm-manifest.tsv](../../fsm-index/fsm-manifest.tsv) | 联合 `scene` / `fsm_id` 消歧 |
 | 只有行为描述 | 先推测 scene 或对象，再查 manifest | 必要时回到系统文档补上下文 |
@@ -27,22 +27,24 @@ tags: hk-api, fsm, query, manifest, boss
 
 `fsm-manifest.tsv` 每行字段顺序：
 
-`group, scene, gameobject_segment, fsm_name, fsm_id, relative_path`
+`group, scene, gameobject_segment, fsm_name, fsm_id, relative_path, source_asset, content_hash`
 
 含义：
 
 - `group`: 大区域，如 `Godhome`
-- `scene`: 场景，如 `GG_Radiance`
+- `scene`: 当前导出中的场景目录名，通常是 Unity scene 文件名，如 `GG_Vengefly.unity`
 - `gameobject_segment`: GameObject 路径片段
 - `fsm_name`: FSM 名，如 `Control`
 - `fsm_id`: 唯一 PathId
 - `relative_path`: 相对 `fsm-export/` 根目录的 Markdown 路径
+- `source_asset`: 原始资源文件路径
+- `content_hash`: 导出内容哈希
 
 ## 常用查询范式
 
 ### 1. 按 Boss 查
 
-先查 `boss-shortcuts.md`，因为它已经把高频战斗场景整理好了。
+先查 `fsm-manifest.tsv`，再用 `boss-shortcuts.md` 快速浏览高频战斗场景。
 
 如果还要继续精确筛选，再查 manifest：
 
@@ -52,16 +54,16 @@ rg -n 'Radiance|Hornet|Grimm|Mantis|Zote' /home/windflower/.codex/skills/hk-api/
 
 ### 2. 按 scene 查
 
-如果用户说“`GG_Radiance` 里有哪些 FSM”：
+如果用户说“`GG_Vengefly` 里有哪些 FSM”：
 
 ```bash
-rg -n '^Godhome\tGG_Radiance\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly(\.unity)?' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
 ```
 
 如果只知道 scene，不确定 group，也可以直接搜 scene 名：
 
 ```bash
-rg -n $'\tGG_Radiance\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly|Abyss_01\.unity' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
 ```
 
 ### 3. 按 GameObject 查
@@ -83,7 +85,7 @@ rg -n $'\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifes
 这类查询通常结果很多，必须再加 scene 或 GameObject 条件：
 
 ```bash
-rg -n 'GG_Radiance.*\tControl\t|Boss_Control_Radiance.*\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly|GG_Radiance|Boss_Control_Radiance.*\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
 ```
 
 ## 歧义消解规则

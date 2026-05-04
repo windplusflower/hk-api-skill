@@ -1,0 +1,86 @@
+﻿# Play
+
+## Summary
+
+| Field | Value |
+| --- | --- |
+| FSM Name | Play |
+| GameObject Name | Music Player Fix (2) |
+| GameObject Path |   |
+| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level464 |
+| Start State | State 1 |
+| FSM PathId | 2066 |
+| GameObject PathId | 24 |
+
+## Variables
+
+## States
+
+### State 1
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 1
+
+#### Actions
+
+##### 1. Wait
+
+Full Name: HutongGames.PlayMaker.Actions.Wait
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| time |   | 1f |   |   |
+| finishEvent |   |   |   |   |
+| realTime |   | false |   |   |
+
+#### Transitions
+
+| Event | To State | Color Index | |
+| --- | --- | --- | --- |
+| FINISHED | State 2 | 0 | |
+
+### State 2
+
+Description: (none)
+Flags: breakpoint=false, sequence=false, hideUnused=false
+Local Transitions: 0
+
+#### Actions
+
+##### 1. AudioPlaySimple
+
+Full Name: HutongGames.PlayMaker.Actions.AudioPlaySimple
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| gameObject |   | OwnerDefault FSM Owner |   |   |
+| volume |   | 1f |   |   |
+| oneShotClip |   | [] |   |   |
+
+##### 2. TransitionToAudioSnapshot
+
+Full Name: HutongGames.PlayMaker.Actions.TransitionToAudioSnapshot
+Enabled: true
+
+| Name | Value | RawValue | UIHint | Group |
+| --- | --- | --- | --- | --- |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| transitionTime |   | 0f |   |   |
+
+#### Transitions
+
+(none)
+
+## Global Transitions
+
+(none)
+
+## Events
+
+| Name | Global |
+| --- | --- |
+| FINISHED | false |
+

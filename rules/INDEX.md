@@ -20,8 +20,8 @@ If still ambiguous, prefer the more specific rule.
 如果任务涉及 PlayMaker FSM，先看这些文件，而不是直接猜名字：
 
 - [FSM Index README](../fsm-index/README.md) - FSM 数据集总入口
-- [Scene Summary](../fsm-index/scene-summary.md) - 按区域 / scene 汇总
-- [Boss Shortcuts](../fsm-index/boss-shortcuts.md) - Boss / 战斗场景快速入口
+- [Scene Summary](../fsm-index/scene-summary.md) - 当前导出的按区域 / scene 汇总
+- [Boss Shortcuts](../fsm-index/boss-shortcuts.md) - 当前导出的 Boss / 战斗场景快速入口
 - [FSM Query Guide](core/fsm-query-guide.md) - 具体检索流程和查询范式
 
 ## 新手入门
@@ -78,10 +78,10 @@ If still ambiguous, prefer the more specific rule.
 ### 我想...
 
 **定位某个 Boss 的 FSM**
-→ [Boss Shortcuts](../fsm-index/boss-shortcuts.md) → [FSM Query Guide](core/fsm-query-guide.md) → [FSM Reference](core/fsm-reference.md)
+→ [FSM Query Guide](core/fsm-query-guide.md) → [Boss Shortcuts](../fsm-index/boss-shortcuts.md) → [FSM Reference](core/fsm-reference.md)
 
 **按 scene 找 FSM**
-→ [Scene Summary](../fsm-index/scene-summary.md) → [FSM Query Guide](core/fsm-query-guide.md)
+→ [FSM Query Guide](core/fsm-query-guide.md) → [Scene Summary](../fsm-index/scene-summary.md)
 
 **按 GameObject / FSM 名找具体文件**
 → [FSM Query Guide](core/fsm-query-guide.md) → [FSM Index README](../fsm-index/README.md)
@@ -114,7 +114,7 @@ If still ambiguous, prefer the more specific rule.
 → [FSM Query Guide](core/fsm-query-guide.md) → [Game Modification Patterns](systems/game-modification-patterns.md) → [Code Patterns](development/code-patterns.md)
 
 **修改场景流程**
-→ [Scene Summary](../fsm-index/scene-summary.md) → [Game Modification Patterns](systems/game-modification-patterns.md) → [Preload Names](core/preload-names.md)
+→ [FSM Query Guide](core/fsm-query-guide.md) → [Scene Summary](../fsm-index/scene-summary.md) → [Game Modification Patterns](systems/game-modification-patterns.md)
 
 **添加新护符效果**
 → [Item IDs](core/item-ids.md) → [Code Patterns](development/code-patterns.md)
@@ -127,7 +127,7 @@ If still ambiguous, prefer the more specific rule.
 ```text
 hk-api-skill/
 ├── SKILL.md
-├── fsm-export/           # 2743 个 FSM Markdown 文件
+├── fsm-export/           # 24701 个 FSM Markdown 文件
 ├── fsm-index/
 │   ├── README.md
 │   ├── fsm-manifest.tsv
@@ -168,6 +168,6 @@ hk-api-skill/
 ## 使用提示
 
 1. 先判断问题属于 `源码 API` 还是 `FSM 图`。
-2. 查 FSM 时优先走 `boss-shortcuts -> scene-summary -> fsm-manifest.tsv -> fsm-export`。
+2. 查 FSM 时优先走 `fsm-manifest.tsv -> boss-shortcuts/scene-summary -> fsm-export`。
 3. 回答具体 FSM 问题时，尽量给出 `scene`、`gameobject_segment`、`fsm_name`、`fsm_id`、`relative_path`。
 4. 运行时改写、Hook 点和代码注入问题，再回到 `rules/development/` 和 `rules/systems/`。
