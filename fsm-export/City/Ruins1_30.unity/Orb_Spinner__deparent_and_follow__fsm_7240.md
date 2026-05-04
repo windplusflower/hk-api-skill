@@ -1,4 +1,4 @@
-﻿# deparent_and_follow
+# deparent_and_follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deparent_and_follow |
 | GameObject Name | Orb Spinner |
 | GameObject Path | Mage (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level100 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level100 |
 | Start State | Pause Frame |
 | FSM PathId | 7240 |
 | GameObject PathId | 1654 |

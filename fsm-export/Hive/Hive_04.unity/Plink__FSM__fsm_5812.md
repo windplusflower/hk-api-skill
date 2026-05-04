@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Plink |
 | GameObject Path | Heart Piece/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | State 1 |
 | FSM PathId | 5812 |
 | GameObject PathId | 1236 |

@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Colosseum Manager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Init |
 | FSM PathId | 15165 |
 | GameObject PathId | 192 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Colosseum Manager/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Wave | Colosseum Manager/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level34)] |
 
 ## States
 

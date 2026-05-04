@@ -1,4 +1,4 @@
-﻿# Generate
+# Generate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate |
 | GameObject Name | Glass Pool |
 | GameObject Path | Top Pool/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Init |
 | FSM PathId | 4278 |
 | GameObject PathId | 520 |
@@ -44,7 +44,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass L 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass L 1 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -96,7 +96,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass L 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass L 2 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -148,7 +148,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass L 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass L 3 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -200,7 +200,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass L 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass L 4 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -252,7 +252,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass S 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass S 1 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -304,7 +304,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass S 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass S 2 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -356,7 +356,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass S 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets124.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass S 3 (Hollow Knight/hollow_knight_Data\sharedassets124.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -408,7 +408,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Glass S 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets99.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Glass S 4 (Hollow Knight/hollow_knight_Data\sharedassets99.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grimm Arrival Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Init |
 | FSM PathId | 1550 |
 | GameObject PathId | 103 |
@@ -131,9 +131,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Accordion |   |   |
-| audioClip |   | [misc_rumble_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| audioClip |   | [misc_rumble_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

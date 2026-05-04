@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | fungal_wastes_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level186 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level186 |
 | Start State | Pause |
 | FSM PathId | 5610 |
 | GameObject PathId | 1697 |

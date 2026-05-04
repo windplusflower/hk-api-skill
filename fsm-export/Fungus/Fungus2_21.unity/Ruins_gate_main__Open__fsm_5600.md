@@ -1,4 +1,4 @@
-﻿# Open
+# Open
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Open |
 | GameObject Name | Ruins_gate_main |
 | GameObject Path | _Scenery/Ruins_front_gate/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level186 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level186 |
 | Start State | Pause |
 | FSM PathId | 5600 |
 | GameObject PathId | 1463 |
@@ -178,9 +178,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [jiji_door_open_pt_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [jiji_door_open_pt_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -342,9 +342,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -518,9 +518,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [stalactite_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [stalactite_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -746,9 +746,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_land_1st_time (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [false_knight_land_1st_time (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

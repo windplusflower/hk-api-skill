@@ -1,4 +1,4 @@
-﻿# Sword Summon
+# Sword Summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sword Summon |
 | GameObject Name | Ghost Warrior Xero |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level493 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level493 |
 | Start State | Pause |
 | FSM PathId | 1570 |
 | GameObject PathId | 147 |

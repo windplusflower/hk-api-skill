@@ -1,4 +1,4 @@
-﻿# Tele Out
+# Tele Out
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tele Out |
 | GameObject Name | Silhouette |
 | GameObject Path | Dream Mage Lord Phase2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level396 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level396 |
 | Start State | Idle |
 | FSM PathId | 3101 |
 | GameObject PathId | 433 |

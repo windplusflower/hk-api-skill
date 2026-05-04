@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | Flash |
 | GameObject Path | Shiny Item Acid/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level362 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level362 |
 | Start State | Idle |
 | FSM PathId | 6573 |
 | GameObject PathId | 198 |

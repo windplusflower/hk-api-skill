@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set Hornet Fountain |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level316 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level316 |
 | Start State | Pause |
 | FSM PathId | 2420 |
 | GameObject PathId | 595 |

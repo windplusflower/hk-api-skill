@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hive_FG_bees |
 | GameObject Path | Hive flying Bee particles/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level385 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level385 |
 | Start State | Pause |
 | FSM PathId | 6425 |
 | GameObject PathId | 622 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warp Out |
 | GameObject Path | Warrior/Ghost Warrior Galien/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level434 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level434 |
 | Start State | Init |
 | FSM PathId | 1841 |
 | GameObject PathId | 24 |

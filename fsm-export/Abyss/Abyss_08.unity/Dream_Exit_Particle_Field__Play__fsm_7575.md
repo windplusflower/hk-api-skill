@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Dream Exit Particle Field |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level335 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level335 |
 | Start State | Idle |
 | FSM PathId | 7575 |
 | GameObject PathId | 2504 |

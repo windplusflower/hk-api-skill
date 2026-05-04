@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Jump Check |
 | GameObject Path | Battle Scene/Wave 3/Mantis Traitor Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Init |
 | FSM PathId | 505 |
 | GameObject PathId | 38 |

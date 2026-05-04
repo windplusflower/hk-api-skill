@@ -1,4 +1,4 @@
-﻿# corpse_dropper
+# corpse_dropper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | corpse_dropper |
 | GameObject Name | Col Drop Corpse 01 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level311 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level311 |
 | Start State | Pause |
 | FSM PathId | 10207 |
 | GameObject PathId | 1719 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | tram_haze |
 | GameObject Path | Tram Main/Interior Lights/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level329 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level329 |
 | Start State | Init |
 | FSM PathId | 1921 |
 | GameObject PathId | 305 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Firing Range |
 | GameObject Path | Colosseum Manager/Waves/Wave 25/Electric Mage New/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Initialise |
 | FSM PathId | 15911 |
 | GameObject PathId | 4397 |

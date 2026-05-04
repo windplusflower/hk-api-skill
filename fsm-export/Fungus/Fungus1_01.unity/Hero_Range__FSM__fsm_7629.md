@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | Pigeon (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level128 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level128 |
 | Start State | Initialise |
 | FSM PathId | 7629 |
 | GameObject PathId | 2136 |

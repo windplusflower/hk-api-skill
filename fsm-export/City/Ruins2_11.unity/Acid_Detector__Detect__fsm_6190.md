@@ -1,4 +1,4 @@
-﻿# Detect
+# Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect |
 | GameObject Name | Acid Detector |
 | GameObject Path | Top Pool/Glass Pool/Bottle Glass L 1 (14)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level124 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level124 |
 | Start State | Detect |
 | FSM PathId | 6190 |
 | GameObject PathId | 1297 |

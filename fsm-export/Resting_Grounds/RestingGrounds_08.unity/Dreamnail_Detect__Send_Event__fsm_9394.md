@@ -1,4 +1,4 @@
-﻿# Send Event
+# Send Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Event |
 | GameObject Name | Dreamnail Detect |
 | GameObject Path | Ghost Battle Revek/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Init |
 | FSM PathId | 9394 |
 | GameObject PathId | 2770 |

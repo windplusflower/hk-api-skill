@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Exit Blocker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Pause |
 | FSM PathId | 9089 |
 | GameObject PathId | 2582 |

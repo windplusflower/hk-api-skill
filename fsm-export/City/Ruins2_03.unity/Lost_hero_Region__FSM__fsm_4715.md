@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Lost hero Region |
 | GameObject Path | _Enemies/Ruins Flying Sentry Javelin/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level113 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level113 |
 | Start State | Initialise |
 | FSM PathId | 4715 |
 | GameObject PathId | 947 |

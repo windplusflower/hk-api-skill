@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | ruind_bridge_roof_04_spikes |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Idle |
 | FSM PathId | 5297 |
 | GameObject PathId | 164 |

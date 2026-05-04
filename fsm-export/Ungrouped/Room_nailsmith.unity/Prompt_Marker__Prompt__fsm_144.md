@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Nailsmith/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level16 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level16 |
 | Start State | Init |
 | FSM PathId | 144 |
 | GameObject PathId | 7 |

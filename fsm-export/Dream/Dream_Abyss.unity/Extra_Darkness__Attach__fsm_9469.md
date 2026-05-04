@@ -1,4 +1,4 @@
-﻿# Attach
+# Attach
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attach |
 | GameObject Name | Extra Darkness |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | Pause |
 | FSM PathId | 9469 |
 | GameObject PathId | 1813 |

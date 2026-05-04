@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | White Flash |
 | GameObject Path | Godseeker Waterways/Godseeker Awake/Dream Enter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Init |
 | FSM PathId | 6534 |
 | GameObject PathId | 2049 |

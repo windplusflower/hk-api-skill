@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Cornifer Card |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level211 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level211 |
 | Start State | Init |
 | FSM PathId | 3461 |
 | GameObject PathId | 979 |

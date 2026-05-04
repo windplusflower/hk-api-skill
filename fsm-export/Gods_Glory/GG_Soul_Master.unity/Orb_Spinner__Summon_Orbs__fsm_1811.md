@@ -1,4 +1,4 @@
-﻿# Summon Orbs
+# Summon Orbs
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Summon Orbs |
 | GameObject Name | Orb Spinner |
 | GameObject Path | Mage Lord Phase2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level461 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level461 |
 | Start State | Init |
 | FSM PathId | 1811 |
 | GameObject PathId | 140 |
@@ -80,7 +80,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb Over (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb Over (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -93,7 +93,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb Over (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb Over (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -106,7 +106,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb Over (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb Over (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -119,7 +119,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb Over (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb Over (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

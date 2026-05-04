@@ -1,4 +1,4 @@
-﻿# Damage Flash
+# Damage Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Flash |
 | GameObject Name | Smash Hits |
 | GameObject Path | Mushroom Brawler 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Idle |
 | FSM PathId | 2444 |
 | GameObject PathId | 74 |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Colosseum Wall C |
 | GameObject Path | Colosseum Manager/Walls/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Init |
 | FSM PathId | 15301 |
 | GameObject PathId | 1278 |

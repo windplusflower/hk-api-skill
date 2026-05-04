@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | tiso_corpse |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level311 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level311 |
 | Start State | Pause |
 | FSM PathId | 10196 |
 | GameObject PathId | 1626 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | door_tram_arrive/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level330 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level330 |
 | Start State | Init |
 | FSM PathId | 1511 |
 | GameObject PathId | 475 |

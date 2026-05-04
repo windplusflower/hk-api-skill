@@ -1,4 +1,4 @@
-﻿# Close
+# Close
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Close |
 | GameObject Name | Colosseum Hatch |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level30 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level30 |
 | Start State | Init |
 | FSM PathId | 694 |
 | GameObject PathId | 119 |

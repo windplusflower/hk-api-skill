@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Mantis Grave/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level225 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level225 |
 | Start State | Init |
 | FSM PathId | 1741 |
 | GameObject PathId | 283 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Crack 1 (2) |
 | GameObject Path | mage_window/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level396 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level396 |
 | Start State | Init |
 | FSM PathId | 3148 |
 | GameObject PathId | 702 |

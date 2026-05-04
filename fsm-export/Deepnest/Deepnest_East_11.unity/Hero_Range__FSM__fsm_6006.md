@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | Grub Bottle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level315 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level315 |
 | Start State | Init |
 | FSM PathId | 6006 |
 | GameObject PathId | 1838 |

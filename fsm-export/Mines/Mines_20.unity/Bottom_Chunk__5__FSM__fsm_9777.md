@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Bottom Chunk (5) |
 | GameObject Path | Mines Middle Shelf (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level263 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level263 |
 | Start State | Spin At Start? |
 | FSM PathId | 9777 |
 | GameObject PathId | 1817 |

@@ -1,4 +1,4 @@
-﻿# Escalation
+# Escalation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Escalation |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level439 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level439 |
 | Start State | Idle |
 | FSM PathId | 2004 |
 | GameObject PathId | 201 |

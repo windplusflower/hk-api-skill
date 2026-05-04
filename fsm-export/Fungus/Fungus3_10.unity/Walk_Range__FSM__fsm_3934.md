@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Walk Range |
 | GameObject Path | Battle Scene/Completed/Mantis Heavy/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Initialise |
 | FSM PathId | 3934 |
 | GameObject PathId | 81 |

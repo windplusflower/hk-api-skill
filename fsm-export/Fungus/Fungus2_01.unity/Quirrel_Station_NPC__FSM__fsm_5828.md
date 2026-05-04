@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Quirrel Station NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level165 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level165 |
 | Start State | Pause |
 | FSM PathId | 5828 |
 | GameObject PathId | 1786 |

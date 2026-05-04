@@ -1,4 +1,4 @@
-﻿# Vessel Fragment Control
+# Vessel Fragment Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Vessel Fragment Control |
 | GameObject Name | Vessel Fragment Stagnest (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level233 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level233 |
 | Start State | Pause |
 | FSM PathId | 4893 |
 | GameObject PathId | 173 |
@@ -310,9 +310,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [heartpiece_collect (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| audioClip |   | [heartpiece_collect (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -451,7 +451,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Heart Piece Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| gameObject |   | [Global] [Heart Piece Orb (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 20 |   |   |
@@ -526,7 +526,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vessel Fragment UI (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| gameObject |   | [Global] [Vessel Fragment UI (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -665,7 +665,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -886,7 +886,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -976,7 +976,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave Default (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets22.assets)] |   |   |
+| gameObject |   | [Global] [White Wave Default (Hollow Knight/hollow_knight_Data\sharedassets22.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.5) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

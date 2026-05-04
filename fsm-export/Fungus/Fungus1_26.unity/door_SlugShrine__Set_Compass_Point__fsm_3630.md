@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_SlugShrine |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level154 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level154 |
 | Start State | Idle |
 | FSM PathId | 3630 |
 | GameObject PathId | 160 |

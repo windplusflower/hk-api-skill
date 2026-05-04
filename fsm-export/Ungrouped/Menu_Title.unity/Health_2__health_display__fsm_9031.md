@@ -1,4 +1,4 @@
-﻿# health_display
+# health_display
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | health_display |
 | GameObject Name | Health 2 |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Health/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9031 |
 | GameObject PathId | 980 |
@@ -1102,7 +1102,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Heal Particles | Variable |   |
-| gameObject |   | [Global] [HP Up Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [HP Up Particles (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -1203,7 +1203,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Heal Particles | Variable |   |
-| gameObject |   | [Global] [HP Up Particles Hive (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [HP Up Particles Hive (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

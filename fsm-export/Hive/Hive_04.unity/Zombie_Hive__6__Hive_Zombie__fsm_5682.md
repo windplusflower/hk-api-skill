@@ -1,4 +1,4 @@
-﻿# Hive Zombie
+# Hive Zombie
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hive Zombie |
 | GameObject Name | Zombie Hive (6) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | Init |
 | FSM PathId | 5682 |
 | GameObject PathId | 238 |
@@ -56,11 +56,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Birth Spot 1 | Zombie Hive (6)/Birth Spot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Birth Spot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
-| Birth Spot 2 | Zombie Hive (6)/Birth Spot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Birth Spot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
+| Birth Spot 1 | Zombie Hive (6)/Birth Spot 1 (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Birth Spot 1 (Hollow Knight/hollow_knight_Data\level388)] |
+| Birth Spot 2 | Zombie Hive (6)/Birth Spot 2 (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Birth Spot 2 (Hollow Knight/hollow_knight_Data\level388)] |
 | Cage | [null] | NamedAssetPPtr: [null] |
-| Centre | Zombie Hive (6)/Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
-| FootstepAudio | Zombie Hive (6)/FootstepAudio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/FootstepAudio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
+| Centre | Zombie Hive (6)/Centre (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/Centre (Hollow Knight/hollow_knight_Data\level388)] |
+| FootstepAudio | Zombie Hive (6)/FootstepAudio (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Zombie Hive (6)/FootstepAudio (Hollow Knight/hollow_knight_Data\level388)] |
 | Ground Check Obj | [null] | NamedAssetPPtr: [null] |
 | Hatchling | [null] | NamedAssetPPtr: [null] |
 | Run Check Obj | [null] | NamedAssetPPtr: [null] |
@@ -372,9 +372,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Royal_Zombie_death_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets84.assets)] |   |   |
+| audioClip |   | [Royal_Zombie_death_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets84.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -454,9 +454,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Royal_Zombie_attack_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets84.assets)] |   |   |
+| audioClip |   | [Royal_Zombie_attack_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets84.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -486,7 +486,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hive_zombie_give_birth (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [hive_zombie_give_birth (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 2. SetBoolValue
 
@@ -661,8 +661,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
-| spawnPoint |   | [Zombie Hive (6)/Birth Spot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
+| spawnPoint |   | [Zombie Hive (6)/Birth Spot 1 (Hollow Knight/hollow_knight_Data\level388)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 5 |   |   |
 | spawnMax |   | 6 |   |   |
@@ -800,8 +800,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Zombie Hive (6)/Birth Spot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Zombie Hive (6)/Birth Spot 2 (Hollow Knight/hollow_knight_Data\level388)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 5 |   |   |
 | spawnMax |   | 6 |   |   |
@@ -1032,7 +1032,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -1220,7 +1220,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hive_zombie_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [hive_zombie_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 

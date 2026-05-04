@@ -1,4 +1,4 @@
-﻿# Sequence Control
+# Sequence Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sequence Control |
 | GameObject Name | abyss_door_5_cutscene_sequence |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level499 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level499 |
 | Start State | Start |
 | FSM PathId | 649 |
 | GameObject PathId | 201 |

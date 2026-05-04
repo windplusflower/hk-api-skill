@@ -1,4 +1,4 @@
-﻿# menu_pointer
+# menu_pointer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | menu_pointer |
 | GameObject Name | Pointer R |
 | GameObject Path | Stag Map/UI List Stag/Deepnest/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | Init |
 | FSM PathId | 1729 |
 | GameObject PathId | 235 |

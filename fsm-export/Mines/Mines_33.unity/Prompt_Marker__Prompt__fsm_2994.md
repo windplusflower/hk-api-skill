@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Toll Gate Machine (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level272 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level272 |
 | Start State | Init |
 | FSM PathId | 2994 |
 | GameObject PathId | 379 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Death Eye Glow |
 | GameObject Path | Boss Control/Radiance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2557 |
 | GameObject PathId | 504 |

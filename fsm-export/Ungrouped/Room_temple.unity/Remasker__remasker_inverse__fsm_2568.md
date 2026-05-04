@@ -1,4 +1,4 @@
-﻿# remasker_inverse
+# remasker_inverse
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | remasker_inverse |
 | GameObject Name | Remasker |
 | GameObject Path | Infected_Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level19 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level19 |
 | Start State | Pause |
 | FSM PathId | 2568 |
 | GameObject PathId | 67 |

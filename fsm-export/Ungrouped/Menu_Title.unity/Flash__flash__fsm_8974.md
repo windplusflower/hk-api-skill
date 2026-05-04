@@ -1,4 +1,4 @@
-﻿# flash
+# flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flash |
 | GameObject Name | Flash |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Vessel 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 8974 |
 | GameObject PathId | 940 |

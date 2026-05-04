@@ -1,4 +1,4 @@
-﻿# Follow
+# Follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow |
 | GameObject Name | Spin Tink |
 | GameObject Path | Battle Scene/Sly Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level460 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level460 |
 | Start State | Pause Frame |
 | FSM PathId | 1481 |
 | GameObject PathId | 373 |

@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | ground_haze (3) |
 | GameObject Path | GG_Statue_Radiance/Base/Statue/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Idle |
 | FSM PathId | 12511 |
 | GameObject PathId | 403 |

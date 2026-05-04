@@ -1,4 +1,4 @@
-﻿# HeroLight Control
+# HeroLight Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | HeroLight Control |
 | GameObject Name | HeroLight |
 | GameObject Path | _Props/abyss_door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | Init |
 | FSM PathId | 11049 |
 | GameObject PathId | 3242 |

@@ -1,4 +1,4 @@
-﻿# Spit Anim
+# Spit Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit Anim |
 | GameObject Name | Spit Effect |
 | GameObject Path | Mushroom Brawler/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level191 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level191 |
 | Start State | Idle |
 | FSM PathId | 10226 |
 | GameObject PathId | 321 |

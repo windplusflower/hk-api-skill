@@ -1,4 +1,4 @@
-﻿# Attack
+# Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack |
 | GameObject Name | Royal Zombie 1 |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Init |
 | FSM PathId | 2592 |
 | GameObject PathId | 437 |
@@ -32,7 +32,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Swipe | _Scenery/Royal Zombie 1/Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level105) | NamedAssetPPtr: [_Scenery/Royal Zombie 1/Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level105)] |
+| Swipe | _Scenery/Royal Zombie 1/Swipe (Hollow Knight/hollow_knight_Data\level105) | NamedAssetPPtr: [_Scenery/Royal Zombie 1/Swipe (Hollow Knight/hollow_knight_Data\level105)] |
 
 ## States
 
@@ -112,7 +112,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [royal_pointy_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets84.assets)] |   |   |
+| oneShotClip |   | [royal_pointy_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets84.assets)] |   |   |
 
 ##### 3. FaceObject
 
@@ -309,7 +309,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -342,7 +342,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [royal_pointy_punching_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets84.assets)] |   |   |
+| oneShotClip |   | [royal_pointy_punching_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets84.assets)] |   |   |
 
 ##### 2. Decelerate
 

@@ -1,4 +1,4 @@
-﻿# Bouncer Control
+# Bouncer Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bouncer Control |
 | GameObject Name | Fly 1 |
 | GameObject Path | Uninfected Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level43 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level43 |
 | Start State | Initialise |
 | FSM PathId | 6187 |
 | GameObject PathId | 304 |

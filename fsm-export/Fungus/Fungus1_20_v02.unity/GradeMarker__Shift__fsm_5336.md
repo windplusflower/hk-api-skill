@@ -1,4 +1,4 @@
-﻿# Shift
+# Shift
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift |
 | GameObject Name | GradeMarker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level148 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level148 |
 | Start State | Pause |
 | FSM PathId | 5336 |
 | GameObject PathId | 160 |

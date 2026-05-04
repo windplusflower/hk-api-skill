@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Hopper Spawn |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level310 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level310 |
 | Start State | Pause |
 | FSM PathId | 9375 |
 | GameObject PathId | 1399 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hopper | Hopper Spawn/Giant Hopper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level310) | NamedAssetPPtr: [Hopper Spawn/Giant Hopper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level310)] |
+| Hopper | Hopper Spawn/Giant Hopper (Hollow Knight/hollow_knight_Data\level310) | NamedAssetPPtr: [Hopper Spawn/Giant Hopper (Hollow Knight/hollow_knight_Data\level310)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# Unparent
+# Unparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Unparent |
 | GameObject Name | Plane |
 | GameObject Path | Hard Land Effect/Bone/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level288 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level288 |
 | Start State | Unparent |
 | FSM PathId | 11182 |
 | GameObject PathId | 3261 |

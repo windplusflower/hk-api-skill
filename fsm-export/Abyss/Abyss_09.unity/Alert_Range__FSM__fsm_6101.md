@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Siblings/Shade Sibling (8)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level336 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level336 |
 | Start State | Initialise |
 | FSM PathId | 6101 |
 | GameObject PathId | 825 |

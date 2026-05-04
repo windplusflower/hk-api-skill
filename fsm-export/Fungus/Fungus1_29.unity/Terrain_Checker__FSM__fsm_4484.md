@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Terrain Checker |
 | GameObject Path | Mega Moss Charger/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level156 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level156 |
 | Start State | Init |
 | FSM PathId | 4484 |
 | GameObject PathId | 578 |

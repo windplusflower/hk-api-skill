@@ -1,4 +1,4 @@
-﻿# Geo Rock
+# Geo Rock
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Geo Rock |
 | GameObject Name | Giant Geo Egg |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level322 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level322 |
 | Start State | Pause Frame Init |
 | FSM PathId | 6983 |
 | GameObject PathId | 142 |
@@ -259,7 +259,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -272,7 +272,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Geo Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Geo Med (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | int Geo Per Hit |   |   |
@@ -494,7 +494,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Geo Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Geo Med (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | int Final Payout |   |   |
@@ -515,7 +515,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Particle Rock Small (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 8 |   |   |
@@ -547,7 +547,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Hit Med Down R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med Down R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.1) |   |   |
 | rotation |   | Vector3(-72.5, -180, -180) |   |   |
@@ -560,7 +560,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Hit Med R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.1) |   |   |
 | rotation |   | Vector3(-72.5, -180, -180) |   |   |
@@ -596,9 +596,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [breakable_wall_death (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [breakable_wall_death (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -663,7 +663,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Hit Med R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.1) |   |   |
 | rotation |   | Vector3(0, 90, 270) |   |   |
@@ -729,7 +729,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Hit Med R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.1) |   |   |
 | rotation |   | Vector3(180, 90, 270) |   |   |
@@ -833,7 +833,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Hit Med R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.1) |   |   |
 | rotation |   | Vector3(-72.5, -180, -180) |   |   |

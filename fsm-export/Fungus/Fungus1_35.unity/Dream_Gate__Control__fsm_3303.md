@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3303 |
 | GameObject PathId | 663 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLocks | Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| CamLocks | Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level161)] |
 
 ## States
 
@@ -57,7 +57,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] | Variable |   |
+| gameObject |   | [Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level161)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions
@@ -113,7 +113,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] | Variable |   |
+| gameObject |   | [Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level161)] | Variable |   |
 | activate |   | true |   |   |
 
 #### Transitions
@@ -185,7 +185,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] | Variable |   |
+| gameObject |   | [Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level161)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions

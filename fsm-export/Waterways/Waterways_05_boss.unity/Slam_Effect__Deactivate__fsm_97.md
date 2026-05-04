@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | Slam Effect |
 | GameObject Path | Dung Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level355 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level355 |
 | Start State | Init |
 | FSM PathId | 97 |
 | GameObject PathId | 17 |

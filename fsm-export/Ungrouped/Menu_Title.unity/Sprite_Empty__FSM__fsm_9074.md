@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Sprite Empty |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/Equipped Charms/Notches/Charm Cost 11/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9074 |
 | GameObject PathId | 1226 |

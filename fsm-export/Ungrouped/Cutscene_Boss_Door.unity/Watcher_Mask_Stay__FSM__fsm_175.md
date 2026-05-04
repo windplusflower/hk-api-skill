@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Watcher_Mask_Stay |
 | GameObject Path | Mask Break Cutscene/Stay Masks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level403 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level403 |
 | Start State | Pause |
 | FSM PathId | 175 |
 | GameObject PathId | 16 |

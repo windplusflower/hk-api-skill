@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Character Sprite |
 | GameObject Path | _NPCs/Gravedigger NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | State 1 |
 | FSM PathId | 4249 |
 | GameObject PathId | 1169 |

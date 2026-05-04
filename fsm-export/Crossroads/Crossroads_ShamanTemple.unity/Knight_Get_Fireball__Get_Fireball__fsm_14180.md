@@ -1,4 +1,4 @@
-﻿# Get Fireball
+# Get Fireball
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Fireball |
 | GameObject Name | Knight Get Fireball |
 | GameObject Path | _Props/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Start |
 | FSM PathId | 14180 |
 | GameObject PathId | 2548 |
@@ -53,9 +53,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spell_pickup_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [spell_pickup_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -147,7 +147,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -366,7 +366,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -392,9 +392,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spell_pickup_final_boom (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| audioClip |   | [spell_pickup_final_boom (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -421,7 +421,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [White Wave (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

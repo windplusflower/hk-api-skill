@@ -1,4 +1,4 @@
-﻿# enemy_message
+# enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_message |
 | GameObject Name | GO UP Message |
 | GameObject Path | _Transition Gates/bot1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Idle |
 | FSM PathId | 5792 |
 | GameObject PathId | 125 |

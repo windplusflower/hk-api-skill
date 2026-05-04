@@ -1,4 +1,4 @@
-﻿# Display Title
+# Display Title
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Display Title |
 | GameObject Name | GG Ghost Boss Title |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level437 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level437 |
 | Start State | Wait |
 | FSM PathId | 1601 |
 | GameObject PathId | 417 |

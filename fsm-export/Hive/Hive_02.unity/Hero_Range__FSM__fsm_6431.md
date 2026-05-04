@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | Bee Hatchling Ambient (12)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level385 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level385 |
 | Start State | Initialise |
 | FSM PathId | 6431 |
 | GameObject PathId | 679 |

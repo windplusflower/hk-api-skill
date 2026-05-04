@@ -1,4 +1,4 @@
-﻿# Hurl
+# Hurl
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hurl |
 | GameObject Name | Door Piece 1 (1) |
 | GameObject Path | Final Boss Door/Debris 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level19 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level19 |
 | Start State | Fling |
 | FSM PathId | 2642 |
 | GameObject PathId | 341 |

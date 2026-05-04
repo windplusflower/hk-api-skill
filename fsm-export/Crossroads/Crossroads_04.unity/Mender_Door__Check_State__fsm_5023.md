@@ -1,4 +1,4 @@
-﻿# Check State
+# Check State
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check State |
 | GameObject Name | Mender Door |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level40 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level40 |
 | Start State | Pause |
 | FSM PathId | 5023 |
 | GameObject PathId | 561 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Door Closed | _Transition Gates/Mender Door/Door Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Door Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40)] |
+| Door Closed | _Transition Gates/Mender Door/Door Closed (Hollow Knight/hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Door Closed (Hollow Knight/hollow_knight_Data\level40)] |
 | Door Object | [null] | NamedAssetPPtr: [null] |
-| Door Opened | _Transition Gates/Mender Door/Door Opened (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Door Opened (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40)] |
-| Inspect | _Transition Gates/Mender Door/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40)] |
+| Door Opened | _Transition Gates/Mender Door/Door Opened (Hollow Knight/hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Door Opened (Hollow Knight/hollow_knight_Data\level40)] |
+| Inspect | _Transition Gates/Mender Door/Inspect (Hollow Knight/hollow_knight_Data\level40) | NamedAssetPPtr: [_Transition Gates/Mender Door/Inspect (Hollow Knight/hollow_knight_Data\level40)] |
 
 ## States
 
@@ -57,7 +57,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Door Closed" |   |   |
-| storeResult |   | [_Transition Gates/Mender Door/Door Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40)] | Variable |   |
+| storeResult |   | [_Transition Gates/Mender Door/Door Closed (Hollow Knight/hollow_knight_Data\level40)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -79,7 +79,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Door Opened" |   |   |
-| storeResult |   | [_Transition Gates/Mender Door/Door Opened (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level40)] | Variable |   |
+| storeResult |   | [_Transition Gates/Mender Door/Door Opened (Hollow Knight/hollow_knight_Data\level40)] | Variable |   |
 
 #### Transitions
 

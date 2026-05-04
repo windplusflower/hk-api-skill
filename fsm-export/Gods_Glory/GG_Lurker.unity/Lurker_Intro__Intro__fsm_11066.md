@@ -1,4 +1,4 @@
-﻿# Intro
+# Intro
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Intro |
 | GameObject Name | Lurker Intro |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Idle |
 | FSM PathId | 11066 |
 | GameObject PathId | 3827 |
@@ -105,9 +105,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_small_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets15.assets)] |   |   |
+| audioClip |   | [hornet_small_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets15.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -121,9 +121,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Lurker_startle_07 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
+| audioClip |   | [Lurker_startle_07 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
 | pitchMin |   | 1.2f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -177,7 +177,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -228,9 +228,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Lurker_startle_12 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
+| audioClip |   | [Lurker_startle_12 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -244,9 +244,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [misc_rumble_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| audioClip |   | [misc_rumble_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -415,9 +415,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -431,9 +431,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Lurker_startle_10 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
+| audioClip |   | [Lurker_startle_10 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -505,9 +505,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_wall_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets15.assets)] |   |   |
+| audioClip |   | [hornet_wall_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets15.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -609,9 +609,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |

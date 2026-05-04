@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Sharp Flash |
 | GameObject Path | Nightmare Lantern/lantern_dream/big_lantern/grimm_brazier/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Init |
 | FSM PathId | 1562 |
 | GameObject PathId | 152 |

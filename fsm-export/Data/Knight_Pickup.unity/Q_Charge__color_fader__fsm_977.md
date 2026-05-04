@@ -1,4 +1,4 @@
-﻿# color_fader
+# color_fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | color_fader |
 | GameObject Name | Q Charge |
 | GameObject Path | Knight/Spells/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 977 |
 | GameObject PathId | 36 |

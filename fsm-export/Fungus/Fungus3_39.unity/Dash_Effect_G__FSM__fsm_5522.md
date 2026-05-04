@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dash Effect G |
 | GameObject Path | Shiny Spawner/Mantis Heavy Spawn/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level219 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level219 |
 | Start State | Init |
 | FSM PathId | 5522 |
 | GameObject PathId | 428 |

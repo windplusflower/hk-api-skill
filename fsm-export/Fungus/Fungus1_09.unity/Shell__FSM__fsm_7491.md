@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Shell |
 | GameObject Path | Acid Flyer (12)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level138 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level138 |
 | Start State | Pause Frame |
 | FSM PathId | 7491 |
 | GameObject PathId | 587 |

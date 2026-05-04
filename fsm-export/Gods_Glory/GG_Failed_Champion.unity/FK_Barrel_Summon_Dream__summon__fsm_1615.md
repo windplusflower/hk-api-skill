@@ -1,4 +1,4 @@
-﻿# summon
+# summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | summon |
 | GameObject Name | FK Barrel Summon Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level431 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level431 |
 | Start State | Idle |
 | FSM PathId | 1615 |
 | GameObject PathId | 33 |
@@ -146,7 +146,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Falling Barrel (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| gameObject |   | [Global] [Falling Barrel (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -161,7 +161,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Falling Barrel (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| gameObject |   | [Global] [Falling Barrel (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

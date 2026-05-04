@@ -1,4 +1,4 @@
-﻿# Laser Bug
+# Laser Bug
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Laser Bug |
 | GameObject Name | Laser Turret Frames (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level253 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level253 |
 | Start State | Init |
 | FSM PathId | 3798 |
 | GameObject PathId | 542 |
@@ -46,10 +46,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Beam | Laser Turret Frames (3)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253)] |
-| Beam Ball | Laser Turret Frames (3)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253)] |
+| Beam | Laser Turret Frames (3)/Beam (Hollow Knight/hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam (Hollow Knight/hollow_knight_Data\level253)] |
+| Beam Ball | Laser Turret Frames (3)/Beam Ball (Hollow Knight/hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam Ball (Hollow Knight/hollow_knight_Data\level253)] |
 | Beam Glow | [null] | NamedAssetPPtr: [null] |
-| Beam Impact | Laser Turret Frames (3)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level253)] |
+| Beam Impact | Laser Turret Frames (3)/Beam Impact (Hollow Knight/hollow_knight_Data\level253) | NamedAssetPPtr: [Laser Turret Frames (3)/Beam Impact (Hollow Knight/hollow_knight_Data\level253)] |
 | Burn Particle | [null] | NamedAssetPPtr: [null] |
 | End Particle | [null] | NamedAssetPPtr: [null] |
 | Impact Particle | [null] | NamedAssetPPtr: [null] |
@@ -264,7 +264,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 
 ##### 4. SetMeshRenderer
 

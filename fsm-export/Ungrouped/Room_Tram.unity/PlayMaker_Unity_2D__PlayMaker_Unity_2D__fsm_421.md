@@ -1,4 +1,4 @@
-﻿# PlayMaker Unity 2D
+# PlayMaker Unity 2D
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | PlayMaker Unity 2D |
 | GameObject Name | PlayMaker Unity 2D |
 | GameObject Path | _Managers/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level23 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level23 |
 | Start State |   |
 | FSM PathId | 421 |
 | GameObject PathId | 7 |

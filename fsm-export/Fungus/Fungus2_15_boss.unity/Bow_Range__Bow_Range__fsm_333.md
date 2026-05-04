@@ -1,4 +1,4 @@
-﻿# Bow Range
+# Bow Range
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bow Range |
 | GameObject Name | Bow Range |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Detect |
 | FSM PathId | 333 |
 | GameObject PathId | 66 |

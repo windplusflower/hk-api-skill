@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Toll Machine Bench/RestBench/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level108 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level108 |
 | Start State | Init |
 | FSM PathId | 2905 |
 | GameObject PathId | 494 |

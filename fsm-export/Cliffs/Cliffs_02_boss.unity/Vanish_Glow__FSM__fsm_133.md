@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Vanish Glow |
 | GameObject Path | Ghost Warrior NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level232 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level232 |
 | Start State | Init |
 | FSM PathId | 133 |
 | GameObject PathId | 21 |

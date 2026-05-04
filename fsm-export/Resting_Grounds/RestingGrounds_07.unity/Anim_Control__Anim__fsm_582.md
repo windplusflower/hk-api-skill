@@ -1,4 +1,4 @@
-﻿# Anim
+# Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim |
 | GameObject Name | Anim Control |
 | GameObject Path | Dream Moth/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level242 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level242 |
 | Start State | Init |
 | FSM PathId | 582 |
 | GameObject PathId | 33 |

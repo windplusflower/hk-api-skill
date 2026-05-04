@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | CamLock Intro |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level432 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level432 |
 | Start State | State 1 |
 | FSM PathId | 1710 |
 | GameObject PathId | 60 |

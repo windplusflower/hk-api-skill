@@ -1,4 +1,4 @@
-﻿# Block Bounce
+# Block Bounce
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Block Bounce |
 | GameObject Name | Shell |
 | GameObject Path | Acid Flyer (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level138 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level138 |
 | Start State | Init |
 | FSM PathId | 7621 |
 | GameObject PathId | 1799 |

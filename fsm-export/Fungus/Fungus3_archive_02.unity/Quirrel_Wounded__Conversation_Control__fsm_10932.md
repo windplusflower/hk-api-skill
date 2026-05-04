@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Quirrel Wounded |
 | GameObject Path | Dreamer Monomon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level228 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level228 |
 | Start State | Init |
 | FSM PathId | 10932 |
 | GameObject PathId | 1609 |
@@ -375,7 +375,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Area Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| gameObject |   | [Area Title (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -524,9 +524,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Quirrel_exhausted_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets228.assets)] |   |   |
+| audioClip |   | [Quirrel_exhausted_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets228.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Go Upper
+# Go Upper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Go Upper |
 | GameObject Name | Ruins Flying Sentry Javelin (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level94 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level94 |
 | Start State | Idle |
 | FSM PathId | 7154 |
 | GameObject PathId | 1335 |

@@ -1,4 +1,4 @@
-﻿# Tram Control
+# Tram Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tram Control |
 | GameObject Name | Tram Main |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level74 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level74 |
 | Start State | Pause |
 | FSM PathId | 1440 |
 | GameObject PathId | 447 |
@@ -45,12 +45,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Door | Tram Main/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Door Inspect | Tram Main/Door Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Door Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Door Region | Tram Main/door_tram (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/door_tram (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Interior Lights | Tram Main/Interior Lights (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Interior Lights (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Pt Dust | Tram Main/Pt Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Pt Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Pt Rocks | Tram Main/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
+| Door | Tram Main/Door (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Door (Hollow Knight/hollow_knight_Data\level74)] |
+| Door Inspect | Tram Main/Door Inspect (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Door Inspect (Hollow Knight/hollow_knight_Data\level74)] |
+| Door Region | Tram Main/door_tram (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/door_tram (Hollow Knight/hollow_knight_Data\level74)] |
+| Interior Lights | Tram Main/Interior Lights (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Interior Lights (Hollow Knight/hollow_knight_Data\level74)] |
+| Pt Dust | Tram Main/Pt Dust (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Pt Dust (Hollow Knight/hollow_knight_Data\level74)] |
+| Pt Rocks | Tram Main/Pt Rocks (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Main/Pt Rocks (Hollow Knight/hollow_knight_Data\level74)] |
 
 ## States
 
@@ -533,7 +533,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [toll_bench_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets23.assets)] |   |   |
+| oneShotClip |   | [toll_bench_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets23.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -542,9 +542,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

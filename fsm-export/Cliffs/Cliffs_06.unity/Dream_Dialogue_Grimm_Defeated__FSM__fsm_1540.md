@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dream Dialogue Grimm Defeated |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Pause |
 | FSM PathId | 1540 |
 | GameObject PathId | 216 |

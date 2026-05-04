@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unalert Range |
 | GameObject Path | Super Spitter (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level311 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level311 |
 | Start State | Initialise |
 | FSM PathId | 10314 |
 | GameObject PathId | 2887 |

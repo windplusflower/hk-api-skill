@@ -1,4 +1,4 @@
-﻿# Spawn Control
+# Spawn Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn Control |
 | GameObject Name | Flamebearer Spawn |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level139 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level139 |
 | Start State | Pause |
 | FSM PathId | 7689 |
 | GameObject PathId | 2341 |
@@ -39,18 +39,18 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Active Effects | Flamebearer Spawn/Active Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Active Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |
+| Active Effects | Flamebearer Spawn/Active Effects (Hollow Knight/hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Active Effects (Hollow Knight/hollow_knight_Data\level139)] |
 | Flamebearer | [null] | NamedAssetPPtr: [null] |
-| Get Flame | Flamebearer Spawn/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |
-| Get Flash | Flamebearer Spawn/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |
+| Get Flame | Flamebearer Spawn/Get Flame (Hollow Knight/hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Get Flame (Hollow Knight/hollow_knight_Data\level139)] |
+| Get Flash | Flamebearer Spawn/Get Flash (Hollow Knight/hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Get Flash (Hollow Knight/hollow_knight_Data\level139)] |
 | Grimmchild | [null] | NamedAssetPPtr: [null] |
-| Grimmkin Obj | Flamebearer Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Flamebearer Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
+| Grimmkin Obj | Flamebearer Small (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Flamebearer Small (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
 | Msg | [null] | NamedAssetPPtr: [null] |
 | Msg Icon | [null] | NamedAssetPPtr: [null] |
 | Msg Text | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Spawn Point Med | Flamebearer Spawn/Spawn Point Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Spawn Point Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |
-| Spawn Point Small | Flamebearer Spawn/Spawn Point Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Spawn Point Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |
+| Spawn Point Med | Flamebearer Spawn/Spawn Point Med (Hollow Knight/hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Spawn Point Med (Hollow Knight/hollow_knight_Data\level139)] |
+| Spawn Point Small | Flamebearer Spawn/Spawn Point Small (Hollow Knight/hollow_knight_Data\level139) | NamedAssetPPtr: [Flamebearer Spawn/Spawn Point Small (Hollow Knight/hollow_knight_Data\level139)] |
 
 ## States
 
@@ -254,7 +254,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | GameObject Grimmkin Obj |   |   |
-| spawnPoint |   | [Flamebearer Spawn/Spawn Point Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |   |   |
+| spawnPoint |   | [Flamebearer Spawn/Spawn Point Small (Hollow Knight/hollow_knight_Data\level139)] |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Flamebearer | Variable |   |
@@ -354,7 +354,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions
@@ -478,9 +478,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Grimmchild |   |   |
-| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -591,7 +591,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Relic Get Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Relic Get Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -627,7 +627,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [charm_grimmkin_01_upgrade (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [charm_grimmkin_01_upgrade (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 12. GetLanguageString
 
@@ -657,9 +657,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Grimmchild |   |   |
-| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.75f |   |   |
@@ -699,7 +699,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | GameObject Grimmkin Obj |   |   |
-| spawnPoint |   | [Flamebearer Spawn/Spawn Point Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |   |   |
+| spawnPoint |   | [Flamebearer Spawn/Spawn Point Med (Hollow Knight/hollow_knight_Data\level139)] |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Flamebearer | Variable |   |
@@ -728,7 +728,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | GameObject Grimmkin Obj |   |   |
-| spawnPoint |   | [Flamebearer Spawn/Spawn Point Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level139)] |   |   |
+| spawnPoint |   | [Flamebearer Spawn/Spawn Point Med (Hollow Knight/hollow_knight_Data\level139)] |   |   |
 | position |   | Vector3(0, 2, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Flamebearer | Variable |   |

@@ -1,4 +1,4 @@
-﻿# Spike Hit Effect
+# Spike Hit Effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spike Hit Effect |
 | GameObject Name | Shield |
 | GameObject Path | Dreamer Monomon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level228 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level228 |
 | Start State | Initiate |
 | FSM PathId | 10713 |
 | GameObject PathId | 245 |
@@ -319,7 +319,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -482,7 +482,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Block Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Block Hit (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Block Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -616,7 +616,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Block Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Block Hit (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Block Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 180) |   |   |
@@ -762,7 +762,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Block Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Block Hit (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Block Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 90) |   |   |
@@ -908,7 +908,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Block Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Block Hit (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Block Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 270) |   |   |

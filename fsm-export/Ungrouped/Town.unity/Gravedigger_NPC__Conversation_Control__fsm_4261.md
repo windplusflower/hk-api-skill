@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Gravedigger NPC |
 | GameObject Path | _NPCs/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 4261 |
 | GameObject PathId | 1174 |

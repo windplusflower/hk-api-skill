@@ -1,4 +1,4 @@
-﻿# Dust
+# Dust
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dust |
 | GameObject Name | Slope |
 | GameObject Path | Fk Break Wall/Broken/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Init |
 | FSM PathId | 7868 |
 | GameObject PathId | 546 |
@@ -144,7 +144,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Tiny Transient (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Particle Rock Tiny Transient (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Rock Point |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 7 |   |   |

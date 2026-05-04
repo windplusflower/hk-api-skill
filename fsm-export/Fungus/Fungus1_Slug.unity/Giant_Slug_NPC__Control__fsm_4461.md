@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Giant Slug NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level164 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level164 |
 | Start State | Pause |
 | FSM PathId | 4461 |
 | GameObject PathId | 646 |
@@ -314,9 +314,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [uumuu_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets164.assets)] |   |   |
+| audioClip |   | [uumuu_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets164.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -404,7 +404,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 50 |   |   |
@@ -517,9 +517,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [mawlek_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| audioClip |   | [mawlek_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | pitchMin |   | 1.25f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |
@@ -571,7 +571,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Shiny Item |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |
@@ -665,9 +665,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [uumuu_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets164.assets)] |   |   |
+| audioClip |   | [uumuu_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets164.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -770,9 +770,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [uumuu_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets164.assets)] |   |   |
+| audioClip |   | [uumuu_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets164.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -786,9 +786,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [acid_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [acid_splash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |
@@ -802,9 +802,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Spatter Point |   |   |
-| audioClip |   | [acid_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [acid_splash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |

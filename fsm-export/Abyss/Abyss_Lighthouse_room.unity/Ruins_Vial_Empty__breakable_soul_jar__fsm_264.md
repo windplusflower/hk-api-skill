@@ -1,4 +1,4 @@
-﻿# breakable_soul_jar
+# breakable_soul_jar
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | breakable_soul_jar |
 | GameObject Name | Ruins Vial Empty |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level347 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level347 |
 | Start State | Idle |
 | FSM PathId | 264 |
 | GameObject PathId | 41 |
@@ -60,7 +60,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Soul Orb R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Soul Orb R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |

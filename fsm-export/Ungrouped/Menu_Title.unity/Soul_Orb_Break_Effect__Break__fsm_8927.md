@@ -1,4 +1,4 @@
-﻿# Break
+# Break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break |
 | GameObject Name | Soul Orb Break Effect |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 8927 |
 | GameObject PathId | 840 |

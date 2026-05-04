@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Audio Field (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Pause |
 | FSM PathId | 5543 |
 | GameObject PathId | 767 |

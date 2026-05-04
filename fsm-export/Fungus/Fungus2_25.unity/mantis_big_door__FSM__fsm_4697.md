@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | mantis_big_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level188 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level188 |
 | Start State | Pause |
 | FSM PathId | 4697 |
 | GameObject PathId | 224 |

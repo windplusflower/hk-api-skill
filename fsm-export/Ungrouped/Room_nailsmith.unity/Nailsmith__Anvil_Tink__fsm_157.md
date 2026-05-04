@@ -1,4 +1,4 @@
-﻿# Anvil Tink
+# Anvil Tink
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anvil Tink |
 | GameObject Name | Nailsmith |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level16 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level16 |
 | Start State | Init |
 | FSM PathId | 157 |
 | GameObject PathId | 8 |
@@ -93,9 +93,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [nailsmith_anvil (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| audioClip |   | [nailsmith_anvil (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

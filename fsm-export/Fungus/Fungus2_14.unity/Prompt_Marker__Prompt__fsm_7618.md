@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Quirrel Mantis NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level178 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level178 |
 | Start State | Init |
 | FSM PathId | 7618 |
 | GameObject PathId | 2013 |

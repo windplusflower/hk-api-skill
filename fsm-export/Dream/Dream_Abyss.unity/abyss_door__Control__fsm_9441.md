@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | abyss_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | Pause |
 | FSM PathId | 9441 |
 | GameObject PathId | 1460 |

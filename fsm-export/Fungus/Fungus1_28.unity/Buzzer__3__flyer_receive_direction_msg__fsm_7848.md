@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Buzzer (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level155 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level155 |
 | Start State | Idle |
 | FSM PathId | 7848 |
 | GameObject PathId | 987 |

@@ -1,4 +1,4 @@
-﻿# Strike
+# Strike
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Strike |
 | GameObject Name | Strike Nail |
 | GameObject Path | Bronze Trial Board/Burst/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level30 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level30 |
 | Start State | Initiate |
 | FSM PathId | 701 |
 | GameObject PathId | 138 |

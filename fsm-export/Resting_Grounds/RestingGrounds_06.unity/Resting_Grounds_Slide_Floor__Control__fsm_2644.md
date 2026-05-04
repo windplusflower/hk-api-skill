@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Resting Grounds Slide Floor |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level241 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level241 |
 | Start State | Pause |
 | FSM PathId | 2644 |
 | GameObject PathId | 720 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Plat Stream Dust | Resting Grounds Slide Floor/Plat Stream Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Plat Stream Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241)] |
-| Slam Dust | Resting Grounds Slide Floor/Slam Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Slam Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241)] |
-| Sprite | Resting Grounds Slide Floor/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241)] |
-| Whole Dust | Resting Grounds Slide Floor/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level241)] |
+| Plat Stream Dust | Resting Grounds Slide Floor/Plat Stream Dust (Hollow Knight/hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Plat Stream Dust (Hollow Knight/hollow_knight_Data\level241)] |
+| Slam Dust | Resting Grounds Slide Floor/Slam Dust (Hollow Knight/hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Slam Dust (Hollow Knight/hollow_knight_Data\level241)] |
+| Sprite | Resting Grounds Slide Floor/Sprite (Hollow Knight/hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Sprite (Hollow Knight/hollow_knight_Data\level241)] |
+| Whole Dust | Resting Grounds Slide Floor/Whole Dust (Hollow Knight/hollow_knight_Data\level241) | NamedAssetPPtr: [Resting Grounds Slide Floor/Whole Dust (Hollow Knight/hollow_knight_Data\level241)] |
 
 ## States
 
@@ -216,7 +216,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 
@@ -331,7 +331,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

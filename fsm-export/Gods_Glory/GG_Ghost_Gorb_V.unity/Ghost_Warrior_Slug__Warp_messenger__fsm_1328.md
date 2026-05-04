@@ -1,4 +1,4 @@
-﻿# Warp messenger
+# Warp messenger
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Warp messenger |
 | GameObject Name | Ghost Warrior Slug |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level489 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level489 |
 | Start State | Wait |
 | FSM PathId | 1328 |
 | GameObject PathId | 397 |

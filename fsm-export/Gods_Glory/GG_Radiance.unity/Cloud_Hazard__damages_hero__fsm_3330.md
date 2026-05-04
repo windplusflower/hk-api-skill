@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | Cloud Hazard |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3330 |
 | GameObject PathId | 369 |

@@ -1,4 +1,4 @@
-﻿# Bouncer Notify Parent
+# Bouncer Notify Parent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bouncer Notify Parent |
 | GameObject Name | Bouncer |
 | GameObject Path | Colosseum Manager/Waves/Wave 30 Obble/Mega Fat Bee (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 10931 |
 | GameObject PathId | 1713 |

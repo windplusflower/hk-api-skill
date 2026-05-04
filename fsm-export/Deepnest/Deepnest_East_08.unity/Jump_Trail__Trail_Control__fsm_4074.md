@@ -1,4 +1,4 @@
-﻿# Trail Control
+# Trail Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Trail Control |
 | GameObject Name | Jump Trail |
 | GameObject Path | Hopper (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level312 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level312 |
 | Start State | Init |
 | FSM PathId | 4074 |
 | GameObject PathId | 1100 |

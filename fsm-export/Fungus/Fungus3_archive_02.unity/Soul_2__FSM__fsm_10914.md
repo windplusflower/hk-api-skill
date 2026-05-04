@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Soul 2 |
 | GameObject Path | Dreamer Monomon/Particle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level228 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level228 |
 | Start State | Pause |
 | FSM PathId | 10914 |
 | GameObject PathId | 1591 |

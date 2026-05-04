@@ -1,4 +1,4 @@
-﻿# Challenge Start
+# Challenge Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Challenge Start |
 | GameObject Name | Challenge Prompt Radiant |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init 2 |
 | FSM PathId | 2655 |
 | GameObject PathId | 338 |
@@ -242,7 +242,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | string Prompt Name = "Challenge" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |
@@ -485,7 +485,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | string Prompt Name = "Challenge" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |
@@ -762,7 +762,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Hero |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_unsheath (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [hero_unsheath (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents

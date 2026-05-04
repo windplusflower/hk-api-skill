@@ -1,4 +1,4 @@
-﻿# destroy_after_anim
+# destroy_after_anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_after_anim |
 | GameObject Name | Burst Effect |
 | GameObject Path | Grimm Holder/Grimm Chest/Open Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Pause |
 | FSM PathId | 2005 |
 | GameObject PathId | 298 |

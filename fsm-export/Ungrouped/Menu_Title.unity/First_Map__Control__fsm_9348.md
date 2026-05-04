@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | First Map |
 | GameObject Path | _GameCameras/HudCamera/Prompts/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9348 |
 | GameObject PathId | 1023 |

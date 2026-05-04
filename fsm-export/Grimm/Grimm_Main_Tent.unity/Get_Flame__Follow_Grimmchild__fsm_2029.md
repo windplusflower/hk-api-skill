@@ -1,4 +1,4 @@
-﻿# Follow Grimmchild
+# Follow Grimmchild
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow Grimmchild |
 | GameObject Name | Get Flame |
 | GameObject Path | Grimm Holder/Grimm Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | State 1 |
 | FSM PathId | 2029 |
 | GameObject PathId | 557 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Webbing |
 | GameObject Path | Zote Deepnest/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Init |
 | FSM PathId | 6623 |
 | GameObject PathId | 310 |

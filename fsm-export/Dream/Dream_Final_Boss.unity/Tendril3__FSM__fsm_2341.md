@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Tendril3 |
 | GameObject Path | Boss Control/Abyss Pit/Tendrils 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2341 |
 | GameObject PathId | 118 |

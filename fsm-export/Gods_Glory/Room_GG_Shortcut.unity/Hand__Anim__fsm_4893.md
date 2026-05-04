@@ -1,4 +1,4 @@
-﻿# Anim
+# Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim |
 | GameObject Name | Hand |
 | GameObject Path | Fluke Hermit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level471 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level471 |
 | Start State | Idle |
 | FSM PathId | 4893 |
 | GameObject PathId | 1514 |

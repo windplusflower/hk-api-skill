@@ -1,4 +1,4 @@
-﻿# Check if midwarp or completed
+# Check if midwarp or completed
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check if midwarp or completed |
 | GameObject Name | Dream Enter 2 |
 | GameObject Path | Dusk Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level333 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level333 |
 | Start State | Pause |
 | FSM PathId | 3263 |
 | GameObject PathId | 90 |

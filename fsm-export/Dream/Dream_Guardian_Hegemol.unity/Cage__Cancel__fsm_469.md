@@ -1,4 +1,4 @@
-﻿# Cancel
+# Cancel
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cancel |
 | GameObject Name | Cage |
 | GameObject Path | Dreamer NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level400 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level400 |
 | Start State | Idle |
 | FSM PathId | 469 |
 | GameObject PathId | 78 |

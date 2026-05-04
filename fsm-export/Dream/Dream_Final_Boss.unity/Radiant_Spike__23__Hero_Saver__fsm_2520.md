@@ -1,4 +1,4 @@
-﻿# Hero Saver
+# Hero Saver
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hero Saver |
 | GameObject Name | Radiant Spike (23) |
 | GameObject Path | Boss Control/Spike Control/Far R/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Idle |
 | FSM PathId | 2520 |
 | GameObject PathId | 512 |

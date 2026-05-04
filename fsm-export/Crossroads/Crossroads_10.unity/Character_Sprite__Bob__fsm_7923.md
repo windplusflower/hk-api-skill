@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Character Sprite |
 | GameObject Path | Ghost False Knight NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | State 1 |
 | FSM PathId | 7923 |
 | GameObject PathId | 848 |

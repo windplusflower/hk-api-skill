@@ -1,4 +1,4 @@
-﻿# Splash Out Control
+# Splash Out Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Splash Out Control |
 | GameObject Name | Splash Out |
 | GameObject Path | Dung Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level355 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level355 |
 | Start State | Choose |
 | FSM PathId | 87 |
 | GameObject PathId | 8 |

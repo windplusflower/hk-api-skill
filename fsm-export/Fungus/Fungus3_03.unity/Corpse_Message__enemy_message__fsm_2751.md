@@ -1,4 +1,4 @@
-﻿# enemy_message
+# enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_message |
 | GameObject Name | Corpse Message |
 | GameObject Path | Acid Control v2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level199 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level199 |
 | Start State | Idle |
 | FSM PathId | 2751 |
 | GameObject PathId | 200 |

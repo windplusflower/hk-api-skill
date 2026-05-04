@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Roof Check |
 | GameObject Path | Colosseum_Miner/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 11138 |
 | GameObject PathId | 3347 |

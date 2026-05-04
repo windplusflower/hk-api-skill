@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Mantis Heavy Flyer (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level202 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level202 |
 | Start State | Initialise |
 | FSM PathId | 2714 |
 | GameObject PathId | 176 |

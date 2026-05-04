@@ -1,4 +1,4 @@
-﻿# Sit Start
+# Sit Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sit Start |
 | GameObject Name | Sit Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level13 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level13 |
 | Start State | State 1 |
 | FSM PathId | 703 |
 | GameObject PathId | 73 |

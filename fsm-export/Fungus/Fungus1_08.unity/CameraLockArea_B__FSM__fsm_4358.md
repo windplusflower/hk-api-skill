@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | CameraLockArea B |
 | GameObject Path | Hunter Entry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Pause |
 | FSM PathId | 4358 |
 | GameObject PathId | 725 |

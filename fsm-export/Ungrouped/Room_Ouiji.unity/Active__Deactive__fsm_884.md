@@ -1,4 +1,4 @@
-﻿# Deactive
+# Deactive
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactive |
 | GameObject Name | Active |
 | GameObject Path | Candle 1 (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level28 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level28 |
 | Start State | Idle |
 | FSM PathId | 884 |
 | GameObject PathId | 207 |

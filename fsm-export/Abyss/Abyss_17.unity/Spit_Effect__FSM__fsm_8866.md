@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spit Effect |
 | GameObject Path | Cloth Enemies/Lesser Mawlek (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level341 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level341 |
 | Start State | Init |
 | FSM PathId | 8866 |
 | GameObject PathId | 1312 |

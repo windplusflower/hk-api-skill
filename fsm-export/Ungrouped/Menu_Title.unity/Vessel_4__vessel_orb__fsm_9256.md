@@ -1,4 +1,4 @@
-﻿# vessel_orb
+# vessel_orb
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | vessel_orb |
 | GameObject Name | Vessel 4 |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Setup |
 | FSM PathId | 9256 |
 | GameObject PathId | 1271 |

@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Scuttler Spawner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level343 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level343 |
 | Start State | Init |
 | FSM PathId | 9907 |
 | GameObject PathId | 2226 |
@@ -108,7 +108,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Orange Scuttler IK (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [Orange Scuttler IK (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Pos Vector |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

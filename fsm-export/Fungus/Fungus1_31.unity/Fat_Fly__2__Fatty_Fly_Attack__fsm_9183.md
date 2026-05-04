@@ -1,4 +1,4 @@
-﻿# Fatty Fly Attack
+# Fatty Fly Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fatty Fly Attack |
 | GameObject Name | Fat Fly (2) |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level158 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level158 |
 | Start State | Sleep |
 | FSM PathId | 9183 |
 | GameObject PathId | 244 |
@@ -136,7 +136,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spitter Shot R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Spitter Shot R (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -157,7 +157,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spitter Shot R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Spitter Shot R (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -178,7 +178,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spitter Shot R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Spitter Shot R (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -199,7 +199,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spitter Shot R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Spitter Shot R (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -231,9 +231,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spitting_zombie_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| audioClip |   | [spitting_zombie_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

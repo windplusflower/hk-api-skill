@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Play Music Strings and Choir |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level402 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level402 |
 | Start State | Idle |
 | FSM PathId | 450 |
 | GameObject PathId | 27 |
@@ -69,7 +69,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Sub Area (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Sub Area (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 #### Transitions
@@ -102,7 +102,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Sub Area (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Sub Area (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 5f |   |   |
 
 #### Transitions

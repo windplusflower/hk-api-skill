@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spit Effect |
 | GameObject Path | Plant Turret (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level140 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level140 |
 | Start State | Init |
 | FSM PathId | 6347 |
 | GameObject PathId | 309 |

@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level432 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level432 |
 | Start State | Pause |
 | FSM PathId | 1692 |
 | GameObject PathId | 24 |
@@ -30,7 +30,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Tension Region | Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level432) | NamedAssetPPtr: [Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level432)] |
+| Tension Region | Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level432) | NamedAssetPPtr: [Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level432)] |
 
 ## States
 
@@ -84,7 +84,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level432)] |   |   |
+| gameObject |   | [Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level432)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 

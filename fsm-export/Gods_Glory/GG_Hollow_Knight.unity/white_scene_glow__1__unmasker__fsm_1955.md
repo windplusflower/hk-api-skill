@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | white_scene_glow (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Pause |
 | FSM PathId | 1955 |
 | GameObject PathId | 355 |

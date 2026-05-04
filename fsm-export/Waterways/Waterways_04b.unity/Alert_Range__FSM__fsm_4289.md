@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Inflater (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level353 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level353 |
 | Start State | Initialise |
 | FSM PathId | 4289 |
 | GameObject PathId | 504 |

@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash (1) |
 | GameObject Path | Grimm Control/Appear Scene/Great Eye Open 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level444 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level444 |
 | Start State | Idle |
 | FSM PathId | 2371 |
 | GameObject PathId | 13 |

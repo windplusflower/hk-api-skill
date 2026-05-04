@@ -1,4 +1,4 @@
-﻿# Inspection
+# Inspection
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Inspection |
 | GameObject Name | Tut_tablet_top |
 | GameObject Path | tut_tab_lit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level322 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level322 |
 | Start State | Pause |
 | FSM PathId | 7035 |
 | GameObject PathId | 1180 |
@@ -173,7 +173,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1202,9 +1202,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Lore_Tablet_activate_temp (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [Lore_Tablet_activate_temp (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1219,7 +1219,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [Lore_Tablet_activate_temp (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| highFidelityVibration |   | [Lore_Tablet_activate_temp (TextAsset) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |

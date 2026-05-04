@@ -1,4 +1,4 @@
-﻿# IK Control
+# IK Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | IK Control |
 | GameObject Name | Infected Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level425 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level425 |
 | Start State | Pause |
 | FSM PathId | 1924 |
 | GameObject PathId | 38 |
@@ -82,21 +82,21 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Corpse Inspect | Infected Knight/Corpse Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Corpse Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Dash Burst | Infected Knight/Dash Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Dash Slash | Infected Knight/Dash Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Dash Slash Hit | Infected Knight/Dash Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Dstab Burst | Infected Knight/Dstab Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dstab Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Dstab Slam | Infected Knight/Dstab Slam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dstab Slam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Overhead Slash | Infected Knight/Overhead Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Overhead Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
+| Corpse Inspect | Infected Knight/Corpse Inspect (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Corpse Inspect (Hollow Knight/hollow_knight_Data\level425)] |
+| Dash Burst | Infected Knight/Dash Burst (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Burst (Hollow Knight/hollow_knight_Data\level425)] |
+| Dash Slash | Infected Knight/Dash Slash (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Slash (Hollow Knight/hollow_knight_Data\level425)] |
+| Dash Slash Hit | Infected Knight/Dash Slash Hit (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dash Slash Hit (Hollow Knight/hollow_knight_Data\level425)] |
+| Dstab Burst | Infected Knight/Dstab Burst (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dstab Burst (Hollow Knight/hollow_knight_Data\level425)] |
+| Dstab Slam | Infected Knight/Dstab Slam (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Dstab Slam (Hollow Knight/hollow_knight_Data\level425)] |
+| Overhead Slash | Infected Knight/Overhead Slash (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Overhead Slash (Hollow Knight/hollow_knight_Data\level425)] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
 | Scuttler Check | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shadow | Infected Knight/Shadow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Shadow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
-| Shake Gas | Infected Knight/Shake Gas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Shake Gas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
+| Shadow | Infected Knight/Shadow (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Shadow (Hollow Knight/hollow_knight_Data\level425)] |
+| Shake Gas | Infected Knight/Shake Gas (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Shake Gas (Hollow Knight/hollow_knight_Data\level425)] |
 | Stun Hitbox | [null] | NamedAssetPPtr: [null] |
-| Summon Grass | Infected Knight/Summon Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Summon Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level425)] |
+| Summon Grass | Infected Knight/Summon Grass (Hollow Knight/hollow_knight_Data\level425) | NamedAssetPPtr: [Infected Knight/Summon Grass (Hollow Knight/hollow_knight_Data\level425)] |
 
 ## States
 
@@ -294,7 +294,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [brkn_wand_room_shake_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_room_shake_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -666,7 +666,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hollow_knight_scream_v1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| oneShotClip |   | [hollow_knight_scream_v1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 
 ##### 3. CreateObject
 
@@ -675,7 +675,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1086,7 +1086,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -1368,7 +1368,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -1549,7 +1549,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_down_stab_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_down_stab_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -1609,7 +1609,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_down_stab_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_down_stab_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -1719,7 +1719,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_down_stab_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_down_stab_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -1778,7 +1778,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1804,7 +1804,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1830,7 +1830,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1856,7 +1856,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1955,7 +1955,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_horizontal_dash_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_horizontal_dash_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 2. SetGravity2dScale
 
@@ -2100,7 +2100,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_horizontal_dash_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets243.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_horizontal_dash_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets243.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -2225,7 +2225,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_horizontal_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_horizontal_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -2460,9 +2460,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2476,9 +2476,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2492,9 +2492,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2508,9 +2508,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2785,7 +2785,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_small_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets15.assets)] |   |   |
+| oneShotClip |   | [hornet_small_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets15.assets)] |   |   |
 
 #### Transitions
 
@@ -2835,7 +2835,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 #### Transitions
 
@@ -2898,7 +2898,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [brkn_wand_headbanging_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| audioClip |   | [brkn_wand_headbanging_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 2. AudioPlaySimple
 
@@ -3216,7 +3216,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_horizontal_dash_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_horizontal_dash_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 
 ##### 3. SetGravity2dScale
 
@@ -3662,7 +3662,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. NextFrameEvent
 
@@ -3811,7 +3811,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 3. SetVelocity2d
 
@@ -4014,7 +4014,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -4580,7 +4580,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. CheckCollisionSide
 
@@ -4678,7 +4678,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 #### Transitions
 
@@ -4711,7 +4711,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [BossIK (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| musicCue |   | [BossIK (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -4722,7 +4722,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions

@@ -1,4 +1,4 @@
-﻿# Spell Control
+# Spell Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spell Control |
 | GameObject Name | Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Pause |
 | FSM PathId | 909 |
 | GameObject PathId | 161 |
@@ -130,7 +130,7 @@
 | Scr Orbs | [null] | NamedAssetPPtr: [null] |
 | Scr Orbs 2 | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| SlugWalk Audio | Knight/Sounds/SlugWalk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SlugWalk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| SlugWalk Audio | Knight/Sounds/SlugWalk (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SlugWalk (Hollow Knight/hollow_knight_Data\level4)] |
 | Spells Folder | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -1582,9 +1582,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [focus_health_heal (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [focus_health_heal (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1599,12 +1599,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [focus_health_heal (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [focus_health_heal (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [FocusHealthHeal (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [FocusHealthHeal (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 6. CallMethodProper
 
@@ -1626,7 +1626,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.21) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2226,7 +2226,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Fireball Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Fireball Top (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2252,12 +2252,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_fireball (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_fireball (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [Fireball (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [Fireball (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -2856,7 +2856,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Fireball2 Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Fireball2 Top (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2882,12 +2882,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_fireball (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_fireball (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [Fireball (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [Fireball (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -3235,7 +3235,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_quake_spell_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_quake_spell_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. SendMessage
@@ -3258,12 +3258,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_quake_spell_prepare (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_quake_spell_prepare (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [QuakeStart (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [QuakeStart (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SetVelocity2d
 
@@ -3585,7 +3585,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_quake_spell_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_quake_spell_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -3596,12 +3596,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_quake_spell_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_quake_spell_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [QuakeImpact (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [QuakeImpact (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendEventByName
 
@@ -4032,7 +4032,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_scream_spell (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_scream_spell (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -4043,12 +4043,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_scream_spell (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_scream_spell (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [Scream (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [Scream (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendMessage
 
@@ -4144,7 +4144,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter Scream (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter Scream (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 2, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -4524,7 +4524,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_void_quake_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_void_quake_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -4535,12 +4535,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_void_quake_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_void_quake_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [QuakeImpact (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [QuakeImpact (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendEventByName
 
@@ -4810,7 +4810,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter Scream (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter Scream (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 3, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -6082,7 +6082,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_scream_spell (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_scream_spell (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -6093,12 +6093,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_scream_spell (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_scream_spell (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [Scream (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [Scream (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendMessage
 
@@ -6195,7 +6195,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter Scream (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter Scream (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -6385,7 +6385,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Knight Spore Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Knight Spore Cloud (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -6521,7 +6521,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Knight Dung Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Knight Dung Cloud (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -6825,9 +6825,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [focus_health_heal (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [focus_health_heal (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -6842,12 +6842,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [focus_health_heal (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [focus_health_heal (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [FocusHealthHeal (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [FocusHealthHeal (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 7. CallMethodProper
 
@@ -6869,7 +6869,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.21) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -7461,7 +7461,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Knight Spore Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Knight Spore Cloud (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -7560,7 +7560,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Knight Dung Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Knight Dung Cloud (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -8930,7 +8930,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_void_scream_spell (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_void_scream_spell (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -8941,12 +8941,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_void_scream_spell (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_void_scream_spell (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [Scream (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [Scream (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendMessage
 
@@ -9315,7 +9315,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_quake_spell_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_quake_spell_dash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -9351,12 +9351,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_quake_spell_dash (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_quake_spell_dash (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [QuakeEffect (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [QuakeEffect (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -9381,7 +9381,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_quake_spell_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_quake_spell_dash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -9417,12 +9417,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_quake_spell_dash (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_quake_spell_dash (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [QuakeEffect (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [QuakeEffect (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

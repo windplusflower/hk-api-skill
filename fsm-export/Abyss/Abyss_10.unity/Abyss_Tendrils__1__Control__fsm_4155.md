@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Abyss Tendrils (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level337 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level337 |
 | Start State | Hidden |
 | FSM PathId | 4155 |
 | GameObject PathId | 644 |
@@ -117,7 +117,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [abyss_tendrils_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets336.assets)] |   |   |
+| oneShotClip |   | [abyss_tendrils_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets336.assets)] |   |   |
 
 #### Transitions
 

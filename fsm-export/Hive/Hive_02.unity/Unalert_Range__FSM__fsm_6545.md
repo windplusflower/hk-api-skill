@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unalert Range |
 | GameObject Path | Zombie Hive (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level385 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level385 |
 | Start State | Initialise |
 | FSM PathId | 6545 |
 | GameObject PathId | 1509 |

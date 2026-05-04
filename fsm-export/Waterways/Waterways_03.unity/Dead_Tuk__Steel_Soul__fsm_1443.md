@@ -1,4 +1,4 @@
-﻿# Steel Soul
+# Steel Soul
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Steel Soul |
 | GameObject Name | Dead_Tuk |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level351 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level351 |
 | Start State | Pause |
 | FSM PathId | 1443 |
 | GameObject PathId | 330 |

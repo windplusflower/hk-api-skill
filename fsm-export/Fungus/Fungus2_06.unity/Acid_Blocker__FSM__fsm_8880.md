@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Acid Blocker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level170 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level170 |
 | Start State | Pause |
 | FSM PathId | 8880 |
 | GameObject PathId | 259 |

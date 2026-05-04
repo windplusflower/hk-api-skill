@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grimm Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Pause |
 | FSM PathId | 2522 |
 | GameObject PathId | 30 |
@@ -35,17 +35,17 @@
 | Blanker White | [null] | NamedAssetPPtr: [null] |
 | CameraLock Battle | [null] | NamedAssetPPtr: [null] |
 | CameraLock Heart | [null] | NamedAssetPPtr: [null] |
-| Crowd Audio | Grimm Control/Crowd/Crowd Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Crowd/Crowd Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| Crowd Audio | Grimm Control/Crowd/Crowd Audio (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Crowd/Crowd Audio (Hollow Knight/hollow_knight_Data\level393)] |
 | Crowd Fader | [null] | NamedAssetPPtr: [null] |
 | Death Silhouette | [null] | NamedAssetPPtr: [null] |
-| Dream Gate | Grimm Control/Dream Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Dream Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| Dream Gate | Grimm Control/Dream Gate (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Dream Gate (Hollow Knight/hollow_knight_Data\level393)] |
 | Final Flash | [null] | NamedAssetPPtr: [null] |
 | Final Glow | [null] | NamedAssetPPtr: [null] |
 | Great Eye Open 1 | [null] | NamedAssetPPtr: [null] |
 | Great Eye Open 2 | [null] | NamedAssetPPtr: [null] |
 | Grimm Appear | [null] | NamedAssetPPtr: [null] |
 | Halfway Glow | [null] | NamedAssetPPtr: [null] |
-| Heartbeat Audio | Grimm Control/Heartbeat Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Heartbeat Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| Heartbeat Audio | Grimm Control/Heartbeat Audio (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Heartbeat Audio (Hollow Knight/hollow_knight_Data\level393)] |
 | Init Glow | [null] | NamedAssetPPtr: [null] |
 | Loop Fire | [null] | NamedAssetPPtr: [null] |
 | Nightmare Grimm | [null] | NamedAssetPPtr: [null] |
@@ -349,9 +349,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -450,9 +450,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -564,9 +564,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -657,9 +657,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -769,9 +769,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_bats_reform (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets392.assets)] |   |   |
+| audioClip |   | [grimm_bats_reform (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets392.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -796,9 +796,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -935,7 +935,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [NightmareGrimm (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets393.assets)] |   |   |
+| musicCue |   | [NightmareGrimm (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets393.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -946,7 +946,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 5. FadeAudio
@@ -1457,9 +1457,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1607,9 +1607,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1841,9 +1841,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [grimm_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1857,9 +1857,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2222,9 +2222,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2323,9 +2323,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2437,9 +2437,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2530,9 +2530,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2631,7 +2631,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [NightmareGrimm (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets393.assets)] |   |   |
+| musicCue |   | [NightmareGrimm (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets393.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -2642,7 +2642,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 5. FadeAudio
@@ -2798,9 +2798,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_bats_reform (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets392.assets)] |   |   |
+| audioClip |   | [grimm_bats_reform (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets392.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2825,9 +2825,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [nightmare_bg_eye_break_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

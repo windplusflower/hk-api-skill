@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Colosseum Manager/Shiny Item/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Init |
 | FSM PathId | 8826 |
 | GameObject PathId | 114 |

@@ -1,4 +1,4 @@
-﻿# destroy_if_playerdatabool
+# destroy_if_playerdatabool
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_if_playerdatabool |
 | GameObject Name | Hornet Boss 2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level325 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level325 |
 | Start State | Pause |
 | FSM PathId | 210 |
 | GameObject PathId | 11 |

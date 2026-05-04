@@ -1,4 +1,4 @@
-﻿# Zombie Guard
+# Zombie Guard
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Guard |
 | GameObject Name | Zombie Guard |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level78 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level78 |
 | Start State | Initiate |
 | FSM PathId | 1293 |
 | GameObject PathId | 314 |
@@ -70,17 +70,17 @@
 | Camera | [null] | NamedAssetPPtr: [null] |
 | Dust Hit Marker | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Run Dust | Zombie Guard/Run Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Run Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78)] |
+| Run Dust | Zombie Guard/Run Dust (Hollow Knight/hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Run Dust (Hollow Knight/hollow_knight_Data\level78)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shockwave | [null] | NamedAssetPPtr: [null] |
-| Stomp Dust | Zombie Guard/Stomp Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Stomp Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78)] |
-| Swipe | Zombie Guard/Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level78)] |
+| Stomp Dust | Zombie Guard/Stomp Dust (Hollow Knight/hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Stomp Dust (Hollow Knight/hollow_knight_Data\level78)] |
+| Swipe | Zombie Guard/Swipe (Hollow Knight/hollow_knight_Data\level78) | NamedAssetPPtr: [Zombie Guard/Swipe (Hollow Knight/hollow_knight_Data\level78)] |
 
 ### Objects
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Scene Snapshot | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Scene Snapshot | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 
@@ -488,7 +488,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 3. AudioPlayerOneShot
@@ -498,7 +498,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -782,7 +782,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -930,7 +930,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Slam Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1375,7 +1375,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 3. GetPosition
@@ -2230,7 +2230,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Scene Snapshot = [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Scene Snapshot = [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 6f |   |   |
 
 ##### 3. FloatInRange
@@ -2618,7 +2618,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Scene Snapshot = [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Scene Snapshot = [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 6f |   |   |
 
 ##### 3. FloatInRange
@@ -2800,7 +2800,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 3. StopParticleEmitter
@@ -3041,7 +3041,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3058,7 +3058,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 3. Tk2dPlayAnimation
@@ -3217,7 +3217,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3445,7 +3445,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3511,9 +3511,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| audioClip |   | [false_knight_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | pitchMin |   | 1.2f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -3653,9 +3653,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_land_1st_time (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [false_knight_land_1st_time (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1.2f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -3726,7 +3726,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -3.77, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3739,7 +3739,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shockwave Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| gameObject |   | [Global] [Shockwave Wave (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -4, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3793,7 +3793,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shockwave Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| gameObject |   | [Global] [Shockwave Wave (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -4, -0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

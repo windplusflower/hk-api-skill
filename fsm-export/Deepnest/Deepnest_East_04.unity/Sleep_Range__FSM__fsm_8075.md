@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Sleep Range |
 | GameObject Path | Big Caterpillar/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level309 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level309 |
 | Start State | Init |
 | FSM PathId | 8075 |
 | GameObject PathId | 1166 |

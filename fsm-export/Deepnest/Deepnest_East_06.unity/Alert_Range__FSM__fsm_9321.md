@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Giant Hopper (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level310 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level310 |
 | Start State | Initialise |
 | FSM PathId | 9321 |
 | GameObject PathId | 304 |

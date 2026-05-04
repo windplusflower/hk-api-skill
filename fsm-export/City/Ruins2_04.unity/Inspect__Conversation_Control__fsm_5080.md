@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Inspect |
 | GameObject Path | Bathhouse Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level116 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level116 |
 | Start State | Init |
 | FSM PathId | 5080 |
 | GameObject PathId | 663 |
@@ -382,9 +382,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [bathhouse_door_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| audioClip |   | [bathhouse_door_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

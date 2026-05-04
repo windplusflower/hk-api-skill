@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | orange flash |
 | GameObject Path | Gas Explosion M/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level197 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level197 |
 | Start State | Idle |
 | FSM PathId | 4694 |
 | GameObject PathId | 180 |

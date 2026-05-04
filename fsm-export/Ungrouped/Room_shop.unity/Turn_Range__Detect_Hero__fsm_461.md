@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Turn Range |
 | GameObject Path | Basement Closed/Sly Shop/Ranges/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level17 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level17 |
 | Start State | Init |
 | FSM PathId | 461 |
 | GameObject PathId | 16 |

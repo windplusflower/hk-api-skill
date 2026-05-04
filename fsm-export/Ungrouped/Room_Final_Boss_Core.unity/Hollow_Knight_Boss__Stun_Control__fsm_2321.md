@@ -1,4 +1,4 @@
-﻿# Stun Control
+# Stun Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun Control |
 | GameObject Name | Hollow Knight Boss |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Init |
 | FSM PathId | 2321 |
 | GameObject PathId | 149 |

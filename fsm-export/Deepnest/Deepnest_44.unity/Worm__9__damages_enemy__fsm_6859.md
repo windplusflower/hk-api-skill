@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Worm (9) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level302 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level302 |
 | Start State | Idle |
 | FSM PathId | 6859 |
 | GameObject PathId | 1559 |

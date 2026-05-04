@@ -1,4 +1,4 @@
-﻿# Zombie Swipe
+# Zombie Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Swipe |
 | GameObject Name | Zombie Runner |
 | GameObject Path | Battle Scene/Pre Battle Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level48 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level48 |
 | Start State | Initialise |
 | FSM PathId | 271 |
 | GameObject PathId | 50 |

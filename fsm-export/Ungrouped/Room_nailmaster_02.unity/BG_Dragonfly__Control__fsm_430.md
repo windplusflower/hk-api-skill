@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | BG Dragonfly |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level14 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level14 |
 | Start State | Init |
 | FSM PathId | 430 |
 | GameObject PathId | 117 |

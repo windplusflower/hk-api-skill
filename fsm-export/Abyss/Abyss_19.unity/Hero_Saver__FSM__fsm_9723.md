@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Saver |
 | GameObject Path | Parasite Balloon (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level343 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level343 |
 | Start State | Init |
 | FSM PathId | 9723 |
 | GameObject PathId | 1071 |

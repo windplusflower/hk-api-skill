@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Xun NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level22 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level22 |
 | Start State | Pause |
 | FSM PathId | 343 |
 | GameObject PathId | 14 |

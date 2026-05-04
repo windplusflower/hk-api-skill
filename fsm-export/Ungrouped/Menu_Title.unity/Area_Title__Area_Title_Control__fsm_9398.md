@@ -1,4 +1,4 @@
-﻿# Area Title Control
+# Area Title Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Area Title Control |
 | GameObject Name | Area Title |
 | GameObject Path | _GameCameras/HudCamera/Area Title Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause |
 | FSM PathId | 9398 |
 | GameObject PathId | 1626 |
@@ -60,17 +60,17 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Fleur Bot | _GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Fleur Top | _GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Large Title Folder | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Large Title Main | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Large Title Sub | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Large Title Super | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Small Title Folder | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Small Title Main | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Small Title Sub | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Small Title Sup | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Title Small | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Fleur Bot | _GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Bot (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Bot (Hollow Knight/hollow_knight_Data\level1)] |
+| Fleur Top | _GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Top (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Fleur Top (Hollow Knight/hollow_knight_Data\level1)] |
+| Large Title Folder | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large (Hollow Knight/hollow_knight_Data\level1)] |
+| Large Title Main | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (Hollow Knight/hollow_knight_Data\level1)] |
+| Large Title Sub | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (Hollow Knight/hollow_knight_Data\level1)] |
+| Large Title Super | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (Hollow Knight/hollow_knight_Data\level1)] |
+| Small Title Folder | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (Hollow Knight/hollow_knight_Data\level1)] |
+| Small Title Main | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (Hollow Knight/hollow_knight_Data\level1)] |
+| Small Title Sub | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (Hollow Knight/hollow_knight_Data\level1)] |
+| Small Title Sup | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (Hollow Knight/hollow_knight_Data\level1)] |
+| Title Small | _GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small (Hollow Knight/hollow_knight_Data\level1)] |
 
 ## States
 
@@ -496,7 +496,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 10. DestroyAllChildren
@@ -506,7 +506,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 11. DestroyAllChildren
@@ -516,7 +516,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 12. DestroyAllChildren
@@ -526,7 +526,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 13. DestroyAllChildren
@@ -536,7 +536,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 14. DestroyAllChildren
@@ -546,7 +546,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 15. ActivateGameObject
@@ -599,7 +599,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 3. DestroyAllChildren
@@ -609,7 +609,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 4. DestroyAllChildren
@@ -619,7 +619,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 5. DestroyAllChildren
@@ -629,7 +629,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 6. DestroyAllChildren
@@ -639,7 +639,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 7. DestroyAllChildren
@@ -649,7 +649,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 8. ActivateGameObject
@@ -2148,7 +2148,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 2. DestroyAllChildren
@@ -2158,7 +2158,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 3. DestroyAllChildren
@@ -2168,7 +2168,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Large/Title Large Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 4. DestroyAllChildren
@@ -2178,7 +2178,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Main (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 5. DestroyAllChildren
@@ -2188,7 +2188,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Sub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 6. DestroyAllChildren
@@ -2198,7 +2198,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Area Title Holder/Area Title/Title Small/Title Small Super (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | disable |   | false |   |   |
 
 ##### 7. ActivateGameObject

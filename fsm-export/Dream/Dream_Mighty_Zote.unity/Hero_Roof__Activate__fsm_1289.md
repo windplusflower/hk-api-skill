@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Hero Roof |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level399 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level399 |
 | Start State | Idle |
 | FSM PathId | 1289 |
 | GameObject PathId | 140 |

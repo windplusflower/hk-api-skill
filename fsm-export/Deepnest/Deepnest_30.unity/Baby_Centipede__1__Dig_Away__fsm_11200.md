@@ -1,4 +1,4 @@
-﻿# Dig Away
+# Dig Away
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dig Away |
 | GameObject Name | Baby Centipede (1) |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level288 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level288 |
 | Start State | Away |
 | FSM PathId | 11200 |
 | GameObject PathId | 3622 |

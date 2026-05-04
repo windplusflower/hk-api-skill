@@ -1,4 +1,4 @@
-﻿# Hornet Encounter
+# Hornet Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hornet Encounter |
 | GameObject Name | Hornet Encounter GP2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level139 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level139 |
 | Start State | Init |
 | FSM PathId | 7601 |
 | GameObject PathId | 1108 |

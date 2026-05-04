@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | _Props/Shaman Killed Blocker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Init |
 | FSM PathId | 14215 |
 | GameObject PathId | 2862 |

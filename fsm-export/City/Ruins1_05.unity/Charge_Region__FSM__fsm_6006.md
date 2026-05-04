@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Charge Region |
 | GameObject Path | Battle Scene v2/Wave 1/Ruins Sentry FatB/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Initialise |
 | FSM PathId | 6006 |
 | GameObject PathId | 181 |

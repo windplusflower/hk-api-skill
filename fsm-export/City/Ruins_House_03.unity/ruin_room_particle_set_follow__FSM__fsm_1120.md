@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | ruin_room_particle_set_follow |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level85 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level85 |
 | Start State | Follow |
 | FSM PathId | 1120 |
 | GameObject PathId | 31 |

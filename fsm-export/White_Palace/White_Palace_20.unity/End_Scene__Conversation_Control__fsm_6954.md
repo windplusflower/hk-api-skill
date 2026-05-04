@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | End Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Init |
 | FSM PathId | 6954 |
 | GameObject PathId | 2372 |
@@ -217,7 +217,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, -4) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -282,9 +282,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_plant_emit_orbs (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets228.assets)] |   |   |
+| audioClip |   | [dream_plant_emit_orbs (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets228.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -335,9 +335,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_enter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

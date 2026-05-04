@@ -1,4 +1,4 @@
-﻿# menu_pointer
+# menu_pointer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | menu_pointer |
 | GameObject Name | Pointer R |
 | GameObject Path | Bank Menu/Menu 1/Deposit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2598 |
 | GameObject PathId | 79 |

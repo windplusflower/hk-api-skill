@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Scream Spawn Mosquitos |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level27 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level27 |
 | Start State | Idle |
 | FSM PathId | 6071 |
 | GameObject PathId | 100 |

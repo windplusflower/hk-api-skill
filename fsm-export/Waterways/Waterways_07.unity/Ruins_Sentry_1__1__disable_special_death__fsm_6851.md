@@ -1,4 +1,4 @@
-﻿# disable_special_death
+# disable_special_death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disable_special_death |
 | GameObject Name | Ruins Sentry 1 (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level357 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level357 |
 | Start State | State 1 |
 | FSM PathId | 6851 |
 | GameObject PathId | 1429 |

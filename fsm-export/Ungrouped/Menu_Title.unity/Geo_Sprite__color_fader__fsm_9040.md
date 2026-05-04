@@ -1,4 +1,4 @@
-﻿# color_fader
+# color_fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | color_fader |
 | GameObject Name | Geo Sprite |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/Text YN/Geo Text/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9040 |
 | GameObject PathId | 932 |

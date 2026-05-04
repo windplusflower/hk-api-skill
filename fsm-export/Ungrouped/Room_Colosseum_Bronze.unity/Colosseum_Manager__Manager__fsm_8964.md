@@ -1,4 +1,4 @@
-﻿# Manager
+# Manager
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Manager |
 | GameObject Name | Colosseum Manager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Pause |
 | FSM PathId | 8964 |
 | GameObject PathId | 1508 |
@@ -180,9 +180,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [gate_slam (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets30.assets)] |   |   |
+| audioClip |   | [gate_slam (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets30.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |

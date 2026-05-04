@@ -1,4 +1,4 @@
-﻿# fade and deactivate
+# fade and deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and deactivate |
 | GameObject Name | White Flash |
 | GameObject Path | Dream Mage Lord/Silhouette/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level396 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level396 |
 | Start State | Idle |
 | FSM PathId | 3046 |
 | GameObject PathId | 87 |

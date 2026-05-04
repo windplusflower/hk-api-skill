@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unlock Boss Scene (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level441 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level441 |
 | Start State | State 1 |
 | FSM PathId | 1667 |
 | GameObject PathId | 47 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Boss Scene | [God Tamer Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [God Tamer Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Boss Scene | [God Tamer Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [God Tamer Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 

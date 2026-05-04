@@ -1,4 +1,4 @@
-﻿# ZombieShieldControl
+# ZombieShieldControl
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ZombieShieldControl |
 | GameObject Name | Zombie Shield |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level54 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level54 |
 | Start State | Initialise |
 | FSM PathId | 1835 |
 | GameObject PathId | 313 |
@@ -201,9 +201,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_shield_raise (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [zombie_shield_raise (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -411,9 +411,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [zombie_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -735,9 +735,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [zombie_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1064,9 +1064,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [zombie_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1388,9 +1388,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [zombie_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |

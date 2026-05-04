@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Diary/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level11 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level11 |
 | Start State | Init |
 | FSM PathId | 122 |
 | GameObject PathId | 33 |

@@ -1,4 +1,4 @@
-﻿# Cursor Movement
+# Cursor Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cursor Movement |
 | GameObject Name | Cursor |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9104 |
 | GameObject PathId | 881 |
@@ -626,9 +626,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player UI (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player UI (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ui_change_selection (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets0.assets)] |   |   |
+| audioClip |   | [ui_change_selection (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets0.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.75f |   |   |
@@ -805,7 +805,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | audioPlayer |   |   |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ui_change_selection (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets0.assets)] |   |   |
+| audioClip |   | [ui_change_selection (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets0.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.75f |   |   |

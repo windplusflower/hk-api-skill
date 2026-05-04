@@ -1,4 +1,4 @@
-﻿# Break
+# Break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break |
 | GameObject Name | mage_window |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Pause |
 | FSM PathId | 2795 |
 | GameObject PathId | 9 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Break Ground | mage_window/break_ground (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/break_ground (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Debris | mage_window/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Effects | mage_window/Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Mask | mage_window/Mask (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Mask (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Break Ground | mage_window/break_ground (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/break_ground (Hollow Knight/hollow_knight_Data\level102)] |
+| Debris | mage_window/Debris (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Debris (Hollow Knight/hollow_knight_Data\level102)] |
+| Effects | mage_window/Effects (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Effects (Hollow Knight/hollow_knight_Data\level102)] |
+| Mask | mage_window/Mask (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [mage_window/Mask (Hollow Knight/hollow_knight_Data\level102)] |
 | Pt Glass L | [null] | NamedAssetPPtr: [null] |
 | Pt Glass S | [null] | NamedAssetPPtr: [null] |
 | Rain | [null] | NamedAssetPPtr: [null] |
@@ -199,7 +199,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [mage_window/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] | Variable |   |
+| gameObject |   | [mage_window/Debris (Hollow Knight/hollow_knight_Data\level102)] | Variable |   |
 | activate |   | true |   |   |
 
 ##### 8. FlingObjects
@@ -209,7 +209,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [mage_window/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| containerObject |   | [mage_window/Debris (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | adjustPosition |   | Vector3(7, 1.5, 0) |   |   |
 | randomisePosition |   | true |   |   |
 | speedMin |   | 0f |   |   |

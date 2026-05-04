@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_jiji |
 | GameObject Path | Jiji Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Idle |
 | FSM PathId | 3789 |
 | GameObject PathId | 162 |

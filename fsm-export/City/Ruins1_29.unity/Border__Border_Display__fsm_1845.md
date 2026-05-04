@@ -1,4 +1,4 @@
-﻿# Border Display
+# Border Display
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Border Display |
 | GameObject Name | Border |
 | GameObject Path | Stag Map/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Init |
 | FSM PathId | 1845 |
 | GameObject PathId | 445 |

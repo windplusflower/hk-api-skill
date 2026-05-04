@@ -1,4 +1,4 @@
-﻿# hero_detect_bool
+# hero_detect_bool
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect_bool |
 | GameObject Name | Hero Range |
 | GameObject Path | Dreamer Lurien/Shield/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level127 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level127 |
 | Start State | Init |
 | FSM PathId | 4364 |
 | GameObject PathId | 206 |

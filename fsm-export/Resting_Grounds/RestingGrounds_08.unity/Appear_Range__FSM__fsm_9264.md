@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Appear Range |
 | GameObject Path | Ghost milly/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Init |
 | FSM PathId | 9264 |
 | GameObject PathId | 2065 |

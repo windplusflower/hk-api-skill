@@ -1,4 +1,4 @@
-﻿# Wake
+# Wake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Wake |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level111 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level111 |
 | Start State | Idle |
 | FSM PathId | 4229 |
 | GameObject PathId | 1089 |

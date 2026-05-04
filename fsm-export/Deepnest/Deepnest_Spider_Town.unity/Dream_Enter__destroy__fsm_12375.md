@@ -1,4 +1,4 @@
-﻿# destroy
+# destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy |
 | GameObject Name | Dream Enter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Pause |
 | FSM PathId | 12375 |
 | GameObject PathId | 952 |

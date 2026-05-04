@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Explode Field |
 | GameObject Path | Infected Parent/Bursting Zombie/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Init |
 | FSM PathId | 5014 |
 | GameObject PathId | 1207 |

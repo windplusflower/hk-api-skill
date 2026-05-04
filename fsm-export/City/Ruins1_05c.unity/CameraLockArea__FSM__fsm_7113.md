@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | CameraLockArea |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level94 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level94 |
 | Start State | Pause |
 | FSM PathId | 7113 |
 | GameObject PathId | 226 |

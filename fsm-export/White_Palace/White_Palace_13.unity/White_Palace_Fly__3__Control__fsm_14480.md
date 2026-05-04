@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | White Palace Fly (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level376 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level376 |
 | Start State | Init |
 | FSM PathId | 14480 |
 | GameObject PathId | 535 |
@@ -44,7 +44,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Msg | [null] | NamedAssetPPtr: [null] |
-| Pt Leak | White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376) | NamedAssetPPtr: [White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376)] |
+| Pt Leak | White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376) | NamedAssetPPtr: [White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376)] |
 
 ## States
 
@@ -180,9 +180,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376)] |   |   |
-| audioClip |   | [false_knight_damage_armour_final (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376)] |   |   |
+| audioClip |   | [false_knight_damage_armour_final (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -196,9 +196,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376)] |   |   |
-| audioClip |   | [white_fly_stun (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets365.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376)] |   |   |
+| audioClip |   | [white_fly_stun (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets365.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 0.3f |   |   |
@@ -508,7 +508,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -667,7 +667,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -781,9 +781,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376)] |   |   |
-| audioClip |   | [manhole_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets93.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376)] |   |   |
+| audioClip |   | [manhole_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets93.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 0.75f |   |   |
@@ -797,8 +797,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Fly (3)/Pt Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level376)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Fly (3)/Pt Leak (Hollow Knight/hollow_knight_Data\level376)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |

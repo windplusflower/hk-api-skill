@@ -1,4 +1,4 @@
-﻿# Mantis Throne Sub
+# Mantis Throne Sub
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis Throne Sub |
 | GameObject Name | Mantis Lord Throne 3 |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level452 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level452 |
 | Start State | Init |
 | FSM PathId | 1719 |
 | GameObject PathId | 37 |
@@ -102,7 +102,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_misc_jump_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_misc_jump_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 #### Transitions
 
@@ -176,7 +176,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. SetMeshRenderer
 

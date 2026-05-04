@@ -1,4 +1,4 @@
-﻿# Fader
+# Fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fader |
 | GameObject Name | Deepnest |
 | GameObject Path | Stag Map/UI List Stag/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | Init |
 | FSM PathId | 1789 |
 | GameObject PathId | 266 |

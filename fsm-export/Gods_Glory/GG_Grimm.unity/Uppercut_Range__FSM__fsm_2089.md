@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Uppercut Range |
 | GameObject Path | Grimm Scene/Grimm Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level443 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level443 |
 | Start State | Init |
 | FSM PathId | 2089 |
 | GameObject PathId | 147 |

@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | Avalanche/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level326 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level326 |
 | Start State | Idle |
 | FSM PathId | 1135 |
 | GameObject PathId | 110 |

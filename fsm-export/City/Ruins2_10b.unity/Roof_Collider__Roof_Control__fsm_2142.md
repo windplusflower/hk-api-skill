@@ -1,4 +1,4 @@
-﻿# Roof Control
+# Roof Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Roof Control |
 | GameObject Name | Roof Collider |
 | GameObject Path | dung_defender_wall_broken/broken_piece_02/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level123 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level123 |
 | Start State | Idle |
 | FSM PathId | 2142 |
 | GameObject PathId | 373 |

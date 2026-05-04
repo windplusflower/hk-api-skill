@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Spitter |
 | GameObject Path | Battle Scene/Wave 4/Spitter Summon v2 (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Idle |
 | FSM PathId | 5893 |
 | GameObject PathId | 397 |

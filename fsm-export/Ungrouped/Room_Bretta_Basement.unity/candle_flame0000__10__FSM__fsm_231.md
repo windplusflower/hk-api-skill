@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | candle_flame0000 (10) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level26 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level26 |
 | Start State | Pause |
 | FSM PathId | 231 |
 | GameObject PathId | 44 |

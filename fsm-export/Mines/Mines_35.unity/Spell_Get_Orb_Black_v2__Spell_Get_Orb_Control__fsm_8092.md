@@ -1,4 +1,4 @@
-﻿# Spell Get Orb Control
+# Spell Get Orb Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spell Get Orb Control |
 | GameObject Name | Spell Get Orb Black v2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Init |
 | FSM PathId | 8092 |
 | GameObject PathId | 931 |
@@ -34,9 +34,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Orb Get | Spell Get Orb Black v2/Orb Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [Spell Get Orb Black v2/Orb Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
+| Orb Get | Spell Get Orb Black v2/Orb Get (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [Spell Get Orb Black v2/Orb Get (Hollow Knight/hollow_knight_Data\level274)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Trail | Spell Get Orb Black v2/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [Spell Get Orb Black v2/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
+| Trail | Spell Get Orb Black v2/Trail (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [Spell Get Orb Black v2/Trail (Hollow Knight/hollow_knight_Data\level274)] |
 
 ## States
 
@@ -113,7 +113,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spell Get Orb Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets274.assets)] |   |   |
+| gameObject |   | [Global] [Spell Get Orb Black (Hollow Knight/hollow_knight_Data\sharedassets274.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-1.27, -1.27, 0) |   |   |
 | spawnMin |   | 200 |   |   |
@@ -372,7 +372,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Orb Get Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Orb Get Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.6, -0.05) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

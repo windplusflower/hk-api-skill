@@ -1,4 +1,4 @@
-﻿# Coward Swipe
+# Coward Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Coward Swipe |
 | GameObject Name | Royal Zombie Coward (1) |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Initialise |
 | FSM PathId | 2677 |
 | GameObject PathId | 651 |

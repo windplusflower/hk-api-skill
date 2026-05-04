@@ -1,4 +1,4 @@
-﻿# PS4 Map Achievement Fixer
+# PS4 Map Achievement Fixer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | PS4 Map Achievement Fixer |
 | GameObject Name | PS4 Map Achievement Fixer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level12 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level12 |
 | Start State | Check Platform |
 | FSM PathId | 489 |
 | GameObject PathId | 105 |

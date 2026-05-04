@@ -1,4 +1,4 @@
-﻿# Bee Stinger
+# Bee Stinger
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bee Stinger |
 | GameObject Name | Bee Stinger (9) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | Pause |
 | FSM PathId | 5748 |
 | GameObject PathId | 648 |
@@ -46,12 +46,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Drill Effect | Bee Stinger (9)/Drill Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Drill Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
-| Honey Spitter | Bee Stinger (9)/Honey Spitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Honey Spitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
+| Drill Effect | Bee Stinger (9)/Drill Effect (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Drill Effect (Hollow Knight/hollow_knight_Data\level388)] |
+| Honey Spitter | Bee Stinger (9)/Honey Spitter (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Honey Spitter (Hollow Knight/hollow_knight_Data\level388)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sting Hit | Bee Stinger (9)/Sting Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Sting Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
+| Sting Hit | Bee Stinger (9)/Sting Hit (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Sting Hit (Hollow Knight/hollow_knight_Data\level388)] |
 | Terrain Block | [null] | NamedAssetPPtr: [null] |
-| Thunk | Bee Stinger (9)/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |
+| Thunk | Bee Stinger (9)/Thunk Effect (Hollow Knight/hollow_knight_Data\level388) | NamedAssetPPtr: [Bee Stinger (9)/Thunk Effect (Hollow Knight/hollow_knight_Data\level388)] |
 
 ## States
 
@@ -383,7 +383,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [bee_soldier_roar_and_curl (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [bee_soldier_roar_and_curl (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 #### Transitions
 
@@ -602,9 +602,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [bee_soldier_drill_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| audioClip |   | [bee_soldier_drill_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -619,7 +619,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [bee_soldier_drill_drilling_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| audioClip |   | [bee_soldier_drill_drilling_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -841,9 +841,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [bee_soldier_drill_drilling_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| audioClip |   | [bee_soldier_drill_drilling_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -857,9 +857,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_down_stab_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
+| audioClip |   | [brkn_wand_down_stab_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -974,8 +974,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
-| spawnPoint |   | [Bee Stinger (9)/Honey Spitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level388)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
+| spawnPoint |   | [Bee Stinger (9)/Honey Spitter (Hollow Knight/hollow_knight_Data\level388)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | frequency |   | 0.05f |   |   |
 | spawnMin |   | 2 |   |   |
@@ -1031,7 +1031,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [bee_soldier_fly_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets306.assets)] |   |   |
+| audioClip |   | [bee_soldier_fly_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets306.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -1196,7 +1196,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [bee_soldier_drill_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [bee_soldier_drill_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 #### Transitions
 

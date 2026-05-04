@@ -1,4 +1,4 @@
-﻿# Show Godfinder
+# Show Godfinder
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Show Godfinder |
 | GameObject Name | Show Godfinder |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Wait |
 | FSM PathId | 5503 |
 | GameObject PathId | 651 |

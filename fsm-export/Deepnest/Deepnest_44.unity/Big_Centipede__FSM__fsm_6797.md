@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Big Centipede |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level302 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level302 |
 | Start State | Wait |
 | FSM PathId | 6797 |
 | GameObject PathId | 2114 |

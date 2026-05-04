@@ -1,4 +1,4 @@
-﻿# charm_cost_indicator
+# charm_cost_indicator
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | charm_cost_indicator |
 | GameObject Name | Charm Cost 4 |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/Equipped Charms/Notches/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9114 |
 | GameObject PathId | 1143 |

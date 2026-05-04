@@ -1,4 +1,4 @@
-﻿# Attack Decision
+# Attack Decision
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack Decision |
 | GameObject Name | Baby Centipede (8) |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level278 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level278 |
 | Start State | Init |
 | FSM PathId | 6897 |
 | GameObject PathId | 1299 |

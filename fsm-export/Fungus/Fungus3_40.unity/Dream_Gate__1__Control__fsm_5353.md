@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level220 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level220 |
 | Start State | Init |
 | FSM PathId | 5353 |
 | GameObject PathId | 208 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLocks | Dream Gate (1)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level220) | NamedAssetPPtr: [Dream Gate (1)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level220)] |
+| CamLocks | Dream Gate (1)/CamLocks (Hollow Knight/hollow_knight_Data\level220) | NamedAssetPPtr: [Dream Gate (1)/CamLocks (Hollow Knight/hollow_knight_Data\level220)] |
 
 ## States
 
@@ -57,7 +57,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate (1)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level220)] | Variable |   |
+| gameObject |   | [Dream Gate (1)/CamLocks (Hollow Knight/hollow_knight_Data\level220)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions
@@ -113,7 +113,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate (1)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level220)] | Variable |   |
+| gameObject |   | [Dream Gate (1)/CamLocks (Hollow Knight/hollow_knight_Data\level220)] | Variable |   |
 | activate |   | true |   |   |
 
 #### Transitions
@@ -185,7 +185,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate (1)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level220)] | Variable |   |
+| gameObject |   | [Dream Gate (1)/CamLocks (Hollow Knight/hollow_knight_Data\level220)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions

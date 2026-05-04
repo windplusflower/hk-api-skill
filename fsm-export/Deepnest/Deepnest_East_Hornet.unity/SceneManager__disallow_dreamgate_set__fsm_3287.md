@@ -1,4 +1,4 @@
-﻿# disallow_dreamgate_set
+# disallow_dreamgate_set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disallow_dreamgate_set |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level324 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level324 |
 | Start State | Pause |
 | FSM PathId | 3287 |
 | GameObject PathId | 744 |

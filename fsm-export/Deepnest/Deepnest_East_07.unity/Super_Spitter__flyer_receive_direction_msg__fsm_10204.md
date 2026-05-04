@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Super Spitter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level311 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level311 |
 | Start State | Idle |
 | FSM PathId | 10204 |
 | GameObject PathId | 1699 |

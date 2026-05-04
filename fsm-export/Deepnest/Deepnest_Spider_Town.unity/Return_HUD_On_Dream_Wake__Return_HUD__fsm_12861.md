@@ -1,4 +1,4 @@
-﻿# Return HUD
+# Return HUD
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Return HUD |
 | GameObject Name | Return HUD On Dream Wake |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Idle |
 | FSM PathId | 12861 |
 | GameObject PathId | 3606 |

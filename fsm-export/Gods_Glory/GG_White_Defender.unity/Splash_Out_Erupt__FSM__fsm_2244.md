@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Splash Out Erupt |
 | GameObject Path | White Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level469 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level469 |
 | Start State | Init |
 | FSM PathId | 2244 |
 | GameObject PathId | 274 |

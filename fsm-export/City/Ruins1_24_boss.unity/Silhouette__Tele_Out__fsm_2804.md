@@ -1,4 +1,4 @@
-﻿# Tele Out
+# Tele Out
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tele Out |
 | GameObject Name | Silhouette |
 | GameObject Path | Mage Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Idle |
 | FSM PathId | 2804 |
 | GameObject PathId | 30 |

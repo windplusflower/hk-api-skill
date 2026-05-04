@@ -1,4 +1,4 @@
-﻿# Set Death Respawn
+# Set Death Respawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Death Respawn |
 | GameObject Name | Dream Enter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Idle |
 | FSM PathId | 12376 |
 | GameObject PathId | 952 |

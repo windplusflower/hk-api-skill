@@ -1,4 +1,4 @@
-﻿# Check Zote Death
+# Check Zote Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Zote Death |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Pause |
 | FSM PathId | 6002 |
 | GameObject PathId | 81 |

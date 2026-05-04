@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Zote Audience (6) |
 | GameObject Path | Audience/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level399 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level399 |
 | Start State | Init |
 | FSM PathId | 1346 |
 | GameObject PathId | 323 |

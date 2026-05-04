@@ -1,4 +1,4 @@
-﻿# Msg Control
+# Msg Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Msg Control |
 | GameObject Name | UI Msg Get WhiteCharm |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Init |
 | FSM PathId | 1244 |
 | GameObject PathId | 280 |
@@ -36,14 +36,14 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Item Name | UI Msg Get WhiteCharm/Item Name (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Item Name (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| Item Name Prefix | UI Msg Get WhiteCharm/Item Name Prefix (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Item Name Prefix (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| Pt Form | UI Msg Get WhiteCharm/Pt Form (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Pt Form (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| Pt Single | UI Msg Get WhiteCharm/Pt Single (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Pt Single (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| Single Frag | UI Msg Get WhiteCharm/Single Frag (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Single Frag (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| Stop | UI Msg Get WhiteCharm/Stop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Stop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| White Flash | UI Msg Get WhiteCharm/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
-| White Form | UI Msg Get WhiteCharm/White Form (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/White Form (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
+| Item Name | UI Msg Get WhiteCharm/Item Name (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Item Name (Hollow Knight/hollow_knight_Data\level348)] |
+| Item Name Prefix | UI Msg Get WhiteCharm/Item Name Prefix (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Item Name Prefix (Hollow Knight/hollow_knight_Data\level348)] |
+| Pt Form | UI Msg Get WhiteCharm/Pt Form (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Pt Form (Hollow Knight/hollow_knight_Data\level348)] |
+| Pt Single | UI Msg Get WhiteCharm/Pt Single (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Pt Single (Hollow Knight/hollow_knight_Data\level348)] |
+| Single Frag | UI Msg Get WhiteCharm/Single Frag (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Single Frag (Hollow Knight/hollow_knight_Data\level348)] |
+| Stop | UI Msg Get WhiteCharm/Stop (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/Stop (Hollow Knight/hollow_knight_Data\level348)] |
+| White Flash | UI Msg Get WhiteCharm/White Flash (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/White Flash (Hollow Knight/hollow_knight_Data\level348)] |
+| White Form | UI Msg Get WhiteCharm/White Form (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [UI Msg Get WhiteCharm/White Form (Hollow Knight/hollow_knight_Data\level348)] |
 
 ## States
 
@@ -349,7 +349,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Single Frag |   |   |
-| sprite |   | [whtie_charm_large_pieces_0001_left (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| sprite |   | [whtie_charm_large_pieces_0001_left (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 
 ##### 2. GetLanguageString
 
@@ -449,9 +449,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [spell_information_screen (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [spell_information_screen (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -674,7 +674,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Single Frag |   |   |
-| sprite |   | [whtie_charm_large_pieces_0000_right (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| sprite |   | [whtie_charm_large_pieces_0000_right (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 
 ##### 2. GetLanguageString
 
@@ -947,9 +947,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ghost_absorb_final_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_absorb_final_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -987,9 +987,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [spell_information_screen (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [spell_information_screen (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1039,9 +1039,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [new_heartpiece_puzzle_bit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| audioClip |   | [new_heartpiece_puzzle_bit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -1201,9 +1201,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [new_heartpiece_puzzle_bit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| audioClip |   | [new_heartpiece_puzzle_bit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -1217,9 +1217,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1233,9 +1233,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ghost_absorb_final_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_absorb_final_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -1249,9 +1249,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player NoDestroy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player NoDestroy (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [spell_information_screen (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [spell_information_screen (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |

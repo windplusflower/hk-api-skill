@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Moss Cultist |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level219 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level219 |
 | Start State | Pause |
 | FSM PathId | 5734 |
 | GameObject PathId | 22 |

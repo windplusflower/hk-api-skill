@@ -1,4 +1,4 @@
-﻿# Miner FX
+# Miner FX
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Miner FX |
 | GameObject Name | Miner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level73 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level73 |
 | Start State | Init |
 | FSM PathId | 3036 |
 | GameObject PathId | 177 |
@@ -31,7 +31,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Dust | [null] | NamedAssetPPtr: [null] |
-| Pt Rocks | Miner/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73) | NamedAssetPPtr: [Miner/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73)] |
+| Pt Rocks | Miner/Pt Rocks (Hollow Knight/hollow_knight_Data\level73) | NamedAssetPPtr: [Miner/Pt Rocks (Hollow Knight/hollow_knight_Data\level73)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -245,7 +245,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | float Chooser |   |   |
-| oneShotClip |   | [myla_pickaxe_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
+| oneShotClip |   | [myla_pickaxe_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. NextFrameEvent
@@ -280,7 +280,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | float Chooser |   |   |
-| oneShotClip |   | [myla_pickaxe_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
+| oneShotClip |   | [myla_pickaxe_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. NextFrameEvent

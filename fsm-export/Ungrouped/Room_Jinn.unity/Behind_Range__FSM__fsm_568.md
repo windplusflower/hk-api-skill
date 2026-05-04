@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Behind Range |
 | GameObject Path | Jinn NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level29 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level29 |
 | Start State | Init |
 | FSM PathId | 568 |
 | GameObject PathId | 10 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Lost hero Region |
 | GameObject Path | Ruins Flying Sentry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level97 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level97 |
 | Start State | Initialise |
 | FSM PathId | 5885 |
 | GameObject PathId | 1053 |

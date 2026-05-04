@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Scuttler Spawn 2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level344 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level344 |
 | Start State | Pause |
 | FSM PathId | 11182 |
 | GameObject PathId | 2037 |

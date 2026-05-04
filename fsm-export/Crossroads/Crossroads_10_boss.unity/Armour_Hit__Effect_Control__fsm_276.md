@@ -1,4 +1,4 @@
-﻿# Effect Control
+# Effect Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Effect Control |
 | GameObject Name | Armour Hit |
 | GameObject Path | Battle Scene/False Knight New/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level48 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level48 |
 | Start State | Idle |
 | FSM PathId | 276 |
 | GameObject PathId | 56 |

@@ -1,4 +1,4 @@
-﻿# Return
+# Return
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Return |
 | GameObject Name | Return HUD |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level339 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level339 |
 | Start State | Wait |
 | FSM PathId | 8419 |
 | GameObject PathId | 1799 |

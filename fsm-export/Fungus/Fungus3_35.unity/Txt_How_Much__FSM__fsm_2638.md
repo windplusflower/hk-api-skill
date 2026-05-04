@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Txt How Much |
 | GameObject Path | Bank Menu/Withdraw Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2638 |
 | GameObject PathId | 70 |

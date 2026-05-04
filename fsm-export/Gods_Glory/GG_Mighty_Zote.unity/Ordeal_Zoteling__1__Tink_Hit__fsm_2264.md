@@ -1,4 +1,4 @@
-﻿# Tink Hit
+# Tink Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tink Hit |
 | GameObject Name | Ordeal Zoteling (1) |
 | GameObject Path | Battle Control/Zotelings/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2264 |
 | GameObject PathId | 564 |

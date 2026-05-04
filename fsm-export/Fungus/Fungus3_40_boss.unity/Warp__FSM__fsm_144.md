@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warp |
 | GameObject Path | Warrior/Ghost Warrior Marmu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level221 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level221 |
 | Start State | Init |
 | FSM PathId | 144 |
 | GameObject PathId | 8 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spawn Lines |
 | GameObject Path | Battle Control/Dormant Warriors/Zote Crew Normal (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2403 |
 | GameObject PathId | 569 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | town_particle_set |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level273 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level273 |
 | Start State | Pause |
 | FSM PathId | 2489 |
 | GameObject PathId | 136 |

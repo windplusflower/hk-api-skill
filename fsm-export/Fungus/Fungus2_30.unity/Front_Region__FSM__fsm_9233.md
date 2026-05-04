@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Front Region |
 | GameObject Path | Mushroom Roller (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level192 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level192 |
 | Start State | Initialise |
 | FSM PathId | 9233 |
 | GameObject PathId | 2471 |

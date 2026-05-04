@@ -1,4 +1,4 @@
-﻿# Blue Health Control
+# Blue Health Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blue Health Control |
 | GameObject Name | Health |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9209 |
 | GameObject PathId | 1412 |
@@ -223,7 +223,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Blue Health (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Blue Health (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -441,7 +441,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Blue Health (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Blue Health (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -885,7 +885,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Joni Health Object | Variable |   |
-| gameObject |   | [Global] [Blue Health (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Blue Health (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 2. PlayerDataBoolTest
@@ -908,7 +908,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Joni Health Object | Variable |   |
-| gameObject |   | [Global] [Blue Health Hive (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Blue Health Hive (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

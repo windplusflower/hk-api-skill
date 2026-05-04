@@ -1,4 +1,4 @@
-﻿# Enviro Region
+# Enviro Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enviro Region |
 | GameObject Name | Enviro Region (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level111 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level111 |
 | Start State | Pause |
 | FSM PathId | 4233 |
 | GameObject PathId | 1139 |

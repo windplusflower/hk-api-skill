@@ -1,4 +1,4 @@
-﻿# Dream Return
+# Dream Return
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dream Return |
 | GameObject Name | Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 999 |
 | GameObject PathId | 161 |
@@ -1031,9 +1031,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_enter_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1.2f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |

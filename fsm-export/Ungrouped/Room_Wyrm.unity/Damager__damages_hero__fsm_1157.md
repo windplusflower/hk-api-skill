@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | Damager |
 | GameObject Path | _Scenery/collapse_chunk2 (7)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level326 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level326 |
 | Start State | Init |
 | FSM PathId | 1157 |
 | GameObject PathId | 171 |

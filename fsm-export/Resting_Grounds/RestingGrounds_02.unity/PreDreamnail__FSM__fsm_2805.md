@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | PreDreamnail |
 | GameObject Path | Resting_Grounds_Shift_Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level237 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level237 |
 | Start State | Pause |
 | FSM PathId | 2805 |
 | GameObject PathId | 233 |

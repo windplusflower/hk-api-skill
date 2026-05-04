@@ -1,4 +1,4 @@
-﻿# Hit Detect
+# Hit Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit Detect |
 | GameObject Name | Hit Detect |
 | GameObject Path | Nailsmith Cliff NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level91 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level91 |
 | Start State | Detect |
 | FSM PathId | 4681 |
 | GameObject PathId | 95 |

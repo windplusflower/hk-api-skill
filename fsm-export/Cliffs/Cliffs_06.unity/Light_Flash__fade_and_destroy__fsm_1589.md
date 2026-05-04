@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | Light Flash |
 | GameObject Path | Nightmare Lantern/lantern_dream/big_lantern/grimm_brazier/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Idle |
 | FSM PathId | 1589 |
 | GameObject PathId | 471 |

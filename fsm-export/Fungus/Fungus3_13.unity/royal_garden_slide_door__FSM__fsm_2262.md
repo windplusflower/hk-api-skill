@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | royal_garden_slide_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level205 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level205 |
 | Start State | Pause |
 | FSM PathId | 2262 |
 | GameObject PathId | 271 |

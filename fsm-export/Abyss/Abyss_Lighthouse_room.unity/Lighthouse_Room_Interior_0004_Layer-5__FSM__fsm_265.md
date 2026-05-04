@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Lighthouse_Room_Interior_0004_Layer-5 |
 | GameObject Path | Light Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level347 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level347 |
 | Start State | Init |
 | FSM PathId | 265 |
 | GameObject PathId | 45 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | door_Ruin_House_03 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level116 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level116 |
 | Start State | Pause |
 | FSM PathId | 5049 |
 | GameObject PathId | 396 |

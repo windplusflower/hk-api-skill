@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item Rancid Egg |
 | GameObject Path | Loose Rewards/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Init |
 | FSM PathId | 2438 |
 | GameObject PathId | 67 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Loose Rewards/Shiny Item Rancid Egg/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level68) | NamedAssetPPtr: [Loose Rewards/Shiny Item Rancid Egg/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level68)] |
+| Wave | Loose Rewards/Shiny Item Rancid Egg/White Wave (Hollow Knight/hollow_knight_Data\level68) | NamedAssetPPtr: [Loose Rewards/Shiny Item Rancid Egg/White Wave (Hollow Knight/hollow_knight_Data\level68)] |
 
 ## States
 

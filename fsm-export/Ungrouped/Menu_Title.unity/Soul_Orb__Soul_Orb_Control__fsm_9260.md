@@ -1,4 +1,4 @@
-﻿# Soul Orb Control
+# Soul Orb Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Soul Orb Control |
 | GameObject Name | Soul Orb |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause |
 | FSM PathId | 9260 |
 | GameObject PathId | 1340 |
@@ -54,8 +54,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Binding Cap | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Binding Cap Full | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap Full (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap Full (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Binding Cap | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap (Hollow Knight/hollow_knight_Data\level1)] |
+| Binding Cap Full | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap Full (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Binding Cap Full (Hollow Knight/hollow_knight_Data\level1)] |
 | Burst Anim | [null] | NamedAssetPPtr: [null] |
 | Can Heal Particles | [null] | NamedAssetPPtr: [null] |
 | Effect | [null] | NamedAssetPPtr: [null] |
@@ -1711,9 +1711,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
-| audioClip |   | [focus_ready (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [focus_ready (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

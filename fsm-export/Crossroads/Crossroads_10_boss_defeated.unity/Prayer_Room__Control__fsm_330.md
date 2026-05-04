@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Prayer Room |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level49 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level49 |
 | Start State | Pause |
 | FSM PathId | 330 |
 | GameObject PathId | 3 |

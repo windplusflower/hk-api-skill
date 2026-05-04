@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Appear Range |
 | GameObject Path | Ghost Warrior NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3263 |
 | GameObject PathId | 259 |

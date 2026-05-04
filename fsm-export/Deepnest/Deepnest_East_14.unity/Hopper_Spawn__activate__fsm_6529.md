@@ -1,4 +1,4 @@
-﻿# activate
+# activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | activate |
 | GameObject Name | Hopper Spawn |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level318 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level318 |
 | Start State | Pause |
 | FSM PathId | 6529 |
 | GameObject PathId | 1642 |

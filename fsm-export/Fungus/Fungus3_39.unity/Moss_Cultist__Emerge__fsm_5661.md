@@ -1,4 +1,4 @@
-﻿# Emerge
+# Emerge
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Emerge |
 | GameObject Name | Moss Cultist |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level219 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level219 |
 | Start State | Preaching |
 | FSM PathId | 5661 |
 | GameObject PathId | 22 |
@@ -99,9 +99,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Moss_Cultist_Hide (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets219.assets)] |   |   |
+| audioClip |   | [Moss_Cultist_Hide (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets219.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

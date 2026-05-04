@@ -1,4 +1,4 @@
-﻿# CameraShake
+# CameraShake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | CameraShake |
 | GameObject Name | CameraParent |
 | GameObject Path | _GameCameras/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9149 |
 | GameObject PathId | 1345 |
@@ -268,12 +268,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [shake_loop (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [shake_loop (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -339,12 +339,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -394,12 +394,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallImpact (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallImpact (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -465,12 +465,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallImpact (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallImpact (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -532,12 +532,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.15f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -746,12 +746,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.3f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -813,12 +813,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.15f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -966,12 +966,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [low_hit_nail_impact (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.15f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -1084,12 +1084,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.5f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SmallRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -1220,12 +1220,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.4f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -1316,12 +1316,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [mid_hit_enemy_death (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0.4f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -1428,12 +1428,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [shake_loop (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [shake_loop (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [LargeRumble (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

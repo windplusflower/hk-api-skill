@@ -1,4 +1,4 @@
-﻿# Head Control
+# Head Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Head Control |
 | GameObject Name | Head |
 | GameObject Path | Zote Death/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level148 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level148 |
 | Start State | Init |
 | FSM PathId | 5337 |
 | GameObject PathId | 661 |
@@ -554,7 +554,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -571,7 +571,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -586,7 +586,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Zote Chip 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets148.assets)] |   |   |
+| gameObject |   | [Global] [Zote Chip 2 (Hollow Knight/hollow_knight_Data\sharedassets148.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -604,7 +604,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Zote Chip 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets148.assets)] |   |   |
+| gameObject |   | [Global] [Zote Chip 1 (Hollow Knight/hollow_knight_Data\sharedassets148.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |

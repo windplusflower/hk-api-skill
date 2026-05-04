@@ -1,4 +1,4 @@
-﻿# blue_health_display
+# blue_health_display
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | blue_health_display |
 | GameObject Name | Joni Health |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Health/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9070 |
 | GameObject PathId | 1361 |

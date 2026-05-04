@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Music Player Fix (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level464 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level464 |
 | Start State | State 1 |
 | FSM PathId | 2066 |
 | GameObject PathId | 24 |
@@ -67,7 +67,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions

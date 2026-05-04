@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Bonk Detector |
 | GameObject Path | Ruins Lift 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Init |
 | FSM PathId | 2755 |
 | GameObject PathId | 358 |

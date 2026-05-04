@@ -1,4 +1,4 @@
-﻿# Arrow Anim
+# Arrow Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Arrow Anim |
 | GameObject Name | Arrow U |
 | GameObject Path | Shop Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level10 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level10 |
 | Start State | Init |
 | FSM PathId | 492 |
 | GameObject PathId | 75 |

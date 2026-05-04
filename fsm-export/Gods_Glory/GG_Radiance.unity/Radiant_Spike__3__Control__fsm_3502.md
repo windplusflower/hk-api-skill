@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Radiant Spike (3) |
 | GameObject Path | Boss Control/Spike Control/Far L/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3502 |
 | GameObject PathId | 744 |

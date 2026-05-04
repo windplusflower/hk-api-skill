@@ -1,4 +1,4 @@
-﻿# Blessing Control
+# Blessing Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blessing Control |
 | GameObject Name | Blessing Ghost |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1064 |
 | GameObject PathId | 203 |

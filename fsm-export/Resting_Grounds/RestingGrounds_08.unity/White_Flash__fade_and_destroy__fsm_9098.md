@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | Dream Plant/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Idle |
 | FSM PathId | 9098 |
 | GameObject PathId | 684 |

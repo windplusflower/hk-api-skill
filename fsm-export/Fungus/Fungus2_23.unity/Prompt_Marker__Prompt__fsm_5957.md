@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Bretta Dazed/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level187 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level187 |
 | Start State | Init |
 | FSM PathId | 5957 |
 | GameObject PathId | 192 |

@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Vespa NPC |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Pause |
 | FSM PathId | 2938 |
 | GameObject PathId | 629 |

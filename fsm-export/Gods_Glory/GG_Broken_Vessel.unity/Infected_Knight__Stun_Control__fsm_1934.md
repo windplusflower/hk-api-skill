@@ -1,4 +1,4 @@
-﻿# Stun Control
+# Stun Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun Control |
 | GameObject Name | Infected Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level425 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level425 |
 | Start State | Init |
 | FSM PathId | 1934 |
 | GameObject PathId | 38 |

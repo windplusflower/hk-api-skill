@@ -1,4 +1,4 @@
-﻿# Attack Commands
+# Attack Commands
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack Commands |
 | GameObject Name | Radiance |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2521 |
 | GameObject PathId | 458 |
@@ -51,13 +51,13 @@
 | --- | --- | --- |
 | Ascend Beam | [null] | NamedAssetPPtr: [null] |
 | Attack Obj | [null] | NamedAssetPPtr: [null] |
-| Eye Beam Burst1 | Boss Control/Radiance/Eye Beam Glow/Burst 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Eye Beam Burst2 | Boss Control/Radiance/Eye Beam Glow/Burst 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Eye Beam Burst3 | Boss Control/Radiance/Eye Beam Glow/Burst 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Eye Beam Glow | Boss Control/Radiance/Eye Beam Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
+| Eye Beam Burst1 | Boss Control/Radiance/Eye Beam Glow/Burst 1 (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 1 (Hollow Knight/hollow_knight_Data\level407)] |
+| Eye Beam Burst2 | Boss Control/Radiance/Eye Beam Glow/Burst 2 (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 2 (Hollow Knight/hollow_knight_Data\level407)] |
+| Eye Beam Burst3 | Boss Control/Radiance/Eye Beam Glow/Burst 3 (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow/Burst 3 (Hollow Knight/hollow_knight_Data\level407)] |
+| Eye Beam Glow | Boss Control/Radiance/Eye Beam Glow (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance/Eye Beam Glow (Hollow Knight/hollow_knight_Data\level407)] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
-| Self | Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets) | NamedAssetPPtr: [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |
-| Shot Charge | Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets) | NamedAssetPPtr: [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |
+| Self | Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets) | NamedAssetPPtr: [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |
+| Shot Charge | Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets) | NamedAssetPPtr: [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |
 
 ## States
 
@@ -89,7 +89,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | objectName |   | "Shot Charge" |   |   |
 | withTag |   | "Untagged" | Tag |   |
-| store |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] | Variable |   |
+| store |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] | Variable |   |
 
 #### Transitions
 
@@ -112,7 +112,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -150,7 +150,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -188,7 +188,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -291,9 +291,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -309,7 +309,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -318,9 +318,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -461,9 +461,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -479,7 +479,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -488,9 +488,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -617,9 +617,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -635,7 +635,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -644,9 +644,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -907,8 +907,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Boss Control/Radiance/Eye Beam Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Boss Control/Radiance/Eye Beam Glow (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Attack Obj | Variable |   |
@@ -985,9 +985,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_sword_create_circular (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_sword_create_circular (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1064,9 +1064,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_sword_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_sword_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1147,8 +1147,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Boss Control/Radiance/Eye Beam Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Boss Control/Radiance/Eye Beam Glow (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Attack Obj | Variable |   |
@@ -1262,9 +1262,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_sword_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_sword_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1442,7 +1442,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Orb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Fireball Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1499,7 +1499,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 8. SetParticleEmission
 
@@ -1709,9 +1709,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2216,7 +2216,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2254,7 +2254,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2292,7 +2292,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail Comb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| gameObject |   | [Global] [Radiant Nail Comb (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2343,9 +2343,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2361,7 +2361,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -2370,9 +2370,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2498,9 +2498,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2516,7 +2516,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -2525,9 +2525,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2654,9 +2654,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2672,7 +2672,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShotSingle
 
@@ -2681,9 +2681,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2928,9 +2928,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2956,9 +2956,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dream Mage Lord Phase2/Shot Charge (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

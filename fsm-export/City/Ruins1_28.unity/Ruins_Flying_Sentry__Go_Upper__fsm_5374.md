@@ -1,4 +1,4 @@
-﻿# Go Upper
+# Go Upper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Go Upper |
 | GameObject Name | Ruins Flying Sentry |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Idle |
 | FSM PathId | 5374 |
 | GameObject PathId | 1322 |

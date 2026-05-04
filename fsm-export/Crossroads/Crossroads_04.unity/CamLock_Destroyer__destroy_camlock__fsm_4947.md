@@ -1,4 +1,4 @@
-﻿# destroy camlock
+# destroy camlock
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy camlock |
 | GameObject Name | CamLock Destroyer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level40 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level40 |
 | Start State | Pause |
 | FSM PathId | 4947 |
 | GameObject PathId | 121 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | GG_Statue_Knight/Base/Statue/Knight_v03/Interact/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Init |
 | FSM PathId | 13191 |
 | GameObject PathId | 3017 |

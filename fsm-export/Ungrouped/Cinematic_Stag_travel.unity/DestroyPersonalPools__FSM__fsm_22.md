@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | DestroyPersonalPools |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level8 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level8 |
 | Start State | State 1 |
 | FSM PathId | 22 |
 | GameObject PathId | 1 |

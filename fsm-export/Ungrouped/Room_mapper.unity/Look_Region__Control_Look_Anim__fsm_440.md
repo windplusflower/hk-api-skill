@@ -1,4 +1,4 @@
-﻿# Control Look Anim
+# Control Look Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control Look Anim |
 | GameObject Name | Look Region |
 | GameObject Path | Iselda/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level12 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level12 |
 | Start State | Init |
 | FSM PathId | 440 |
 | GameObject PathId | 10 |

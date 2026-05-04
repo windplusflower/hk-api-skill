@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Rush |
 | GameObject Path | Ghost Warrior NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level221 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level221 |
 | Start State | Init |
 | FSM PathId | 146 |
 | GameObject PathId | 15 |

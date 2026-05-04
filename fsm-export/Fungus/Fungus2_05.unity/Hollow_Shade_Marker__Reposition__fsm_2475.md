@@ -1,4 +1,4 @@
-﻿# Reposition
+# Reposition
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Reposition |
 | GameObject Name | Hollow_Shade Marker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Pause |
 | FSM PathId | 2475 |
 | GameObject PathId | 462 |

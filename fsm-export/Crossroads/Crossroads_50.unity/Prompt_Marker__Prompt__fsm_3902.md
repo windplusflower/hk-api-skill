@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Tiso Lake NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level81 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level81 |
 | Start State | Init |
 | FSM PathId | 3902 |
 | GameObject PathId | 713 |

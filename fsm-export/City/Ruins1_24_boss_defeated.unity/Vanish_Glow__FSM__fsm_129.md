@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Vanish Glow |
 | GameObject Path | Ghost Mage Lord NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level103 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level103 |
 | Start State | Init |
 | FSM PathId | 129 |
 | GameObject PathId | 6 |

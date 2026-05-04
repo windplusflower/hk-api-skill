@@ -1,4 +1,4 @@
-﻿# Eyes Control
+# Eyes Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Eyes Control |
 | GameObject Name | Eyes |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9106 |
 | GameObject PathId | 1326 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | colosseum gold trophy |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Pause |
 | FSM PathId | 10897 |
 | GameObject PathId | 1525 |
@@ -83,7 +83,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Sound | [breakable_wall_hit_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | NamedAssetPPtr: [breakable_wall_hit_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
+| Sound | [breakable_wall_hit_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | NamedAssetPPtr: [breakable_wall_hit_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
 
 ## States
 
@@ -439,7 +439,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Midpoint |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -786,7 +786,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Fireball Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Fireball Hit (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1082,7 +1082,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit | Variable |   |
-| gameObject |   | [Global] [Dust Hit Med R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 2. SetGameObject
@@ -1093,7 +1093,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit Down | Variable |   |
-| gameObject |   | [Global] [Dust Hit Med Down R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Med Down R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -1118,7 +1118,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit | Variable |   |
-| gameObject |   | [Global] [Dust Hit Large R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Large R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 2. SetGameObject
@@ -1129,7 +1129,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit Down | Variable |   |
-| gameObject |   | [Global] [Dust Hit Large Down R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dust Hit Large Down R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -1166,7 +1166,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClip |   | object Sound |   |   |
 | pitchMin |   | 0.85f |   |   |
@@ -1475,7 +1475,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit | Variable |   |
-| gameObject |   | [Global] [Shroom Spore Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets23.assets)] |   |   |
+| gameObject |   | [Global] [Shroom Spore Med (Hollow Knight/hollow_knight_Data\sharedassets23.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 2. SetGameObject
@@ -1486,7 +1486,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dust Hit Down | Variable |   |
-| gameObject |   | [Global] [Shroom Spore Med (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets23.assets)] |   |   |
+| gameObject |   | [Global] [Shroom Spore Med (Hollow Knight/hollow_knight_Data\sharedassets23.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SetVector3XYZ
@@ -1626,7 +1626,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 12 |   |   |
@@ -1661,7 +1661,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1787,7 +1787,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_Ruin_Elevator |
 | GameObject Path | Bathhouse Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level116 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level116 |
 | Start State | Idle |
 | FSM PathId | 5164 |
 | GameObject PathId | 665 |

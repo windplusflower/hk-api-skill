@@ -1,4 +1,4 @@
-﻿# Door Control
+# Door Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Door Control |
 | GameObject Name | door_tram |
 | GameObject Path | Tram Main/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level330 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level330 |
 | Start State | Init |
 | FSM PathId | 1495 |
 | GameObject PathId | 239 |
@@ -121,7 +121,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -618,7 +618,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Off (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Off (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.3f |   |   |
 
 #### Transitions

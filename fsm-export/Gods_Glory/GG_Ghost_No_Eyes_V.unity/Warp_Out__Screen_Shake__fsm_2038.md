@@ -1,4 +1,4 @@
-﻿# Screen Shake
+# Screen Shake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Screen Shake |
 | GameObject Name | Warp Out |
 | GameObject Path | Warrior/Ghost Warrior No Eyes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level492 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level492 |
 | Start State | Shake |
 | FSM PathId | 2038 |
 | GameObject PathId | 197 |

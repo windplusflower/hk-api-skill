@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Zote Ruins/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level95 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level95 |
 | Start State | Init |
 | FSM PathId | 3138 |
 | GameObject PathId | 291 |

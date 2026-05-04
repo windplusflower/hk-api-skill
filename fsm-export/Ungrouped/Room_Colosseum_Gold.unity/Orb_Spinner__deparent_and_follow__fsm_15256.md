@@ -1,4 +1,4 @@
-﻿# deparent_and_follow
+# deparent_and_follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deparent_and_follow |
 | GameObject Name | Orb Spinner |
 | GameObject Path | Colosseum Manager/Waves/Wave 46/Mage (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Pause Frame |
 | FSM PathId | 15256 |
 | GameObject PathId | 887 |

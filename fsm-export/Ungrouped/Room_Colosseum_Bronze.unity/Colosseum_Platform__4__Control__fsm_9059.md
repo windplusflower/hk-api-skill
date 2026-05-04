@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Colosseum Platform (4) |
 | GameObject Path | Colosseum Manager/Waves/Arena 9/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Init |
 | FSM PathId | 9059 |
 | GameObject PathId | 2252 |

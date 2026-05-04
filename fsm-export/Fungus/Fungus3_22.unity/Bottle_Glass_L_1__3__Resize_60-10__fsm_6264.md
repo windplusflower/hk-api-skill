@@ -1,4 +1,4 @@
-﻿# Resize 60-10
+# Resize 60-10
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Resize 60-10 |
 | GameObject Name | Bottle Glass L 1 (3) |
 | GameObject Path | ruind_dressing_light_01/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level207 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level207 |
 | Start State | State 1 |
 | FSM PathId | 6264 |
 | GameObject PathId | 1091 |

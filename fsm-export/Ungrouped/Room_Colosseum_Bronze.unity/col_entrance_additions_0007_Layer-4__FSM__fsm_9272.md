@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | col_entrance_additions_0007_Layer-4 |
 | GameObject Path | Colosseum Manager/Waves/Arena 6/Colosseum Platform (3)/Platform/Pole/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | State 1 |
 | FSM PathId | 9272 |
 | GameObject PathId | 152 |

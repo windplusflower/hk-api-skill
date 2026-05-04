@@ -1,4 +1,4 @@
-﻿# Animate
+# Animate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Animate |
 | GameObject Name | Mush |
 | GameObject Path | Giraffe NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level196 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level196 |
 | Start State | Idle |
 | FSM PathId | 1183 |
 | GameObject PathId | 189 |

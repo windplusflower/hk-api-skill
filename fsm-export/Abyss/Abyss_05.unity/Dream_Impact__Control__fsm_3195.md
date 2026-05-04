@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Impact |
 | GameObject Path | Dusk Knight/Dream Enter 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level333 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level333 |
 | Start State | Randomise |
 | FSM PathId | 3195 |
 | GameObject PathId | 85 |

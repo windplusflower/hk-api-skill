@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | back_haze (1) |
 | GameObject Path | statue_dream_mode_area_effect/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Idle |
 | FSM PathId | 12497 |
 | GameObject PathId | 37 |

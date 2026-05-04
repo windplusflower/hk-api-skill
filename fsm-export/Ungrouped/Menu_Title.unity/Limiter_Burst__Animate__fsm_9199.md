@@ -1,4 +1,4 @@
-﻿# Animate
+# Animate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Animate |
 | GameObject Name | Limiter Burst |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 9199 |
 | GameObject PathId | 1115 |

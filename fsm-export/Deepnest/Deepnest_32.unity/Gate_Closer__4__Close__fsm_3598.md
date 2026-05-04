@@ -1,4 +1,4 @@
-﻿# Close
+# Close
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Close |
 | GameObject Name | Gate Closer (4) |
 | GameObject Path | Battle Scene/Gate Closers/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level290 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level290 |
 | Start State | Detect |
 | FSM PathId | 3598 |
 | GameObject PathId | 836 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Gate | Battle Gate Deepnest (4) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level290) | NamedAssetPPtr: [Battle Gate Deepnest (4) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level290)] |
+| Gate | Battle Gate Deepnest (4) (Hollow Knight/hollow_knight_Data\level290) | NamedAssetPPtr: [Battle Gate Deepnest (4) (Hollow Knight/hollow_knight_Data\level290)] |
 
 ## States
 

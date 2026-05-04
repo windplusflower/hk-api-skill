@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Shade Sibling (4) |
 | GameObject Path | Siblings/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level336 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level336 |
 | Start State | Pause |
 | FSM PathId | 6138 |
 | GameObject PathId | 1057 |
@@ -61,15 +61,15 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Alert Range Obj | Siblings/Shade Sibling/Alert Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Alert Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Death Wave | Siblings/Shade Sibling/Death Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Death Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Enemy Pusher | Siblings/Shade Sibling/Light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Light | Siblings/Shade Sibling (4)/Light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Msg | Siblings/Shade Sibling/Pt Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Pt Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Pt Emerge | Siblings/Shade Sibling (4)/Pt Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Pt Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Self | Siblings/Shade Sibling/Shade Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Shade Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Shade Particles | Siblings/Shade Sibling/Terrain Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Terrain Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
-| Terrain Block | Siblings/Shade Sibling (4)/Terrain Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Terrain Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level336)] |
+| Alert Range Obj | Siblings/Shade Sibling/Alert Range (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Alert Range (Hollow Knight/hollow_knight_Data\level336)] |
+| Death Wave | Siblings/Shade Sibling/Death Wave (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Death Wave (Hollow Knight/hollow_knight_Data\level336)] |
+| Enemy Pusher | Siblings/Shade Sibling/Light (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Light (Hollow Knight/hollow_knight_Data\level336)] |
+| Light | Siblings/Shade Sibling (4)/Light (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Light (Hollow Knight/hollow_knight_Data\level336)] |
+| Msg | Siblings/Shade Sibling/Pt Emerge (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Pt Emerge (Hollow Knight/hollow_knight_Data\level336)] |
+| Pt Emerge | Siblings/Shade Sibling (4)/Pt Emerge (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Pt Emerge (Hollow Knight/hollow_knight_Data\level336)] |
+| Self | Siblings/Shade Sibling/Shade Particles (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Shade Particles (Hollow Knight/hollow_knight_Data\level336)] |
+| Shade Particles | Siblings/Shade Sibling/Terrain Block (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling/Terrain Block (Hollow Knight/hollow_knight_Data\level336)] |
+| Terrain Block | Siblings/Shade Sibling (4)/Terrain Block (Hollow Knight/hollow_knight_Data\level336) | NamedAssetPPtr: [Siblings/Shade Sibling (4)/Terrain Block (Hollow Knight/hollow_knight_Data\level336)] |
 
 ## States
 
@@ -292,9 +292,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hollow_shade_startle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hollow_shade_startle (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -308,9 +308,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [shadow_gate_pass_through (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets208.assets)] |   |   |
+| audioClip |   | [shadow_gate_pass_through (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets208.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -1066,7 +1066,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1225,7 +1225,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

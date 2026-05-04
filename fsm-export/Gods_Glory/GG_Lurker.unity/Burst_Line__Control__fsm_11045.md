@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Burst Line |
 | GameObject Path | Lurker Control/Pale Lurker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Burst |
 | FSM PathId | 11045 |
 | GameObject PathId | 3819 |

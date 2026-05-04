@@ -1,4 +1,4 @@
-﻿# inspect
+# inspect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | inspect |
 | GameObject Name | Inspect Region |
 | GameObject Path | Shiny Item/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Pause |
 | FSM PathId | 5921 |
 | GameObject PathId | 558 |
@@ -99,7 +99,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

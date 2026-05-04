@@ -1,4 +1,4 @@
-﻿# Beam Extender
+# Beam Extender
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Extender |
 | GameObject Name | Beam |
 | GameObject Path | Zombie Beam Miner/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level264 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level264 |
 | Start State | Init |
 | FSM PathId | 5557 |
 | GameObject PathId | 1704 |

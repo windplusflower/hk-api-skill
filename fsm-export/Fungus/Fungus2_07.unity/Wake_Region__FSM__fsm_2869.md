@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wake Region |
 | GameObject Path | Mushroom Baby (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level171 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level171 |
 | Start State | Init |
 | FSM PathId | 2869 |
 | GameObject PathId | 91 |

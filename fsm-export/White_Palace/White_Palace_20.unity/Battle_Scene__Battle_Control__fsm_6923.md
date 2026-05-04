@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Pause |
 | FSM PathId | 6923 |
 | GameObject PathId | 2282 |
@@ -212,7 +212,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [HK Decline 5 (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [HK Decline 5 (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 #### Transitions
@@ -307,9 +307,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [white_seal_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioClip |   | [white_seal_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.8f |   |   |
 | volume |   | 1f |   |   |
@@ -388,9 +388,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Final Boss transition and end sting (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets383.assets)] |   |   |
+| audioClip |   | [Final Boss transition and end sting (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets383.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -404,7 +404,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 3. Wait

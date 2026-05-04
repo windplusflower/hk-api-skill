@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | Fork Audio 1 |
 | GameObject Path | GG_Challenge_Door (4)/Door/gg_door_inner_glowy/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | State 1 |
 | FSM PathId | 5696 |
 | GameObject PathId | 1354 |

@@ -1,4 +1,4 @@
-﻿# Splash Out Control
+# Splash Out Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Splash Out Control |
 | GameObject Name | Splash Out Erupt |
 | GameObject Path | White Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level398 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level398 |
 | Start State | Choose |
 | FSM PathId | 2884 |
 | GameObject PathId | 930 |

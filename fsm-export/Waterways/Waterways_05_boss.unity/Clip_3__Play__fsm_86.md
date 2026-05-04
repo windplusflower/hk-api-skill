@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Clip 3 |
 | GameObject Path | Pre-Battle Audio/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level355 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level355 |
 | Start State | State 1 |
 | FSM PathId | 86 |
 | GameObject PathId | 1 |
@@ -85,7 +85,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Parent |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Dung_Def_prebattletaunt_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [Dung_Def_prebattletaunt_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 #### Transitions
 

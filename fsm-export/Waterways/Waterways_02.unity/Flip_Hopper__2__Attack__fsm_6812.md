@@ -1,4 +1,4 @@
-﻿# Attack
+# Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack |
 | GameObject Name | Flip Hopper (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level350 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level350 |
 | Start State | Init |
 | FSM PathId | 6812 |
 | GameObject PathId | 1945 |
@@ -260,7 +260,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [flip_hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| oneShotClip |   | [flip_hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 
 ##### 3. GetScale
 
@@ -376,9 +376,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [flip_hopper_flip (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| audioClip |   | [flip_hopper_flip (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -485,7 +485,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [flip_hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| oneShotClip |   | [flip_hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 
 ##### 3. SetVelocity2d
 

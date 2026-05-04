@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | wp_saw (1) |
 | GameObject Path | _Scenery/wp_saw_04_anims/saw1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level368 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level368 |
 | Start State | Wait |
 | FSM PathId | 5652 |
 | GameObject PathId | 1334 |

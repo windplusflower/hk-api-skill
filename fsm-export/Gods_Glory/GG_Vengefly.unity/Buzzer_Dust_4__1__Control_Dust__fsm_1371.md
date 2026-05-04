@@ -1,4 +1,4 @@
-﻿# Control Dust
+# Control Dust
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control Dust |
 | GameObject Name | Buzzer Dust 4 (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level467 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level467 |
 | Start State | Init |
 | FSM PathId | 1371 |
 | GameObject PathId | 11 |

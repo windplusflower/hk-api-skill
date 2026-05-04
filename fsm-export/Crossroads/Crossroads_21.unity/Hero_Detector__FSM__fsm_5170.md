@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Detector |
 | GameObject Path | infected_event/Spitting Zombie/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level58 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level58 |
 | Start State | Init |
 | FSM PathId | 5170 |
 | GameObject PathId | 1019 |

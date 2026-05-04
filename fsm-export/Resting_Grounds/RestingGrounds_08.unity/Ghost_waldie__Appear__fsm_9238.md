@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Ghost waldie |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Pause |
 | FSM PathId | 9238 |
 | GameObject PathId | 1663 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | Ghost waldie/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
-| Burst | Ghost waldie/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Away Pt | Ghost waldie/Away Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Away Pt (Hollow Knight/hollow_knight_Data\level243)] |
+| Burst | Ghost waldie/Burst (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Burst (Hollow Knight/hollow_knight_Data\level243)] |
 | Dreamnail Hit | [null] | NamedAssetPPtr: [null] |
-| Idle Pt | Ghost waldie/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Idle Pt | Ghost waldie/Idle Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost waldie/Idle Pt (Hollow Knight/hollow_knight_Data\level243)] |
 
 ## States
 
@@ -222,7 +222,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. BoolTest
 

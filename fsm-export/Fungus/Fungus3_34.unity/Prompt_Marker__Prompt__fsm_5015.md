@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Cloth NPC QG Entrance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level217 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level217 |
 | Start State | Init |
 | FSM PathId | 5015 |
 | GameObject PathId | 31 |

@@ -1,4 +1,4 @@
-﻿# Boss Deactivate
+# Boss Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Boss Deactivate |
 | GameObject Name | Ruins Flying Sentry (1) |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level114 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level114 |
 | Start State | State 1 |
 | FSM PathId | 3333 |
 | GameObject PathId | 618 |

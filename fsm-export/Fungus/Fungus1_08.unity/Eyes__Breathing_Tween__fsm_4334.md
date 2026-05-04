@@ -1,4 +1,4 @@
-﻿# Breathing Tween
+# Breathing Tween
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Breathing Tween |
 | GameObject Name | Eyes |
 | GameObject Path | Hunter Eyes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Pause |
 | FSM PathId | 4334 |
 | GameObject PathId | 59 |

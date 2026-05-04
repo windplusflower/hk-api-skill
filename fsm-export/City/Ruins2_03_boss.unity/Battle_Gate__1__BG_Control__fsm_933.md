@@ -1,4 +1,4 @@
-﻿# BG Control
+# BG Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | BG Control |
 | GameObject Name | Battle Gate (1) |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level115 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level115 |
 | Start State | Opened |
 | FSM PathId | 933 |
 | GameObject PathId | 69 |
@@ -25,10 +25,10 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Camera | [null] | NamedAssetPPtr: [null] |
-| Dust | Battle Control/Battle Gate (1)/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115)] |
-| Raise Dust | Battle Control/Battle Gate (1)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115)] |
+| Dust | Battle Control/Battle Gate (1)/Dust (Hollow Knight/hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Dust (Hollow Knight/hollow_knight_Data\level115)] |
+| Raise Dust | Battle Control/Battle Gate (1)/Raise Dust (Hollow Knight/hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Raise Dust (Hollow Knight/hollow_knight_Data\level115)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Effect | Battle Control/Battle Gate (1)/Close Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Close Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level115)] |
+| Slam Effect | Battle Control/Battle Gate (1)/Close Effect (Hollow Knight/hollow_knight_Data\level115) | NamedAssetPPtr: [Battle Control/Battle Gate (1)/Close Effect (Hollow Knight/hollow_knight_Data\level115)] |
 
 ## States
 
@@ -104,9 +104,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gate_slam (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [gate_slam (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 0.5f |   |   |
@@ -223,9 +223,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gate_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [gate_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.85f |   |   |

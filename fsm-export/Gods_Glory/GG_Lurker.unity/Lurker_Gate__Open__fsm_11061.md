@@ -1,4 +1,4 @@
-﻿# Open
+# Open
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Open |
 | GameObject Name | Lurker Gate |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Close |
 | FSM PathId | 11061 |
 | GameObject PathId | 3818 |
@@ -115,9 +115,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gate_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [gate_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.85f |   |   |

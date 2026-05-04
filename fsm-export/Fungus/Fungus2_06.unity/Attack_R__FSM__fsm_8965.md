@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Attack R |
 | GameObject Path | Fungus Flyer (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level170 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level170 |
 | Start State | Init |
 | FSM PathId | 8965 |
 | GameObject PathId | 1704 |

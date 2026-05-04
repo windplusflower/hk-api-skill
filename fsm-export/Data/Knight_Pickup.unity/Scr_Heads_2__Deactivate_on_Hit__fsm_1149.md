@@ -1,4 +1,4 @@
-﻿# Deactivate on Hit
+# Deactivate on Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate on Hit |
 | GameObject Name | Scr Heads 2 |
 | GameObject Path | Knight/Spells/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | State 1 |
 | FSM PathId | 1149 |
 | GameObject PathId | 114 |

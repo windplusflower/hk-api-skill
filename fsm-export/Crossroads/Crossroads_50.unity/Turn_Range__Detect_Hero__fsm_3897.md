@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Turn Range |
 | GameObject Path | Tiso Lake NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level81 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level81 |
 | Start State | Init |
 | FSM PathId | 3897 |
 | GameObject PathId | 712 |

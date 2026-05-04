@@ -1,4 +1,4 @@
-﻿# Climb
+# Climb
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Climb |
 | GameObject Name | Mimic Spider |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level290 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level290 |
 | Start State | Init |
 | FSM PathId | 3582 |
 | GameObject PathId | 410 |

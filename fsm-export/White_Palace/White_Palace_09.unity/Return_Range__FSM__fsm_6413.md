@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Return Range |
 | GameObject Path | White Palace Lift/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level373 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level373 |
 | Start State | Init |
 | FSM PathId | 6413 |
 | GameObject PathId | 2140 |

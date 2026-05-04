@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spawn Range |
 | GameObject Path | Mage Blob 1 (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level104 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level104 |
 | Start State | Init |
 | FSM PathId | 4949 |
 | GameObject PathId | 164 |

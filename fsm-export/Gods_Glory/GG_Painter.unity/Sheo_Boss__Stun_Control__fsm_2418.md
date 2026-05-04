@@ -1,4 +1,4 @@
-﻿# Stun Control
+# Stun Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun Control |
 | GameObject Name | Sheo Boss |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level457 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level457 |
 | Start State | Init |
 | FSM PathId | 2418 |
 | GameObject PathId | 300 |

@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set Spa Visited |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level288 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level288 |
 | Start State | Idle |
 | FSM PathId | 11060 |
 | GameObject PathId | 935 |

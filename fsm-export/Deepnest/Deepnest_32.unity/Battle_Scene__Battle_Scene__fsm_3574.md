@@ -1,4 +1,4 @@
-﻿# Battle Scene
+# Battle Scene
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Scene |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level290 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level290 |
 | Start State | Pause |
 | FSM PathId | 3574 |
 | GameObject PathId | 238 |

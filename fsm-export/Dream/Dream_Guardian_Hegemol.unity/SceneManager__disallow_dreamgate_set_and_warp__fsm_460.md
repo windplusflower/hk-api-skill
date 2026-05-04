@@ -1,4 +1,4 @@
-﻿# disallow_dreamgate_set_and_warp
+# disallow_dreamgate_set_and_warp
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disallow_dreamgate_set_and_warp |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level400 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level400 |
 | Start State | Pause |
 | FSM PathId | 460 |
 | GameObject PathId | 44 |

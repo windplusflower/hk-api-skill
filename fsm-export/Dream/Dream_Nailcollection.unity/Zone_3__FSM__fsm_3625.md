@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Zone 3 |
 | GameObject Path | Witch Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level394 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level394 |
 | Start State | Init |
 | FSM PathId | 3625 |
 | GameObject PathId | 476 |

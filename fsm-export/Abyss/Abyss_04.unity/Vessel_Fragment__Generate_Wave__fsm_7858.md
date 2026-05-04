@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Vessel Fragment |
 | GameObject Path | Wishing_Well_anims/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level332 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level332 |
 | Start State | Init |
 | FSM PathId | 7858 |
 | GameObject PathId | 2159 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Wishing_Well_anims/Vessel Fragment/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level332) | NamedAssetPPtr: [Wishing_Well_anims/Vessel Fragment/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level332)] |
+| Wave | Wishing_Well_anims/Vessel Fragment/White Wave (Hollow Knight/hollow_knight_Data\level332) | NamedAssetPPtr: [Wishing_Well_anims/Vessel Fragment/White Wave (Hollow Knight/hollow_knight_Data\level332)] |
 
 ## States
 
@@ -38,11 +38,11 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave Default (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets22.assets)] |   |   |
+| gameObject |   | [Global] [White Wave Default (Hollow Knight/hollow_knight_Data\sharedassets22.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.5) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
-| storeObject |   | [Wishing_Well_anims/Vessel Fragment/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level332)] | Variable |   |
+| storeObject |   | [Wishing_Well_anims/Vessel Fragment/White Wave (Hollow Knight/hollow_knight_Data\level332)] | Variable |   |
 | networkInstantiate |   | false |   |   |
 | networkGroup |   | 0 |   |   |
 

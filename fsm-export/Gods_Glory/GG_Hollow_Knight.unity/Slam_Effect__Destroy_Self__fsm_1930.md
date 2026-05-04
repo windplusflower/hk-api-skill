@@ -1,4 +1,4 @@
-﻿# Destroy Self
+# Destroy Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | Battle Scene/HK Prime/Stomp Plumes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Init |
 | FSM PathId | 1930 |
 | GameObject PathId | 273 |

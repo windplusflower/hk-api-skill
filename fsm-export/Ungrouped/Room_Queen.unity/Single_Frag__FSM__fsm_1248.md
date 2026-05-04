@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Single Frag |
 | GameObject Path | UI Msg Get WhiteCharm/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Init |
 | FSM PathId | 1248 |
 | GameObject PathId | 275 |

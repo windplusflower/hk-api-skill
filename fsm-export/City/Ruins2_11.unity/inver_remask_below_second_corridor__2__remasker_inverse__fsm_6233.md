@@ -1,4 +1,4 @@
-﻿# remasker_inverse
+# remasker_inverse
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | remasker_inverse |
 | GameObject Name | inver remask_below second corridor (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level124 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level124 |
 | Start State | Pause |
 | FSM PathId | 6233 |
 | GameObject PathId | 1365 |

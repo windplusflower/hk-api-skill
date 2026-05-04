@@ -1,4 +1,4 @@
-﻿# Teleport
+# Teleport
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Teleport |
 | GameObject Name | Absolute Radiance |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3675 |
 | GameObject PathId | 834 |
@@ -182,9 +182,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [radiance_teleport (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_teleport (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -584,7 +584,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 3. SendEventByName

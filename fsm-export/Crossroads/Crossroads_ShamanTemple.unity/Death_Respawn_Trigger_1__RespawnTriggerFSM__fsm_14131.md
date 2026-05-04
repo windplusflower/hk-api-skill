@@ -1,4 +1,4 @@
-﻿# RespawnTriggerFSM
+# RespawnTriggerFSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | RespawnTriggerFSM |
 | GameObject Name | Death Respawn Trigger 1 |
 | GameObject Path | _Areas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Init |
 | FSM PathId | 14131 |
 | GameObject PathId | 1906 |

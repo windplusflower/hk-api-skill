@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_dreamReturn |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level127 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level127 |
 | Start State | Idle |
 | FSM PathId | 4399 |
 | GameObject PathId | 484 |

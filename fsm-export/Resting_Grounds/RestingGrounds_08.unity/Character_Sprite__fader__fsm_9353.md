@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Character Sprite |
 | GameObject Path | Ghost thistlewind/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Init |
 | FSM PathId | 9353 |
 | GameObject PathId | 2617 |

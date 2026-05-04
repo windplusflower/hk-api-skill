@@ -1,4 +1,4 @@
-﻿# Set Ghost PD Int
+# Set Ghost PD Int
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Ghost PD Int |
 | GameObject Name | Ghost Warrior Xero |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level238 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level238 |
 | Start State | Idle |
 | FSM PathId | 194 |
 | GameObject PathId | 21 |

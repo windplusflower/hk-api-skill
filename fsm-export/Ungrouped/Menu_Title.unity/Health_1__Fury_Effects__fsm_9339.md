@@ -1,4 +1,4 @@
-﻿# Fury Effects
+# Fury Effects
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fury Effects |
 | GameObject Name | Health 1 |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Health/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9339 |
 | GameObject PathId | 809 |

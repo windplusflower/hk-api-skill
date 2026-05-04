@@ -1,4 +1,4 @@
-﻿# Detect
+# Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect |
 | GameObject Name | Phase2 Detector |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | State 1 |
 | FSM PathId | 3343 |
 | GameObject PathId | 424 |

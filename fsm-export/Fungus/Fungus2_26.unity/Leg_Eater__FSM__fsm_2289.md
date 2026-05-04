@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Leg Eater |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level189 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level189 |
 | Start State | Pause |
 | FSM PathId | 2289 |
 | GameObject PathId | 422 |

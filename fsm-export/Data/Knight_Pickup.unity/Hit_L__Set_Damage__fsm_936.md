@@ -1,4 +1,4 @@
-﻿# Set Damage
+# Set Damage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Damage |
 | GameObject Name | Hit L |
 | GameObject Path | Knight/Spells/Scr Heads 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Set Damage |
 | FSM PathId | 936 |
 | GameObject PathId | 65 |

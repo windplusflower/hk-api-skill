@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item Key |
 | GameObject Path | Corpse Pale Lurker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Init |
 | FSM PathId | 10955 |
 | GameObject PathId | 1340 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Corpse Pale Lurker/Shiny Item Key/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Corpse Pale Lurker/Shiny Item Key/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
+| Wave | Corpse Pale Lurker/Shiny Item Key/White Wave (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Corpse Pale Lurker/Shiny Item Key/White Wave (Hollow Knight/hollow_knight_Data\level451)] |
 
 ## States
 

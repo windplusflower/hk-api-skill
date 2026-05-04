@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Idle Audio |
 | GameObject Path | Grave Zombie (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level245 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level245 |
 | Start State | Wait |
 | FSM PathId | 5184 |
 | GameObject PathId | 1452 |

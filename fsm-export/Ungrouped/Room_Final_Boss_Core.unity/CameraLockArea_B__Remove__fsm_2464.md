@@ -1,4 +1,4 @@
-﻿# Remove
+# Remove
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove |
 | GameObject Name | CameraLockArea B |
 | GameObject Path | Gate/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Idle |
 | FSM PathId | 2464 |
 | GameObject PathId | 189 |

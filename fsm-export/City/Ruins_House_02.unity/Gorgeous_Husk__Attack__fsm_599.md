@@ -1,4 +1,4 @@
-﻿# Attack
+# Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack |
 | GameObject Name | Gorgeous Husk |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level84 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level84 |
 | Start State | Init |
 | FSM PathId | 599 |
 | GameObject PathId | 44 |

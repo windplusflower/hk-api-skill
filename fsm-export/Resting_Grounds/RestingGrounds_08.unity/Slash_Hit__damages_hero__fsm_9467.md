@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | Slash Hit |
 | GameObject Path | Ghost Battle Revek/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Init |
 | FSM PathId | 9467 |
 | GameObject PathId | 2758 |

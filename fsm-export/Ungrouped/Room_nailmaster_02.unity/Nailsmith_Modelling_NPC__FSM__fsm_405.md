@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Nailsmith Modelling NPC |
 | GameObject Path | NM Parent/Modelling/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level14 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level14 |
 | Start State | Pause |
 | FSM PathId | 405 |
 | GameObject PathId | 35 |

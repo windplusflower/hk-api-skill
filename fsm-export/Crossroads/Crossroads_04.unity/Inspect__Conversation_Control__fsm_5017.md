@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Inspect |
 | GameObject Path | _Transition Gates/Mender Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level40 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level40 |
 | Start State | Init |
 | FSM PathId | 5017 |
 | GameObject PathId | 549 |

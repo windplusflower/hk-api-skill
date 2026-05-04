@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Stag Map |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Pause |
 | FSM PathId | 1881 |
 | GameObject PathId | 425 |

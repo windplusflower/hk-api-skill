@@ -1,4 +1,4 @@
-﻿# Rotate
+# Rotate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotate |
 | GameObject Name | Soul Burst |
 | GameObject Path | _NPCs/Elderbug/Flower Give/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | State 1 |
 | FSM PathId | 4219 |
 | GameObject PathId | 1118 |

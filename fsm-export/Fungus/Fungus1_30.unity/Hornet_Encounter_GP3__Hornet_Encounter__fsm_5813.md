@@ -1,4 +1,4 @@
-﻿# Hornet Encounter
+# Hornet Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hornet Encounter |
 | GameObject Name | Hornet Encounter GP3 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level157 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level157 |
 | Start State | Init |
 | FSM PathId | 5813 |
 | GameObject PathId | 860 |
@@ -175,7 +175,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hornet_jump (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -252,7 +252,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -337,7 +337,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hornet_jump (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

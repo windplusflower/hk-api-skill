@@ -1,4 +1,4 @@
-﻿# Drop Charm
+# Drop Charm
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Drop Charm |
 | GameObject Name | Charm Dropper |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level360 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level360 |
 | Start State | Pause |
 | FSM PathId | 1342 |
 | GameObject PathId | 174 |

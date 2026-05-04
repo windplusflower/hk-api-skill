@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Run Away Check |
 | GameObject Path | Boss Holder/Hornet Boss 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level448 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level448 |
 | Start State | Init |
 | FSM PathId | 1673 |
 | GameObject PathId | 89 |

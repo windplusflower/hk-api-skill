@@ -245,7 +245,7 @@ LocalBuildProperties.props
 
 ```xml
 <PropertyGroup>
-  <HKManagedDir>D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\Managed</HKManagedDir>
+  <HKManagedDir><path-to-Hollow-Knight>/hollow_knight_Data/Managed</HKManagedDir>
 </PropertyGroup>
 ```
 

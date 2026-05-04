@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Lake Range |
 | GameObject Path | Battle Scene/Moss Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level149 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level149 |
 | Start State | Initialise |
 | FSM PathId | 8079 |
 | GameObject PathId | 1833 |

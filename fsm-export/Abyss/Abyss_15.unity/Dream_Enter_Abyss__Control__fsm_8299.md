@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Enter Abyss |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level339 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level339 |
 | Start State | Pause |
 | FSM PathId | 8299 |
 | GameObject PathId | 625 |
@@ -36,11 +36,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dummy | Dream Enter Abyss/Knight Dummy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Knight Dummy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339)] |
-| Impact | Dream Enter Abyss/Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339)] |
-| Pt Wave | Dream Enter Abyss/Pt Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Pt Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339)] |
+| Dummy | Dream Enter Abyss/Knight Dummy (Hollow Knight/hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Knight Dummy (Hollow Knight/hollow_knight_Data\level339)] |
+| Impact | Dream Enter Abyss/Impact (Hollow Knight/hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Impact (Hollow Knight/hollow_knight_Data\level339)] |
+| Pt Wave | Dream Enter Abyss/Pt Wave (Hollow Knight/hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/Pt Wave (Hollow Knight/hollow_knight_Data\level339)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| White Flash | Dream Enter Abyss/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level339)] |
+| White Flash | Dream Enter Abyss/White Flash (Hollow Knight/hollow_knight_Data\level339) | NamedAssetPPtr: [Dream Enter Abyss/White Flash (Hollow Knight/hollow_knight_Data\level339)] |
 
 ## States
 
@@ -145,9 +145,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_damage (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_damage (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -161,9 +161,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_plant_hit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets43.assets)] |   |   |
+| audioClip |   | [dream_plant_hit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets43.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -177,9 +177,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_explode_clean (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_explode_clean (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -258,7 +258,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -283,9 +283,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -329,9 +329,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [roller_hit_wall (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [roller_hit_wall (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -668,7 +668,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [en Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [en Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 5. TransitionToAudioSnapshot
@@ -678,7 +678,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 6. Wait

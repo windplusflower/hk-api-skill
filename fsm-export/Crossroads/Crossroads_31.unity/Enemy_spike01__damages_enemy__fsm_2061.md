@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Enemy_spike01 |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level63 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level63 |
 | Start State | Idle |
 | FSM PathId | 2061 |
 | GameObject PathId | 424 |

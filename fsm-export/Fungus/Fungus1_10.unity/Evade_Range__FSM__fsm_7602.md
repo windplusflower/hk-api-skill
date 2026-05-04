@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Evade Range |
 | GameObject Path | Hornet Encounter GP2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level139 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level139 |
 | Start State | Init |
 | FSM PathId | 7602 |
 | GameObject PathId | 1107 |

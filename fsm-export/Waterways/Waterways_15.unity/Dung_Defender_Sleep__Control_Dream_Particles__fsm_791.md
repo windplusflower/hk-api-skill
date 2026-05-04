@@ -1,4 +1,4 @@
-﻿# Control Dream Particles
+# Control Dream Particles
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control Dream Particles |
 | GameObject Name | Dung Defender_Sleep |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level364 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level364 |
 | Start State | Pause |
 | FSM PathId | 791 |
 | GameObject PathId | 58 |

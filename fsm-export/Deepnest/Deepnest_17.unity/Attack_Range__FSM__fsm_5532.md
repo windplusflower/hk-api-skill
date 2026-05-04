@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Attack Range |
 | GameObject Path | Baby Centipede/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level285 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level285 |
 | Start State | Initialise |
 | FSM PathId | 5532 |
 | GameObject PathId | 991 |

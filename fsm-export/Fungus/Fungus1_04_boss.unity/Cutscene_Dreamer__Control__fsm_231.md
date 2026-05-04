@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Cutscene Dreamer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level133 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level133 |
 | Start State | Init |
 | FSM PathId | 231 |
 | GameObject PathId | 28 |
@@ -26,13 +26,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Blast | Cutscene Dreamer/Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
-| Burst Pt | Cutscene Dreamer/Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
+| Blast | Cutscene Dreamer/Blast (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Blast (Hollow Knight/hollow_knight_Data\level133)] |
+| Burst Pt | Cutscene Dreamer/Burst Pt (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Burst Pt (Hollow Knight/hollow_knight_Data\level133)] |
 | Idle Pt | [null] | NamedAssetPPtr: [null] |
-| Orb Pt | Cutscene Dreamer/Orb Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Orb Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
-| Sprite | Cutscene Dreamer/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
-| Trail Pt | Cutscene Dreamer/Trail Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Trail Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
-| White Flash | Cutscene Dreamer/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
+| Orb Pt | Cutscene Dreamer/Orb Pt (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Orb Pt (Hollow Knight/hollow_knight_Data\level133)] |
+| Sprite | Cutscene Dreamer/Sprite (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Sprite (Hollow Knight/hollow_knight_Data\level133)] |
+| Trail Pt | Cutscene Dreamer/Trail Pt (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/Trail Pt (Hollow Knight/hollow_knight_Data\level133)] |
+| White Flash | Cutscene Dreamer/White Flash (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Cutscene Dreamer/White Flash (Hollow Knight/hollow_knight_Data\level133)] |
 
 ## States
 

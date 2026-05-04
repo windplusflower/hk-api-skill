@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | SD Sharp Flash |
 | GameObject Path | Grimm Control/Appear Scene/Great Eye Open 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Init |
 | FSM PathId | 2545 |
 | GameObject PathId | 251 |

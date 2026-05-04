@@ -1,4 +1,4 @@
-﻿# Dropper
+# Dropper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dropper |
 | GameObject Name | Glob Dropper |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level487 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level487 |
 | Start State | Init |
 | FSM PathId | 1518 |
 | GameObject PathId | 82 |
@@ -186,7 +186,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G1 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -207,7 +207,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G2 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -228,7 +228,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G3 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -249,7 +249,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G4 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -270,7 +270,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G5 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -291,7 +291,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G6 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -312,7 +312,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G7 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -333,7 +333,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G8 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -354,7 +354,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject G9 |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |

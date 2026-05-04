@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Rise Beam (1) |
 | GameObject Path | White Palace Lift/Rise Beam/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Init |
 | FSM PathId | 7811 |
 | GameObject PathId | 2344 |

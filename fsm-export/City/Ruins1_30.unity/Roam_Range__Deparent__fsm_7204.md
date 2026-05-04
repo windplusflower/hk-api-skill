@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Roam Range |
 | GameObject Path | Mage/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level100 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level100 |
 | Start State | Pause |
 | FSM PathId | 7204 |
 | GameObject PathId | 1465 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unlock Boss Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level462 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level462 |
 | Start State | State 1 |
 | FSM PathId | 2013 |
 | GameObject PathId | 100 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Boss Scene | [Soul Tyrant Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Soul Tyrant Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Boss Scene | [Soul Tyrant Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Soul Tyrant Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hive Knight |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Pause |
 | FSM PathId | 2887 |
 | GameObject PathId | 670 |

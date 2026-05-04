@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wake Range |
 | GameObject Path | Baby Centipede (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level284 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level284 |
 | Start State | Initialise |
 | FSM PathId | 11389 |
 | GameObject PathId | 2565 |

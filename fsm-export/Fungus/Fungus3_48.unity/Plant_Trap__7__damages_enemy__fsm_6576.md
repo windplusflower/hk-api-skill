@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Plant Trap (7) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level224 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level224 |
 | Start State | Idle |
 | FSM PathId | 6576 |
 | GameObject PathId | 754 |

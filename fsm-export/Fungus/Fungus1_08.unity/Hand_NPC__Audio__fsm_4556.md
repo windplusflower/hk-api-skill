@@ -1,4 +1,4 @@
-﻿# Audio
+# Audio
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Audio |
 | GameObject Name | Hand NPC |
 | GameObject Path | Hunter Entry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | State 3 |
 | FSM PathId | 4556 |
 | GameObject PathId | 722 |
@@ -54,7 +54,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

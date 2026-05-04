@@ -1,4 +1,4 @@
-﻿# Activation
+# Activation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activation |
 | GameObject Name | Zote Death |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Pause |
 | FSM PathId | 6691 |
 | GameObject PathId | 1023 |

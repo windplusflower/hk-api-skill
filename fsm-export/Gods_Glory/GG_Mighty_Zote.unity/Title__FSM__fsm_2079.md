@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Title |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Get Text |
 | FSM PathId | 2079 |
 | GameObject PathId | 136 |

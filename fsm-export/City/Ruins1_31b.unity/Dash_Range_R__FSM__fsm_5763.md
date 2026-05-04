@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dash Range R |
 | GameObject Path | Mage Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Init |
 | FSM PathId | 5763 |
 | GameObject PathId | 203 |

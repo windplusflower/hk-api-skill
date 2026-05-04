@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Lords Defeated Group |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level193 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level193 |
 | Start State | Pause |
 | FSM PathId | 2705 |
 | GameObject PathId | 645 |

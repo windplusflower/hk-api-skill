@@ -1,4 +1,4 @@
-﻿# Torch Appear
+# Torch Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Torch Appear |
 | GameObject Name | Nightmare Lantern |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | State 1 |
 | FSM PathId | 1576 |
 | GameObject PathId | 315 |

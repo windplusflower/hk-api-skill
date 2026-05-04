@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Quirrel Mines/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level257 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level257 |
 | Start State | Init |
 | FSM PathId | 2395 |
 | GameObject PathId | 663 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Ground Detect |
 | GameObject Path | Battle Scene/Royal Gaurd/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level366 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level366 |
 | Start State | Init |
 | FSM PathId | 6421 |
 | GameObject PathId | 1947 |

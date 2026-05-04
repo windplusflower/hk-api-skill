@@ -1,4 +1,4 @@
-﻿# disallow_dream_warp
+# disallow_dream_warp
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disallow_dream_warp |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Pause |
 | FSM PathId | 14158 |
 | GameObject PathId | 995 |

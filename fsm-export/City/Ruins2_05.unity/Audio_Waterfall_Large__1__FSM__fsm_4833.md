@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Audio Waterfall Large (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level117 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level117 |
 | Start State | Pause |
 | FSM PathId | 4833 |
 | GameObject PathId | 980 |

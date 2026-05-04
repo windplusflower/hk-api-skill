@@ -1,4 +1,4 @@
-﻿# Watch
+# Watch
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Watch |
 | GameObject Name | Quirrel Land |
 | GameObject Path | Mega Jellyfish/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level229 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level229 |
 | Start State | Idle |
 | FSM PathId | 144 |
 | GameObject PathId | 16 |
@@ -42,7 +42,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Jellyfish | Mega Jellyfish (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229) | NamedAssetPPtr: [Mega Jellyfish (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229)] |
+| Jellyfish | Mega Jellyfish (Hollow Knight/hollow_knight_Data\level229) | NamedAssetPPtr: [Mega Jellyfish (Hollow Knight/hollow_knight_Data\level229)] |
 | Quirrel Land | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -72,7 +72,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Mega Jellyfish (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229)] | Variable |   |
+| gameObject |   | [Mega Jellyfish (Hollow Knight/hollow_knight_Data\level229)] | Variable |   |
 | isNull |   | Event(END) |   |   |
 | isNotNull |   | Event() |   |   |
 | storeResult |   | false | Variable |   |
@@ -476,9 +476,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [uumuu_helper_enter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_enter (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -839,7 +839,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -894,9 +894,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Quirrel_battle_intro (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [Quirrel_battle_intro (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -924,9 +924,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [uumuu_helper_exit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_exit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Garden Slide Floor |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level200 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level200 |
 | Start State | Pause |
 | FSM PathId | 4280 |
 | GameObject PathId | 1021 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Plat Stream Dust | Garden Slide Floor/Plat Stream Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Plat Stream Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200)] |
-| Slam Dust | Garden Slide Floor/Slam Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Slam Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200)] |
-| Sprite | Garden Slide Floor/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200)] |
-| Whole Dust | Garden Slide Floor/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level200)] |
+| Plat Stream Dust | Garden Slide Floor/Plat Stream Dust (Hollow Knight/hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Plat Stream Dust (Hollow Knight/hollow_knight_Data\level200)] |
+| Slam Dust | Garden Slide Floor/Slam Dust (Hollow Knight/hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Slam Dust (Hollow Knight/hollow_knight_Data\level200)] |
+| Sprite | Garden Slide Floor/Sprite (Hollow Knight/hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Sprite (Hollow Knight/hollow_knight_Data\level200)] |
+| Whole Dust | Garden Slide Floor/Whole Dust (Hollow Knight/hollow_knight_Data\level200) | NamedAssetPPtr: [Garden Slide Floor/Whole Dust (Hollow Knight/hollow_knight_Data\level200)] |
 
 ## States
 
@@ -216,7 +216,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 
@@ -331,7 +331,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

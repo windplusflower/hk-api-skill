@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dig Away Range |
 | GameObject Path | Centipede Cage/Baby Centipede Spawner (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level287 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level287 |
 | Start State | Init |
 | FSM PathId | 3369 |
 | GameObject PathId | 155 |

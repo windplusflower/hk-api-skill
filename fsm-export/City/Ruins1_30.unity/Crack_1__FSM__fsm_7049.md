@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Crack 1 |
 | GameObject Path | Quake Floor Glass/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level100 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level100 |
 | Start State | Init |
 | FSM PathId | 7049 |
 | GameObject PathId | 30 |

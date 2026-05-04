@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Text5 |
 | GameObject Path | Dreamer Plaque Inspect/Msg/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level239 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level239 |
 | Start State | Init |
 | FSM PathId | 2253 |
 | GameObject PathId | 404 |

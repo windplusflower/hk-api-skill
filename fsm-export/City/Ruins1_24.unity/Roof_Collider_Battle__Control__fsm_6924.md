@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Roof Collider Battle |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level101 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level101 |
 | Start State | Pause |
 | FSM PathId | 6924 |
 | GameObject PathId | 886 |

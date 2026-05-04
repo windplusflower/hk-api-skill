@@ -1,4 +1,4 @@
-﻿# Reactivate After Journal Collected
+# Reactivate After Journal Collected
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Reactivate After Journal Collected |
 | GameObject Name | Hunter Eyes |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Check |
 | FSM PathId | 4324 |
 | GameObject PathId | 58 |

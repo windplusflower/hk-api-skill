@@ -1,4 +1,4 @@
-﻿# Slam Effects
+# Slam Effects
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Slam Effects |
 | GameObject Name | Mushroom Brawler 2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Init |
 | FSM PathId | 2445 |
 | GameObject PathId | 76 |
@@ -24,8 +24,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Cap Hit | Mushroom Brawler 2/Smash Hits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Mushroom Brawler 2/Smash Hits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
-| Slam Effect | Mushroom Brawler 2/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Mushroom Brawler 2/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
+| Cap Hit | Mushroom Brawler 2/Smash Hits (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Mushroom Brawler 2/Smash Hits (Hollow Knight/hollow_knight_Data\level169)] |
+| Slam Effect | Mushroom Brawler 2/Slam Effect (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Mushroom Brawler 2/Slam Effect (Hollow Knight/hollow_knight_Data\level169)] |
 
 ## States
 
@@ -101,7 +101,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_brawler_head_bang (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets169.assets)] |   |   |
+| oneShotClip |   | [mushroom_brawler_head_bang (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets169.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 

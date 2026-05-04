@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate |
 | GameObject Path | Grimm Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Init |
 | FSM PathId | 2523 |
 | GameObject PathId | 45 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLocks | Grimm Control/Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| CamLocks | Grimm Control/Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level393)] |
 
 ## States
 
@@ -57,7 +57,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Grimm Control/Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] | Variable |   |
+| gameObject |   | [Grimm Control/Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level393)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions
@@ -113,7 +113,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Grimm Control/Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] | Variable |   |
+| gameObject |   | [Grimm Control/Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level393)] | Variable |   |
 | activate |   | true |   |   |
 
 #### Transitions
@@ -185,7 +185,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Grimm Control/Dream Gate/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] | Variable |   |
+| gameObject |   | [Grimm Control/Dream Gate/CamLocks (Hollow Knight/hollow_knight_Data\level393)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions

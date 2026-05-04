@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fader 2 |
 | GameObject Path | RestBench Spider/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Init |
 | FSM PathId | 12712 |
 | GameObject PathId | 2655 |

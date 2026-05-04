@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Toll Machine Lift/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level80 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level80 |
 | Start State | Init |
 | FSM PathId | 816 |
 | GameObject PathId | 28 |

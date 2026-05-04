@@ -1,4 +1,4 @@
-﻿# menu_pointer
+# menu_pointer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | menu_pointer |
 | GameObject Name | Pointer L |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/Text YN/UI List/No/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9277 |
 | GameObject PathId | 1246 |

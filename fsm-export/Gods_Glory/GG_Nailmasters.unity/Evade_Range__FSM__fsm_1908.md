@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Evade Range |
 | GameObject Path | Brothers/Oro/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level454 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level454 |
 | Start State | Init |
 | FSM PathId | 1908 |
 | GameObject PathId | 321 |

@@ -1,4 +1,4 @@
-﻿# Vine Cut
+# Vine Cut
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Vine Cut |
 | GameObject Name | Vine |
 | GameObject Path | Chain Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Idle |
 | FSM PathId | 5428 |
 | GameObject PathId | 1403 |
@@ -398,7 +398,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -442,7 +442,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

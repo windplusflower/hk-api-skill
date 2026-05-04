@@ -1,4 +1,4 @@
-﻿# Darkness Control
+# Darkness Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Darkness Control |
 | GameObject Name | Vignette |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | PAUSE |
 | FSM PathId | 927 |
 | GameObject PathId | 48 |
@@ -1550,7 +1550,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Lantern (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Lantern (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.5, 0.006) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

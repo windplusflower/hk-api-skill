@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Fluke Hermit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level471 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level471 |
 | Start State | Init |
 | FSM PathId | 4877 |
 | GameObject PathId | 1516 |

@@ -1,4 +1,4 @@
-﻿# Arrow Anim
+# Arrow Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Arrow Anim |
 | GameObject Name | Arrow Left |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Border/Arrow Left/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9081 |
 | GameObject PathId | 829 |

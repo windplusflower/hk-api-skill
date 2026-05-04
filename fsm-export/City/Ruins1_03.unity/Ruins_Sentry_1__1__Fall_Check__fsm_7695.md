@@ -1,4 +1,4 @@
-﻿# Fall Check
+# Fall Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fall Check |
 | GameObject Name | Ruins Sentry 1 (1) |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level90 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level90 |
 | Start State | Grounded |
 | FSM PathId | 7695 |
 | GameObject PathId | 1218 |

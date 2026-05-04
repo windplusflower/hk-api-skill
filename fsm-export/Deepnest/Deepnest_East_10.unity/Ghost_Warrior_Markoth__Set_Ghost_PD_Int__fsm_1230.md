@@ -1,4 +1,4 @@
-﻿# Set Ghost PD Int
+# Set Ghost PD Int
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Ghost PD Int |
 | GameObject Name | Ghost Warrior Markoth |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level314 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level314 |
 | Start State | Idle |
 | FSM PathId | 1230 |
 | GameObject PathId | 246 |

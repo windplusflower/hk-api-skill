@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unalert Range |
 | GameObject Path | _Enemies/Battle Scene/Blocker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level50 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level50 |
 | Start State | Init |
 | FSM PathId | 4349 |
 | GameObject PathId | 732 |

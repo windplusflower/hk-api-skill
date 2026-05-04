@@ -1,4 +1,4 @@
-﻿# Detect Terrain
+# Detect Terrain
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Terrain |
 | GameObject Name | Wall Range |
 | GameObject Path | Acid Walker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level219 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level219 |
 | Start State | Init |
 | FSM PathId | 5609 |
 | GameObject PathId | 1340 |

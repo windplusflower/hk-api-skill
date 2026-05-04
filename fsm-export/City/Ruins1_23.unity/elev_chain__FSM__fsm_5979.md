@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | elev_chain |
 | GameObject Path | Ruins Lift 1/Chain/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level99 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level99 |
 | Start State | Init |
 | FSM PathId | 5979 |
 | GameObject PathId | 1559 |

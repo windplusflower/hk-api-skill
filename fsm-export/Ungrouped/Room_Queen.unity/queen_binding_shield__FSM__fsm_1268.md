@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | queen_binding_shield |
 | GameObject Path | Binding Shield Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Idle |
 | FSM PathId | 1268 |
 | GameObject PathId | 374 |

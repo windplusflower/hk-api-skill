@@ -1,4 +1,4 @@
-﻿# spike ball control
+# spike ball control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | spike ball control |
 | GameObject Name | Shot Point |
 | GameObject Path | Moss Knight B/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level159 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level159 |
 | Start State | Init |
 | FSM PathId | 5631 |
 | GameObject PathId | 957 |
@@ -196,7 +196,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -574,7 +574,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

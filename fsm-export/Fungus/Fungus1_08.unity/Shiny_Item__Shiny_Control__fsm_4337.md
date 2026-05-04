@@ -1,4 +1,4 @@
-﻿# Shiny Control
+# Shiny Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shiny Control |
 | GameObject Name | Shiny Item |
 | GameObject Path | Hunter Eyes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Pause |
 | FSM PathId | 4337 |
 | GameObject PathId | 52 |
@@ -323,7 +323,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Item Get Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Item Get Effect (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.76, -1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -569,7 +569,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Charm Get Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Charm Get Msg (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -611,7 +611,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Charm Tutorial Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Charm Tutorial Msg (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -637,7 +637,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Item Get Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Item Get Effect (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.76, -1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1034,7 +1034,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Item Get Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Item Get Effect (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.76, -1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1081,9 +1081,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [shiny_item_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [shiny_item_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1242,7 +1242,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Item Get Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Item Get Effect (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, -0.76, -1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1278,7 +1278,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Relic Get Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Relic Get Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1350,7 +1350,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [inv_item__0013_wanderers-journal (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [inv_item__0013_wanderers-journal (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. GetLanguageString
 
@@ -1415,7 +1415,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [inv_item__0012_hallownest-seal (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [inv_item__0012_hallownest-seal (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. GetLanguageString
 
@@ -1480,7 +1480,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [inv_item__0010_Kings_idol (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [inv_item__0010_Kings_idol (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. GetLanguageString
 
@@ -1545,7 +1545,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [inv_item__0011_arcane-egg (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [inv_item__0011_arcane-egg (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. GetLanguageString
 
@@ -1625,9 +1625,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [Journal_Prompt (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| sprite |   | [Journal_Prompt (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 
 ##### 3. SetFsmString
 

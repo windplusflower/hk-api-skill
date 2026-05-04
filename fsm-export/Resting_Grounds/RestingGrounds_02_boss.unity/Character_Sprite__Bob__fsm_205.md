@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Character Sprite |
 | GameObject Path | Ghost Warrior NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level238 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level238 |
 | Start State | State 1 |
 | FSM PathId | 205 |
 | GameObject PathId | 40 |

@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level45 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level45 |
 | Start State | PrePause |
 | FSM PathId | 1838 |
 | GameObject PathId | 206 |

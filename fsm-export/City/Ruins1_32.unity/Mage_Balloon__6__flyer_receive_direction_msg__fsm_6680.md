@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Mage Balloon (6) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level110 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level110 |
 | Start State | Idle |
 | FSM PathId | 6680 |
 | GameObject PathId | 1394 |

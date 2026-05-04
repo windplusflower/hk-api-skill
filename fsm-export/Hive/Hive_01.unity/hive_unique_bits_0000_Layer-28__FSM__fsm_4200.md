@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | hive_unique_bits_0000_Layer-28 |
 | GameObject Path | Hive Bench/Chunks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level384 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level384 |
 | Start State | Spin At Start? |
 | FSM PathId | 4200 |
 | GameObject PathId | 481 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Nailsmith Tink Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level91 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level91 |
 | Start State | Pause |
 | FSM PathId | 4753 |
 | GameObject PathId | 847 |

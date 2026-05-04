@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Boss Scene Unlocker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | State 1 |
 | FSM PathId | 1878 |
 | GameObject PathId | 597 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Boss Scene | [White Defender Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [White Defender Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Boss Scene | [White Defender Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [White Defender Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 
@@ -38,7 +38,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | delay |   | 0f |   |   |
-| unlockBossScene |   | object Boss Scene = [Lost Kin Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| unlockBossScene |   | object Boss Scene = [Lost Kin Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

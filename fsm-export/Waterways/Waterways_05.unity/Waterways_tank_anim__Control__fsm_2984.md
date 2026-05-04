@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Waterways_tank_anim |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level354 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level354 |
 | Start State | Pause |
 | FSM PathId | 2984 |
 | GameObject PathId | 503 |
@@ -18,9 +18,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Empty | Waterways_tank_anim/tank_empty (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_empty (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
-| Return | Waterways_tank_anim/tank_return (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_return (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
-| Switch | Waterways_tank_anim/tank_switch (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_switch (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
+| Empty | Waterways_tank_anim/tank_empty (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_empty (Hollow Knight/hollow_knight_Data\level354)] |
+| Return | Waterways_tank_anim/tank_return (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_return (Hollow Knight/hollow_knight_Data\level354)] |
+| Switch | Waterways_tank_anim/tank_switch (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Waterways_tank_anim/tank_switch (Hollow Knight/hollow_knight_Data\level354)] |
 
 ## States
 

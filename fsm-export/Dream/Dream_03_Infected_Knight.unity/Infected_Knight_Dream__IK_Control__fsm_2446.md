@@ -1,4 +1,4 @@
-﻿# IK Control
+# IK Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | IK Control |
 | GameObject Name | Infected Knight Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Pause |
 | FSM PathId | 2446 |
 | GameObject PathId | 508 |
@@ -82,20 +82,20 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Corpse Inspect | Infected Knight Dream/Corpse Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Corpse Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Dash Burst | Infected Knight Dream/Dash Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Dash Slash | Infected Knight Dream/Dash Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Dash Slash Hit | Infected Knight Dream/Dash Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Dstab Burst | Infected Knight Dream/Dstab Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dstab Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Dstab Slam | Infected Knight Dream/Dstab Slam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dstab Slam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Overhead Slash | Infected Knight Dream/Overhead Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Overhead Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
+| Corpse Inspect | Infected Knight Dream/Corpse Inspect (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Corpse Inspect (Hollow Knight/hollow_knight_Data\level397)] |
+| Dash Burst | Infected Knight Dream/Dash Burst (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Burst (Hollow Knight/hollow_knight_Data\level397)] |
+| Dash Slash | Infected Knight Dream/Dash Slash (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Slash (Hollow Knight/hollow_knight_Data\level397)] |
+| Dash Slash Hit | Infected Knight Dream/Dash Slash Hit (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dash Slash Hit (Hollow Knight/hollow_knight_Data\level397)] |
+| Dstab Burst | Infected Knight Dream/Dstab Burst (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dstab Burst (Hollow Knight/hollow_knight_Data\level397)] |
+| Dstab Slam | Infected Knight Dream/Dstab Slam (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Dstab Slam (Hollow Knight/hollow_knight_Data\level397)] |
+| Overhead Slash | Infected Knight Dream/Overhead Slash (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Overhead Slash (Hollow Knight/hollow_knight_Data\level397)] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
 | Scuttler Check | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shadow | Infected Knight Dream/Shadow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Shadow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Shake Gas | Infected Knight Dream/Shake Gas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Shake Gas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
-| Summon Grass | Infected Knight Dream/Summon Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Summon Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level397)] |
+| Shadow | Infected Knight Dream/Shadow (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Shadow (Hollow Knight/hollow_knight_Data\level397)] |
+| Shake Gas | Infected Knight Dream/Shake Gas (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Shake Gas (Hollow Knight/hollow_knight_Data\level397)] |
+| Summon Grass | Infected Knight Dream/Summon Grass (Hollow Knight/hollow_knight_Data\level397) | NamedAssetPPtr: [Infected Knight Dream/Summon Grass (Hollow Knight/hollow_knight_Data\level397)] |
 
 ## States
 
@@ -604,7 +604,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -655,7 +655,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Area Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| gameObject |   | [Area Title (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -771,7 +771,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions
@@ -1707,7 +1707,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1733,7 +1733,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1759,7 +1759,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1785,7 +1785,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1811,7 +1811,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1837,7 +1837,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile DS (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile DS (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3865,7 +3865,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

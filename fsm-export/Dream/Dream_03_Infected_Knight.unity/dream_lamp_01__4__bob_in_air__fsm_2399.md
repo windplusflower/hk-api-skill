@@ -1,4 +1,4 @@
-﻿# bob_in_air
+# bob_in_air
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | bob_in_air |
 | GameObject Name | dream_lamp_01 (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Bob |
 | FSM PathId | 2399 |
 | GameObject PathId | 177 |

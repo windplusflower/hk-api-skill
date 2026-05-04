@@ -1,4 +1,4 @@
-﻿# check_enemy_message
+# check_enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | check_enemy_message |
 | GameObject Name | Centipede Hatcher |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level286 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level286 |
 | Start State | State 1 |
 | FSM PathId | 5187 |
 | GameObject PathId | 981 |

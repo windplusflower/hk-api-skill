@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Zap Cloud (5) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level210 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level210 |
 | Start State | Idle |
 | FSM PathId | 2760 |
 | GameObject PathId | 681 |

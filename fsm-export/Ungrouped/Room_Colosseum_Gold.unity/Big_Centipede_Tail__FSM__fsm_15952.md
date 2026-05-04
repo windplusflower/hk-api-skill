@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Big Centipede Tail |
 | GameObject Path | Colosseum Manager/Waves/Garpedes 1/Big Centipede Col (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Wait |
 | FSM PathId | 15952 |
 | GameObject PathId | 4560 |

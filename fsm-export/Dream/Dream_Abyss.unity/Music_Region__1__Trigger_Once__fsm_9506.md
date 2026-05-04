@@ -1,4 +1,4 @@
-﻿# Trigger Once
+# Trigger Once
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Trigger Once |
 | GameObject Name | Music Region (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | State 1 |
 | FSM PathId | 9506 |
 | GameObject PathId | 2585 |

@@ -1,4 +1,4 @@
-﻿# Crawler
+# Crawler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crawler |
 | GameObject Name | Crawler |
 | GameObject Path | Uninfected Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level41 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level41 |
 | Start State | Walk |
 | FSM PathId | 3894 |
 | GameObject PathId | 719 |

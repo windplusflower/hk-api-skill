@@ -1,4 +1,4 @@
-﻿# Text Control
+# Text Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Text Control |
 | GameObject Name | ToBeContinued |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level416 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level416 |
 | Start State | Wait |
 | FSM PathId | 41 |
 | GameObject PathId | 3 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| TextMesh | ToBeContinued/TextMeshPro (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level416) | NamedAssetPPtr: [ToBeContinued/TextMeshPro (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level416)] |
+| TextMesh | ToBeContinued/TextMeshPro (Hollow Knight/hollow_knight_Data\level416) | NamedAssetPPtr: [ToBeContinued/TextMeshPro (Hollow Knight/hollow_knight_Data\level416)] |
 
 ## States
 

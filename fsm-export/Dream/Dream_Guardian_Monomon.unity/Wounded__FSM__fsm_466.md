@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wounded |
 | GameObject Path | Dreamer NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level402 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level402 |
 | Start State | Init |
 | FSM PathId | 466 |
 | GameObject PathId | 79 |

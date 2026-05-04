@@ -1,4 +1,4 @@
-﻿# Get Shadow Dash
+# Get Shadow Dash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Shadow Dash |
 | GameObject Name | Dish Plat |
 | GameObject Path | higher_being/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level337 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level337 |
 | Start State | Pause |
 | FSM PathId | 4144 |
 | GameObject PathId | 455 |
@@ -38,7 +38,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Black Wave | [null] | NamedAssetPPtr: [null] |
-| Gate Solid | higher_being/shadow_gate/solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level337) | NamedAssetPPtr: [higher_being/shadow_gate/solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level337)] |
+| Gate Solid | higher_being/shadow_gate/solid (Hollow Knight/hollow_knight_Data\level337) | NamedAssetPPtr: [higher_being/shadow_gate/solid (Hollow Knight/hollow_knight_Data\level337)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Knight Dummy | [null] | NamedAssetPPtr: [null] |
 | Particle Wave | [null] | NamedAssetPPtr: [null] |
@@ -456,7 +456,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| oneShotClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 
 ##### 11. iTweenMoveTo
 
@@ -531,7 +531,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, -0.7, 0) |   |   |
 | spawnMin |   | 6 |   |   |
@@ -600,7 +600,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| oneShotClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -647,7 +647,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| oneShotClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -694,7 +694,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [void_cloak_get_fill_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets337.assets)] |   |   |
+| oneShotClip |   | [void_cloak_get_fill_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets337.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -767,7 +767,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -844,9 +844,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Knight Dummy |   |   |
-| audioClip |   | [hollow_knight_firewalls_produce (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets337.assets)] |   |   |
+| audioClip |   | [hollow_knight_firewalls_produce (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets337.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -898,9 +898,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [_0000_shadow-dash (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets337.assets)] |   |   |
+| sprite |   | [_0000_shadow-dash (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets337.assets)] |   |   |
 
 ##### 2. SetFsmString
 

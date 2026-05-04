@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | infected_crossroads_particles |
 | GameObject Path | Infected_Event/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level79 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level79 |
 | Start State | Pause |
 | FSM PathId | 1081 |
 | GameObject PathId | 66 |

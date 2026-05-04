@@ -1,4 +1,4 @@
-﻿# BG Control
+# BG Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | BG Control |
 | GameObject Name | Battle Gate Archives (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level229 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level229 |
 | Start State | Init |
 | FSM PathId | 139 |
 | GameObject PathId | 3 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Raise Dust | Battle Gate Archives (2)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229) | NamedAssetPPtr: [Battle Gate Archives (2)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229)] |
+| Raise Dust | Battle Gate Archives (2)/Raise Dust (Hollow Knight/hollow_knight_Data\level229) | NamedAssetPPtr: [Battle Gate Archives (2)/Raise Dust (Hollow Knight/hollow_knight_Data\level229)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

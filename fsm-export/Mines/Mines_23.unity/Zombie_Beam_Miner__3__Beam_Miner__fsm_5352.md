@@ -1,4 +1,4 @@
-﻿# Beam Miner
+# Beam Miner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Miner |
 | GameObject Name | Zombie Beam Miner (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level264 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level264 |
 | Start State | Pause Frame |
 | FSM PathId | 5352 |
 | GameObject PathId | 1206 |
@@ -68,7 +68,7 @@
 | End Particle | [null] | NamedAssetPPtr: [null] |
 | Impact Particle | [null] | NamedAssetPPtr: [null] |
 | Init Particle | [null] | NamedAssetPPtr: [null] |
-| Laser Origin | Zombie Beam Miner (3)/Laser Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level264) | NamedAssetPPtr: [Zombie Beam Miner (3)/Laser Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level264)] |
+| Laser Origin | Zombie Beam Miner (3)/Laser Origin (Hollow Knight/hollow_knight_Data\level264) | NamedAssetPPtr: [Zombie Beam Miner (3)/Laser Origin (Hollow Knight/hollow_knight_Data\level264)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -808,7 +808,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 
 ##### 4. PlayParticleEmitter
 
@@ -975,7 +975,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mega_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| oneShotClip |   | [mega_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimation
 

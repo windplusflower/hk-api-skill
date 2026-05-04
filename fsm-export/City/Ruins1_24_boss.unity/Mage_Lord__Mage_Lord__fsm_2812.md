@@ -1,4 +1,4 @@
-﻿# Mage Lord
+# Mage Lord
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mage Lord |
 | GameObject Name | Mage Lord |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Pause |
 | FSM PathId | 2812 |
 | GameObject PathId | 35 |
@@ -92,33 +92,33 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Appear Flash | Mage Lord/Appear Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Appear Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Appear Flash | Mage Lord/Appear Flash (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Appear Flash (Hollow Knight/hollow_knight_Data\level102)] |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Arrive Particles | Mage Lord/Arrive Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Arrive Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| CamLock | Mage Lord/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Fire Effect | Mage Lord/Fire Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Fire Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Head Box | Mage Lord/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Orb Spinner | Mage Lord/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Arrive Particles | Mage Lord/Arrive Particles (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Arrive Particles (Hollow Knight/hollow_knight_Data\level102)] |
+| CamLock | Mage Lord/CameraLockArea B (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/CameraLockArea B (Hollow Knight/hollow_knight_Data\level102)] |
+| Fire Effect | Mage Lord/Fire Effect (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Fire Effect (Hollow Knight/hollow_knight_Data\level102)] |
+| Head Box | Mage Lord/Head Box (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Head Box (Hollow Knight/hollow_knight_Data\level102)] |
+| Orb Spinner | Mage Lord/Orb Spinner (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Orb Spinner (Hollow Knight/hollow_knight_Data\level102)] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
-| Quake Blast | Mage Lord/Quake Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Quake Box | Mage Lord/Quake Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Quake Hit | Mage Lord/Quake Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Quake Blast | Mage Lord/Quake Blast (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Blast (Hollow Knight/hollow_knight_Data\level102)] |
+| Quake Box | Mage Lord/Quake Box (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Box (Hollow Knight/hollow_knight_Data\level102)] |
+| Quake Hit | Mage Lord/Quake Particles (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Particles (Hollow Knight/hollow_knight_Data\level102)] |
 | Quake Particles | [null] | NamedAssetPPtr: [null] |
-| Quake Pillar | Mage Lord/Quake Pillar (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Pillar (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Quake Rocks | Mage Lord/Quake Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Quake Pillar | Mage Lord/Quake Pillar (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Pillar (Hollow Knight/hollow_knight_Data\level102)] |
+| Quake Rocks | Mage Lord/Quake Rocks (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Quake Rocks (Hollow Knight/hollow_knight_Data\level102)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Self | Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Self | Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |
 | Shockwave | [null] | NamedAssetPPtr: [null] |
-| Shot Charge | Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Shot Charge | Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |
 | Silh Charge | [null] | NamedAssetPPtr: [null] |
 | Silh Flash | [null] | NamedAssetPPtr: [null] |
-| Silhouette | Mage Lord/Silhouette (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Silhouette (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Silhouette | Mage Lord/Silhouette (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Silhouette (Hollow Knight/hollow_knight_Data\level102)] |
 | Tele Line | [null] | NamedAssetPPtr: [null] |
-| Tele Out Anim | Mage Lord/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Tele Out Anim | Mage Lord/Tele Out Anim (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Tele Out Anim (Hollow Knight/hollow_knight_Data\level102)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
-| Weak Particles | Mage Lord/Weak Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Weak Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| White Flash | Mage Lord/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
-| Wound Box | Mage Lord/Wound Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Wound Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Weak Particles | Mage Lord/Weak Particles (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Weak Particles (Hollow Knight/hollow_knight_Data\level102)] |
+| White Flash | Mage Lord/White Flash (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/White Flash (Hollow Knight/hollow_knight_Data\level102)] |
+| Wound Box | Mage Lord/Wound Box (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Mage Lord/Wound Box (Hollow Knight/hollow_knight_Data\level102)] |
 
 ## States
 
@@ -137,7 +137,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| storeGameObject |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] | Variable |   |
+| storeGameObject |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] | Variable |   |
 
 ##### 2. GetPosition
 
@@ -231,7 +231,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| objectA |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | true |   |   |
@@ -495,9 +495,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
-| audioClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
+| audioClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -577,7 +577,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Tele Line (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Tele Line (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Line Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1078,7 +1078,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShot
 
@@ -1087,8 +1087,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -1593,9 +1593,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
-| audioClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
+| audioClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -1650,7 +1650,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 #### Transitions
 
@@ -1699,7 +1699,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 #### Transitions
 
@@ -1984,7 +1984,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -2281,7 +2281,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| objectA |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -2298,7 +2298,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 6. AudioPlayerOneShot
 
@@ -2307,8 +2307,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -2349,7 +2349,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 3. SendEventByName
 
@@ -2370,8 +2370,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Fire Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| gameObject |   | [Global] [Mage Orb (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Fire Effect (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
@@ -2842,9 +2842,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
-| audioClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
+| audioClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -3106,7 +3106,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Tele Line (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Tele Line (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Line Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3230,7 +3230,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_strike_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_strike_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShot
 
@@ -3239,8 +3239,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -3401,7 +3401,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_strike_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_strike_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -3638,8 +3638,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shockwave Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| gameObject |   | [Global] [Shockwave Wave (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | position |   | Vector3(1.5, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Shockwave | Variable |   |
@@ -3708,8 +3708,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shockwave Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| gameObject |   | [Global] [Shockwave Wave (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | position |   | Vector3(-1.5, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Shockwave | Variable |   |
@@ -3878,8 +3878,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -4143,8 +4143,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -4156,7 +4156,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| objectA |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -4343,8 +4343,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -4398,7 +4398,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_hurt (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_hurt (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 #### Transitions
 
@@ -4421,8 +4421,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -4602,7 +4602,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| objectA |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -4757,7 +4757,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 2. SendEventByName
@@ -4939,9 +4939,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mage_lord_summon_projectiles (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| audioClip |   | [mage_lord_summon_projectiles (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -5100,7 +5100,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_lord_onscreen_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| oneShotClip |   | [mage_lord_onscreen_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 
 ##### 3. SetMeshRenderer
 
@@ -5341,8 +5341,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -5359,7 +5359,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Hero |   |   |
 | fsmName |   | "Roar Lock" | FsmName |   |
 | variableName |   | "Roar Object" | FsmGameObject |   |
-| setValue |   | [Mage Lord/Shot Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |   |   |
+| setValue |   | [Mage Lord/Shot Charge (Hollow Knight/hollow_knight_Data\level102)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 9. SendEventByName
@@ -5715,7 +5715,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [BossMageLord (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| musicCue |   | [BossMageLord (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -5726,7 +5726,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions

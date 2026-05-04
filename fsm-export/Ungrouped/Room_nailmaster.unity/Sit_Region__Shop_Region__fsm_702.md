@@ -1,4 +1,4 @@
-﻿# Shop Region
+# Shop Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shop Region |
 | GameObject Name | Sit Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level13 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level13 |
 | Start State | Pause |
 | FSM PathId | 702 |
 | GameObject PathId | 73 |
@@ -100,7 +100,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -235,7 +235,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | "Sit" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |

@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Ghost NPC Joni |
 | GameObject Path | Ghost Activator/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level235 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level235 |
 | Start State | Pause |
 | FSM PathId | 2587 |
 | GameObject PathId | 151 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | Ghost Activator/Ghost NPC Joni/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235)] |
-| Burst | Ghost Activator/Ghost NPC Joni/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235)] |
+| Away Pt | Ghost Activator/Ghost NPC Joni/Away Pt (Hollow Knight/hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Away Pt (Hollow Knight/hollow_knight_Data\level235)] |
+| Burst | Ghost Activator/Ghost NPC Joni/Burst (Hollow Knight/hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Burst (Hollow Knight/hollow_knight_Data\level235)] |
 | Dreamnail Hit | [null] | NamedAssetPPtr: [null] |
-| Idle Pt | Ghost Activator/Ghost NPC Joni/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level235)] |
+| Idle Pt | Ghost Activator/Ghost NPC Joni/Idle Pt (Hollow Knight/hollow_knight_Data\level235) | NamedAssetPPtr: [Ghost Activator/Ghost NPC Joni/Idle Pt (Hollow Knight/hollow_knight_Data\level235)] |
 
 ## States
 
@@ -222,7 +222,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. BoolTest
 

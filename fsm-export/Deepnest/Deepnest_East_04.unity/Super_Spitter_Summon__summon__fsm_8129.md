@@ -1,4 +1,4 @@
-﻿# summon
+# summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | summon |
 | GameObject Name | Super Spitter Summon |
 | GameObject Path | Spawn 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level309 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level309 |
 | Start State | Init |
 | FSM PathId | 8129 |
 | GameObject PathId | 1807 |
@@ -68,7 +68,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Super Spitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| gameObject |   | [Global] [Super Spitter (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

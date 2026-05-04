@@ -1,4 +1,4 @@
-﻿# Scream Get
+# Scream Get
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Scream Get |
 | GameObject Name | Scream 2 Get |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level338 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level338 |
 | Start State | Pause |
 | FSM PathId | 2912 |
 | GameObject PathId | 425 |
@@ -870,7 +870,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spell Get Orb Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets274.assets)] |   |   |
+| gameObject |   | [Global] [Spell Get Orb Black (Hollow Knight/hollow_knight_Data\sharedassets274.assets)] |   |   |
 | spawnPoint |   | GameObject Orb Spawn |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 100 |   |   |
@@ -927,7 +927,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dark_spell_absorb (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [dark_spell_absorb (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 #### Transitions
 
@@ -1005,7 +1005,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 ##### 3. SetPosition
 
@@ -1256,7 +1256,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| oneShotClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 
 #### Transitions
 
@@ -1289,9 +1289,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [_0007_shadow_scream (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets338.assets)] |   |   |
+| sprite |   | [_0007_shadow_scream (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets338.assets)] |   |   |
 
 ##### 3. SetFsmString
 

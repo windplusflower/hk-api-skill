@@ -1,4 +1,4 @@
-﻿# lift_platform
+# lift_platform
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | lift_platform |
 | GameObject Name | plat_lift_03 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level233 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level233 |
 | Start State | Init |
 | FSM PathId | 4933 |
 | GameObject PathId | 1320 |
@@ -47,8 +47,8 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Collider | [null] | NamedAssetPPtr: [null] |
-| Part 1 | plat_lift_03/plat_lifts_0002_a (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level233) | NamedAssetPPtr: [plat_lift_03/plat_lifts_0002_a (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level233)] |
-| Part 2 | plat_lift_03/plat_lifts_0004_a (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level233) | NamedAssetPPtr: [plat_lift_03/plat_lifts_0004_a (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level233)] |
+| Part 1 | plat_lift_03/plat_lifts_0002_a (Hollow Knight/hollow_knight_Data\level233) | NamedAssetPPtr: [plat_lift_03/plat_lifts_0002_a (Hollow Knight/hollow_knight_Data\level233)] |
+| Part 2 | plat_lift_03/plat_lifts_0004_a (Hollow Knight/hollow_knight_Data\level233) | NamedAssetPPtr: [plat_lift_03/plat_lifts_0004_a (Hollow Knight/hollow_knight_Data\level233)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -217,7 +217,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Lift_dust XL (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets233.assets)] |   |   |
+| gameObject |   | [Global] [Lift_dust XL (Hollow Knight/hollow_knight_Data\sharedassets233.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.09, -0.39) |   |   |
 | rotation |   | Vector3(0, 0, -180) |   |   |
@@ -232,9 +232,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [platform_land_from_cr7 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets43.assets)] |   |   |
+| audioClip |   | [platform_land_from_cr7 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets43.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

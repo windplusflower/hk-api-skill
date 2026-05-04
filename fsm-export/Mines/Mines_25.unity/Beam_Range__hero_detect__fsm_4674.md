@@ -1,4 +1,4 @@
-﻿# hero_detect
+# hero_detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect |
 | GameObject Name | Beam Range |
 | GameObject Path | Zombie Beam Miner (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level266 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level266 |
 | Start State | Initialise |
 | FSM PathId | 4674 |
 | GameObject PathId | 1432 |

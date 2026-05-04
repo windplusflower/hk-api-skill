@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | tram_inverse mask |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level287 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level287 |
 | Start State | Pause |
 | FSM PathId | 3371 |
 | GameObject PathId | 199 |

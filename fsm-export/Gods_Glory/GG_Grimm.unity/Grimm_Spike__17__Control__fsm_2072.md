@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grimm Spike (17) |
 | GameObject Path | Grimm Spike Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level443 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level443 |
 | Start State | Init |
 | FSM PathId | 2072 |
 | GameObject PathId | 136 |

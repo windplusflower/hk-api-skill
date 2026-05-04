@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Camera Locks Boss |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Pause |
 | FSM PathId | 2442 |
 | GameObject PathId | 464 |

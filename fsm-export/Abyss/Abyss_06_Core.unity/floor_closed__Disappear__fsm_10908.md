@@ -1,4 +1,4 @@
-﻿# Disappear
+# Disappear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disappear |
 | GameObject Name | floor_closed |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | State 3 |
 | FSM PathId | 10908 |
 | GameObject PathId | 1079 |

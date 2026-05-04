@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | black_fader |
 | GameObject Path | Fountain Inspect/New Fountain Prompt/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Init |
 | FSM PathId | 2538 |
 | GameObject PathId | 78 |

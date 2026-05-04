@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Region |
 | GameObject Path | Spawner/Ruins Sentry Fat/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level357 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level357 |
 | Start State | Initialise |
 | FSM PathId | 6661 |
 | GameObject PathId | 247 |

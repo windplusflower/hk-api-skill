@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level464 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level464 |
 | Start State | Pause |
 | FSM PathId | 2094 |
 | GameObject PathId | 222 |
@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | CamLock | [null] | NamedAssetPPtr: [null] |
 | Floor Saver | [null] | NamedAssetPPtr: [null] |
-| Wave 3 | Battle Scene/Wave 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level464) | NamedAssetPPtr: [Battle Scene/Wave 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level464)] |
+| Wave 3 | Battle Scene/Wave 3 (Hollow Knight/hollow_knight_Data\level464) | NamedAssetPPtr: [Battle Scene/Wave 3 (Hollow Knight/hollow_knight_Data\level464)] |
 
 ## States
 
@@ -62,7 +62,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/Wave 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level464)] | Variable |   |
+| gameObject |   | [Battle Scene/Wave 3 (Hollow Knight/hollow_knight_Data\level464)] | Variable |   |
 | activate |   | true |   |   |
 
 #### Transitions
@@ -149,7 +149,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 6f |   |   |
 
 ##### 5. EndGGBossScene

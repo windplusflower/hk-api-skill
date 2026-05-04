@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hornet Abyss NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | Pause |
 | FSM PathId | 11089 |
 | GameObject PathId | 2682 |

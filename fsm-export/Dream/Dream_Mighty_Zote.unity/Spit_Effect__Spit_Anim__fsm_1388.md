@@ -1,4 +1,4 @@
-﻿# Spit Anim
+# Spit Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit Anim |
 | GameObject Name | Spit Effect |
 | GameObject Path | Grey Prince/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level399 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level399 |
 | Start State | Idle |
 | FSM PathId | 1388 |
 | GameObject PathId | 305 |

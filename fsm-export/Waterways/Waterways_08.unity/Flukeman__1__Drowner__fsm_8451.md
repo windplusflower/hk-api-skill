@@ -1,4 +1,4 @@
-﻿# Drowner
+# Drowner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Drowner |
 | GameObject Name | Flukeman (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level358 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level358 |
 | Start State | Detect |
 | FSM PathId | 8451 |
 | GameObject PathId | 1373 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Splash | Flukeman (1)/Splash Out Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358) | NamedAssetPPtr: [Flukeman (1)/Splash Out Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358)] |
+| Splash | Flukeman (1)/Splash Out Black (Hollow Knight/hollow_knight_Data\level358) | NamedAssetPPtr: [Flukeman (1)/Splash Out Black (Hollow Knight/hollow_knight_Data\level358)] |
 
 ## States
 
@@ -154,7 +154,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -1, 0) |   |   |
 | spawnMin |   | 15 |   |   |

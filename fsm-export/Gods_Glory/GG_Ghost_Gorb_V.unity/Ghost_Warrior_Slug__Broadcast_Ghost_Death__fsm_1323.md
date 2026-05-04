@@ -1,4 +1,4 @@
-﻿# Broadcast Ghost Death
+# Broadcast Ghost Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Broadcast Ghost Death |
 | GameObject Name | Ghost Warrior Slug |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level489 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level489 |
 | Start State | Idle |
 | FSM PathId | 1323 |
 | GameObject PathId | 397 |

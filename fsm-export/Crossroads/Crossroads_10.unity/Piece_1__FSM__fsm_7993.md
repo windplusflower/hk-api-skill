@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Piece 1 |
 | GameObject Path | Fk Break Wall/Breakable/Pieces/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Spin At Start? |
 | FSM PathId | 7993 |
 | GameObject PathId | 1378 |

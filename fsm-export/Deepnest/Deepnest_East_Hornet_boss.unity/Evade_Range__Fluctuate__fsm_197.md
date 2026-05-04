@@ -1,4 +1,4 @@
-﻿# Fluctuate
+# Fluctuate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fluctuate |
 | GameObject Name | Evade Range |
 | GameObject Path | Hornet Boss 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level325 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level325 |
 | Start State | Off |
 | FSM PathId | 197 |
 | GameObject PathId | 20 |

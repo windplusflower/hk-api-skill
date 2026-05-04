@@ -1,4 +1,4 @@
-﻿# hero detect
+# hero detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero detect |
 | GameObject Name | Alert Range |
 | GameObject Path | Battle Scene Ore/Lesser Mawlek 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level341 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level341 |
 | Start State | Initialise |
 | FSM PathId | 8955 |
 | GameObject PathId | 2486 |

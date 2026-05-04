@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Godseeker Crowd |
 | GameObject Path | Boss Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level449 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level449 |
 | Start State | Init Target |
 | FSM PathId | 1789 |
 | GameObject PathId | 109 |
@@ -32,7 +32,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Target | Boss Holder/Hornet Boss 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level449) | NamedAssetPPtr: [Boss Holder/Hornet Boss 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level449)] |
+| Target | Boss Holder/Hornet Boss 2 (Hollow Knight/hollow_knight_Data\level449) | NamedAssetPPtr: [Boss Holder/Hornet Boss 2 (Hollow Knight/hollow_knight_Data\level449)] |
 
 ## States
 

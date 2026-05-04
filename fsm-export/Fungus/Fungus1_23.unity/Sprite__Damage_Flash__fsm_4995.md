@@ -1,4 +1,4 @@
-﻿# Damage Flash
+# Damage Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Flash |
 | GameObject Name | Sprite |
 | GameObject Path | Grass Hopper (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level151 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level151 |
 | Start State | Idle |
 | FSM PathId | 4995 |
 | GameObject PathId | 1395 |

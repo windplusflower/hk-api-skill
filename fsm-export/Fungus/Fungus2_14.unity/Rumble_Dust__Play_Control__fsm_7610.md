@@ -1,4 +1,4 @@
-﻿# Play Control
+# Play Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Control |
 | GameObject Name | Rumble Dust |
 | GameObject Path | Mantis Floor Gate/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level178 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level178 |
 | Start State | Idle |
 | FSM PathId | 7610 |
 | GameObject PathId | 1893 |

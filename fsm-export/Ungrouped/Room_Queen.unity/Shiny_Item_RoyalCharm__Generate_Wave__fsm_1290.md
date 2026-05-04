@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item RoyalCharm |
 | GameObject Path | Queen Item/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Init |
 | FSM PathId | 1290 |
 | GameObject PathId | 10 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Queen Item/Shiny Item RoyalCharm/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348) | NamedAssetPPtr: [Queen Item/Shiny Item RoyalCharm/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level348)] |
+| Wave | Queen Item/Shiny Item RoyalCharm/White Wave (Hollow Knight/hollow_knight_Data\level348) | NamedAssetPPtr: [Queen Item/Shiny Item RoyalCharm/White Wave (Hollow Knight/hollow_knight_Data\level348)] |
 
 ## States
 

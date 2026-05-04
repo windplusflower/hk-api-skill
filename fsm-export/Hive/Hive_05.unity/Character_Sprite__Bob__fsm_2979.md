@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Character Sprite |
 | GameObject Path | Battle Scene/Vespa NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | State 1 |
 | FSM PathId | 2979 |
 | GameObject PathId | 815 |

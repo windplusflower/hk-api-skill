@@ -1,4 +1,4 @@
-﻿# Get Fireball
+# Get Fireball
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Fireball |
 | GameObject Name | Knight Get Fireball Lv2 |
 | GameObject Path | Ruins Shaman/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Start |
 | FSM PathId | 5776 |
 | GameObject PathId | 229 |
@@ -49,9 +49,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dark_spell_absorb (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [dark_spell_absorb (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -272,9 +272,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -365,9 +365,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [_0010_shadow_fireball (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| sprite |   | [_0010_shadow_fireball (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 
 ##### 2. SetFsmString
 

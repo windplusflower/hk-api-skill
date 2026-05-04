@@ -1,4 +1,4 @@
-﻿# Grub Control
+# Grub Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Grub Control |
 | GameObject Name | Grub Mimic Top |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level258 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level258 |
 | Start State | Pause |
 | FSM PathId | 2846 |
 | GameObject PathId | 692 |
@@ -26,9 +26,9 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Dig Dust | [null] | NamedAssetPPtr: [null] |
-| Dream Dialogue | Grub Mimic Top/Dream Dialogue (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level258) | NamedAssetPPtr: [Grub Mimic Top/Dream Dialogue (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level258)] |
+| Dream Dialogue | Grub Mimic Top/Dream Dialogue (Hollow Knight/hollow_knight_Data\level258) | NamedAssetPPtr: [Grub Mimic Top/Dream Dialogue (Hollow Knight/hollow_knight_Data\level258)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Mimic | Grub Mimic Top/Grub Mimic (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level258) | NamedAssetPPtr: [Grub Mimic Top/Grub Mimic (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level258)] |
+| Mimic | Grub Mimic Top/Grub Mimic (Hollow Knight/hollow_knight_Data\level258) | NamedAssetPPtr: [Grub Mimic Top/Grub Mimic (Hollow Knight/hollow_knight_Data\level258)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
@@ -114,7 +114,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -359,7 +359,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -451,7 +451,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -531,7 +531,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Grub Mimic Top/Grub Mimic (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level258)] | Variable |   |
+| gameObject |   | [Grub Mimic Top/Grub Mimic (Hollow Knight/hollow_knight_Data\level258)] | Variable |   |
 | isNull |   | Event(ACTIVATE) |   |   |
 | isNotNull |   | Event() |   |   |
 | storeResult |   | false | Variable |   |
@@ -570,7 +570,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

@@ -1,4 +1,4 @@
-﻿# Music Control
+# Music Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Music Control |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause Frame |
 | FSM PathId | 3909 |
 | GameObject PathId | 603 |
@@ -89,7 +89,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Music Snapshot = [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Music Snapshot = [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Transition Time |   |   |
 
 ##### 2. SendEventByName

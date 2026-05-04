@@ -1,4 +1,4 @@
-﻿# push_enemy
+# push_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | push_enemy |
 | GameObject Name | Hit R |
 | GameObject Path | Knight/Charm Effects/Blocker Shield/Pusher/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Detect |
 | FSM PathId | 923 |
 | GameObject PathId | 112 |

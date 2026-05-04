@@ -1,4 +1,4 @@
-﻿# Hit Launch
+# Hit Launch
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit Launch |
 | GameObject Name | Fluke Fly |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level350 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level350 |
 | Start State | Idle |
 | FSM PathId | 6698 |
 | GameObject PathId | 52 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | ruins_interior_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level95 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level95 |
 | Start State | Pause |
 | FSM PathId | 3159 |
 | GameObject PathId | 785 |

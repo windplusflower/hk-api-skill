@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Nailsmith |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level16 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level16 |
 | Start State | Init |
 | FSM PathId | 142 |
 | GameObject PathId | 8 |
@@ -374,7 +374,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_talk_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_talk_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 
 #### Transitions
 
@@ -593,7 +593,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_talk_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_talk_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 
 ##### 3. GetPlayerDataInt
 
@@ -938,7 +938,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_talk_05 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets14.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_talk_05 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets14.assets)] |   |   |
 
 #### Transitions
 
@@ -1465,7 +1465,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_greet (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets14.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_greet (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets14.assets)] |   |   |
 
 #### Transitions
 
@@ -1577,7 +1577,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_talk_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_talk_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 
 #### Transitions
 
@@ -2308,7 +2308,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_talk_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_talk_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 
 ##### 3. GetPlayerDataInt
 
@@ -2917,7 +2917,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Nailmsith_greet (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets14.assets)] |   |   |
+| oneShotClip |   | [Nailmsith_greet (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets14.assets)] |   |   |
 
 #### Transitions
 

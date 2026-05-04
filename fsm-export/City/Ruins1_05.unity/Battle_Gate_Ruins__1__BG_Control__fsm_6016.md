@@ -1,4 +1,4 @@
-﻿# BG Control
+# BG Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | BG Control |
 | GameObject Name | Battle Gate Ruins (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Init |
 | FSM PathId | 6016 |
 | GameObject PathId | 204 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Raise Dust | Battle Gate Ruins (1)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Gate Ruins (1)/Raise Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92)] |
+| Raise Dust | Battle Gate Ruins (1)/Raise Dust (Hollow Knight/hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Gate Ruins (1)/Raise Dust (Hollow Knight/hollow_knight_Data\level92)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -134,7 +134,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [gate_slam (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| oneShotClip |   | [gate_slam (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 
 #### Transitions
 
@@ -202,7 +202,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [switch_gate_gate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| oneShotClip |   | [switch_gate_gate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 
 #### Transitions
 

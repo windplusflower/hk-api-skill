@@ -1,4 +1,4 @@
-﻿# Enviro Region
+# Enviro Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enviro Region |
 | GameObject Name | Enviro Region |
 | GameObject Path | Ruins Lift (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level112 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level112 |
 | Start State | Pause |
 | FSM PathId | 3080 |
 | GameObject PathId | 67 |

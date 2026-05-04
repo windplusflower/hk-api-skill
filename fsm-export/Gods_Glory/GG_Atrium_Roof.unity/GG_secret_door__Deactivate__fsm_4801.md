@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | GG_secret_door |
 | GameObject Path | Land of Storms Doors/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Get Bindings |
 | FSM PathId | 4801 |
 | GameObject PathId | 51 |

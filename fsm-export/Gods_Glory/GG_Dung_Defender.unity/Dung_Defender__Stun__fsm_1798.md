@@ -1,4 +1,4 @@
-﻿# Stun
+# Stun
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun |
 | GameObject Name | Dung Defender |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | Init |
 | FSM PathId | 1798 |
 | GameObject PathId | 119 |

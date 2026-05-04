@@ -1,4 +1,4 @@
-﻿# Shoot
+# Shoot
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shoot |
 | GameObject Name | Spider Mini (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level299 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level299 |
 | Start State | Pause |
 | FSM PathId | 7323 |
 | GameObject PathId | 1952 |
@@ -40,11 +40,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Glow | Spider Mini (1)/Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level299) | NamedAssetPPtr: [Spider Mini (1)/Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level299)] |
+| Glow | Spider Mini (1)/Glow (Hollow Knight/hollow_knight_Data\level299) | NamedAssetPPtr: [Spider Mini (1)/Glow (Hollow Knight/hollow_knight_Data\level299)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shot | [null] | NamedAssetPPtr: [null] |
-| Spit Effect | Spider Mini (1)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level299) | NamedAssetPPtr: [Spider Mini (1)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level299)] |
+| Spit Effect | Spider Mini (1)/Spit Effect (Hollow Knight/hollow_knight_Data\level299) | NamedAssetPPtr: [Spider Mini (1)/Spit Effect (Hollow Knight/hollow_knight_Data\level299)] |
 
 ## States
 
@@ -211,9 +211,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_flyer_child_awake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_flyer_child_awake (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.8f |   |   |
 | volume |   | 1f |   |   |
@@ -333,7 +333,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spitter Shot R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Spitter Shot R (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -980,9 +980,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spitter_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [spitter_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1069,7 +1069,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 3 |   |   |

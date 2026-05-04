@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Shiny Item Stand/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level247 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level247 |
 | Start State | Init |
 | FSM PathId | 1360 |
 | GameObject PathId | 392 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | Flip Hopper (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level356 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level356 |
 | Start State | Init |
 | FSM PathId | 3238 |
 | GameObject PathId | 591 |

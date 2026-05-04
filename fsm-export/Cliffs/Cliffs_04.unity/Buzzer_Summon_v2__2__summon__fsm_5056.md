@@ -1,4 +1,4 @@
-﻿# summon
+# summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | summon |
 | GameObject Name | Buzzer Summon v2 (2) |
 | GameObject Path | Summon 1 (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level234 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level234 |
 | Start State | Instantiate |
 | FSM PathId | 5056 |
 | GameObject PathId | 581 |
@@ -337,7 +337,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Buzzer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Buzzer (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

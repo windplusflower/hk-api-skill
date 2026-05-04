@@ -1,4 +1,4 @@
-﻿# Globalise
+# Globalise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Globalise |
 | GameObject Name | Stag Map |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Init |
 | FSM PathId | 1949 |
 | GameObject PathId | 425 |

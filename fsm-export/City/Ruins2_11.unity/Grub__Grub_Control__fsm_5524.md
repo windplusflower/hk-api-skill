@@ -1,4 +1,4 @@
-﻿# Grub Control
+# Grub Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Grub Control |
 | GameObject Name | Grub |
 | GameObject Path | Grubs Folder/Grub Bottle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level124 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level124 |
 | Start State | Init |
 | FSM PathId | 5524 |
 | GameObject PathId | 331 |
@@ -276,7 +276,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [grub_burrow (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| oneShotClip |   | [grub_burrow (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. PlayParticleEmitter

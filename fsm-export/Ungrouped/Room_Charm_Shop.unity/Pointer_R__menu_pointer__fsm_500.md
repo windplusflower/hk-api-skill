@@ -1,4 +1,4 @@
-﻿# menu_pointer
+# menu_pointer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | menu_pointer |
 | GameObject Name | Pointer R |
 | GameObject Path | Shop Menu/Confirm/UI List/Yes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level10 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level10 |
 | Start State | Init |
 | FSM PathId | 500 |
 | GameObject PathId | 38 |

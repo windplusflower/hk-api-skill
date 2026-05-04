@@ -1,4 +1,4 @@
-﻿# Beam Miner
+# Beam Miner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Miner |
 | GameObject Name | Zombie Beam Miner Rematch |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level271 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level271 |
 | Start State | Pause Frame |
 | FSM PathId | 1592 |
 | GameObject PathId | 156 |
@@ -77,22 +77,22 @@
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Arm Hit | [null] | NamedAssetPPtr: [null] |
-| Beam | Battle Scene/Zombie Beam Miner Rematch/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
-| Beam Ball | Battle Scene/Zombie Beam Miner Rematch/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Beam | Battle Scene/Zombie Beam Miner Rematch/Beam (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam (Hollow Knight/hollow_knight_Data\level271)] |
+| Beam Ball | Battle Scene/Zombie Beam Miner Rematch/Beam Ball (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Ball (Hollow Knight/hollow_knight_Data\level271)] |
 | Beam Glow | [null] | NamedAssetPPtr: [null] |
-| Beam Impact | Battle Scene/Zombie Beam Miner Rematch/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Beam Impact | Battle Scene/Zombie Beam Miner Rematch/Beam Impact (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Impact (Hollow Knight/hollow_knight_Data\level271)] |
 | Beam Origin | [null] | NamedAssetPPtr: [null] |
-| Beam Point L | Battle Scene/Zombie Beam Miner Rematch/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
-| Beam Point R | Battle Scene/Zombie Beam Miner Rematch/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
-| Cam Lock | Battle Scene/Zombie Beam Miner Rematch/Cam Lock (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Cam Lock (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
-| Crystal Rain | Battle Scene/Zombie Beam Miner Rematch/Crystal Rain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Crystal Rain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Beam Point L | Battle Scene/Zombie Beam Miner Rematch/Beam Point L (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Point L (Hollow Knight/hollow_knight_Data\level271)] |
+| Beam Point R | Battle Scene/Zombie Beam Miner Rematch/Beam Point R (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Beam Point R (Hollow Knight/hollow_knight_Data\level271)] |
+| Cam Lock | Battle Scene/Zombie Beam Miner Rematch/Cam Lock (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Cam Lock (Hollow Knight/hollow_knight_Data\level271)] |
+| Crystal Rain | Battle Scene/Zombie Beam Miner Rematch/Crystal Rain (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Crystal Rain (Hollow Knight/hollow_knight_Data\level271)] |
 | End Particle | [null] | NamedAssetPPtr: [null] |
 | Impact Particle | [null] | NamedAssetPPtr: [null] |
 | Init Particle | [null] | NamedAssetPPtr: [null] |
-| Land Dust | Battle Scene/Zombie Beam Miner Rematch/Land Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Land Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Land Dust | Battle Scene/Zombie Beam Miner Rematch/Land Dust (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Land Dust (Hollow Knight/hollow_knight_Data\level271)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Effect | Battle Scene/Zombie Beam Miner Rematch/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Slam Effect | Battle Scene/Zombie Beam Miner Rematch/Slam Effect (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Battle Scene/Zombie Beam Miner Rematch/Slam Effect (Hollow Knight/hollow_knight_Data\level271)] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -836,7 +836,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions
@@ -884,9 +884,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -900,9 +900,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [radiance_misc_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [radiance_misc_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.5f |   |   |
@@ -916,7 +916,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1214,9 +1214,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1527,9 +1527,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1854,7 +1854,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 
 ##### 2. AudioPlayerOneShotSingle
 
@@ -1863,9 +1863,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| audioClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2101,9 +2101,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mega_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [mega_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2534,7 +2534,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Beam |   |   |
-| target |   | [Battle Scene/Zombie Beam Miner Rematch/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |   |   |
+| target |   | [Battle Scene/Zombie Beam Miner Rematch/Beam Point L (Hollow Knight/hollow_knight_Data\level271)] |   |   |
 | offsetX |   | 0f |   |   |
 | offsetY |   | 0f |   |   |
 | storeAngle |   | float Angle |   |   |
@@ -2729,7 +2729,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Beam |   |   |
-| target |   | [Battle Scene/Zombie Beam Miner Rematch/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |   |   |
+| target |   | [Battle Scene/Zombie Beam Miner Rematch/Beam Point R (Hollow Knight/hollow_knight_Data\level271)] |   |   |
 | offsetX |   | 0f |   |   |
 | offsetY |   | 0f |   |   |
 | storeAngle |   | float Angle |   |   |

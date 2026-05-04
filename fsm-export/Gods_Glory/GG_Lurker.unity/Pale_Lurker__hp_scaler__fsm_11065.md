@@ -1,4 +1,4 @@
-﻿# hp_scaler
+# hp_scaler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hp_scaler |
 | GameObject Name | Pale Lurker |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Pause |
 | FSM PathId | 11065 |
 | GameObject PathId | 139 |

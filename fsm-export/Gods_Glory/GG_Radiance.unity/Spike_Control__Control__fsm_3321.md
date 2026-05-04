@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Spike Control |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3321 |
 | GameObject PathId | 328 |
@@ -25,13 +25,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Beam Sweeper | Boss Control/Beam Sweeper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Beam Sweeper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459)] |
+| Beam Sweeper | Boss Control/Beam Sweeper (Hollow Knight/hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Beam Sweeper (Hollow Knight/hollow_knight_Data\level459)] |
 | Centre | [null] | NamedAssetPPtr: [null] |
 | Far L | [null] | NamedAssetPPtr: [null] |
 | Far R | [null] | NamedAssetPPtr: [null] |
-| Marker C | Boss Control/Spike Control/Hazard Respawn Marker A1C (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1C (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459)] |
-| Marker L | Boss Control/Spike Control/Hazard Respawn Marker A1L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459)] |
-| Marker R | Boss Control/Spike Control/Hazard Respawn Marker A1R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level459)] |
+| Marker C | Boss Control/Spike Control/Hazard Respawn Marker A1C (Hollow Knight/hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1C (Hollow Knight/hollow_knight_Data\level459)] |
+| Marker L | Boss Control/Spike Control/Hazard Respawn Marker A1L (Hollow Knight/hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1L (Hollow Knight/hollow_knight_Data\level459)] |
+| Marker R | Boss Control/Spike Control/Hazard Respawn Marker A1R (Hollow Knight/hollow_knight_Data\level459) | NamedAssetPPtr: [Boss Control/Spike Control/Hazard Respawn Marker A1R (Hollow Knight/hollow_knight_Data\level459)] |
 | Mid L | [null] | NamedAssetPPtr: [null] |
 | Mid R | [null] | NamedAssetPPtr: [null] |
 

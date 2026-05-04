@@ -1,4 +1,4 @@
-﻿# Get Quake
+# Get Quake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Quake |
 | GameObject Name | Knight Get Quake Fake |
 | GameObject Path | Quake Fake Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Start |
 | FSM PathId | 2827 |
 | GameObject PathId | 82 |
@@ -24,16 +24,16 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Arrive Particles | Quake Fake Parent/Knight Get Quake Fake/Arrive Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Arrive Particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Arrive Particles | Quake Fake Parent/Knight Get Quake Fake/Arrive Particles (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Arrive Particles (Hollow Knight/hollow_knight_Data\level102)] |
 | CamLock | [null] | NamedAssetPPtr: [null] |
 | Camera Parent | [null] | NamedAssetPPtr: [null] |
 | Cutscene Knight | [null] | NamedAssetPPtr: [null] |
 | Knight Flame | [null] | NamedAssetPPtr: [null] |
 | Light 2 | [null] | NamedAssetPPtr: [null] |
-| Mage Lord | Quake Fake Parent/Knight Get Quake Fake/Mage Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Mage Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Mage Lord | Quake Fake Parent/Knight Get Quake Fake/Mage Lord (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Mage Lord (Hollow Knight/hollow_knight_Data\level102)] |
 | Main Camera | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Spaz | Quake Fake Parent/Knight Get Quake Fake/Spaz (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Spaz (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level102)] |
+| Spaz | Quake Fake Parent/Knight Get Quake Fake/Spaz (Hollow Knight/hollow_knight_Data\level102) | NamedAssetPPtr: [Quake Fake Parent/Knight Get Quake Fake/Spaz (Hollow Knight/hollow_knight_Data\level102)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 | Wave | [null] | NamedAssetPPtr: [null] |
 
@@ -94,9 +94,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spell_pickup_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [spell_pickup_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -328,7 +328,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -418,9 +418,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mage_lord_onscreen_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| audioClip |   | [mage_lord_onscreen_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -434,7 +434,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -477,7 +477,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [White Wave (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -748,7 +748,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -765,9 +765,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mage_lord_strike_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| audioClip |   | [mage_lord_strike_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -861,9 +861,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mage_lord_glass_floor_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [mage_lord_glass_floor_break (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

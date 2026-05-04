@@ -1,4 +1,4 @@
-﻿# Trail Control
+# Trail Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Trail Control |
 | GameObject Name | Fall Trail |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Idle |
 | FSM PathId | 1091 |
 | GameObject PathId | 212 |
@@ -31,7 +31,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hero | Knight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Hero | Knight (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight (Hollow Knight/hollow_knight_Data\level4)] |
 
 ## States
 

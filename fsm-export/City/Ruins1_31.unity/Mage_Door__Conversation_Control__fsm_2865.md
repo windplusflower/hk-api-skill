@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Mage Door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level108 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level108 |
 | Start State | Init |
 | FSM PathId | 2865 |
 | GameObject PathId | 182 |
@@ -42,11 +42,11 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Dust | Mage Door/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108)] |
+| Dust | Mage Door/Dust (Hollow Knight/hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Dust (Hollow Knight/hollow_knight_Data\level108)] |
 | Mask | [null] | NamedAssetPPtr: [null] |
-| Phys Box | Mage Door/Phys Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Phys Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108)] |
+| Phys Box | Mage Door/Phys Box (Hollow Knight/hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Phys Box (Hollow Knight/hollow_knight_Data\level108)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shine Particle | Mage Door/Shine Particle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Shine Particle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level108)] |
+| Shine Particle | Mage Door/Shine Particle (Hollow Knight/hollow_knight_Data\level108) | NamedAssetPPtr: [Mage Door/Shine Particle (Hollow Knight/hollow_knight_Data\level108)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -224,7 +224,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Area Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| gameObject |   | [Area Title (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -714,7 +714,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [manhole_key_turn (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [manhole_key_turn (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 ##### 4. AudioPlaySimple
 
@@ -725,7 +725,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [white_seal_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| oneShotClip |   | [white_seal_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 
 #### Transitions
 
@@ -808,7 +808,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 ##### 7. SetCollider
 
@@ -875,7 +875,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [lift_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [lift_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# Mender Bug Ctrl
+# Mender Bug Ctrl
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mender Bug Ctrl |
 | GameObject Name | Mender Bug |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Init |
 | FSM PathId | 4831 |
 | GameObject PathId | 869 |
@@ -37,7 +37,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hammer | _Scenery/Mender Bug/Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level37) | NamedAssetPPtr: [_Scenery/Mender Bug/Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level37)] |
+| Hammer | _Scenery/Mender Bug/Hammer (Hollow Knight/hollow_knight_Data\level37) | NamedAssetPPtr: [_Scenery/Mender Bug/Hammer (Hollow Knight/hollow_knight_Data\level37)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shiny Item | [null] | NamedAssetPPtr: [null] |
 
@@ -300,9 +300,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Mender_startle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets37.assets)] |   |   |
+| audioClip |   | [Mender_startle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets37.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -354,7 +354,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [flap_fast (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets37.assets)] |   |   |
+| audioClip |   | [flap_fast (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets37.assets)] |   |   |
 
 ##### 3. AudioPlay
 

@@ -1,4 +1,4 @@
-﻿# CameraFade
+# CameraFade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | CameraFade |
 | GameObject Name | tk2dCamera |
 | GameObject Path | _GameCameras/CameraParent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause |
 | FSM PathId | 9083 |
 | GameObject PathId | 1287 |
@@ -34,7 +34,7 @@
 | Blanker | [null] | NamedAssetPPtr: [null] |
 | Scene Manager | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Start Blanker | _GameCameras/CameraParent/tk2dCamera/Start Blanker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/CameraParent/tk2dCamera/Start Blanker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Start Blanker | _GameCameras/CameraParent/tk2dCamera/Start Blanker (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/CameraParent/tk2dCamera/Start Blanker (Hollow Knight/hollow_knight_Data\level1)] |
 
 ## States
 

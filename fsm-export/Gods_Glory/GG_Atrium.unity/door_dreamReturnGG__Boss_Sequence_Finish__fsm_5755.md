@@ -1,4 +1,4 @@
-﻿# Boss Sequence Finish
+# Boss Sequence Finish
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Boss Sequence Finish |
 | GameObject Name | door_dreamReturnGG |
 | GameObject Path | GG_Challenge_Door (2)/Door/Unlocked Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Pause |
 | FSM PathId | 5755 |
 | GameObject PathId | 1566 |
@@ -33,10 +33,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Behind Particles | GG_Challenge_Door (2)/Door/gg_door_inner_glowy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/gg_door_inner_glowy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Door | GG_Challenge_Door (2)/Door/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Door Animator | GG_Challenge_Door (2)/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Inspect | GG_Challenge_Door (2)/Door/Unlocked Set/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/Unlocked Set/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
+| Behind Particles | GG_Challenge_Door (2)/Door/gg_door_inner_glowy (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/gg_door_inner_glowy (Hollow Knight/hollow_knight_Data\level424)] |
+| Door | GG_Challenge_Door (2)/Door/Door (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/Door (Hollow Knight/hollow_knight_Data\level424)] |
+| Door Animator | GG_Challenge_Door (2)/Door (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door (Hollow Knight/hollow_knight_Data\level424)] |
+| Inspect | GG_Challenge_Door (2)/Door/Unlocked Set/Inspect (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [GG_Challenge_Door (2)/Door/Unlocked Set/Inspect (Hollow Knight/hollow_knight_Data\level424)] |
 
 ## States
 
@@ -334,7 +334,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [GG_Challenge_Door (2)/Door/Unlocked Set/door_dreamReturnGG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |   |   |
+| gameObject |   | [Global] [GG_Challenge_Door (2)/Door/Unlocked Set/door_dreamReturnGG (Hollow Knight/hollow_knight_Data\level424)] |   |   |
 | storeName |   | string Door Entry | Variable |   |
 | everyFrame |   | false |   |   |
 
@@ -583,9 +583,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [GG_Challenge_Door (2)/Door/Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |   |   |
-| audioClip |   | [gg_rush_entrance_door_close (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets424.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [GG_Challenge_Door (2)/Door/Door (Hollow Knight/hollow_knight_Data\level424)] |   |   |
+| audioClip |   | [gg_rush_entrance_door_close (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets424.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

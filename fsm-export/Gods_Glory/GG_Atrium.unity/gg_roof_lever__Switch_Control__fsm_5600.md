@@ -1,4 +1,4 @@
-﻿# Switch Control
+# Switch Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Switch Control |
 | GameObject Name | gg_roof_lever |
 | GameObject Path | gg_roof_door_pieces/GG_door_caps/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Pause |
 | FSM PathId | 5600 |
 | GameObject PathId | 1227 |
@@ -46,11 +46,11 @@
 | --- | --- | --- |
 | Camera | [null] | NamedAssetPPtr: [null] |
 | Damager | [null] | NamedAssetPPtr: [null] |
-| Door 1 | top1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [top1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Door 2 | top2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [top2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Hit Origin | gg_atrium_hidden_path (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
+| Door 1 | top1 (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [top1 (Hollow Knight/hollow_knight_Data\level424)] |
+| Door 2 | top2 (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [top2 (Hollow Knight/hollow_knight_Data\level424)] |
+| Hit Origin | gg_atrium_hidden_path (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path (Hollow Knight/hollow_knight_Data\level424)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target 1 | gg_atrium_hidden_path (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
+| Target 1 | gg_atrium_hidden_path (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path (Hollow Knight/hollow_knight_Data\level424)] |
 
 ## States
 
@@ -221,9 +221,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gg_sphere_switch (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets424.assets)] |   |   |
+| audioClip |   | [gg_sphere_switch (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets424.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -272,7 +272,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Hit Origin |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

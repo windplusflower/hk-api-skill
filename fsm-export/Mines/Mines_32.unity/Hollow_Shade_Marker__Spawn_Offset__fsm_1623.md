@@ -1,4 +1,4 @@
-﻿# Spawn Offset
+# Spawn Offset
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn Offset |
 | GameObject Name | Hollow_Shade Marker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level271 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level271 |
 | Start State | Idle |
 | FSM PathId | 1623 |
 | GameObject PathId | 328 |

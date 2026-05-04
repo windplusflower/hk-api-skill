@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Beam Glow |
 | GameObject Path | Zombie Beam Miner (4)/Beam/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level264 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level264 |
 | Start State | Init |
 | FSM PathId | 5519 |
 | GameObject PathId | 1691 |

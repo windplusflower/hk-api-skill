@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Roof Check |
 | GameObject Path | Zombie Miner 1 (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level251 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level251 |
 | Start State | Init |
 | FSM PathId | 4609 |
 | GameObject PathId | 1418 |

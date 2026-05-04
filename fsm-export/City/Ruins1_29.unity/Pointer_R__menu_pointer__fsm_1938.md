@@ -1,4 +1,4 @@
-﻿# menu_pointer
+# menu_pointer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | menu_pointer |
 | GameObject Name | Pointer R |
 | GameObject Path | Stag Map/UI List Stag/Kings Station/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Init |
 | FSM PathId | 1938 |
 | GameObject PathId | 489 |

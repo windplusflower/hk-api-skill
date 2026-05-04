@@ -1,4 +1,4 @@
-﻿# White Charm
+# White Charm
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | White Charm |
 | GameObject Name | Charm Effects |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Pause |
 | FSM PathId | 893 |
 | GameObject PathId | 147 |

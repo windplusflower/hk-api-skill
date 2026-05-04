@@ -1,4 +1,4 @@
-﻿# Ruins Sentry Fat
+# Ruins Sentry Fat
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ruins Sentry Fat |
 | GameObject Name | Ruins Sentry Fat |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level117 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level117 |
 | Start State | Init |
 | FSM PathId | 4836 |
 | GameObject PathId | 991 |
@@ -63,8 +63,8 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Alert Region Obj | [null] | NamedAssetPPtr: [null] |
-| Charge Hit | Ruins Sentry Fat/Charge Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry Fat/Charge Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117)] |
-| Ground Slash | Ruins Sentry Fat/Ground Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry Fat/Ground Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117)] |
+| Charge Hit | Ruins Sentry Fat/Charge Hit (Hollow Knight/hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry Fat/Charge Hit (Hollow Knight/hollow_knight_Data\level117)] |
+| Ground Slash | Ruins Sentry Fat/Ground Slash (Hollow Knight/hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry Fat/Ground Slash (Hollow Knight/hollow_knight_Data\level117)] |
 | Head Box | [null] | NamedAssetPPtr: [null] |
 | Patrol Voice | [null] | NamedAssetPPtr: [null] |
 | Run Check Obj | [null] | NamedAssetPPtr: [null] |
@@ -872,7 +872,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -916,7 +916,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. ActivateGameObject
@@ -1191,7 +1191,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1277,9 +1277,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -1394,9 +1394,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1426,7 +1426,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents
@@ -1919,7 +1919,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1960,9 +1960,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ruin_fat_sentry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| audioClip |   | [ruin_fat_sentry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1977,7 +1977,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [ruin_fat_sentry_run_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| audioClip |   | [ruin_fat_sentry_run_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 
 ##### 4. SetVelocity2d
 
@@ -2110,7 +2110,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2361,7 +2361,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [ruin_fat_sentry_walk_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| audioClip |   | [ruin_fat_sentry_walk_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 
 ##### 4. DecelerateXY
 
@@ -2443,7 +2443,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [ruin_fat_sentry_walk_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| audioClip |   | [ruin_fat_sentry_walk_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimationWithEvents
 

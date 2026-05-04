@@ -1,4 +1,4 @@
-﻿# Detect
+# Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect |
 | GameObject Name | Attack Detect |
 | GameObject Path | Hornet Infected Knight Encounter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level133 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level133 |
 | Start State | Detect |
 | FSM PathId | 243 |
 | GameObject PathId | 39 |

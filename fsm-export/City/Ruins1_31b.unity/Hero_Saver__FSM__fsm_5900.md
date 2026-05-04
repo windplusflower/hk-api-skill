@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Saver |
 | GameObject Path | Battle Scene v2/Balloons/Mage Balloon Spawner (17)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Init |
 | FSM PathId | 5900 |
 | GameObject PathId | 765 |

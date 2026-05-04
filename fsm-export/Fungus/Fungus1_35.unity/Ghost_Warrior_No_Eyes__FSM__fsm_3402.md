@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Pause |
 | FSM PathId | 3402 |
 | GameObject PathId | 324 |

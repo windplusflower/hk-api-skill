@@ -1,4 +1,4 @@
-﻿# Rope Plat
+# Rope Plat
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rope Plat |
 | GameObject Name | Chain Platform |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Pause |
 | FSM PathId | 5530 |
 | GameObject PathId | 1509 |
@@ -36,17 +36,17 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Activated Plat | Chain Platform/Activated Plat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Activated Plat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
+| Activated Plat | Chain Platform/Activated Plat (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Activated Plat (Hollow Knight/hollow_knight_Data\level106)] |
 | Enemy Kill | [null] | NamedAssetPPtr: [null] |
-| Grass A | Chain Platform/Green Grass A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Green Grass A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Grass B | Chain Platform/Green Grass B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Green Grass B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Hero Land | Chain Platform/Hero Land (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Hero Land (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Land Grass | Chain Platform/Land Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Land Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Plat Sprite | Chain Platform/Plat Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Plat Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
+| Grass A | Chain Platform/Green Grass A (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Green Grass A (Hollow Knight/hollow_knight_Data\level106)] |
+| Grass B | Chain Platform/Green Grass B (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Green Grass B (Hollow Knight/hollow_knight_Data\level106)] |
+| Hero Land | Chain Platform/Hero Land (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Hero Land (Hollow Knight/hollow_knight_Data\level106)] |
+| Land Grass | Chain Platform/Land Grass (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Land Grass (Hollow Knight/hollow_knight_Data\level106)] |
+| Plat Sprite | Chain Platform/Plat Sprite (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Plat Sprite (Hollow Knight/hollow_knight_Data\level106)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Effect | Chain Platform/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Vine | Chain Platform/Vine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Vine Stub | Chain Platform/Vine Stub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine Stub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
+| Slam Effect | Chain Platform/Slam Effect (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Slam Effect (Hollow Knight/hollow_knight_Data\level106)] |
+| Vine | Chain Platform/Vine (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine (Hollow Knight/hollow_knight_Data\level106)] |
+| Vine Stub | Chain Platform/Vine Stub (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine Stub (Hollow Knight/hollow_knight_Data\level106)] |
 
 ## States
 
@@ -203,7 +203,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [chain_cut (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets30.assets)] |   |   |
+| oneShotClip |   | [chain_cut (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets30.assets)] |   |   |
 
 ##### 2. SetIsKinematic2d
 
@@ -285,9 +285,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [chain_plat_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [chain_plat_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -440,7 +440,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Acid Splash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Acid Splash (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Display
+# Display
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Display |
 | GameObject Name | Control Reminder |
 | GameObject Path | _GameCameras/HudCamera/Prompts/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9288 |
 | GameObject PathId | 893 |
@@ -33,21 +33,21 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| ActionButton Attack | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Attack (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Attack (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton Cast | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Cast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Cast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| ActionButton Attack | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Attack (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Attack (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton Cast | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Cast (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Cast (Hollow Knight/hollow_knight_Data\level1)] |
 | ActionButton Cast JA | [null] | NamedAssetPPtr: [null] |
-| ActionButton Dash | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Dash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Dash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton Down | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton DreamNail | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton DreamNail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton DreamNail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton Jump | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Jump (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Jump (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton QuickMap | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton QuickMap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton QuickMap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton SD | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton SD (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton SD (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| ActionButton Up | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Backboard | _GameCameras/HudCamera/Prompts/Control Reminder/Backboard (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Backboard (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| ActionButton Dash | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Dash (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Dash (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton Down | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Down (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Down (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton DreamNail | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton DreamNail (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton DreamNail (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton Jump | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Jump (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Jump (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton QuickMap | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton QuickMap (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton QuickMap (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton SD | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton SD (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton SD (Hollow Knight/hollow_knight_Data\level1)] |
+| ActionButton Up | _GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Up (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/ActionButton Up (Hollow Knight/hollow_knight_Data\level1)] |
+| Backboard | _GameCameras/HudCamera/Prompts/Control Reminder/Backboard (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Backboard (Hollow Knight/hollow_knight_Data\level1)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Text | _GameCameras/HudCamera/Prompts/Control Reminder/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Txt Hold | _GameCameras/HudCamera/Prompts/Control Reminder/Txt Hold (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Txt Hold (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Txt Tap | _GameCameras/HudCamera/Prompts/Control Reminder/Txt Tap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Txt Tap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Text | _GameCameras/HudCamera/Prompts/Control Reminder/Text (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Text (Hollow Knight/hollow_knight_Data\level1)] |
+| Txt Hold | _GameCameras/HudCamera/Prompts/Control Reminder/Txt Hold (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Txt Hold (Hollow Knight/hollow_knight_Data\level1)] |
+| Txt Tap | _GameCameras/HudCamera/Prompts/Control Reminder/Txt Tap (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Prompts/Control Reminder/Txt Tap (Hollow Knight/hollow_knight_Data\level1)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# Dig Decision
+# Dig Decision
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dig Decision |
 | GameObject Name | Baby Centipede (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level284 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level284 |
 | Start State | Idle |
 | FSM PathId | 11397 |
 | GameObject PathId | 2563 |

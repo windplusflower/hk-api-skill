@@ -1,4 +1,4 @@
-﻿# Strike
+# Strike
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Strike |
 | GameObject Name | Strike Nail |
 | GameObject Path | Colosseum Manager/Waves/Wave 35/Colosseum Cage Large/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Initiate |
 | FSM PathId | 11049 |
 | GameObject PathId | 2548 |

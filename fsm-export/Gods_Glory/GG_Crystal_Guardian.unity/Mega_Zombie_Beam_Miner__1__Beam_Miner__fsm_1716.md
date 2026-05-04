@@ -1,4 +1,4 @@
-﻿# Beam Miner
+# Beam Miner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Miner |
 | GameObject Name | Mega Zombie Beam Miner (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level428 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level428 |
 | Start State | Pause Frame |
 | FSM PathId | 1716 |
 | GameObject PathId | 41 |
@@ -81,22 +81,22 @@
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Arm Hit | [null] | NamedAssetPPtr: [null] |
-| Beam | Mega Zombie Beam Miner (1)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
-| Beam Ball | Mega Zombie Beam Miner (1)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
+| Beam | Mega Zombie Beam Miner (1)/Beam (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam (Hollow Knight/hollow_knight_Data\level428)] |
+| Beam Ball | Mega Zombie Beam Miner (1)/Beam Ball (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Ball (Hollow Knight/hollow_knight_Data\level428)] |
 | Beam Glow | [null] | NamedAssetPPtr: [null] |
-| Beam Impact | Mega Zombie Beam Miner (1)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
+| Beam Impact | Mega Zombie Beam Miner (1)/Beam Impact (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Impact (Hollow Knight/hollow_knight_Data\level428)] |
 | Beam Origin | [null] | NamedAssetPPtr: [null] |
-| Beam Point L | Mega Zombie Beam Miner (1)/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
-| Beam Point R | Mega Zombie Beam Miner (1)/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
-| Cam Lock | Mega Zombie Beam Miner (1)/Cam Lock (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Cam Lock (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
-| Crystal Rain | Mega Zombie Beam Miner (1)/Crystal Rain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Crystal Rain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
+| Beam Point L | Mega Zombie Beam Miner (1)/Beam Point L (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Point L (Hollow Knight/hollow_knight_Data\level428)] |
+| Beam Point R | Mega Zombie Beam Miner (1)/Beam Point R (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Beam Point R (Hollow Knight/hollow_knight_Data\level428)] |
+| Cam Lock | Mega Zombie Beam Miner (1)/Cam Lock (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Cam Lock (Hollow Knight/hollow_knight_Data\level428)] |
+| Crystal Rain | Mega Zombie Beam Miner (1)/Crystal Rain (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Crystal Rain (Hollow Knight/hollow_knight_Data\level428)] |
 | End Particle | [null] | NamedAssetPPtr: [null] |
 | Impact Particle | [null] | NamedAssetPPtr: [null] |
 | Init Particle | [null] | NamedAssetPPtr: [null] |
-| Land Dust | Mega Zombie Beam Miner (1)/Land Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Land Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
+| Land Dust | Mega Zombie Beam Miner (1)/Land Dust (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Land Dust (Hollow Knight/hollow_knight_Data\level428)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Effect | Mega Zombie Beam Miner (1)/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |
+| Slam Effect | Mega Zombie Beam Miner (1)/Slam Effect (Hollow Knight/hollow_knight_Data\level428) | NamedAssetPPtr: [Mega Zombie Beam Miner (1)/Slam Effect (Hollow Knight/hollow_knight_Data\level428)] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -512,7 +512,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 
 ##### 2. SetMeshRenderer
 
@@ -732,9 +732,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mega_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [mega_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1369,9 +1369,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [white_seal_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioClip |   | [white_seal_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1420,7 +1420,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions
@@ -1468,9 +1468,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1484,9 +1484,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [radiance_misc_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [radiance_misc_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.5f |   |   |
@@ -1500,7 +1500,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1810,9 +1810,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2123,9 +2123,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2423,7 +2423,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Beam |   |   |
-| target |   | [Mega Zombie Beam Miner (1)/Beam Point L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |   |   |
+| target |   | [Mega Zombie Beam Miner (1)/Beam Point L (Hollow Knight/hollow_knight_Data\level428)] |   |   |
 | offsetX |   | 0f |   |   |
 | offsetY |   | 0f |   |   |
 | storeAngle |   | float Angle |   |   |
@@ -2618,7 +2618,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Beam |   |   |
-| target |   | [Mega Zombie Beam Miner (1)/Beam Point R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level428)] |   |   |
+| target |   | [Mega Zombie Beam Miner (1)/Beam Point R (Hollow Knight/hollow_knight_Data\level428)] |   |   |
 | offsetX |   | 0f |   |   |
 | offsetY |   | 0f |   |   |
 | storeAngle |   | float Angle |   |   |

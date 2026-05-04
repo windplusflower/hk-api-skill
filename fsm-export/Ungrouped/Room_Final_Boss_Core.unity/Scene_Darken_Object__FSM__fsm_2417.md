@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Scene Darken Object |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Pause |
 | FSM PathId | 2417 |
 | GameObject PathId | 352 |

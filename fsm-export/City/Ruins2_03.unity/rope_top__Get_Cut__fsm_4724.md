@@ -1,4 +1,4 @@
-﻿# Get Cut
+# Get Cut
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Cut |
 | GameObject Name | rope_top |
 | GameObject Path | chandelier/chandelier_top/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level113 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level113 |
 | Start State | Idle |
 | FSM PathId | 4724 |
 | GameObject PathId | 1031 |

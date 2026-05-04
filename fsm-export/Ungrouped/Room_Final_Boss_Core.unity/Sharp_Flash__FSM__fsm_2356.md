@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Sharp Flash |
 | GameObject Path | Boss Control/Shield Shatter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Init |
 | FSM PathId | 2356 |
 | GameObject PathId | 207 |

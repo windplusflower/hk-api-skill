@@ -1,4 +1,4 @@
-﻿# Disable if No Lantern
+# Disable if No Lantern
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disable if No Lantern |
 | GameObject Name | Toll Gate Machine (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level272 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level272 |
 | Start State | Pause |
 | FSM PathId | 2993 |
 | GameObject PathId | 380 |

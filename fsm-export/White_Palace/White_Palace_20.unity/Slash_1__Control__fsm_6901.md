@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Slash 1 |
 | GameObject Path | Battle Scene/Wave 1/Royal Gaurd/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Wait |
 | FSM PathId | 6901 |
 | GameObject PathId | 1834 |

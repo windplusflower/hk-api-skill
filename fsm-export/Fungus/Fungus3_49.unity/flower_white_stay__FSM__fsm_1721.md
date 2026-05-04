@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | flower_white stay |
 | GameObject Path | Mantis Grave/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level225 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level225 |
 | Start State | Pause |
 | FSM PathId | 1721 |
 | GameObject PathId | 362 |

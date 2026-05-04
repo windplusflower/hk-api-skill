@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Pre-Battle Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level355 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level355 |
 | Start State | Pause |
 | FSM PathId | 106 |
 | GameObject PathId | 2 |

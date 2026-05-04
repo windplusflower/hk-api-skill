@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Alert Range |
 | GameObject Path | Plant Turret Right/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level141 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level141 |
 | Start State | Pause |
 | FSM PathId | 4236 |
 | GameObject PathId | 795 |

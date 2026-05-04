@@ -1,4 +1,4 @@
-﻿# Disable Self
+# Disable Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disable Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | False Knight Dream/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level431 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level431 |
 | Start State | Wait |
 | FSM PathId | 1633 |
 | GameObject PathId | 48 |

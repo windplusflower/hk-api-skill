@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_dreamReturn |
 | GameObject Path | Godseeker Waterways/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Idle |
 | FSM PathId | 6482 |
 | GameObject PathId | 1953 |

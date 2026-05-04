@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Ghost boss |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Pause |
 | FSM PathId | 9089 |
 | GameObject PathId | 341 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | Ghost boss/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
-| Burst | Ghost boss/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Away Pt | Ghost boss/Away Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Away Pt (Hollow Knight/hollow_knight_Data\level243)] |
+| Burst | Ghost boss/Burst (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Burst (Hollow Knight/hollow_knight_Data\level243)] |
 | Dreamnail Hit | [null] | NamedAssetPPtr: [null] |
-| Idle Pt | Ghost boss/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Idle Pt | Ghost boss/Idle Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost boss/Idle Pt (Hollow Knight/hollow_knight_Data\level243)] |
 
 ## States
 
@@ -222,7 +222,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. BoolTest
 

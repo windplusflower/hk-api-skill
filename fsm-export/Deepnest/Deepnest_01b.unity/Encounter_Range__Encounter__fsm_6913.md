@@ -1,4 +1,4 @@
-﻿# Encounter
+# Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Encounter |
 | GameObject Name | Encounter Range |
 | GameObject Path | Cornifer Deepnest/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level278 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level278 |
 | Start State | Pause |
 | FSM PathId | 6913 |
 | GameObject PathId | 1341 |

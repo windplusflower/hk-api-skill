@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | Hit |
 | GameObject Path | Battle Scene/Cloth Entry/Cloth Fighter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Wait |
 | FSM PathId | 558 |
 | GameObject PathId | 93 |

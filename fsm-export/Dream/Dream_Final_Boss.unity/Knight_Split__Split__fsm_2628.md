@@ -1,4 +1,4 @@
-﻿# Split
+# Split
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Split |
 | GameObject Name | Knight Split |
 | GameObject Path | Boss Control/Radiance/Death/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | State 1 |
 | FSM PathId | 2628 |
 | GameObject PathId | 516 |

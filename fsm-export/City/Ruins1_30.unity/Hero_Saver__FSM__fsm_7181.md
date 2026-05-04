@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Saver |
 | GameObject Path | Mage Blob 2 (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level100 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level100 |
 | Start State | Init |
 | FSM PathId | 7181 |
 | GameObject PathId | 1247 |

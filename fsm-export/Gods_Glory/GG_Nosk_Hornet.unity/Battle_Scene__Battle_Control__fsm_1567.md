@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level487 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level487 |
 | Start State | Init |
 | FSM PathId | 1567 |
 | GameObject PathId | 406 |
@@ -31,7 +31,7 @@
 | Nosk Transform | [null] | NamedAssetPPtr: [null] |
 | Pt Jump | [null] | NamedAssetPPtr: [null] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Rumble Loop | Mimic Spider/Rumble Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets486.assets) | NamedAssetPPtr: [Mimic Spider/Rumble Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets486.assets)] |
+| Rumble Loop | Mimic Spider/Rumble Loop (Hollow Knight/hollow_knight_Data\sharedassets486.assets) | NamedAssetPPtr: [Mimic Spider/Rumble Loop (Hollow Knight/hollow_knight_Data\sharedassets486.assets)] |
 | Slam Effect | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -119,7 +119,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Rumble Loop" |   |   |
-| storeResult |   | [Mimic Spider/Rumble Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets486.assets)] | Variable |   |
+| storeResult |   | [Mimic Spider/Rumble Loop (Hollow Knight/hollow_knight_Data\sharedassets486.assets)] | Variable |   |
 
 ##### 8. FindChild
 
@@ -180,9 +180,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Nosk Transform |   |   |
-| audioClip |   | [mimic_spider_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| audioClip |   | [mimic_spider_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -198,7 +198,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nosk Transform |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mimic_spider_transormation_stage_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| oneShotClip |   | [mimic_spider_transormation_stage_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 
 ##### 3. SetFsmGameObject
 
@@ -232,7 +232,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Nosk Transform |   |   |
 | position |   | Vector3(-0.2, -1.2, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -320,7 +320,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [GG Sad (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| musicCue |   | [GG Sad (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -331,7 +331,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [HK Decline 5 (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [HK Decline 5 (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.5f |   |   |
 
 #### Transitions
@@ -355,7 +355,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [MimicSpider (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| musicCue |   | [MimicSpider (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -366,7 +366,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.5f |   |   |
 
 #### Transitions
@@ -403,7 +403,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nosk Transform |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mimic_spider_transormation_stage_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets81.assets)] |   |   |
+| oneShotClip |   | [mimic_spider_transormation_stage_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets81.assets)] |   |   |
 
 ##### 3. Wait
 
@@ -503,7 +503,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nosk Transform |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| oneShotClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 
 ##### 3. Wait
 
@@ -551,7 +551,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nosk Transform |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mimic_spider_transormation_stage_5 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| oneShotClip |   | [mimic_spider_transormation_stage_5 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 
 ##### 3. SendEventByName
 
@@ -584,9 +584,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Nosk Transform |   |   |
-| audioClip |   | [mimic_spider_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| audioClip |   | [mimic_spider_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -600,9 +600,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Nosk Transform |   |   |
-| audioClip |   | [mimic_spider_transormation_stage_5 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| audioClip |   | [mimic_spider_transormation_stage_5 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -788,9 +788,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Nosk Transform |   |   |
-| audioClip |   | [false_knight_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| audioClip |   | [false_knight_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

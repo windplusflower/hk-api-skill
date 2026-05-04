@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Acid Box |
 | GameObject Path | Acid Control v2 (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level170 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level170 |
 | Start State | Idle |
 | FSM PathId | 8939 |
 | GameObject PathId | 1351 |

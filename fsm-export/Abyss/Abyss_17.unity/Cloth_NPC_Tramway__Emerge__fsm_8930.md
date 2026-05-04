@@ -1,4 +1,4 @@
-﻿# Emerge
+# Emerge
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Emerge |
 | GameObject Name | Cloth NPC Tramway |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level341 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level341 |
 | Start State | Init Pause |
 | FSM PathId | 8930 |
 | GameObject PathId | 2194 |
@@ -192,9 +192,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Emerge Dust |   |   |
-| audioClip |   | [loose_floor_temp (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |   |   |
+| audioClip |   | [loose_floor_temp (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -294,9 +294,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Emerge Dust |   |   |
-| audioClip |   | [HK_Cloth_Burst02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets173.assets)] |   |   |
+| audioClip |   | [HK_Cloth_Burst02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets173.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -310,9 +310,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Emerge Dust |   |   |
-| audioClip |   | [cave_in_rock_hit_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets173.assets)] |   |   |
+| audioClip |   | [cave_in_rock_hit_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets173.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

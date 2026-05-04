@@ -1,4 +1,4 @@
-﻿# deactivate
+# deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate |
 | GameObject Name | Quake Hit |
 | GameObject Path | Mage Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Wait |
 | FSM PathId | 2811 |
 | GameObject PathId | 32 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | _Props/Break Floor 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level67 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level67 |
 | Start State | Init |
 | FSM PathId | 3853 |
 | GameObject PathId | 404 |

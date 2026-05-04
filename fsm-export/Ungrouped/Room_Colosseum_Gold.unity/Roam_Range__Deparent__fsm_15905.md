@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Roam Range |
 | GameObject Path | Colosseum Manager/Waves/Wave 25/Electric Mage New/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Pause |
 | FSM PathId | 15905 |
 | GameObject PathId | 4396 |

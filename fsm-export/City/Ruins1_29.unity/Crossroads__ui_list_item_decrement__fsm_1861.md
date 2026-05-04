@@ -1,4 +1,4 @@
-﻿# ui_list_item_decrement
+# ui_list_item_decrement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ui_list_item_decrement |
 | GameObject Name | Crossroads |
 | GameObject Path | Stag Map/UI List Stag/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Idle |
 | FSM PathId | 1861 |
 | GameObject PathId | 407 |

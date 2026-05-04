@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | Godseeker Waterways/Godseeker Awake/Flower Appear/Flower Give/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Idle |
 | FSM PathId | 6528 |
 | GameObject PathId | 2052 |

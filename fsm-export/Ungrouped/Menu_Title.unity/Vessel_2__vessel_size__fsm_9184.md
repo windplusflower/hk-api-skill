@@ -1,4 +1,4 @@
-﻿# vessel_size
+# vessel_size
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | vessel_size |
 | GameObject Name | Vessel 2 |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9184 |
 | GameObject PathId | 1148 |

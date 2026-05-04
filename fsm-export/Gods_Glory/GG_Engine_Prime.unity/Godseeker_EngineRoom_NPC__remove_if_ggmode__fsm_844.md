@@ -1,4 +1,4 @@
-﻿# remove_if_ggmode
+# remove_if_ggmode
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | remove_if_ggmode |
 | GameObject Name | Godseeker EngineRoom NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level476 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level476 |
 | Start State | Check |
 | FSM PathId | 844 |
 | GameObject PathId | 278 |

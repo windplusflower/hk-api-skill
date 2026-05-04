@@ -1,4 +1,4 @@
-﻿# Moss Knight Control
+# Moss Knight Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Moss Knight Control |
 | GameObject Name | Moss Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level154 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level154 |
 | Start State | Pause Frame |
 | FSM PathId | 3730 |
 | GameObject PathId | 892 |
@@ -78,15 +78,15 @@
 | Dust | [null] | NamedAssetPPtr: [null] |
 | Evade Range | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Idle Grass 1 | Moss Knight/Idle Grass F 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass F 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
-| Idle Grass 2 | Moss Knight/Idle Grass F 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass F 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
-| Idle Grass 3 | Moss Knight/Idle Grass B 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass B 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
-| Idle Grass 4 | Moss Knight/Idle Grass B 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass B 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
+| Idle Grass 1 | Moss Knight/Idle Grass F 1 (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass F 1 (Hollow Knight/hollow_knight_Data\level154)] |
+| Idle Grass 2 | Moss Knight/Idle Grass F 2 (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass F 2 (Hollow Knight/hollow_knight_Data\level154)] |
+| Idle Grass 3 | Moss Knight/Idle Grass B 2 (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass B 2 (Hollow Knight/hollow_knight_Data\level154)] |
+| Idle Grass 4 | Moss Knight/Idle Grass B 1 (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Idle Grass B 1 (Hollow Knight/hollow_knight_Data\level154)] |
 | Move Grass 1 | [null] | NamedAssetPPtr: [null] |
 | Move Grass 2 | [null] | NamedAssetPPtr: [null] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shake Grass | Moss Knight/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
+| Shake Grass | Moss Knight/Shake Grass (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Shake Grass (Hollow Knight/hollow_knight_Data\level154)] |
 | Shot Burst | [null] | NamedAssetPPtr: [null] |
 | Shot Point | [null] | NamedAssetPPtr: [null] |
 | Slash Collider | [null] | NamedAssetPPtr: [null] |
@@ -96,7 +96,7 @@
 | Spit Effect | [null] | NamedAssetPPtr: [null] |
 | Spit Range | [null] | NamedAssetPPtr: [null] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
-| Wake Grass A | Moss Knight/Green Grass B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Green Grass B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level154)] |
+| Wake Grass A | Moss Knight/Green Grass B (Hollow Knight/hollow_knight_Data\level154) | NamedAssetPPtr: [Moss Knight/Green Grass B (Hollow Knight/hollow_knight_Data\level154)] |
 | Wake Grass B | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -2020,9 +2020,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_rustle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| audioClip |   | [moss_knight_rustle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -2047,7 +2047,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Moss_Knight_attack_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| oneShotClip |   | [Moss_Knight_attack_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 
 #### Transitions
 
@@ -2090,9 +2090,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [moss_knight_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 0.95f |   |   |
 | pitchMax |   | 1.05f |   |   |
 | volume |   | 1f |   |   |
@@ -2152,7 +2152,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Moss_Knight_attack_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| oneShotClip |   | [Moss_Knight_attack_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 
 #### Transitions
 
@@ -2673,9 +2673,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [moss_knight_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2818,9 +2818,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [moss_knight_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3035,9 +3035,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [moss_knight_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3176,7 +3176,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Grass Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| gameObject |   | [Global] [Grass Ball (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | spawnPoint |   | GameObject Shot Point |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3671,9 +3671,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Moss_Knight_attack_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [Moss_Knight_attack_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3706,9 +3706,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_charger_leafy_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_leafy_explode (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -3961,9 +3961,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_rustle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| audioClip |   | [moss_knight_rustle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3977,7 +3977,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -4260,9 +4260,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_rustle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| audioClip |   | [moss_knight_rustle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -4287,7 +4287,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Moss_Knight_attack_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| oneShotClip |   | [Moss_Knight_attack_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 
 #### Transitions
 
@@ -4320,9 +4320,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| audioClip |   | [moss_knight_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |
@@ -4362,7 +4362,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Moss_Knight_attack_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets149.assets)] |   |   |
+| oneShotClip |   | [Moss_Knight_attack_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets149.assets)] |   |   |
 
 #### Transitions
 
@@ -4459,7 +4459,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions

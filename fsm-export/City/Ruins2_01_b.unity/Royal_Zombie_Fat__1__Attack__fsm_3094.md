@@ -1,4 +1,4 @@
-﻿# Attack
+# Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack |
 | GameObject Name | Royal Zombie Fat (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level112 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level112 |
 | Start State | Init |
 | FSM PathId | 3094 |
 | GameObject PathId | 224 |

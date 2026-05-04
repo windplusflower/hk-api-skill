@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | TerrainBack |
 | GameObject Path | Zombie Hive/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level384 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level384 |
 | Start State | Init |
 | FSM PathId | 4235 |
 | GameObject PathId | 839 |

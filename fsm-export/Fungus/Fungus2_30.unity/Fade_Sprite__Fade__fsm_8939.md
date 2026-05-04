@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | Fade Sprite |
 | GameObject Path | fung_well_tab_03/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level192 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level192 |
 | Start State | Idle |
 | FSM PathId | 8939 |
 | GameObject PathId | 210 |

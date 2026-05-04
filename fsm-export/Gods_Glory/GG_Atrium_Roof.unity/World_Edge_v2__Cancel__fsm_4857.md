@@ -1,4 +1,4 @@
-﻿# Cancel
+# Cancel
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cancel |
 | GameObject Name | World Edge v2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Idle |
 | FSM PathId | 4857 |
 | GameObject PathId | 1293 |

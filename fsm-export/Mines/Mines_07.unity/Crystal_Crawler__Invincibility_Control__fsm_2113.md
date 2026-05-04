@@ -1,4 +1,4 @@
-﻿# Invincibility Control
+# Invincibility Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Invincibility Control |
 | GameObject Name | Crystal Crawler |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level254 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level254 |
 | Start State | Init |
 | FSM PathId | 2113 |
 | GameObject PathId | 334 |

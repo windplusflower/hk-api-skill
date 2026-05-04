@@ -1,4 +1,4 @@
-﻿# Black Knight
+# Black Knight
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Black Knight |
 | GameObject Name | Black Knight 1 |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level468 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level468 |
 | Start State | Pause |
 | FSM PathId | 2728 |
 | GameObject PathId | 175 |
@@ -61,25 +61,25 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Bugs In 1 | Battle Control/Black Knight 1/Bugs In 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Bugs In 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Bugs In 2 | Battle Control/Black Knight 1/Bugs In 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Bugs In 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Entry Steam | Battle Control/Black Knight 1/Entry Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Entry Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Bugs In 1 | Battle Control/Black Knight 1/Bugs In 1 (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Bugs In 1 (Hollow Knight/hollow_knight_Data\level468)] |
+| Bugs In 2 | Battle Control/Black Knight 1/Bugs In 2 (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Bugs In 2 (Hollow Knight/hollow_knight_Data\level468)] |
+| Entry Steam | Battle Control/Black Knight 1/Entry Steam (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Entry Steam (Hollow Knight/hollow_knight_Data\level468)] |
 | Hit Effect | [null] | NamedAssetPPtr: [null] |
-| Hover Bugs | Battle Control/Black Knight 1/Hover Bugs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Hover Bugs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Hover Steam | Battle Control/Black Knight 1/Hover Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Hover Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Hover Bugs | Battle Control/Black Knight 1/Hover Bugs (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Hover Bugs (Hollow Knight/hollow_knight_Data\level468)] |
+| Hover Steam | Battle Control/Black Knight 1/Hover Steam (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Hover Steam (Hollow Knight/hollow_knight_Data\level468)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Roar Point | Battle Control/Black Knight 1/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Roar Steam 1 | Battle Control/Black Knight 1/Roar Steam 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Steam 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Roar Steam 2 | Battle Control/Black Knight 1/Roar Steam 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Steam 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Roar Point | Battle Control/Black Knight 1/Roar Point (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Point (Hollow Knight/hollow_knight_Data\level468)] |
+| Roar Steam 1 | Battle Control/Black Knight 1/Roar Steam 1 (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Steam 1 (Hollow Knight/hollow_knight_Data\level468)] |
+| Roar Steam 2 | Battle Control/Black Knight 1/Roar Steam 2 (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Roar Steam 2 (Hollow Knight/hollow_knight_Data\level468)] |
 | Roll Audio | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Origin Bot | Battle Control/Black Knight 1/Slam Origin Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slam Origin Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Slam Origin Wall | Battle Control/Black Knight 1/Slam Origin Wall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slam Origin Wall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Slam Origin Bot | Battle Control/Black Knight 1/Slam Origin Bot (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slam Origin Bot (Hollow Knight/hollow_knight_Data\level468)] |
+| Slam Origin Wall | Battle Control/Black Knight 1/Slam Origin Wall (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slam Origin Wall (Hollow Knight/hollow_knight_Data\level468)] |
 | Slam Player | [null] | NamedAssetPPtr: [null] |
-| Slash1 Hit | Battle Control/Black Knight 1/Slash1 Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slash1 Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
-| Slash2 Hit | Battle Control/Black Knight 1/Slash2 Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slash2 Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Slash1 Hit | Battle Control/Black Knight 1/Slash1 Hit (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slash1 Hit (Hollow Knight/hollow_knight_Data\level468)] |
+| Slash2 Hit | Battle Control/Black Knight 1/Slash2 Hit (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Slash2 Hit (Hollow Knight/hollow_knight_Data\level468)] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
-| Sparks | Battle Control/Black Knight 1/Sparks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Sparks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |
+| Sparks | Battle Control/Black Knight 1/Sparks (Hollow Knight/hollow_knight_Data\level468) | NamedAssetPPtr: [Battle Control/Black Knight 1/Sparks (Hollow Knight/hollow_knight_Data\level468)] |
 | Spinjump Audio | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -202,7 +202,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -372,7 +372,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Hero |   |   |
 | fsmName |   | "Roar Lock" | FsmName |   |
 | variableName |   | "Roar Object" | FsmGameObject |   |
-| setValue |   | [Battle Control/Black Knight 1/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| setValue |   | [Battle Control/Black Knight 1/Roar Point (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. SendEventByName
@@ -394,8 +394,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Roar Point (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -452,7 +452,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Death Wave Infected (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Death Wave Infected (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -814,7 +814,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -831,7 +831,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1523,7 +1523,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. SpawnObjectFromGlobalPool
 
@@ -1532,8 +1532,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Wall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Wall (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 270) |   |   |
 | storeObject |   |   | Variable |   |
@@ -2052,8 +2052,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -2095,9 +2095,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -2200,8 +2200,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -2234,9 +2234,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -2329,7 +2329,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -2374,8 +2374,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Bot (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -2446,8 +2446,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Wall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level468)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/Black Knight 1/Slam Origin Wall (Hollow Knight/hollow_knight_Data\level468)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 270) |   |   |
 | storeObject |   |   | Variable |   |
@@ -2480,9 +2480,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -2803,7 +2803,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -2930,7 +2930,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -3813,7 +3813,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 4. ApplyMusicCue
@@ -3823,7 +3823,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [Boss1 (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| musicCue |   | [Boss1 (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 

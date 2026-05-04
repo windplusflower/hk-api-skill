@@ -1,4 +1,4 @@
-﻿# Keep Y
+# Keep Y
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Keep Y |
 | GameObject Name | Burrow Effect |
 | GameObject Path | White Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level398 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level398 |
 | Start State | Pause |
 | FSM PathId | 2880 |
 | GameObject PathId | 967 |

@@ -1,4 +1,4 @@
-﻿# Uncover
+# Uncover
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Uncover |
 | GameObject Name | Masks |
 | GameObject Path | Zote_Break_wall/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Uncover Instant |
 | FSM PathId | 12533 |
 | GameObject PathId | 826 |
@@ -18,9 +18,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Enable | Zote_Appear_bits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Appear_bits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
-| First Appear | Zote_Appear_bits/first_appear_sequence (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Appear_bits/first_appear_sequence (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
-| Masker | Zote_Break_wall/masker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Break_wall/masker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
+| Enable | Zote_Appear_bits (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Appear_bits (Hollow Knight/hollow_knight_Data\level470)] |
+| First Appear | Zote_Appear_bits/first_appear_sequence (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Appear_bits/first_appear_sequence (Hollow Knight/hollow_knight_Data\level470)] |
+| Masker | Zote_Break_wall/masker (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [Zote_Break_wall/masker (Hollow Knight/hollow_knight_Data\level470)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

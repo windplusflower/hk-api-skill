@@ -1,4 +1,4 @@
-﻿# Globalise
+# Globalise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Globalise |
 | GameObject Name | Blanker White |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9501 |
 | GameObject PathId | 1013 |

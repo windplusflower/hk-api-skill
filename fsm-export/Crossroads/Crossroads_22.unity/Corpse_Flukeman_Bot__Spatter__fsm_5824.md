@@ -1,4 +1,4 @@
-﻿# Spatter
+# Spatter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spatter |
 | GameObject Name | Corpse Flukeman Bot |
 | GameObject Path | Hatcher/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Spatter |
 | FSM PathId | 5824 |
 | GameObject PathId | 237 |

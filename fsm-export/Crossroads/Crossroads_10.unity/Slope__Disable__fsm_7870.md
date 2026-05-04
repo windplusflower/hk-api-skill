@@ -1,4 +1,4 @@
-﻿# Disable
+# Disable
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disable |
 | GameObject Name | Slope |
 | GameObject Path | Fk Break Wall/Broken/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Idle |
 | FSM PathId | 7870 |
 | GameObject PathId | 546 |

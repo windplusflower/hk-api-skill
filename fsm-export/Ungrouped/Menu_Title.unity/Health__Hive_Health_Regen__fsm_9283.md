@@ -1,4 +1,4 @@
-﻿# Hive Health Regen
+# Hive Health Regen
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hive Health Regen |
 | GameObject Name | Health |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9283 |
 | GameObject PathId | 1412 |

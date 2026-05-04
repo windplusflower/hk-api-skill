@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Grass Hopper (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level151 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level151 |
 | Start State | Idle |
 | FSM PathId | 4782 |
 | GameObject PathId | 505 |

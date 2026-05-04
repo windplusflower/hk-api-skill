@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Mantis Heavy Flyer |
 | GameObject Path | Battle Scene/Wave 6/Dragonfly Summon (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Idle |
 | FSM PathId | 4100 |
 | GameObject PathId | 913 |

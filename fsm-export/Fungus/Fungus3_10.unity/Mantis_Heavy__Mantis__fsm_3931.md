@@ -1,4 +1,4 @@
-﻿# Mantis
+# Mantis
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis |
 | GameObject Name | Mantis Heavy |
 | GameObject Path | Battle Scene/Completed/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Init |
 | FSM PathId | 3931 |
 | GameObject PathId | 69 |
@@ -76,17 +76,17 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Burst Dust | Battle Scene/Completed/Mantis Heavy/Burst Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Burst Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Dash Dust | Battle Scene/Completed/Mantis Heavy/Dash Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Dash Effect A | Battle Scene/Completed/Mantis Heavy/Dash Effect A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Effect A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Dash Effect G | Battle Scene/Completed/Mantis Heavy/Dash Effect G (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Effect G (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Emerge Dust | Battle Scene/Completed/Mantis Heavy/Emerge Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Emerge Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Head Box | Battle Scene/Completed/Mantis Heavy/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
+| Burst Dust | Battle Scene/Completed/Mantis Heavy/Burst Dust (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Burst Dust (Hollow Knight/hollow_knight_Data\level203)] |
+| Dash Dust | Battle Scene/Completed/Mantis Heavy/Dash Dust (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Dust (Hollow Knight/hollow_knight_Data\level203)] |
+| Dash Effect A | Battle Scene/Completed/Mantis Heavy/Dash Effect A (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Effect A (Hollow Knight/hollow_knight_Data\level203)] |
+| Dash Effect G | Battle Scene/Completed/Mantis Heavy/Dash Effect G (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Dash Effect G (Hollow Knight/hollow_knight_Data\level203)] |
+| Emerge Dust | Battle Scene/Completed/Mantis Heavy/Emerge Dust (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Emerge Dust (Hollow Knight/hollow_knight_Data\level203)] |
+| Head Box | Battle Scene/Completed/Mantis Heavy/Head Box (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Head Box (Hollow Knight/hollow_knight_Data\level203)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Effect | Battle Scene/Completed/Mantis Heavy/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Slash Forward | Battle Scene/Completed/Mantis Heavy/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Slash Up | Battle Scene/Completed/Mantis Heavy/Slash Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slash Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
-| Walk Range Obj | Battle Scene/Completed/Mantis Heavy/Walk Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Walk Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level203)] |
+| Slam Effect | Battle Scene/Completed/Mantis Heavy/Slam Effect (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slam Effect (Hollow Knight/hollow_knight_Data\level203)] |
+| Slash Forward | Battle Scene/Completed/Mantis Heavy/Slash Forward (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slash Forward (Hollow Knight/hollow_knight_Data\level203)] |
+| Slash Up | Battle Scene/Completed/Mantis Heavy/Slash Up (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Slash Up (Hollow Knight/hollow_knight_Data\level203)] |
+| Walk Range Obj | Battle Scene/Completed/Mantis Heavy/Walk Range (Hollow Knight/hollow_knight_Data\level203) | NamedAssetPPtr: [Battle Scene/Completed/Mantis Heavy/Walk Range (Hollow Knight/hollow_knight_Data\level203)] |
 
 ## States
 
@@ -403,9 +403,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [hornet_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -446,7 +446,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_heavy_attack (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_heavy_attack (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 5. SetVector2XY
 
@@ -935,7 +935,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_heavy_attack_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_heavy_attack_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -1519,7 +1519,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_heavy_two_steps_back (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_heavy_two_steps_back (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. SetFloatValue
 
@@ -2075,7 +2075,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -2184,7 +2184,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [hornet_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -2381,7 +2381,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [brkn_wand_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [brkn_wand_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 #### Transitions
 
@@ -2463,7 +2463,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_flyer_child_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_flyer_child_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. AudioPlayerOneShotSingle
 
@@ -2472,9 +2472,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_burst_leaves (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [moss_knight_burst_leaves (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2673,7 +2673,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [stalactite_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| oneShotClip |   | [stalactite_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 
 ##### 7. AudioPlayerOneShotSingle
 
@@ -2682,9 +2682,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1.05f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

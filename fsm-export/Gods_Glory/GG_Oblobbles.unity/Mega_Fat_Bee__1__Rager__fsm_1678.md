@@ -1,4 +1,4 @@
-﻿# Rager
+# Rager
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rager |
 | GameObject Name | Mega Fat Bee (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level456 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level456 |
 | Start State | State 1 |
 | FSM PathId | 1678 |
 | GameObject PathId | 25 |

@@ -1,4 +1,4 @@
-﻿# Pulse
+# Pulse
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pulse |
 | GameObject Name | Beam Parent |
 | GameObject Path | Super Dash Get/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Idle |
 | FSM PathId | 6469 |
 | GameObject PathId | 1336 |

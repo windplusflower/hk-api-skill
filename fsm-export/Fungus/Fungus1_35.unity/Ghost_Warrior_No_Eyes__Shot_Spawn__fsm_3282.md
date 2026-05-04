@@ -1,4 +1,4 @@
-﻿# Shot Spawn
+# Shot Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shot Spawn |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3282 |
 | GameObject PathId | 324 |
@@ -80,7 +80,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [No Eyes Head (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [No Eyes Head (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -133,7 +133,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [No Eyes Head (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [No Eyes Head (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -211,7 +211,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [No Eyes Head (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [No Eyes Head (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -264,7 +264,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [No Eyes Head (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [No Eyes Head (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

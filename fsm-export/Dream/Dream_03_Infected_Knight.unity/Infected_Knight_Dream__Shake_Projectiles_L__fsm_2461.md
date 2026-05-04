@@ -1,4 +1,4 @@
-﻿# Shake Projectiles L
+# Shake Projectiles L
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shake Projectiles L |
 | GameObject Name | Infected Knight Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Idle |
 | FSM PathId | 2461 |
 | GameObject PathId | 508 |
@@ -101,7 +101,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [IK Projectile SH (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [IK Projectile SH (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

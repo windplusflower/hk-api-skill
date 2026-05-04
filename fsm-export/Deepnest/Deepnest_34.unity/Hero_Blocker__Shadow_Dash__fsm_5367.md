@@ -1,4 +1,4 @@
-﻿# Shadow Dash
+# Shadow Dash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shadow Dash |
 | GameObject Name | Hero Blocker |
 | GameObject Path | Slash Spider/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level292 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level292 |
 | Start State | Idle |
 | FSM PathId | 5367 |
 | GameObject PathId | 1174 |

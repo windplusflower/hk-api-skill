@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3289 |
 | GameObject PathId | 324 |
@@ -72,12 +72,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior No Eyes/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Attack Pt | Warrior/Ghost Warrior No Eyes/Attack Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Attack Pt (Hollow Knight/hollow_knight_Data\level161)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior No Eyes/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Target | Warrior/Ghost Warrior No Eyes/Target (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Target (Hollow Knight/hollow_knight_Data\level161)] |
 | Warp | [null] | NamedAssetPPtr: [null] |
-| Warp Out | Warrior/Ghost Warrior No Eyes/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| White Flash | Warrior/Ghost Warrior No Eyes/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Warp Out | Warrior/Ghost Warrior No Eyes/Warp Out (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Warp Out (Hollow Knight/hollow_knight_Data\level161)] |
+| White Flash | Warrior/Ghost Warrior No Eyes/White Flash (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/White Flash (Hollow Knight/hollow_knight_Data\level161)] |
 
 ## States
 
@@ -144,9 +144,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -691,7 +691,7 @@ Enabled: false
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior No Eyes/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior No Eyes/Target (Hollow Knight/hollow_knight_Data\level161)] | Variable |   |
 | speedMax |   | 5f |   |   |
 | acceleration |   | 0.3f |   |   |
 | targetSpread |   | 0f |   |   |

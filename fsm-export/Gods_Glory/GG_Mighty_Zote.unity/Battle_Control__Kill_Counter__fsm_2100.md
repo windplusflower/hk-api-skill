@@ -1,4 +1,4 @@
-﻿# Kill Counter
+# Kill Counter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Kill Counter |
 | GameObject Name | Battle Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Idle |
 | FSM PathId | 2100 |
 | GameObject PathId | 226 |
@@ -38,9 +38,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Counter Flash | Battle Control/Counter Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Counter Icon | Battle Control/Counter Icon (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Icon (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Counter Text | Battle Control/Counter Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
+| Counter Flash | Battle Control/Counter Flash (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Flash (Hollow Knight/hollow_knight_Data\level481)] |
+| Counter Icon | Battle Control/Counter Icon (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Icon (Hollow Knight/hollow_knight_Data\level481)] |
+| Counter Text | Battle Control/Counter Text (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Counter Text (Hollow Knight/hollow_knight_Data\level481)] |
 | Event Sender | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -335,9 +335,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_stun (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_stun (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1.25f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |

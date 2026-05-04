@@ -1,4 +1,4 @@
-﻿# Centipede
+# Centipede
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Centipede |
 | GameObject Name | Baby Centipede Spawner (3) |
 | GameObject Path | Centipede Cage/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level287 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level287 |
 | Start State | Pause |
 | FSM PathId | 3438 |
 | GameObject PathId | 683 |
@@ -83,13 +83,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Range Obj | Centipede Cage/Baby Centipede Spawner (3)/Attack Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Attack Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
+| Attack Range Obj | Centipede Cage/Baby Centipede Spawner (3)/Attack Range (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Attack Range (Hollow Knight/hollow_knight_Data\level287)] |
 | Cage | [null] | NamedAssetPPtr: [null] |
-| Corner Check Obj | Centipede Cage/Baby Centipede Spawner (3)/Corner Check (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Corner Check (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
-| Dig Dust | Centipede Cage/Baby Centipede Spawner (3)/Dig Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Dig Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
+| Corner Check Obj | Centipede Cage/Baby Centipede Spawner (3)/Corner Check (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Corner Check (Hollow Knight/hollow_knight_Data\level287)] |
+| Dig Dust | Centipede Cage/Baby Centipede Spawner (3)/Dig Dust (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Dig Dust (Hollow Knight/hollow_knight_Data\level287)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Teleplane | [null] | NamedAssetPPtr: [null] |
-| Wake Range Obj | Centipede Cage/Baby Centipede Spawner (3)/Wake Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Wake Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
+| Wake Range Obj | Centipede Cage/Baby Centipede Spawner (3)/Wake Range (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Cage/Baby Centipede Spawner (3)/Wake Range (Hollow Knight/hollow_knight_Data\level287)] |
 
 ## States
 
@@ -1159,7 +1159,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_call_from_below (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_call_from_below (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -1348,7 +1348,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [centipede_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -1398,7 +1398,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 ##### 2. SetVelocityAsAngle
 
@@ -2226,9 +2226,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [enemy_death_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [enemy_death_sword (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | royal_garden_slide_door (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level220 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level220 |
 | Start State | Pause |
 | FSM PathId | 5431 |
 | GameObject PathId | 1537 |
@@ -169,7 +169,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 
@@ -284,7 +284,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

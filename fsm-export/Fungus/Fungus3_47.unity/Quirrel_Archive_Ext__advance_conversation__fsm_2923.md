@@ -1,4 +1,4 @@
-﻿# advance_conversation
+# advance_conversation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | advance_conversation |
 | GameObject Name | Quirrel Archive Ext |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level223 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level223 |
 | Start State | State 1 |
 | FSM PathId | 2923 |
 | GameObject PathId | 433 |

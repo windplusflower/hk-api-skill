@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Cave Spikes Invis (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level136 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level136 |
 | Start State | Idle |
 | FSM PathId | 5407 |
 | GameObject PathId | 805 |

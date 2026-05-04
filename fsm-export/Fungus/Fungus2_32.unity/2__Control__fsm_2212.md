@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | 2 |
 | GameObject Path | Ring Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level194 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level194 |
 | Start State | Init |
 | FSM PathId | 2212 |
 | GameObject PathId | 640 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Box Big | Ring Holder/2/Box Big (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Big (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Impact | Ring Holder/2/Box Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Small | Ring Holder/2/Box Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Up | Ring Holder/2/Box Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
+| Box Big | Ring Holder/2/Box Big (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Big (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Impact | Ring Holder/2/Box Impact (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Impact (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Small | Ring Holder/2/Box Small (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Small (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Up | Ring Holder/2/Box Up (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/2/Box Up (Hollow Knight/hollow_knight_Data\level194)] |
 
 ## States
 

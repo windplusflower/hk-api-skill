@@ -1,4 +1,4 @@
-﻿# Phase Control
+# Phase Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Phase Control |
 | GameObject Name | Jar Collector |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level126 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level126 |
 | Start State | Init |
 | FSM PathId | 82 |
 | GameObject PathId | 10 |

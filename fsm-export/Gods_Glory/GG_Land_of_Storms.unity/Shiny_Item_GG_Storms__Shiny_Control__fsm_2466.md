@@ -1,4 +1,4 @@
-﻿# Shiny Control
+# Shiny Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shiny Control |
 | GameObject Name | Shiny Item GG Storms |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level482 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level482 |
 | Start State | Pause |
 | FSM PathId | 2466 |
 | GameObject PathId | 752 |
@@ -33,7 +33,7 @@
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Inspect Region | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Trail | Shiny Item GG Storms/Appear Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482) | NamedAssetPPtr: [Shiny Item GG Storms/Appear Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] |
+| Trail | Shiny Item GG Storms/Appear Trail (Hollow Knight/hollow_knight_Data\level482) | NamedAssetPPtr: [Shiny Item GG Storms/Appear Trail (Hollow Knight/hollow_knight_Data\level482)] |
 | UI Msg | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -119,7 +119,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Appear Trail" |   |   |
-| storeResult |   | [Shiny Item GG Storms/Appear Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] | Variable |   |
+| storeResult |   | [Shiny Item GG Storms/Appear Trail (Hollow Knight/hollow_knight_Data\level482)] | Variable |   |
 
 #### Transitions
 
@@ -359,7 +359,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -388,7 +388,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Item Get Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Item Get Effect (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, -0.76, -1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -414,7 +414,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [shiny_item_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [shiny_item_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SetSpriteRenderer
 
@@ -471,7 +471,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_enter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_enter (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. SendMessage
 

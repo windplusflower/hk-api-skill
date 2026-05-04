@@ -1,4 +1,4 @@
-﻿# Dream React
+# Dream React
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dream React |
 | GameObject Name | gg_blue_core |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level474 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level474 |
 | Start State | Idle |
 | FSM PathId | 815 |
 | GameObject PathId | 14 |
@@ -24,8 +24,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Impact | blue_core_impact sequence (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level474) | NamedAssetPPtr: [blue_core_impact sequence (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level474)] |
-| Impact Pt | gg_blue_core/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level474) | NamedAssetPPtr: [gg_blue_core/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level474)] |
+| Impact | blue_core_impact sequence (Hollow Knight/hollow_knight_Data\level474) | NamedAssetPPtr: [blue_core_impact sequence (Hollow Knight/hollow_knight_Data\level474)] |
+| Impact Pt | gg_blue_core/Impact Pt (Hollow Knight/hollow_knight_Data\level474) | NamedAssetPPtr: [gg_blue_core/Impact Pt (Hollow Knight/hollow_knight_Data\level474)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -143,9 +143,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gg_blue_room_orb_final_boom (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets474.assets)] |   |   |
+| audioClip |   | [gg_blue_room_orb_final_boom (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets474.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -184,7 +184,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -219,9 +219,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gg_blue_room_orb_slashed (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets474.assets)] |   |   |
+| audioClip |   | [gg_blue_room_orb_slashed (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets474.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

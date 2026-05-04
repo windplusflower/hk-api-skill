@@ -1,4 +1,4 @@
-﻿# proxy_event_handler
+# proxy_event_handler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | proxy_event_handler |
 | GameObject Name | Button |
 | GameObject Path | _GameCameras/HudCamera/Prompts/First Map/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9175 |
 | GameObject PathId | 874 |

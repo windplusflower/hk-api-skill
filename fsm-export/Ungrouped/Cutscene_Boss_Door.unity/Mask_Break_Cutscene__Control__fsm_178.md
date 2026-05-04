@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Mask Break Cutscene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level403 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level403 |
 | Start State | Check |
 | FSM PathId | 178 |
 | GameObject PathId | 6 |
@@ -30,9 +30,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Mask Break Beast | Mask Break Cutscene/Break Masks/Mask Break Beast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Beast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403)] |
-| Mask Break Teacher | Mask Break Cutscene/Break Masks/Mask Break Teacher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Teacher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403)] |
-| Mask Break Watcher | Mask Break Cutscene/Break Masks/Mask Break Watcher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Watcher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level403)] |
+| Mask Break Beast | Mask Break Cutscene/Break Masks/Mask Break Beast (Hollow Knight/hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Beast (Hollow Knight/hollow_knight_Data\level403)] |
+| Mask Break Teacher | Mask Break Cutscene/Break Masks/Mask Break Teacher (Hollow Knight/hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Teacher (Hollow Knight/hollow_knight_Data\level403)] |
+| Mask Break Watcher | Mask Break Cutscene/Break Masks/Mask Break Watcher (Hollow Knight/hollow_knight_Data\level403) | NamedAssetPPtr: [Mask Break Cutscene/Break Masks/Mask Break Watcher (Hollow Knight/hollow_knight_Data\level403)] |
 
 ## States
 
@@ -439,7 +439,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 ##### 5. TransitionToAudioSnapshot
@@ -449,7 +449,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [at None (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [at None (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 #### Transitions

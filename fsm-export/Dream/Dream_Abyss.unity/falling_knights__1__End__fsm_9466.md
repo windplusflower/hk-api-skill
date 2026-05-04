@@ -1,4 +1,4 @@
-﻿# End
+# End
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | End |
 | GameObject Name | falling_knights (1) |
 | GameObject Path | follow_particles/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | Idle |
 | FSM PathId | 9466 |
 | GameObject PathId | 2883 |

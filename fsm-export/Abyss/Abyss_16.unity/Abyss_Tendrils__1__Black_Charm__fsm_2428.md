@@ -1,4 +1,4 @@
-﻿# Black Charm
+# Black Charm
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Black Charm |
 | GameObject Name | Abyss Tendrils (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level340 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level340 |
 | Start State | Pause |
 | FSM PathId | 2428 |
 | GameObject PathId | 374 |

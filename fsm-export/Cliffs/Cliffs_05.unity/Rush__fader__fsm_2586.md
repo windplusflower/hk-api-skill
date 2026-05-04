@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Rush |
 | GameObject Path | Ghost Activator/Ghost NPC Joni/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level235 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level235 |
 | Start State | Init |
 | FSM PathId | 2586 |
 | GameObject PathId | 154 |

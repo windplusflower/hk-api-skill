@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | HeroLight (1) |
 | GameObject Path | tut_tab_lit/Tut_tablet_top/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level322 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level322 |
 | Start State | Init |
 | FSM PathId | 7010 |
 | GameObject PathId | 795 |

@@ -1,4 +1,4 @@
-﻿# Jellyfish
+# Jellyfish
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Jellyfish |
 | GameObject Name | Jellyfish |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level212 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level212 |
 | Start State | Init |
 | FSM PathId | 4054 |
 | GameObject PathId | 9 |
@@ -34,10 +34,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Ring B | Jellyfish/Ring B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Ring B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212)] |
-| Ring F | Jellyfish/Ring F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Ring F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212)] |
-| Tent Box | Jellyfish/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212)] |
-| Trail | Jellyfish/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212)] |
+| Ring B | Jellyfish/Ring B (Hollow Knight/hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Ring B (Hollow Knight/hollow_knight_Data\level212)] |
+| Ring F | Jellyfish/Ring F (Hollow Knight/hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Ring F (Hollow Knight/hollow_knight_Data\level212)] |
+| Tent Box | Jellyfish/Tentacle Box (Hollow Knight/hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Tentacle Box (Hollow Knight/hollow_knight_Data\level212)] |
+| Trail | Jellyfish/Trail (Hollow Knight/hollow_knight_Data\level212) | NamedAssetPPtr: [Jellyfish/Trail (Hollow Knight/hollow_knight_Data\level212)] |
 
 ## States
 
@@ -488,7 +488,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Jellyfish/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level212)] |   |   |
+| gameObject |   | [Jellyfish/Tentacle Box (Hollow Knight/hollow_knight_Data\level212)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 

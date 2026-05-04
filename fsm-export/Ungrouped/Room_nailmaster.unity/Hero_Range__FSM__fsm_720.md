@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | Mr Mushroom NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level13 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level13 |
 | Start State | Init |
 | FSM PathId | 720 |
 | GameObject PathId | 149 |

@@ -1,4 +1,4 @@
-﻿# Crazy Hopper
+# Crazy Hopper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crazy Hopper |
 | GameObject Name | Grass Hopper (6) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level224 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level224 |
 | Start State | Init |
 | FSM PathId | 6582 |
 | GameObject PathId | 874 |
@@ -194,9 +194,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Grass Trail |   |   |
-| audioClip |   | [grass_hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [grass_hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |

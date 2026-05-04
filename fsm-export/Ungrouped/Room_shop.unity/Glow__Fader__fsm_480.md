@@ -1,4 +1,4 @@
-﻿# Fader
+# Fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fader |
 | GameObject Name | Glow |
 | GameObject Path | Shop Menu/Confirm/UI List/No/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level17 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level17 |
 | Start State | Init |
 | FSM PathId | 480 |
 | GameObject PathId | 87 |

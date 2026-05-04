@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Jelly Egg Empty (1)/Shiny Item/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level215 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level215 |
 | Start State | Init |
 | FSM PathId | 4614 |
 | GameObject PathId | 503 |

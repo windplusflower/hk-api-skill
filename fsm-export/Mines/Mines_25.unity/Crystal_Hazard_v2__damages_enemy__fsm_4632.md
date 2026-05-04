@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Crystal Hazard v2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level266 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level266 |
 | Start State | Idle |
 | FSM PathId | 4632 |
 | GameObject PathId | 1057 |

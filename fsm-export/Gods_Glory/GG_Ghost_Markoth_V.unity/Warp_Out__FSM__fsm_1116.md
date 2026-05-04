@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warp Out |
 | GameObject Path | Warrior/Ghost Warrior Markoth/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level490 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level490 |
 | Start State | Init |
 | FSM PathId | 1116 |
 | GameObject PathId | 214 |

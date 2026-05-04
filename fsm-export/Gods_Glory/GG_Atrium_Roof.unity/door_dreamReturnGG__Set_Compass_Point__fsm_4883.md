@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_dreamReturnGG |
 | GameObject Path | GG_Final_Challenge_Door/Unlocked Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Idle |
 | FSM PathId | 4883 |
 | GameObject PathId | 1643 |

@@ -1,4 +1,4 @@
-﻿# Music Region
+# Music Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Music Region |
 | GameObject Name | Music Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Pause |
 | FSM PathId | 5882 |
 | GameObject PathId | 636 |
@@ -47,10 +47,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Enter Music Cue | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
-| Enter Music Snapshot | [Sub Area (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Sub Area (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Enter Music Cue | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
+| Enter Music Snapshot | [Sub Area (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Sub Area (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 | Exit Music Cue | [null] | NamedAssetPPtr: [null] |
-| Exit Music Snapshot | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Exit Music Snapshot | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 
@@ -125,7 +125,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Enter Music Snapshot = [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Enter Music Snapshot = [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Enter Transition Time |   |   |
 
 ##### 2. SendEventByName
@@ -197,7 +197,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Exit Music Snapshot = [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Exit Music Snapshot = [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Exit Transition Time |   |   |
 
 ##### 2. SendEventByName
@@ -392,7 +392,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Enter Music Snapshot = [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Enter Music Snapshot = [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 7. ApplyMusicCue

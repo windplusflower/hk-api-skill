@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Dreamer NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level401 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level401 |
 | Start State | State 1 |
 | FSM PathId | 461 |
 | GameObject PathId | 70 |

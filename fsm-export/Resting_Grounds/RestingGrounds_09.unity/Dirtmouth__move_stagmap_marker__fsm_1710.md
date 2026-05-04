@@ -1,4 +1,4 @@
-﻿# move_stagmap_marker
+# move_stagmap_marker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | move_stagmap_marker |
 | GameObject Name | Dirtmouth |
 | GameObject Path | Stag Map/UI List Stag/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | Init |
 | FSM PathId | 1710 |
 | GameObject PathId | 216 |

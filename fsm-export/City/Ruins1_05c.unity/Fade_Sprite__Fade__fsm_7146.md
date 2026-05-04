@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | Fade Sprite |
 | GameObject Path | paper_fling (11)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level94 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level94 |
 | Start State | Idle |
 | FSM PathId | 7146 |
 | GameObject PathId | 1320 |

@@ -1,4 +1,4 @@
-﻿# Recharge Effect
+# Recharge Effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Recharge Effect |
 | GameObject Name | Shadow Recharge |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 951 |
 | GameObject PathId | 12 |
@@ -25,7 +25,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Knight | Knight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Knight | Knight (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight (Hollow Knight/hollow_knight_Data\level4)] |
 
 ## States
 
@@ -93,7 +93,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Knight |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_shade_dash_charge_pt_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_shade_dash_charge_pt_1 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. SetMeshRenderer
@@ -201,7 +201,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Knight |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_shade_dash_charge_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_shade_dash_charge_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Bretta Bench |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3924 |
 | GameObject PathId | 630 |
@@ -30,7 +30,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Blush | Bretta Bench/Blush (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [Bretta Bench/Blush (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
+| Blush | Bretta Bench/Blush (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [Bretta Bench/Blush (Hollow Knight/hollow_knight_Data\level7)] |
 | Lit | [null] | NamedAssetPPtr: [null] |
 | RestBench | [null] | NamedAssetPPtr: [null] |
 

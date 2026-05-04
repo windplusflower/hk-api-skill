@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Behind Range |
 | GameObject Path | Grimm Control/Nightmare Grimm Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level444 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level444 |
 | Start State | Init |
 | FSM PathId | 2487 |
 | GameObject PathId | 664 |

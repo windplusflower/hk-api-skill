@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Shade Sibling Spawner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | Pause |
 | FSM PathId | 10836 |
 | GameObject PathId | 69 |
@@ -349,7 +349,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shade Sibling (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets334.assets)] |   |   |
+| gameObject |   | [Global] [Shade Sibling (Hollow Knight/hollow_knight_Data\sharedassets334.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

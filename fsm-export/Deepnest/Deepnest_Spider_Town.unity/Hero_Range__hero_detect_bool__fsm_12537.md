@@ -1,4 +1,4 @@
-﻿# hero_detect_bool
+# hero_detect_bool
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect_bool |
 | GameObject Name | Hero Range |
 | GameObject Path | Dreamer Hegemol/Shield/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Init |
 | FSM PathId | 12537 |
 | GameObject PathId | 1662 |

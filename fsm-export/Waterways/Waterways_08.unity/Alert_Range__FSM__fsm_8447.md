@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Ceiling Dropper (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level358 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level358 |
 | Start State | Initialise |
 | FSM PathId | 8447 |
 | GameObject PathId | 1386 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | wind system 2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level500 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level500 |
 | Start State | Pause |
 | FSM PathId | 1361 |
 | GameObject PathId | 269 |

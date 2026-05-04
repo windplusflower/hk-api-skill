@@ -1,4 +1,4 @@
-﻿# ui_list_getinput
+# ui_list_getinput
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ui_list_getinput |
 | GameObject Name | Withdraw Menu |
 | GameObject Path | Bank Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2629 |
 | GameObject PathId | 76 |

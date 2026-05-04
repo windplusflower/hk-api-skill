@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Detector |
 | GameObject Path | Mawlek Turret Ceiling (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level344 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level344 |
 | Start State | Init |
 | FSM PathId | 11091 |
 | GameObject PathId | 1639 |

@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Base Glow |
 | GameObject Path | Dung Defender_Sleep/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level364 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level364 |
 | Start State | Init |
 | FSM PathId | 793 |
 | GameObject PathId | 71 |

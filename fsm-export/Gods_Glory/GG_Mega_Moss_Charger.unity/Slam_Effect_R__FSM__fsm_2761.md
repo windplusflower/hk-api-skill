@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Slam Effect R |
 | GameObject Path | Mega Moss Charger/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level453 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level453 |
 | Start State | Init |
 | FSM PathId | 2761 |
 | GameObject PathId | 177 |

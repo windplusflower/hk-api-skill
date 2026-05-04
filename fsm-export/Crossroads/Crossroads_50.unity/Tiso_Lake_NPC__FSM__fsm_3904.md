@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Tiso Lake NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level81 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level81 |
 | Start State | Pause |
 | FSM PathId | 3904 |
 | GameObject PathId | 709 |

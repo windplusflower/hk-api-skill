@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | FK Saver |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level432 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level432 |
 | Start State | Idle |
 | FSM PathId | 1695 |
 | GameObject PathId | 52 |

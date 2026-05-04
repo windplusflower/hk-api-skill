@@ -1,4 +1,4 @@
-﻿# alert_range
+# alert_range
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | alert_range |
 | GameObject Name | Alert Range |
 | GameObject Path | Big Bee (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level387 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level387 |
 | Start State | Initialise |
 | FSM PathId | 4075 |
 | GameObject PathId | 739 |

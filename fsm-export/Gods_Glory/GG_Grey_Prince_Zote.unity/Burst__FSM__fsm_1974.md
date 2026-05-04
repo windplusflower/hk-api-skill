@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Burst |
 | GameObject Path | Zoteling (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level442 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level442 |
 | Start State | Init |
 | FSM PathId | 1974 |
 | GameObject PathId | 144 |

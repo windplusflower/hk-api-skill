@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | glow particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Pause |
 | FSM PathId | 2086 |
 | GameObject PathId | 542 |

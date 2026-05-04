@@ -1,4 +1,4 @@
-﻿# Battle Scene
+# Battle Scene
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Scene |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level398 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level398 |
 | Start State | Pause |
 | FSM PathId | 2860 |
 | GameObject PathId | 645 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | CamLocks | [null] | NamedAssetPPtr: [null] |
-| Self | White Defender/Slam Pillars/Dung Pillar (6)/Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets398.assets) | NamedAssetPPtr: [White Defender/Slam Pillars/Dung Pillar (6)/Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets398.assets)] |
+| Self | White Defender/Slam Pillars/Dung Pillar (6)/Chunks (Hollow Knight/hollow_knight_Data\sharedassets398.assets) | NamedAssetPPtr: [White Defender/Slam Pillars/Dung Pillar (6)/Chunks (Hollow Knight/hollow_knight_Data\sharedassets398.assets)] |
 | Wall Saver | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -208,7 +208,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Hero |   |   |
 | fsmName |   | "Roar Lock" | FsmName |   |
 | variableName |   | "Roar Object" | FsmGameObject |   |
-| setValue |   | [White Defender/Slam Pillars/Dung Pillar (6)/Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets398.assets)] |   |   |
+| setValue |   | [White Defender/Slam Pillars/Dung Pillar (6)/Chunks (Hollow Knight/hollow_knight_Data\sharedassets398.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SendEventByName

@@ -1,4 +1,4 @@
-﻿# particle_cleanup
+# particle_cleanup
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | particle_cleanup |
 | GameObject Name | Bottle Glass S 3 (3) |
 | GameObject Path | Top Pool/Glass Pool/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Idle |
 | FSM PathId | 4442 |
 | GameObject PathId | 726 |

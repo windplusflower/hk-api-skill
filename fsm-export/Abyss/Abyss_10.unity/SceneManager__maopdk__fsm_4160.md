@@ -1,4 +1,4 @@
-﻿# maopdk
+# maopdk
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | maopdk |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level337 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level337 |
 | Start State | Pause |
 | FSM PathId | 4160 |
 | GameObject PathId | 136 |

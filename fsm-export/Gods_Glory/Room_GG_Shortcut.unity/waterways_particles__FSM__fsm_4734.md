@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | waterways_particles |
 | GameObject Path | new_mush_set_08/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level471 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level471 |
 | Start State | Pause |
 | FSM PathId | 4734 |
 | GameObject PathId | 1391 |

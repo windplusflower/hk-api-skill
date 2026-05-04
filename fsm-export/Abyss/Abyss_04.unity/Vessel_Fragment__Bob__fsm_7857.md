@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Vessel Fragment |
 | GameObject Path | Wishing_Well_anims/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level332 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level332 |
 | Start State | State 1 |
 | FSM PathId | 7857 |
 | GameObject PathId | 2159 |

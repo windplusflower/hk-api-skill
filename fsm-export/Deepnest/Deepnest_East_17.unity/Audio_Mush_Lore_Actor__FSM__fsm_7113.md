@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Audio Mush Lore Actor |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level322 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level322 |
 | Start State | Pause |
 | FSM PathId | 7113 |
 | GameObject PathId | 2359 |

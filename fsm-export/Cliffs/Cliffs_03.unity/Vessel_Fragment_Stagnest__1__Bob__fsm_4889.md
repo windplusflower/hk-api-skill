@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Vessel Fragment Stagnest (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level233 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level233 |
 | Start State | State 1 |
 | FSM PathId | 4889 |
 | GameObject PathId | 173 |

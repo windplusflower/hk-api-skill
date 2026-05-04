@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Approach Range |
 | GameObject Path | Jiji NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level28 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level28 |
 | Start State | Init |
 | FSM PathId | 864 |
 | GameObject PathId | 110 |

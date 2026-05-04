@@ -1,4 +1,4 @@
-﻿# Hornet Encounter
+# Hornet Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hornet Encounter |
 | GameObject Name | Hornet Encounter Fung |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level174 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level174 |
 | Start State | Pause |
 | FSM PathId | 7660 |
 | GameObject PathId | 1214 |
@@ -32,7 +32,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | CamLock | [null] | NamedAssetPPtr: [null] |
-| Dust | Hornet Encounter Fung/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level174) | NamedAssetPPtr: [Hornet Encounter Fung/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level174)] |
+| Dust | Hornet Encounter Fung/Dust (Hollow Knight/hollow_knight_Data\level174) | NamedAssetPPtr: [Hornet Encounter Fung/Dust (Hollow Knight/hollow_knight_Data\level174)] |
 | Grass | [null] | NamedAssetPPtr: [null] |
 
 ## States

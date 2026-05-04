@@ -1,4 +1,4 @@
-﻿# Go Upper
+# Go Upper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Go Upper |
 | GameObject Name | Ruins Flying SentryB |
 | GameObject Path | Battle Scene v2/Wave 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Idle |
 | FSM PathId | 6042 |
 | GameObject PathId | 588 |

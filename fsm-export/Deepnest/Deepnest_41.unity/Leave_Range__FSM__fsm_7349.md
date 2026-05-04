@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Leave Range |
 | GameObject Path | Happy Spider NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level299 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level299 |
 | Start State | Init |
 | FSM PathId | 7349 |
 | GameObject PathId | 2133 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | outskirts_particles |
 | GameObject Path | outskirts_drop_particles/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level308 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level308 |
 | Start State | Pause |
 | FSM PathId | 3559 |
 | GameObject PathId | 1068 |

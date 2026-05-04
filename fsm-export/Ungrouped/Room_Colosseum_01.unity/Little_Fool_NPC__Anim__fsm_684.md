@@ -1,4 +1,4 @@
-﻿# Anim
+# Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim |
 | GameObject Name | Little Fool NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level30 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level30 |
 | Start State | Pause |
 | FSM PathId | 684 |
 | GameObject PathId | 91 |

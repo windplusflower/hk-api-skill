@@ -1,4 +1,4 @@
-﻿# Y Limit
+# Y Limit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Y Limit |
 | GameObject Name | Ghost Warrior Xero |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level493 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level493 |
 | Start State | Limit |
 | FSM PathId | 1526 |
 | GameObject PathId | 147 |

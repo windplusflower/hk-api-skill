@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | haze2 (3) |
 | GameObject Path | Palace Gate/Open/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level374 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level374 |
 | Start State | Init |
 | FSM PathId | 2356 |
 | GameObject PathId | 701 |

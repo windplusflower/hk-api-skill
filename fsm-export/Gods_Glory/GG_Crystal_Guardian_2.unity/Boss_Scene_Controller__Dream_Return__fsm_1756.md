@@ -1,4 +1,4 @@
-﻿# Dream Return
+# Dream Return
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dream Return |
 | GameObject Name | Boss Scene Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level429 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level429 |
 | Start State | Idle |
 | FSM PathId | 1756 |
 | GameObject PathId | 188 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warrior |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level493 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level493 |
 | Start State | Wait |
 | FSM PathId | 1484 |
 | GameObject PathId | 166 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Enable GameObject | Warrior/Ghost Warrior Xero (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |
+| Enable GameObject | Warrior/Ghost Warrior Xero (Hollow Knight/hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero (Hollow Knight/hollow_knight_Data\level493)] |
 
 ## States
 
@@ -68,9 +68,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Xero (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Xero (Hollow Knight/hollow_knight_Data\level493)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -84,8 +84,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Xero (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Xero (Hollow Knight/hollow_knight_Data\level493)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |

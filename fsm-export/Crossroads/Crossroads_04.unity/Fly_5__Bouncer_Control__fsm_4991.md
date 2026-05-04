@@ -1,4 +1,4 @@
-﻿# Bouncer Control
+# Bouncer Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bouncer Control |
 | GameObject Name | Fly 5 |
 | GameObject Path | _Enemies/Fly Spawn/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level40 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level40 |
 | Start State | Initialise |
 | FSM PathId | 4991 |
 | GameObject PathId | 405 |

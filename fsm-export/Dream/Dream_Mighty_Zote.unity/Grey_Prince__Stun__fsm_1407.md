@@ -1,4 +1,4 @@
-﻿# Stun
+# Stun
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun |
 | GameObject Name | Grey Prince |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level399 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level399 |
 | Start State | Init |
 | FSM PathId | 1407 |
 | GameObject PathId | 320 |

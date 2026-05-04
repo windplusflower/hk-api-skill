@@ -1,4 +1,4 @@
-﻿# Remind
+# Remind
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remind |
 | GameObject Name | Jump Reminder |
 | GameObject Path | _Props/Tute Door 5/Active/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Idle |
 | FSM PathId | 12139 |
 | GameObject PathId | 2893 |

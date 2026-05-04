@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dream Enter 1 |
 | GameObject Path | Dusk Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level333 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level333 |
 | Start State | Pause |
 | FSM PathId | 3188 |
 | GameObject PathId | 88 |

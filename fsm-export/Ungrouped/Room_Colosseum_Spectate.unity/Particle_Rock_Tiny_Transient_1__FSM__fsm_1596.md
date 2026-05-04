@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Particle Rock Tiny Transient 1 |
 | GameObject Path | colosseum gold trophy/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level35 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level35 |
 | Start State | Wait |
 | FSM PathId | 1596 |
 | GameObject PathId | 394 |

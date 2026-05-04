@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Crack 2 |
 | GameObject Path | _Scenery/mine_1_quake_floor/Cracks 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Init |
 | FSM PathId | 8001 |
 | GameObject PathId | 368 |

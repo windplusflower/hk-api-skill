@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | End Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Init |
 | FSM PathId | 6965 |
 | GameObject PathId | 2392 |

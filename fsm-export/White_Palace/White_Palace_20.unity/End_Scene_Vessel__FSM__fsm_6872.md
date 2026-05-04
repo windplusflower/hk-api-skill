@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | End Scene Vessel |
 | GameObject Path | End Scene/watch_scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Idle |
 | FSM PathId | 6872 |
 | GameObject PathId | 321 |

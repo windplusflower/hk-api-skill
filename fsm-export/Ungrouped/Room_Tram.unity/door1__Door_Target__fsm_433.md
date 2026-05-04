@@ -1,4 +1,4 @@
-﻿# Door Target
+# Door Target
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Door Target |
 | GameObject Name | door1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level23 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level23 |
 | Start State | Pause |
 | FSM PathId | 433 |
 | GameObject PathId | 26 |

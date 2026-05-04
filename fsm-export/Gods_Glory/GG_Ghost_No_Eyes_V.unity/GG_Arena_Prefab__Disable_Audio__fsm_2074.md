@@ -1,4 +1,4 @@
-﻿# Disable Audio
+# Disable Audio
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disable Audio |
 | GameObject Name | GG_Arena_Prefab |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level492 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level492 |
 | Start State | Check Challenge Type |
 | FSM PathId | 2074 |
 | GameObject PathId | 534 |

@@ -1,4 +1,4 @@
-﻿# Spawn Barbs
+# Spawn Barbs
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn Barbs |
 | GameObject Name | Barb Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level449 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level449 |
 | Start State | Init |
 | FSM PathId | 1796 |
 | GameObject PathId | 113 |
@@ -293,7 +293,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Hornet Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets324.assets)] |   |   |
+| gameObject |   | [Global] [Hornet Barb (Hollow Knight/hollow_knight_Data\sharedassets324.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -417,7 +417,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Hornet Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets324.assets)] |   |   |
+| gameObject |   | [Global] [Hornet Barb (Hollow Knight/hollow_knight_Data\sharedassets324.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -616,7 +616,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Hornet Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets324.assets)] |   |   |
+| gameObject |   | [Global] [Hornet Barb (Hollow Knight/hollow_knight_Data\sharedassets324.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

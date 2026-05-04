@@ -1,4 +1,4 @@
-﻿# First Cry
+# First Cry
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | First Cry |
 | GameObject Name | Pre-Battle Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level355 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level355 |
 | Start State | Wait |
 | FSM PathId | 105 |
 | GameObject PathId | 2 |
@@ -58,7 +58,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Dung_Def_prebattletaunt_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [Dung_Def_prebattletaunt_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 #### Transitions
 

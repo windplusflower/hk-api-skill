@@ -1,4 +1,4 @@
-﻿# Activate FK
+# Activate FK
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate FK |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level432 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level432 |
 | Start State | Wait |
 | FSM PathId | 1691 |
 | GameObject PathId | 24 |

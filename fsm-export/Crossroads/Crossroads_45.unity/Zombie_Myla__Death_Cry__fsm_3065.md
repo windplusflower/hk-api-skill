@@ -1,4 +1,4 @@
-﻿# Death Cry
+# Death Cry
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Death Cry |
 | GameObject Name | Zombie Myla |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level73 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level73 |
 | Start State | Idle |
 | FSM PathId | 3065 |
 | GameObject PathId | 123 |
@@ -58,9 +58,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Miner_07_full_zombie (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
+| audioClip |   | [Miner_07_full_zombie (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

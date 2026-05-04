@@ -1,4 +1,4 @@
-﻿# Shop Open Voice
+# Shop Open Voice
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shop Open Voice |
 | GameObject Name | Sly Shop |
 | GameObject Path | Basement Closed/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level17 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level17 |
 | Start State | State 1 |
 | FSM PathId | 514 |
 | GameObject PathId | 13 |
@@ -47,9 +47,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Sly_shop_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets17.assets)] |   |   |
+| audioClip |   | [Sly_shop_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets17.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

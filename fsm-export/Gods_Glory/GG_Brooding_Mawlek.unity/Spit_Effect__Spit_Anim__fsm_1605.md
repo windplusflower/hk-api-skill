@@ -1,4 +1,4 @@
-﻿# Spit Anim
+# Spit Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit Anim |
 | GameObject Name | Spit Effect |
 | GameObject Path | Battle Scene/Mawlek Body/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level426 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level426 |
 | Start State | Idle |
 | FSM PathId | 1605 |
 | GameObject PathId | 40 |

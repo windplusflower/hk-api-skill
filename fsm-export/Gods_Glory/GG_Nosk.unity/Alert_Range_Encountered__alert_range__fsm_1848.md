@@ -1,4 +1,4 @@
-﻿# alert_range
+# alert_range
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | alert_range |
 | GameObject Name | Alert Range Encountered |
 | GameObject Path | Mimic Spider/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level455 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level455 |
 | Start State | Init |
 | FSM PathId | 1848 |
 | GameObject PathId | 78 |

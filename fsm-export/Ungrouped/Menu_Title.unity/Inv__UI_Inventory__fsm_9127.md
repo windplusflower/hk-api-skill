@@ -1,4 +1,4 @@
-﻿# UI Inventory
+# UI Inventory
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | UI Inventory |
 | GameObject Name | Inv |
 | GameObject Path | _GameCameras/HudCamera/Inventory/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9127 |
 | GameObject PathId | 1185 |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate Set Lock |
 | GameObject Path | Great Shield Zombie/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level241 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level241 |
 | Start State | Init |
 | FSM PathId | 2762 |
 | GameObject PathId | 860 |

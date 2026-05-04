@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | room_nailsmith_bg 13 |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level16 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level16 |
 | Start State | Pause |
 | FSM PathId | 153 |
 | GameObject PathId | 37 |

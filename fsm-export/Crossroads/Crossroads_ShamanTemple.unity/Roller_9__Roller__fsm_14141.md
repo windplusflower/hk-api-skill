@@ -1,4 +1,4 @@
-﻿# Roller
+# Roller
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Roller |
 | GameObject Name | Roller 9 |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Initiate |
 | FSM PathId | 14141 |
 | GameObject PathId | 2005 |
@@ -50,7 +50,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Alerter | [null] | NamedAssetPPtr: [null] |
-| Dust Emitter | _Enemies/Roller 9/Roll Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level76) | NamedAssetPPtr: [_Enemies/Roller 9/Roll Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level76)] |
+| Dust Emitter | _Enemies/Roller 9/Roll Dust (Hollow Knight/hollow_knight_Data\level76) | NamedAssetPPtr: [_Enemies/Roller 9/Roll Dust (Hollow Knight/hollow_knight_Data\level76)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -396,7 +396,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [roller_curl (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [roller_curl (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 #### Transitions
@@ -748,7 +748,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [roller_hit_wall (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [roller_hit_wall (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 8. NextFrameEvent
@@ -1094,7 +1094,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [roller_hit_wall (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [roller_hit_wall (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 8. NextFrameEvent
@@ -1172,7 +1172,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [roller_curl (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [roller_curl (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 6. Tk2dWatchAnimationEvents
@@ -1310,7 +1310,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dust Land Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Dust Land Small (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.4, 0) |   |   |
 | rotation |   | Vector3(-72, -180, -180) |   |   |

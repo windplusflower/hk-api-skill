@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | CameraLockArea Intro |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level488 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level488 |
 | Start State | State 1 |
 | FSM PathId | 2209 |
 | GameObject PathId | 70 |

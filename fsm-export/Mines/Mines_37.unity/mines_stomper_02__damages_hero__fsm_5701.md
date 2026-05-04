@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | mines_stomper_02 |
 | GameObject Path | stomper_offset (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level276 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level276 |
 | Start State | Init |
 | FSM PathId | 5701 |
 | GameObject PathId | 1089 |

@@ -1,4 +1,4 @@
-﻿# Shift if Troupe
+# Shift if Troupe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift if Troupe |
 | GameObject Name | GradeMarker Grimm |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3900 |
 | GameObject PathId | 566 |

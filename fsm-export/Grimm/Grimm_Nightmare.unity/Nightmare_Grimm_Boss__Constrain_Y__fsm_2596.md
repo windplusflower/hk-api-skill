@@ -1,4 +1,4 @@
-﻿# Constrain Y
+# Constrain Y
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Constrain Y |
 | GameObject Name | Nightmare Grimm Boss |
 | GameObject Path | Grimm Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Check |
 | FSM PathId | 2596 |
 | GameObject PathId | 599 |

@@ -1,4 +1,4 @@
-﻿# detect
+# detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | detect |
 | GameObject Name | Nosk Transform |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level487 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level487 |
 | Start State | Init |
 | FSM PathId | 1531 |
 | GameObject PathId | 218 |

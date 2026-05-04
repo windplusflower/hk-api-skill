@@ -1,4 +1,4 @@
-﻿# xero_nail
+# xero_nail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | xero_nail |
 | GameObject Name | Sword 1 |
 | GameObject Path | Warrior/Ghost Warrior Xero/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level493 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level493 |
 | Start State | Init |
 | FSM PathId | 1477 |
 | GameObject PathId | 145 |
@@ -241,7 +241,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [ruin_fat_sentry_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. GetAngleToTarget2D
 

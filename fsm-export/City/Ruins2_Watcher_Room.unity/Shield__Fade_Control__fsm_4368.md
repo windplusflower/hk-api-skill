@@ -1,4 +1,4 @@
-﻿# Fade Control
+# Fade Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade Control |
 | GameObject Name | Shield |
 | GameObject Path | Dreamer Lurien/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level127 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level127 |
 | Start State | Init |
 | FSM PathId | 4368 |
 | GameObject PathId | 208 |

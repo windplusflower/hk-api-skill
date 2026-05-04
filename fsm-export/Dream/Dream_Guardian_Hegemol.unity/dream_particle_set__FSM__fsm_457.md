@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | dream_particle_set |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level400 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level400 |
 | Start State | Pause |
 | FSM PathId | 457 |
 | GameObject PathId | 48 |

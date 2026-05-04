@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Coffin |
 | GameObject Path | Godseeker Waterways/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Pause |
 | FSM PathId | 6480 |
 | GameObject PathId | 2033 |
@@ -25,9 +25,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Godseeker | Godseeker Waterways/Godseeker Awake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Awake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423)] |
-| Godseeker Fall | Godseeker Waterways/Godseeker Fall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Fall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423)] |
-| Key | Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423)] |
+| Godseeker | Godseeker Waterways/Godseeker Awake (Hollow Knight/hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Awake (Hollow Knight/hollow_knight_Data\level423)] |
+| Godseeker Fall | Godseeker Waterways/Godseeker Fall (Hollow Knight/hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Fall (Hollow Knight/hollow_knight_Data\level423)] |
+| Key | Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (Hollow Knight/hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (Hollow Knight/hollow_knight_Data\level423)] |
 | Pt Shake | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Unlock Glow | [null] | NamedAssetPPtr: [null] |
@@ -633,7 +633,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [manhole_key_turn (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [manhole_key_turn (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 ##### 6. ActivateGameObject
 
@@ -691,9 +691,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [final_boss_atrium_white_4 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| audioClip |   | [final_boss_atrium_white_4 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -810,7 +810,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hollow_knight_rumble_pre_chain_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| oneShotClip |   | [hollow_knight_rumble_pre_chain_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 
 ##### 3. SetFsmBool
 
@@ -916,9 +916,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [coccoon_burst_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| audioClip |   | [coccoon_burst_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -945,7 +945,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [Global] [Godseeker Waterways/Coffin/Pieces (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423)] |   |   |
+| containerObject |   | [Global] [Godseeker Waterways/Coffin/Pieces (Hollow Knight/hollow_knight_Data\level423)] |   |   |
 | adjustPosition |   | Vector3(0, 0, 0) |   |   |
 | randomisePosition |   | false |   |   |
 | speedMin |   | 30f |   |   |

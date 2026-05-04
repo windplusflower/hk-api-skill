@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Strike |
 | GameObject Path | Mines Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Init |
 | FSM PathId | 6333 |
 | GameObject PathId | 344 |

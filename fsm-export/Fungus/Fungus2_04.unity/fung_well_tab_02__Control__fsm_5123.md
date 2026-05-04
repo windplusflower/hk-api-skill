@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | fung_well_tab_02 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level168 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level168 |
 | Start State | Pause |
 | FSM PathId | 5123 |
 | GameObject PathId | 890 |

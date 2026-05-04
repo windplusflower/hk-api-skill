@@ -1,4 +1,4 @@
-﻿# Flying Sentry Nail
+# Flying Sentry Nail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flying Sentry Nail |
 | GameObject Name | Ruins Flying SentryB |
 | GameObject Path | Battle Scene v2/Wave 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Init |
 | FSM PathId | 6044 |
 | GameObject PathId | 588 |
@@ -41,7 +41,7 @@
 | Charge Javelin Hit | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash Hit | Battle Scene v2/Wave 2/Ruins Flying SentryB/Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins Flying SentryB/Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92)] |
+| Slash Hit | Battle Scene v2/Wave 2/Ruins Flying SentryB/Slash Hit (Hollow Knight/hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins Flying SentryB/Slash Hit (Hollow Knight/hollow_knight_Data\level92)] |
 
 ## States
 
@@ -199,7 +199,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -587,7 +587,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

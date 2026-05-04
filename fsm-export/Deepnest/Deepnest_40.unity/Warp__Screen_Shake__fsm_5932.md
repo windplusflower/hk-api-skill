@@ -1,4 +1,4 @@
-﻿# Screen Shake
+# Screen Shake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Screen Shake |
 | GameObject Name | Warp |
 | GameObject Path | Warrior/Ghost Warrior Galien/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level298 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level298 |
 | Start State | Shake |
 | FSM PathId | 5932 |
 | GameObject PathId | 112 |

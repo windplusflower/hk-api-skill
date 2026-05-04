@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | Remasker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level136 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level136 |
 | Start State | Pause |
 | FSM PathId | 5383 |
 | GameObject PathId | 425 |

@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | Slam Effect Big |
 | GameObject Path | White Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level469 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level469 |
 | Start State | Init |
 | FSM PathId | 2225 |
 | GameObject PathId | 302 |

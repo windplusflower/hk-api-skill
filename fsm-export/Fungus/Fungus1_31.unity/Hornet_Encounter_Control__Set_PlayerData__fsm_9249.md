@@ -1,4 +1,4 @@
-﻿# Set PlayerData
+# Set PlayerData
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set PlayerData |
 | GameObject Name | Hornet Encounter Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level158 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level158 |
 | Start State | Set |
 | FSM PathId | 9249 |
 | GameObject PathId | 1441 |

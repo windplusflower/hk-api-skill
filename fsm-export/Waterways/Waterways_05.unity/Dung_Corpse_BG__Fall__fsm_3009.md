@@ -1,4 +1,4 @@
-﻿# Fall
+# Fall
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fall |
 | GameObject Name | Dung Corpse BG |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level354 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level354 |
 | Start State | Idle |
 | FSM PathId | 3009 |
 | GameObject PathId | 766 |
@@ -26,9 +26,9 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slam Chunks | Dung Corpse BG/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
-| Smoke | Dung Corpse BG/Smoke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Smoke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
-| Thunk Effect | Dung Corpse BG/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
+| Slam Chunks | Dung Corpse BG/Slam Chunks (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Slam Chunks (Hollow Knight/hollow_knight_Data\level354)] |
+| Smoke | Dung Corpse BG/Smoke (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Smoke (Hollow Knight/hollow_knight_Data\level354)] |
+| Thunk Effect | Dung Corpse BG/Thunk Effect (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Corpse BG/Thunk Effect (Hollow Knight/hollow_knight_Data\level354)] |
 
 ## States
 
@@ -177,9 +177,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player NoDestroy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player NoDestroy (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Boss Defeat (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets40.assets)] |   |   |
+| audioClip |   | [Boss Defeat (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets40.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -193,9 +193,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player NoDestroy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player NoDestroy (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Dung_def_death_part_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioClip |   | [Dung_def_death_part_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -209,9 +209,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player NoDestroy (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player NoDestroy (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dung_defender_dive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioClip |   | [dung_defender_dive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |

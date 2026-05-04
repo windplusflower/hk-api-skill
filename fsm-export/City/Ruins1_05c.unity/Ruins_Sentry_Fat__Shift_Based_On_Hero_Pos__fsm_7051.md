@@ -1,4 +1,4 @@
-﻿# Shift Based On Hero Pos
+# Shift Based On Hero Pos
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift Based On Hero Pos |
 | GameObject Name | Ruins Sentry Fat |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level94 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level94 |
 | Start State | Pause |
 | FSM PathId | 7051 |
 | GameObject PathId | 512 |

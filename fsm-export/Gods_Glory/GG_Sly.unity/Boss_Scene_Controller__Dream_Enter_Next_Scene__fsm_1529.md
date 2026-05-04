@@ -1,4 +1,4 @@
-﻿# Dream Enter Next Scene
+# Dream Enter Next Scene
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dream Enter Next Scene |
 | GameObject Name | Boss Scene Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level460 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level460 |
 | Start State | Idle |
 | FSM PathId | 1529 |
 | GameObject PathId | 341 |

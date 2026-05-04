@@ -1,4 +1,4 @@
-﻿# deactivate
+# deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate |
 | GameObject Name | Slam Effect |
 | GameObject Path | Chain Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Init |
 | FSM PathId | 5387 |
 | GameObject PathId | 1414 |

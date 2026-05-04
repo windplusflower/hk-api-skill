@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Roof Check |
 | GameObject Path | Zombie Myla/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level73 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level73 |
 | Start State | Init |
 | FSM PathId | 3028 |
 | GameObject PathId | 125 |

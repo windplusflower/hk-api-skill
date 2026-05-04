@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set NPC Leave |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level42 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level42 |
 | Start State | Pause |
 | FSM PathId | 3360 |
 | GameObject PathId | 234 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fungus Top Scarab |
 | GameObject Path | Outskirts pole king/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level309 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level309 |
 | Start State | Spin At Start? |
 | FSM PathId | 8164 |
 | GameObject PathId | 1999 |

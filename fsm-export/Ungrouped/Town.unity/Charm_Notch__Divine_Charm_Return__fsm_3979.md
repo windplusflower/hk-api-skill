@@ -1,4 +1,4 @@
-﻿# Divine Charm Return
+# Divine Charm Return
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Divine Charm Return |
 | GameObject Name | Charm Notch |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3979 |
 | GameObject PathId | 779 |

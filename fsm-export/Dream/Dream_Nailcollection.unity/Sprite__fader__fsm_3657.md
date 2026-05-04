@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Sprite |
 | GameObject Path | Witch Control/Witch/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level394 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level394 |
 | Start State | Init |
 | FSM PathId | 3657 |
 | GameObject PathId | 853 |

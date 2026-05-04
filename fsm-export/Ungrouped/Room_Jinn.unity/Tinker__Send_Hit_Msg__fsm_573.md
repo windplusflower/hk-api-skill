@@ -1,4 +1,4 @@
-﻿# Send Hit Msg
+# Send Hit Msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Hit Msg |
 | GameObject Name | Tinker |
 | GameObject Path | Jinn NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level29 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level29 |
 | Start State | Init |
 | FSM PathId | 573 |
 | GameObject PathId | 11 |

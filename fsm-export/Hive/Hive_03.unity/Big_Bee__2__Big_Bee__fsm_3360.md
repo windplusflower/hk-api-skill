@@ -1,4 +1,4 @@
-﻿# Big Bee
+# Big Bee
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Big Bee |
 | GameObject Name | Big Bee (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level386 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level386 |
 | Start State | Pause |
 | FSM PathId | 3360 |
 | GameObject PathId | 735 |
@@ -48,7 +48,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Smasher | Big Bee (2)/Smasher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level386) | NamedAssetPPtr: [Big Bee (2)/Smasher (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level386)] |
+| Smasher | Big Bee (2)/Smasher (Hollow Knight/hollow_knight_Data\level386) | NamedAssetPPtr: [Big Bee (2)/Smasher (Hollow Knight/hollow_knight_Data\level386)] |
 
 ## States
 
@@ -194,7 +194,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [big_bee_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets386.assets)] |   |   |
+| oneShotClip |   | [big_bee_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets386.assets)] |   |   |
 
 ##### 4. GetAngleToTarget2D
 
@@ -462,7 +462,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [big_bee_fly_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets306.assets)] |   |   |
+| audioClip |   | [big_bee_fly_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets306.assets)] |   |   |
 
 ##### 4. AudioPlaySimple
 
@@ -553,7 +553,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [big_bee_charge_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets386.assets)] |   |   |
+| audioClip |   | [big_bee_charge_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets386.assets)] |   |   |
 
 ##### 2. SetDamageHeroAmount
 
@@ -988,7 +988,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. SendEventByName
 
@@ -1251,7 +1251,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.46, 0.02, 0) |   |   |
 | rotation |   | Vector3(0, 0, 180) |   |   |
@@ -1264,7 +1264,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.46, 0.02, 0) |   |   |
 | spawnMin |   | 15 |   |   |
@@ -1299,7 +1299,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-0.02, -0.76, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1312,7 +1312,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-0.02, -0.76, 0) |   |   |
 | spawnMin |   | 15 |   |   |
@@ -1347,7 +1347,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-0.36, -0.08, 0) |   |   |
 | rotation |   | Vector3(0, 0, 270) |   |   |
@@ -1360,7 +1360,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-0.36, -0.08, 0) |   |   |
 | spawnMin |   | 15 |   |   |
@@ -1395,7 +1395,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slam Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slam Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.36, -0.68, 0) |   |   |
 | rotation |   | Vector3(0, 0, 90) |   |   |
@@ -1408,7 +1408,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.36, -0.68, 0) |   |   |
 | spawnMin |   | 15 |   |   |

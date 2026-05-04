@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Boss Scene Unlocker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level454 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level454 |
 | Start State | State 1 |
 | FSM PathId | 1912 |
 | GameObject PathId | 536 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Boss Scene | [Nailmaster Oro Mato Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Nailmaster Oro Mato Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Boss Scene | [Nailmaster Oro Mato Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Nailmaster Oro Mato Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 
@@ -38,7 +38,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | delay |   | 0f |   |   |
-| unlockBossScene |   | object Boss Scene = [Lost Kin Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| unlockBossScene |   | object Boss Scene = [Lost Kin Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

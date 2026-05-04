@@ -1,4 +1,4 @@
-﻿# Play Effect
+# Play Effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Effect |
 | GameObject Name | Shadow Ring |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 998 |
 | GameObject PathId | 117 |

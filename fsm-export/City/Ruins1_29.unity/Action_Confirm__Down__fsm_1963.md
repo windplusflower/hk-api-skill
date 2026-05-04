@@ -1,4 +1,4 @@
-﻿# Down
+# Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Down |
 | GameObject Name | Action Confirm |
 | GameObject Path | Stag Map/Buttons/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level107 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level107 |
 | Start State | Idle |
 | FSM PathId | 1963 |
 | GameObject PathId | 400 |

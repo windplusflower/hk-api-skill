@@ -1,4 +1,4 @@
-﻿# Floor Control
+# Floor Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Floor Control |
 | GameObject Name | mantis_lord_opening_floors (1) |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Extended |
 | FSM PathId | 293 |
 | GameObject PathId | 21 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Floor | Mantis Battle/mantis_lord_opening_floors (1)/Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/mantis_lord_opening_floors (1)/Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
+| Floor | Mantis Battle/mantis_lord_opening_floors (1)/Floor (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/mantis_lord_opening_floors (1)/Floor (Hollow Knight/hollow_knight_Data\level180)] |
 
 ## States
 
@@ -61,7 +61,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_spike_trap_reveal_3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_spike_trap_reveal_3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -132,7 +132,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_spike_trap_reveal_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_spike_trap_reveal_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. BoolTest
 

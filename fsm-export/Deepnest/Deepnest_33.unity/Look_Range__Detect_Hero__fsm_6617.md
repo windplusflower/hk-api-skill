@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Look Range |
 | GameObject Path | Zote Deepnest/Faller/NPC/Ranges/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Init |
 | FSM PathId | 6617 |
 | GameObject PathId | 298 |

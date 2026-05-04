@@ -1,4 +1,4 @@
-﻿# summon
+# summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | summon |
 | GameObject Name | Hatcher Summon |
 | GameObject Path | Battle Scene/Wave 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Init |
 | FSM PathId | 6170 |
 | GameObject PathId | 1142 |

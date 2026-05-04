@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior Hu |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level194 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level194 |
 | Start State | Init |
 | FSM PathId | 2200 |
 | GameObject PathId | 556 |
@@ -50,12 +50,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Hu/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
+| Attack Pt | Warrior/Ghost Warrior Hu/Attack Pt (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Attack Pt (Hollow Knight/hollow_knight_Data\level194)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior Hu/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Warp | Warrior/Ghost Warrior Hu/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Warp Out | Warrior/Ghost Warrior Hu/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| White Flash | Warrior/Ghost Warrior Hu/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
+| Target | Warrior/Ghost Warrior Hu/Target (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Target (Hollow Knight/hollow_knight_Data\level194)] |
+| Warp | Warrior/Ghost Warrior Hu/Warp (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Warp (Hollow Knight/hollow_knight_Data\level194)] |
+| Warp Out | Warrior/Ghost Warrior Hu/Warp Out (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/Warp Out (Hollow Knight/hollow_knight_Data\level194)] |
+| White Flash | Warrior/Ghost Warrior Hu/White Flash (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Warrior/Ghost Warrior Hu/White Flash (Hollow Knight/hollow_knight_Data\level194)] |
 
 ## States
 
@@ -435,7 +435,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior Hu/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior Hu/Target (Hollow Knight/hollow_knight_Data\level194)] | Variable |   |
 | speedMax |   | 8f |   |   |
 | acceleration |   | 0.5f |   |   |
 | targetSpread |   | 0f |   |   |
@@ -838,9 +838,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mage_knight_teleport (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [mage_knight_teleport (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

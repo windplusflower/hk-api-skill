@@ -1,4 +1,4 @@
-﻿# Shadow Dash
+# Shadow Dash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shadow Dash |
 | GameObject Name | Hero Blocker |
 | GameObject Path | _Enemies/Great Shield Zombie bottom/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level114 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level114 |
 | Start State | Idle |
 | FSM PathId | 3519 |
 | GameObject PathId | 940 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Battle Scene v2/Uncompleted/Shiny Item/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Init |
 | FSM PathId | 2536 |
 | GameObject PathId | 662 |

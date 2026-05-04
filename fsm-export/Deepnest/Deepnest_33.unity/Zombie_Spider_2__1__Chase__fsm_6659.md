@@ -1,4 +1,4 @@
-﻿# Chase
+# Chase
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Chase |
 | GameObject Name | Zombie Spider 2 (1) |
 | GameObject Path | Battle Scene v2/Wave 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Init |
 | FSM PathId | 6659 |
 | GameObject PathId | 570 |
@@ -323,7 +323,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -586,7 +586,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [spider_zombie_shake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets280.assets)] |   |   |
+| audioClip |   | [spider_zombie_shake (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets280.assets)] |   |   |
 
 ##### 6. AudioPlaySimple
 
@@ -666,7 +666,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [spider_zombie_spider_run_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets280.assets)] |   |   |
+| audioClip |   | [spider_zombie_spider_run_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets280.assets)] |   |   |
 
 ##### 6. AudioPlaySimple
 

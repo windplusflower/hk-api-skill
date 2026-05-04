@@ -1,4 +1,4 @@
-﻿# Gate Control
+# Gate Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Gate Control |
 | GameObject Name | Waterways Gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level187 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level187 |
 | Start State | Pause |
 | FSM PathId | 6056 |
 | GameObject PathId | 1652 |

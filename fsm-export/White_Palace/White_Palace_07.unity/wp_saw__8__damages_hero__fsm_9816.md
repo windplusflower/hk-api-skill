@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | wp_saw (8) |
 | GameObject Path | saw_anim_set/wp_saw_05/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level371 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level371 |
 | Start State | Init |
 | FSM PathId | 9816 |
 | GameObject PathId | 3289 |

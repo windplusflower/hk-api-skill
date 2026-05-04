@@ -1,4 +1,4 @@
-﻿# Mozzie
+# Mozzie
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mozzie |
 | GameObject Name | Mosquito |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level135 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level135 |
 | Start State | Initiate |
 | FSM PathId | 6434 |
 | GameObject PathId | 649 |
@@ -49,15 +49,15 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Alerter | Mosquito/Alert Range New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/Alert Range New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135)] |
+| Alerter | Mosquito/Alert Range New (Hollow Knight/hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/Alert Range New (Hollow Knight/hollow_knight_Data\level135)] |
 | Buddy | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Point Box | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Speed Lines | [null] | NamedAssetPPtr: [null] |
-| Thunk Effect | Mosquito/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135)] |
+| Thunk Effect | Mosquito/Thunk Effect (Hollow Knight/hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/Thunk Effect (Hollow Knight/hollow_knight_Data\level135)] |
 | Thunk Instance | [null] | NamedAssetPPtr: [null] |
-| Tile Detector | Mosquito/TileDetector (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/TileDetector (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135)] |
+| Tile Detector | Mosquito/TileDetector (Hollow Knight/hollow_knight_Data\level135) | NamedAssetPPtr: [Mosquito/TileDetector (Hollow Knight/hollow_knight_Data\level135)] |
 
 ### Objects
 
@@ -576,7 +576,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mosquito_charge_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| oneShotClip |   | [mosquito_charge_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 
 ##### 4. SetVelocity2d
 
@@ -713,9 +713,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mosquito_wall_hit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [mosquito_wall_hit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -760,8 +760,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Thunk Effect R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Mosquito/Thunk Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level135)] |   |   |
+| gameObject |   | [Global] [Thunk Effect R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Mosquito/Thunk Effect (Hollow Knight/hollow_knight_Data\level135)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3 Thunk rotate |   |   |
 | storeObject |   | GameObject Thunk Instance | Variable |   |
@@ -988,7 +988,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mosquito_charge_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| oneShotClip |   | [mosquito_charge_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1215,7 +1215,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Impact Lines (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| gameObject |   | [Global] [Impact Lines (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1732,7 +1732,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1751,7 +1751,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mosquito_charge_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| oneShotClip |   | [mosquito_charge_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 
 ##### 4. Tk2dPlayAnimationWithEvents
 

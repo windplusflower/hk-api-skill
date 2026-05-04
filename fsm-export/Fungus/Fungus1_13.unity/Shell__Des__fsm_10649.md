@@ -1,4 +1,4 @@
-﻿# Des
+# Des
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Des |
 | GameObject Name | Shell |
 | GameObject Path | Acid Walker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level142 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level142 |
 | Start State | Check |
 | FSM PathId | 10649 |
 | GameObject PathId | 1358 |

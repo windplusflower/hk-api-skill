@@ -1,4 +1,4 @@
-﻿# Strike
+# Strike
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Strike |
 | GameObject Name | Strike Nail |
 | GameObject Path | Mega Jellyfish/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level229 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level229 |
 | Start State | Initiate |
 | FSM PathId | 145 |
 | GameObject PathId | 23 |

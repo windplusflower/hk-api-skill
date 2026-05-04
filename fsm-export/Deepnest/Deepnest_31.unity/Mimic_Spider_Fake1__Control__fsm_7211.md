@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Mimic Spider Fake1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level289 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level289 |
 | Start State | Pause |
 | FSM PathId | 7211 |
 | GameObject PathId | 376 |

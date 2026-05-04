@@ -1,4 +1,4 @@
-﻿# rubble_push
+# rubble_push
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | rubble_push |
 | GameObject Name | Bottle Glass L 1 (1) |
 | GameObject Path | ruind_dressing_light_01/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level207 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level207 |
 | Start State | Init |
 | FSM PathId | 6330 |
 | GameObject PathId | 1576 |

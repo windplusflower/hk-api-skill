@@ -1,4 +1,4 @@
-﻿# Send Event
+# Send Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Event |
 | GameObject Name | Grimm Target |
 | GameObject Path | Banker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Detect |
 | FSM PathId | 2673 |
 | GameObject PathId | 171 |
@@ -75,9 +75,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Parent |   |   |
-| audioClip |   | [sword_hit_reject (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [sword_hit_reject (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

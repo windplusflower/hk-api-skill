@@ -1,4 +1,4 @@
-﻿# Roof Control
+# Roof Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Roof Control |
 | GameObject Name | Roof Collider |
 | GameObject Path | Hive Break Wall/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | Idle |
 | FSM PathId | 5662 |
 | GameObject PathId | 65 |

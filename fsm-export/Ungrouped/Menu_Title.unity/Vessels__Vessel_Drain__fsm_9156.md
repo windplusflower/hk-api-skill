@@ -1,4 +1,4 @@
-﻿# Vessel Drain
+# Vessel Drain
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Vessel Drain |
 | GameObject Name | Vessels |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9156 |
 | GameObject PathId | 791 |
@@ -26,11 +26,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Particle 1 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Particle 2 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Particle 3 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Particle 4 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Particle Fill | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle Fill (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle Fill (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Particle 1 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 1 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 1 (Hollow Knight/hollow_knight_Data\level1)] |
+| Particle 2 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 2 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 2 (Hollow Knight/hollow_knight_Data\level1)] |
+| Particle 3 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 3 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 3 (Hollow Knight/hollow_knight_Data\level1)] |
+| Particle 4 | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 4 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle 4 (Hollow Knight/hollow_knight_Data\level1)] |
+| Particle Fill | _GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle Fill (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Hud Canvas/Soul Orb/Vessels/Particle Fill (Hollow Knight/hollow_knight_Data\level1)] |
 
 ## States
 

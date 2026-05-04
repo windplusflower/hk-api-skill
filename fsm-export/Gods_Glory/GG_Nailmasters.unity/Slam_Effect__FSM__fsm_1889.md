@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Slam Effect |
 | GameObject Path | Brothers/Oro/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level454 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level454 |
 | Start State | Init |
 | FSM PathId | 1889 |
 | GameObject PathId | 534 |

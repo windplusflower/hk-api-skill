@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warrior |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level437 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level437 |
 | Start State | Wait |
 | FSM PathId | 1570 |
 | GameObject PathId | 62 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Enable GameObject | Warrior/Ghost Warrior Markoth (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |
+| Enable GameObject | Warrior/Ghost Warrior Markoth (Hollow Knight/hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth (Hollow Knight/hollow_knight_Data\level437)] |
 
 ## States
 
@@ -52,7 +52,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Warrior/Ghost Warrior Markoth (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |   |   |
+| gameObject |   | [Global] [Warrior/Ghost Warrior Markoth (Hollow Knight/hollow_knight_Data\level437)] |   |   |
 | useChildren |   | true |   |   |
 
 ##### 3. Wait
@@ -87,9 +87,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Markoth (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Markoth (Hollow Knight/hollow_knight_Data\level437)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -103,8 +103,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Markoth (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Markoth (Hollow Knight/hollow_knight_Data\level437)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |

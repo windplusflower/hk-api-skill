@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | A Dash Effect |
 | GameObject Path | Hornet Boss 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level325 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level325 |
 | Start State | Init |
 | FSM PathId | 181 |
 | GameObject PathId | 18 |

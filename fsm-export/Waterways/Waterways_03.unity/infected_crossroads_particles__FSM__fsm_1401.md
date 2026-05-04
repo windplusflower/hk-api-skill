@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | infected_crossroads_particles |
 | GameObject Path | Dead_Tuk/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level351 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level351 |
 | Start State | Pause |
 | FSM PathId | 1401 |
 | GameObject PathId | 44 |

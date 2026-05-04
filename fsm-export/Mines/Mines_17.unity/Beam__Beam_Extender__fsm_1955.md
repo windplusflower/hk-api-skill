@@ -1,4 +1,4 @@
-﻿# Beam Extender
+# Beam Extender
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Extender |
 | GameObject Name | Beam |
 | GameObject Path | Laser Turret (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level259 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level259 |
 | Start State | Init |
 | FSM PathId | 1955 |
 | GameObject PathId | 171 |

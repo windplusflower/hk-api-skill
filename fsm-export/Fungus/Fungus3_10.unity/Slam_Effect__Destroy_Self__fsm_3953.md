@@ -1,4 +1,4 @@
-﻿# Destroy Self
+# Destroy Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | Battle Scene/Wave 5/Mantis Heavy/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Init |
 | FSM PathId | 3953 |
 | GameObject PathId | 97 |

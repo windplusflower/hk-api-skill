@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Mask |
 | GameObject Path | Maskmaker NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level21 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level21 |
 | Start State | Init |
 | FSM PathId | 492 |
 | GameObject PathId | 127 |

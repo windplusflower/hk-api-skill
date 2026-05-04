@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | rag_burst |
 | GameObject Path | Training Dummy/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level321 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level321 |
 | Start State | Idle |
 | FSM PathId | 1273 |
 | GameObject PathId | 354 |

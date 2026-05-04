@@ -1,4 +1,4 @@
-﻿# Land
+# Land
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Land |
 | GameObject Name | Hero Land |
 | GameObject Path | Chain Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | Init |
 | FSM PathId | 5482 |
 | GameObject PathId | 1388 |
@@ -25,9 +25,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Land Grass | Chain Platform/Land Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Land Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Plat Sprite | Chain Platform/Plat Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Plat Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
-| Vine | Chain Platform/Vine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level106)] |
+| Land Grass | Chain Platform/Land Grass (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Land Grass (Hollow Knight/hollow_knight_Data\level106)] |
+| Plat Sprite | Chain Platform/Plat Sprite (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Plat Sprite (Hollow Knight/hollow_knight_Data\level106)] |
+| Vine | Chain Platform/Vine (Hollow Knight/hollow_knight_Data\level106) | NamedAssetPPtr: [Chain Platform/Vine (Hollow Knight/hollow_knight_Data\level106)] |
 
 ## States
 

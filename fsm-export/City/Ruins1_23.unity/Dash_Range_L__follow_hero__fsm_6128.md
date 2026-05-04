@@ -1,4 +1,4 @@
-﻿# follow_hero
+# follow_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | follow_hero |
 | GameObject Name | Dash Range L |
 | GameObject Path | Mage Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level99 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level99 |
 | Start State | Follow |
 | FSM PathId | 6128 |
 | GameObject PathId | 826 |

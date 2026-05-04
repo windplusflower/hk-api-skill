@@ -1,4 +1,4 @@
-﻿# Constrain Y
+# Constrain Y
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Constrain Y |
 | GameObject Name | Grimm Boss |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | Check |
 | FSM PathId | 561 |
 | GameObject PathId | 46 |

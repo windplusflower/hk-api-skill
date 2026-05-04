@@ -1,4 +1,4 @@
-﻿# Mawlek Head
+# Mawlek Head
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mawlek Head |
 | GameObject Name | Mawlek Head |
 | GameObject Path | Battle Scene/Mawlek Body/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level485 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level485 |
 | Start State | Init |
 | FSM PathId | 1703 |
 | GameObject PathId | 43 |
@@ -227,7 +227,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mawlek NoDrip (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Global] [Shot Mawlek NoDrip (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0.5, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -287,7 +287,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

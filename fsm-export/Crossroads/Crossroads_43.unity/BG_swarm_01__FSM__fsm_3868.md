@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | BG_swarm_01 |
 | GameObject Path | non_infected_event/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level72 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level72 |
 | Start State | State 1 |
 | FSM PathId | 3868 |
 | GameObject PathId | 945 |

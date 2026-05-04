@@ -1,4 +1,4 @@
-﻿# Stag Bell
+# Stag Bell
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stag Bell |
 | GameObject Name | Station Bell |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level9 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level9 |
 | Start State | Pause |
 | FSM PathId | 1225 |
 | GameObject PathId | 160 |
@@ -249,7 +249,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | "Inspect" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |
@@ -1414,9 +1414,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [toll_machine_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| audioClip |   | [toll_machine_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1526,9 +1526,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [bell_rise (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| audioClip |   | [bell_rise (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

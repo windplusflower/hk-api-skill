@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dash Effect A (1) |
 | GameObject Path | Battle Scene/Completed/Mantis Heavy/Dash Effect A/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Init |
 | FSM PathId | 3923 |
 | GameObject PathId | 73 |

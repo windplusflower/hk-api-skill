@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dash Effect G |
 | GameObject Path | Battle Scene/Wave 2/Mantis Heavy (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Init |
 | FSM PathId | 516 |
 | GameObject PathId | 65 |

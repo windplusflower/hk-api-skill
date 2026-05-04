@@ -1,4 +1,4 @@
-﻿# Setup and Follow
+# Setup and Follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Setup and Follow |
 | GameObject Name | Needle Tink |
 | GameObject Path | Hornet Boss 1/Needle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level133 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level133 |
 | Start State | Pause |
 | FSM PathId | 213 |
 | GameObject PathId | 17 |

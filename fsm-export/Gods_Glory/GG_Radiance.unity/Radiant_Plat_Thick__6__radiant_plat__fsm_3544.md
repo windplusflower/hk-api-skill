@@ -1,4 +1,4 @@
-﻿# radiant_plat
+# radiant_plat
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | radiant_plat |
 | GameObject Name | Radiant Plat Thick (6) |
 | GameObject Path | Boss Control/Plat Sets/Ascend Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3544 |
 | GameObject PathId | 765 |

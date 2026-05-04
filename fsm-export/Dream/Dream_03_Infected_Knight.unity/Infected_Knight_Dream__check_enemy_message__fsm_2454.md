@@ -1,4 +1,4 @@
-﻿# check_enemy_message
+# check_enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | check_enemy_message |
 | GameObject Name | Infected Knight Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | State 1 |
 | FSM PathId | 2454 |
 | GameObject PathId | 508 |

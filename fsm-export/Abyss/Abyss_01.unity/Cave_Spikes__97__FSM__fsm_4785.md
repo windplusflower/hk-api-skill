@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Cave Spikes (97) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level327 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level327 |
 | Start State | Idle |
 | FSM PathId | 4785 |
 | GameObject PathId | 592 |

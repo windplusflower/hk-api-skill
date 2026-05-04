@@ -1,4 +1,4 @@
-﻿# Send Inflate Event
+# Send Inflate Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Inflate Event |
 | GameObject Name | Enemy Inflater |
 | GameObject Path | Battle Scene/Inflater/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level359 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level359 |
 | Start State | Detect |
 | FSM PathId | 2437 |
 | GameObject PathId | 674 |

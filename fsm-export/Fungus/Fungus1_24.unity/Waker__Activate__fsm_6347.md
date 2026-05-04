@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Waker |
 | GameObject Path | Pigeon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level152 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level152 |
 | Start State | Idle |
 | FSM PathId | 6347 |
 | GameObject PathId | 1622 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Mega Fat Bee (1) |
 | GameObject Path | Colosseum Manager/Waves/Wave 30 Obble/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Wait |
 | FSM PathId | 11380 |
 | GameObject PathId | 1711 |

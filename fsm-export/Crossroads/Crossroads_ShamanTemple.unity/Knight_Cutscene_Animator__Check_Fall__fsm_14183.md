@@ -1,4 +1,4 @@
-﻿# Check Fall
+# Check Fall
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Fall |
 | GameObject Name | Knight Cutscene Animator |
 | GameObject Path | _Props/Knight Get Fireball/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Fall |
 | FSM PathId | 14183 |
 | GameObject PathId | 2553 |
@@ -157,9 +157,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hero_land_hard (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets76.assets)] |   |   |
+| audioClip |   | [hero_land_hard (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets76.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -231,7 +231,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shaman Trapped (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets76.assets)] |   |   |
+| gameObject |   | [Global] [Shaman Trapped (Hollow Knight/hollow_knight_Data\sharedassets76.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(39.15, 8.84, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -753,9 +753,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [Fireball_prompt (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets76.assets)] |   |   |
+| sprite |   | [Fireball_prompt (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets76.assets)] |   |   |
 
 ##### 2. SetFsmString
 

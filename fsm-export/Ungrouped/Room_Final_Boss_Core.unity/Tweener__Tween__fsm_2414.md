@@ -1,4 +1,4 @@
-﻿# Tween
+# Tween
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tween |
 | GameObject Name | Tweener |
 | GameObject Path | Boss Control/break_chains/hollow_knight_chain_base 3/Particle Line/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Tween |
 | FSM PathId | 2414 |
 | GameObject PathId | 340 |

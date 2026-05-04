@@ -1,4 +1,4 @@
-﻿# hero detect
+# hero detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero detect |
 | GameObject Name | Range Check |
 | GameObject Path | Mantis Lever (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level168 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level168 |
 | Start State | Init |
 | FSM PathId | 5072 |
 | GameObject PathId | 214 |

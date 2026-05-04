@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Base Glow |
 | GameObject Path | Witch Control/Moth NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level394 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level394 |
 | Start State | Init |
 | FSM PathId | 3643 |
 | GameObject PathId | 682 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dream Dialogue_02_after_shade_charm |
 | GameObject Path | Shade_Beast_Dream_Stuff/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level337 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level337 |
 | Start State | Pause |
 | FSM PathId | 4161 |
 | GameObject PathId | 60 |

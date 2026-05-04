@@ -1,4 +1,4 @@
-﻿# destroy_if_gameobject_null
+# destroy_if_gameobject_null
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_if_gameobject_null |
 | GameObject Name | Beam Impact |
 | GameObject Path | Crystallised Lazer Bug (10)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level252 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level252 |
 | Start State | Check |
 | FSM PathId | 4351 |
 | GameObject PathId | 359 |

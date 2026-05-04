@@ -1,4 +1,4 @@
-﻿# Shift
+# Shift
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift |
 | GameObject Name | right1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level30 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level30 |
 | Start State | State 1 |
 | FSM PathId | 660 |
 | GameObject PathId | 45 |

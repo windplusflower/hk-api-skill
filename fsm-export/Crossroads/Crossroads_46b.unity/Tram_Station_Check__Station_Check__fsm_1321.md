@@ -1,4 +1,4 @@
-﻿# Station Check
+# Station Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Station Check |
 | GameObject Name | Tram Station Check |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level75 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level75 |
 | Start State | Set |
 | FSM PathId | 1321 |
 | GameObject PathId | 429 |

@@ -1,4 +1,4 @@
-﻿# Disable
+# Disable
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Disable |
 | GameObject Name | CameraLockArea C |
 | GameObject Path | _Camera Lock Zones/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Pause |
 | FSM PathId | 4869 |
 | GameObject PathId | 782 |

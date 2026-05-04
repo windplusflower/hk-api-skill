@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Smoke Activator |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level28 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level28 |
 | Start State | State 1 |
 | FSM PathId | 853 |
 | GameObject PathId | 87 |

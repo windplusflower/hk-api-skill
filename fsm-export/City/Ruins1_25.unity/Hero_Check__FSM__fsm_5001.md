@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Check |
 | GameObject Path | Ruins Lift/Control Lever/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level104 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level104 |
 | Start State | Init |
 | FSM PathId | 5001 |
 | GameObject PathId | 590 |

@@ -1,4 +1,4 @@
-﻿# Low Health FX
+# Low Health FX
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Low Health FX |
 | GameObject Name | Health |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pre Init |
 | FSM PathId | 8960 |
 | GameObject PathId | 1412 |

@@ -1,4 +1,4 @@
-﻿# Effect
+# Effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Effect |
 | GameObject Name | Inflate Burst |
 | GameObject Path | Grimm Scene/Grimm Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level443 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level443 |
 | Start State | Scale |
 | FSM PathId | 2088 |
 | GameObject PathId | 148 |

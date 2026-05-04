@@ -1,4 +1,4 @@
-﻿# Set Invincible
+# Set Invincible
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Invincible |
 | GameObject Name | Slash Spider (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level297 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level297 |
 | Start State | Init |
 | FSM PathId | 11682 |
 | GameObject PathId | 392 |

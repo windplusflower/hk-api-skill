@@ -1,4 +1,4 @@
-﻿# stag_map_piece
+# stag_map_piece
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | stag_map_piece |
 | GameObject Name | Dirtmouth |
 | GameObject Path | Stag Map/Stag_Map_Pieces/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | Init |
 | FSM PathId | 1726 |
 | GameObject PathId | 191 |

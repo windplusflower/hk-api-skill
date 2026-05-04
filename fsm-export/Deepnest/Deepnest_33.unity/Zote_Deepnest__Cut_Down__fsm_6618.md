@@ -1,4 +1,4 @@
-﻿# Cut Down
+# Cut Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cut Down |
 | GameObject Name | Zote Deepnest |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Pause |
 | FSM PathId | 6618 |
 | GameObject PathId | 302 |
@@ -30,11 +30,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Faller | Zote Deepnest/Faller (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Faller (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |
-| Particle 1 | Zote Deepnest/Particle 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Particle 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |
-| Particle 2 | Zote Deepnest/Particle 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Particle 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |
-| Slash | Zote Deepnest/Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |
-| Struggler | Zote Deepnest/Struggler (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Struggler (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |
+| Faller | Zote Deepnest/Faller (Hollow Knight/hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Faller (Hollow Knight/hollow_knight_Data\level291)] |
+| Particle 1 | Zote Deepnest/Particle 1 (Hollow Knight/hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Particle 1 (Hollow Knight/hollow_knight_Data\level291)] |
+| Particle 2 | Zote Deepnest/Particle 2 (Hollow Knight/hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Particle 2 (Hollow Knight/hollow_knight_Data\level291)] |
+| Slash | Zote Deepnest/Slash Impact (Hollow Knight/hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Slash Impact (Hollow Knight/hollow_knight_Data\level291)] |
+| Struggler | Zote Deepnest/Struggler (Hollow Knight/hollow_knight_Data\level291) | NamedAssetPPtr: [Zote Deepnest/Struggler (Hollow Knight/hollow_knight_Data\level291)] |
 
 ## States
 
@@ -105,9 +105,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Zote Deepnest/Struggler (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level291)] |   |   |
-| audioClip |   | [grass_cut_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Zote Deepnest/Struggler (Hollow Knight/hollow_knight_Data\level291)] |   |   |
+| audioClip |   | [grass_cut_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Challenge UI
+# Challenge UI
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Challenge UI |
 | GameObject Name | Inspect |
 | GameObject Path | GG_Final_Challenge_Door/Unlocked Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Inert |
 | FSM PathId | 4880 |
 | GameObject PathId | 1419 |
@@ -25,8 +25,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLock | GG_Final_Challenge_Door/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
-| Door | GG_Final_Challenge_Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
+| CamLock | GG_Final_Challenge_Door/CameraLockArea (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door/CameraLockArea (Hollow Knight/hollow_knight_Data\level473)] |
+| Door | GG_Final_Challenge_Door (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door (Hollow Knight/hollow_knight_Data\level473)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -91,7 +91,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | targetDoor |   | OwnerDefault Door |   |   |
-| prefab |   | [Global] [GG_Challenge_Door_Canvas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets424.assets)] |   |   |
+| prefab |   | [Global] [GG_Challenge_Door_Canvas (Hollow Knight/hollow_knight_Data\sharedassets424.assets)] |   |   |
 | cancelEvent |   | FINISHED |   |   |
 | challengeEvent |   | DREAM |   |   |
 
@@ -251,7 +251,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [dream_area_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [dream_area_effect (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -473,7 +473,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [None (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| musicCue |   | [None (Script MusicCue) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 1.5f |   |   |
 

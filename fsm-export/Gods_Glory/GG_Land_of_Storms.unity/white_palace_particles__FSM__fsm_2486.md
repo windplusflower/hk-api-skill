@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | white_palace_particles |
 | GameObject Path | gg_battle_transitions/battle_end/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level482 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level482 |
 | Start State | Pause |
 | FSM PathId | 2486 |
 | GameObject PathId | 765 |

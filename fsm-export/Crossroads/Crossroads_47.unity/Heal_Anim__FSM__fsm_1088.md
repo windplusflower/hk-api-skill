@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Heal Anim |
 | GameObject Path | RestBench/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level77 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level77 |
 | Start State | State 1 |
 | FSM PathId | 1088 |
 | GameObject PathId | 288 |

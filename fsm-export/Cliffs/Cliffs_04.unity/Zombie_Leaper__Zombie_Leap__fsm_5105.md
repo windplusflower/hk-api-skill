@@ -1,4 +1,4 @@
-﻿# Zombie Leap
+# Zombie Leap
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Leap |
 | GameObject Name | Zombie Leaper |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level234 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level234 |
 | Start State | Initialise |
 | FSM PathId | 5105 |
 | GameObject PathId | 1190 |

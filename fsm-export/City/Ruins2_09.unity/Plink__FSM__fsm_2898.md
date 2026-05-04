@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Plink |
 | GameObject Path | Vessel Fragment/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level121 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level121 |
 | Start State | State 1 |
 | FSM PathId | 2898 |
 | GameObject PathId | 653 |

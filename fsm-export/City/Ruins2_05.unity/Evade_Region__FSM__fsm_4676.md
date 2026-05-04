@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Evade Region |
 | GameObject Path | Ruins Sentry 1 (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level117 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level117 |
 | Start State | Initialise |
 | FSM PathId | 4676 |
 | GameObject PathId | 234 |

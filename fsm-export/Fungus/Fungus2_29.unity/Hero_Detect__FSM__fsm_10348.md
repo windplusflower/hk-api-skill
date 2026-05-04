@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Detect |
 | GameObject Path | Mushroom Turret (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level191 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level191 |
 | Start State | Init |
 | FSM PathId | 10348 |
 | GameObject PathId | 1810 |

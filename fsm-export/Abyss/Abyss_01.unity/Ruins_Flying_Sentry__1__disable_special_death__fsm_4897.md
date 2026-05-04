@@ -1,4 +1,4 @@
-﻿# disable_special_death
+# disable_special_death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disable_special_death |
 | GameObject Name | Ruins Flying Sentry (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level327 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level327 |
 | Start State | State 1 |
 | FSM PathId | 4897 |
 | GameObject PathId | 1118 |

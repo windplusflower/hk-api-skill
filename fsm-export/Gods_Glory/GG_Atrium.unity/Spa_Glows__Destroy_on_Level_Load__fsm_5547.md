@@ -1,4 +1,4 @@
-﻿# Destroy on Level Load
+# Destroy on Level Load
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy on Level Load |
 | GameObject Name | Spa Glows |
 | GameObject Path | Spa Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Wait |
 | FSM PathId | 5547 |
 | GameObject PathId | 1075 |

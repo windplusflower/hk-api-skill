@@ -1,4 +1,4 @@
-﻿# Control Collider
+# Control Collider
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control Collider |
 | GameObject Name | Great Slash |
 | GameObject Path | Knight/Attacks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 889 |
 | GameObject PathId | 82 |

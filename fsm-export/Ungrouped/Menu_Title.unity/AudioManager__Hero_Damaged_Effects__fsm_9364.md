@@ -1,4 +1,4 @@
-﻿# Hero Damaged Effects
+# Hero Damaged Effects
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hero Damaged Effects |
 | GameObject Name | AudioManager |
 | GameObject Path | _GameManager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 9364 |
 | GameObject PathId | 1454 |
@@ -76,7 +76,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Damaged (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets0.assets)] |   |   |
+| snapshot |   | [Damaged (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\sharedassets0.assets)] |   |   |
 | transitionTime |   | 0.1f |   |   |
 
 ##### 4. Wait
@@ -112,7 +112,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets0.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\sharedassets0.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 #### Transitions

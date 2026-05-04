@@ -1,4 +1,4 @@
-﻿# enemy_message
+# enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_message |
 | GameObject Name | EnemyDetector |
 | GameObject Path | _Transition Gates/left1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level251 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level251 |
 | Start State | Idle |
 | FSM PathId | 4601 |
 | GameObject PathId | 1319 |

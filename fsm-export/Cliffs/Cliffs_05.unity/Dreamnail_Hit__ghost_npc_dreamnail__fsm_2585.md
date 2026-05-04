@@ -1,4 +1,4 @@
-﻿# ghost_npc_dreamnail
+# ghost_npc_dreamnail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ghost_npc_dreamnail |
 | GameObject Name | Dreamnail Hit |
 | GameObject Path | Ghost Activator/Ghost NPC Joni/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level235 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level235 |
 | Start State | Init |
 | FSM PathId | 2585 |
 | GameObject PathId | 145 |

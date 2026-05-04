@@ -1,4 +1,4 @@
-﻿# Wall Check
+# Wall Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Wall Check |
 | GameObject Name | Wall Check |
 | GameObject Path | Hopper (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level312 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level312 |
 | Start State | Init |
 | FSM PathId | 4072 |
 | GameObject PathId | 1099 |

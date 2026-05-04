@@ -1,4 +1,4 @@
-﻿# Check Active
+# Check Active
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Active |
 | GameObject Name | Spell Fireball |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Inv/Inv_Items/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause Frame |
 | FSM PathId | 9118 |
 | GameObject PathId | 942 |
@@ -282,7 +282,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| sprite |   | [Inv_Empty (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Inv_Empty (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -327,7 +327,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| sprite |   | [Inv_0025_spell_fireball_01 (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Inv_0025_spell_fireball_01 (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -349,7 +349,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| sprite |   | [Inv_0025_spell_fireball_01_level2 (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Inv_0025_spell_fireball_01_level2 (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

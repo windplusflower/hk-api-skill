@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Text3 |
 | GameObject Path | Tut_tablet_top/Completion Prompt/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level408 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level408 |
 | Start State | Init |
 | FSM PathId | 2231 |
 | GameObject PathId | 372 |

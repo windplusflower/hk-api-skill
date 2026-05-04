@@ -1,4 +1,4 @@
-﻿# ReWarp
+# ReWarp
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ReWarp |
 | GameObject Name | ReWarper |
 | GameObject Path | _Enemies/Baby Centipede/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level278 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level278 |
 | Start State | Detect |
 | FSM PathId | 6821 |
 | GameObject PathId | 528 |

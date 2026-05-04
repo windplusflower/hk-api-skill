@@ -1,4 +1,4 @@
-﻿# Fungoon baby
+# Fungoon baby
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fungoon baby |
 | GameObject Name | Fungoon Baby (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level182 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level182 |
 | Start State | Init |
 | FSM PathId | 4519 |
 | GameObject PathId | 508 |

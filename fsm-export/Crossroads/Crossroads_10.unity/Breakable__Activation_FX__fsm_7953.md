@@ -1,4 +1,4 @@
-﻿# Activation FX
+# Activation FX
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activation FX |
 | GameObject Name | Breakable |
 | GameObject Path | Fk Break Wall/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Init |
 | FSM PathId | 7953 |
 | GameObject PathId | 1077 |
@@ -73,7 +73,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Tiny Transient Plain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Particle Rock Tiny Transient Plain (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(1.5, 0, 0) |   |   |
 | spawnMin |   | 30 |   |   |

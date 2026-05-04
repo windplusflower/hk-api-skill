@@ -1,4 +1,4 @@
-﻿# One Way Reveal
+# One Way Reveal
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | One Way Reveal |
 | GameObject Name | Secret Mask temp |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level299 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level299 |
 | Start State | State 1 |
 | FSM PathId | 7234 |
 | GameObject PathId | 787 |

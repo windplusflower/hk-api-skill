@@ -1,4 +1,4 @@
-﻿# Blanker Control
+# Blanker Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blanker Control |
 | GameObject Name | Cutscene Blanker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level465 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level465 |
 | Start State | Init |
 | FSM PathId | 178 |
 | GameObject PathId | 49 |

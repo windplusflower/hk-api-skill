@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Gas Explosion M |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level197 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level197 |
 | Start State | Idle |
 | FSM PathId | 4692 |
 | GameObject PathId | 181 |

@@ -1,4 +1,4 @@
-﻿# Activate on Scene Load
+# Activate on Scene Load
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate on Scene Load |
 | GameObject Name | Vessels |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9891 |
 | GameObject PathId | 791 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Mage_chunk |
 | GameObject Path | Ruins Chair Corpse Alt/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level99 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level99 |
 | Start State | Spin At Start? |
 | FSM PathId | 6225 |
 | GameObject PathId | 1389 |

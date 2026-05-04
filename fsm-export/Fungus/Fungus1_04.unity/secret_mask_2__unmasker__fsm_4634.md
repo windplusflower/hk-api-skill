@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | secret mask 2 |
 | GameObject Path | Break Floor 1/Solid/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level132 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level132 |
 | Start State | Pause |
 | FSM PathId | 4634 |
 | GameObject PathId | 229 |

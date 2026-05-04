@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Fat Fluke (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level458 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level458 |
 | Start State | Init |
 | FSM PathId | 9864 |
 | GameObject PathId | 2770 |
@@ -34,11 +34,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Angry Loop | Fat Fluke (1)/Angry Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Angry Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458)] |
-| Charge Loop | Fat Fluke (1)/Charge Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Charge Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458)] |
-| Charge Loop 2 | Fat Fluke (1)/Charge Loop 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Charge Loop 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458)] |
-| Crawl Loop | Fat Fluke (1)/Crawl Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Crawl Loop (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458)] |
-| Pt Spatter | Fat Fluke (1)/Pt Spatter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Pt Spatter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level458)] |
+| Angry Loop | Fat Fluke (1)/Angry Loop (Hollow Knight/hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Angry Loop (Hollow Knight/hollow_knight_Data\level458)] |
+| Charge Loop | Fat Fluke (1)/Charge Loop (Hollow Knight/hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Charge Loop (Hollow Knight/hollow_knight_Data\level458)] |
+| Charge Loop 2 | Fat Fluke (1)/Charge Loop 2 (Hollow Knight/hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Charge Loop 2 (Hollow Knight/hollow_knight_Data\level458)] |
+| Crawl Loop | Fat Fluke (1)/Crawl Loop (Hollow Knight/hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Crawl Loop (Hollow Knight/hollow_knight_Data\level458)] |
+| Pt Spatter | Fat Fluke (1)/Pt Spatter (Hollow Knight/hollow_knight_Data\level458) | NamedAssetPPtr: [Fat Fluke (1)/Pt Spatter (Hollow Knight/hollow_knight_Data\level458)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -166,9 +166,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -193,9 +193,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ff_startle_short_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets458.assets)] |   |   |
+| audioClip |   | [ff_startle_short_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets458.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -488,9 +488,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_strike_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| audioClip |   | [false_knight_strike_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

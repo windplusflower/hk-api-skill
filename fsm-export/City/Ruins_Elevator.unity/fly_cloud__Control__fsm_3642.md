@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | fly cloud |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level86 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level86 |
 | Start State | Pause |
 | FSM PathId | 3642 |
 | GameObject PathId | 429 |

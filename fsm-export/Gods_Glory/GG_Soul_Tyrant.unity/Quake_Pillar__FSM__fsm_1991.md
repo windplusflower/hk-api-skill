@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Quake Pillar |
 | GameObject Path | Dream Mage Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level462 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level462 |
 | Start State | Init |
 | FSM PathId | 1991 |
 | GameObject PathId | 61 |

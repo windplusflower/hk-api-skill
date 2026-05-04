@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | room_light |
 | GameObject Path | _Scenery/room_light parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Pause |
 | FSM PathId | 2768 |
 | GameObject PathId | 432 |

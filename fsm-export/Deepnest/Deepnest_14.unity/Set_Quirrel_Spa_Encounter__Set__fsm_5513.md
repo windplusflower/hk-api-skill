@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set Quirrel Spa Encounter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level283 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level283 |
 | Start State | State 1 |
 | FSM PathId | 5513 |
 | GameObject PathId | 1318 |

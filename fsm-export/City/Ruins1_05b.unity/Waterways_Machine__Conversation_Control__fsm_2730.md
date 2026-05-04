@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Waterways Machine |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Pause |
 | FSM PathId | 2730 |
 | GameObject PathId | 237 |
@@ -41,8 +41,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Activate Anim | Waterways Machine/Activate Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Machine/Activate Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Activated | Waterways Machine/Activated (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Machine/Activated (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
+| Activate Anim | Waterways Machine/Activate Anim (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Machine/Activate Anim (Hollow Knight/hollow_knight_Data\level93)] |
+| Activated | Waterways Machine/Activated (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Machine/Activated (Hollow Knight/hollow_knight_Data\level93)] |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Door Closed | [null] | NamedAssetPPtr: [null] |
 | Door Object | [null] | NamedAssetPPtr: [null] |
@@ -228,7 +228,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Area Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| gameObject |   | [Area Title (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -613,7 +613,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [manhole_key_turn (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [manhole_key_turn (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 ##### 3. IntOperator
 
@@ -727,7 +727,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [manhole_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets93.assets)] |   |   |
+| oneShotClip |   | [manhole_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets93.assets)] |   |   |
 
 #### Transitions
 

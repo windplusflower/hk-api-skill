@@ -1,4 +1,4 @@
-﻿# alert_range
+# alert_range
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | alert_range |
 | GameObject Name | Alert Range |
 | GameObject Path | Bee Stinger (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level387 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level387 |
 | Start State | Initialise |
 | FSM PathId | 4018 |
 | GameObject PathId | 97 |

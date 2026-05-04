@@ -1,4 +1,4 @@
-﻿# Flukeman
+# Flukeman
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flukeman |
 | GameObject Name | Flukeman (16) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level358 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level358 |
 | Start State | Init |
 | FSM PathId | 8444 |
 | GameObject PathId | 1186 |
@@ -30,7 +30,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Footsteps | Flukeman (16)/Footsteps (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358) | NamedAssetPPtr: [Flukeman (16)/Footsteps (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358)] |
+| Footsteps | Flukeman (16)/Footsteps (Hollow Knight/hollow_knight_Data\level358) | NamedAssetPPtr: [Flukeman (16)/Footsteps (Hollow Knight/hollow_knight_Data\level358)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -100,9 +100,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Flukeman_startle_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [Flukeman_startle_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -127,7 +127,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [Flukeman_aggressive_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [Flukeman_aggressive_loop (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. AudioPlay
 
@@ -323,9 +323,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Flukeman_startle_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [Flukeman_startle_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

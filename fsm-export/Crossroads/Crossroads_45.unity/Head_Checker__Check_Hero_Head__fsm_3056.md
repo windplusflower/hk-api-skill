@@ -1,4 +1,4 @@
-﻿# Check Hero Head
+# Check Hero Head
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Hero Head |
 | GameObject Name | Head Checker |
 | GameObject Path | Mines Lift/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level73 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level73 |
 | Start State | Init |
 | FSM PathId | 3056 |
 | GameObject PathId | 773 |

@@ -1,4 +1,4 @@
-﻿# Confirm Control
+# Confirm Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Confirm Control |
 | GameObject Name | Menu 1 |
 | GameObject Path | Bank Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2646 |
 | GameObject PathId | 93 |
@@ -723,7 +723,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Heart Piece Instant (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| gameObject |   | [Global] [Heart Piece Instant (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -826,7 +826,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Charm Tutorial Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Charm Tutorial Msg (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -893,7 +893,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vessel Fragment Instant (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets10.assets)] |   |   |
+| gameObject |   | [Global] [Vessel Fragment Instant (Hollow Knight/hollow_knight_Data\sharedassets10.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

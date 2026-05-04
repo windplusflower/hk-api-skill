@@ -1,4 +1,4 @@
-﻿# Summon
+# Summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Summon |
 | GameObject Name | Giant Hopper Summon |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level321 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level321 |
 | Start State | Init |
 | FSM PathId | 1204 |
 | GameObject PathId | 145 |
@@ -91,9 +91,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [cave_in_rock_hit_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets173.assets)] |   |   |
+| audioClip |   | [cave_in_rock_hit_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets173.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -235,9 +235,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [misc_rumble_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets101.assets)] |   |   |
+| audioClip |   | [misc_rumble_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets101.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item GG Storms |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level482 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level482 |
 | Start State | Init |
 | FSM PathId | 2470 |
 | GameObject PathId | 752 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Shiny Item GG Storms/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482) | NamedAssetPPtr: [Shiny Item GG Storms/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] |
+| Wave | Shiny Item GG Storms/White Wave (Hollow Knight/hollow_knight_Data\level482) | NamedAssetPPtr: [Shiny Item GG Storms/White Wave (Hollow Knight/hollow_knight_Data\level482)] |
 
 ## States
 

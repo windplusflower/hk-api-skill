@@ -1,4 +1,4 @@
-﻿# Send Event
+# Send Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Event |
 | GameObject Name | Hit Detect |
 | GameObject Path | Mr Mushroom NPC (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Init |
 | FSM PathId | 12059 |
 | GameObject PathId | 2110 |

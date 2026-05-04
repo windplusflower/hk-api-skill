@@ -1,4 +1,4 @@
-﻿# Load Animation
+# Load Animation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Load Animation |
 | GameObject Name | HUD_frame |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause Frame |
 | FSM PathId | 8926 |
 | GameObject PathId | 808 |

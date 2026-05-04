@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Colosseum Cage Small (3) |
 | GameObject Path | Colosseum Manager/Waves/Wave 29 Obble/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 10832 |
 | GameObject PathId | 787 |
@@ -30,12 +30,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Anim | Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
+| Anim | Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Anim (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Anim (Hollow Knight/hollow_knight_Data\level33)] |
 | Colosseum Manager | [null] | NamedAssetPPtr: [null] |
-| Enemy | Colosseum_Armoured_Roller (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets) | NamedAssetPPtr: [Colosseum_Armoured_Roller (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |
-| Enemy Type | Blobble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets) | NamedAssetPPtr: [Blobble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |
+| Enemy | Colosseum_Armoured_Roller (Hollow Knight/hollow_knight_Data\sharedassets32.assets) | NamedAssetPPtr: [Colosseum_Armoured_Roller (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |
+| Enemy Type | Blobble (Hollow Knight/hollow_knight_Data\sharedassets33.assets) | NamedAssetPPtr: [Blobble (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Strike | Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
+| Strike | Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Strike Nail (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 29 Obble/Colosseum Cage Small (3)/Strike Nail (Hollow Knight/hollow_knight_Data\level33)] |
 | z Corpse Instance | [null] | NamedAssetPPtr: [null] |
 | z Corpse to Instantiate | [null] | NamedAssetPPtr: [null] |
 
@@ -393,7 +393,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Enemy |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

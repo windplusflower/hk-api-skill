@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | royal_garden_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level199 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level199 |
 | Start State | Pause |
 | FSM PathId | 2776 |
 | GameObject PathId | 882 |

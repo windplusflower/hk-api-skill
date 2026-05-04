@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | wood_plank_01 (6) |
 | GameObject Path | _Scenery/mine_1_quake_floor/loose_floor_planks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level248 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level248 |
 | Start State | Idle |
 | FSM PathId | 2867 |
 | GameObject PathId | 189 |

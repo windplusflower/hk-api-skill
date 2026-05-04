@@ -1,4 +1,4 @@
-﻿# Acid Flyer
+# Acid Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Acid Flyer |
 | GameObject Name | Acid Flyer (16) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level138 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level138 |
 | Start State | Init |
 | FSM PathId | 7509 |
 | GameObject PathId | 611 |

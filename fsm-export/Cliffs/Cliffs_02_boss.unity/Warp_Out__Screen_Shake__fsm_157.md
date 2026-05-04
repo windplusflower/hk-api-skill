@@ -1,4 +1,4 @@
-﻿# Screen Shake
+# Screen Shake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Screen Shake |
 | GameObject Name | Warp Out |
 | GameObject Path | Warrior/Ghost Warrior Slug/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level232 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level232 |
 | Start State | Shake |
 | FSM PathId | 157 |
 | GameObject PathId | 25 |

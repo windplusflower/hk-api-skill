@@ -1,4 +1,4 @@
-﻿# Lurker Control
+# Lurker Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lurker Control |
 | GameObject Name | Pale Lurker |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Init |
 | FSM PathId | 11060 |
 | GameObject PathId | 139 |
@@ -63,13 +63,13 @@
 | --- | --- | --- |
 | Burst Line | [null] | NamedAssetPPtr: [null] |
 | Dig Dust | [null] | NamedAssetPPtr: [null] |
-| Pt Jump | Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
-| Self | Lurker Control/Tele Low (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele Low (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
-| Slash Ball | Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
-| Tele High | Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
-| Tele Low | Lurker Control/Tele Low (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele Low (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
+| Pt Jump | Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451)] |
+| Self | Lurker Control/Tele Low (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele Low (Hollow Knight/hollow_knight_Data\level451)] |
+| Slash Ball | Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451)] |
+| Tele High | Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele High (Hollow Knight/hollow_knight_Data\level451)] |
+| Tele Low | Lurker Control/Tele Low (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Tele Low (Hollow Knight/hollow_knight_Data\level451)] |
 | Tele Point | [null] | NamedAssetPPtr: [null] |
-| Throw Point | Lurker Control/Pale Lurker/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Pale Lurker/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
+| Throw Point | Lurker Control/Pale Lurker/Throw Point (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Pale Lurker/Throw Point (Hollow Knight/hollow_knight_Data\level451)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -376,9 +376,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -451,9 +451,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_wall_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets15.assets)] |   |   |
+| audioClip |   | [hornet_wall_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets15.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -630,9 +630,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -727,8 +727,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Lurker Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
-| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |   |   |
+| gameObject |   | [Global] [Lurker Barb (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
+| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (Hollow Knight/hollow_knight_Data\level451)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
 | spawnMax |   | 1 |   |   |
@@ -960,9 +960,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -1572,8 +1572,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Lurker Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
-| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |   |   |
+| gameObject |   | [Global] [Lurker Barb (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
+| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (Hollow Knight/hollow_knight_Data\level451)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
 | spawnMax |   | 1 |   |   |
@@ -1736,9 +1736,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1856,8 +1856,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Lurker Barb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets451.assets)] |   |   |
-| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |   |   |
+| gameObject |   | [Global] [Lurker Barb (Hollow Knight/hollow_knight_Data\sharedassets451.assets)] |   |   |
+| spawnPoint |   | [Lurker Control/Pale Lurker/Throw Point (Hollow Knight/hollow_knight_Data\level451)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 1 |   |   |
 | spawnMax |   | 1 |   |   |
@@ -1968,9 +1968,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| audioClip |   | [hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1984,7 +1984,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 6f |   |   |
 
 ##### 7. SetRecoilSpeed
@@ -2051,9 +2051,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [grub_burrow (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| audioClip |   | [grub_burrow (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -2329,9 +2329,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [brkn_wand_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [brkn_wand_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2421,9 +2421,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_needle_thow (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets133.assets)] |   |   |
+| audioClip |   | [hornet_needle_thow (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets133.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2520,7 +2520,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action Only (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action Only (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 ##### 2. AudioPlayRandom
@@ -2811,7 +2811,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action Only (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action Only (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 #### Transitions

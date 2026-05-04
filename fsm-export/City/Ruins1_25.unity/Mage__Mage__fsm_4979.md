@@ -1,4 +1,4 @@
-﻿# Mage
+# Mage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mage |
 | GameObject Name | Mage |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level104 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level104 |
 | Start State | Init |
 | FSM PathId | 4979 |
 | GameObject PathId | 342 |
@@ -81,20 +81,20 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Appear Flash | [null] | NamedAssetPPtr: [null] |
-| Fire Point | Mage/Fire Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Fire Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |
+| Fire Point | Mage/Fire Effect (Hollow Knight/hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Fire Effect (Hollow Knight/hollow_knight_Data\level104)] |
 | Firing Range Obj | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Next Orb | [null] | NamedAssetPPtr: [null] |
 | Orb 1 | [null] | NamedAssetPPtr: [null] |
 | Orb 2 | [null] | NamedAssetPPtr: [null] |
 | Orb 3 | [null] | NamedAssetPPtr: [null] |
-| Orb Spinner | Mage/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |
+| Orb Spinner | Mage/Orb Spinner (Hollow Knight/hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Orb Spinner (Hollow Knight/hollow_knight_Data\level104)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Tele Line | [null] | NamedAssetPPtr: [null] |
-| Tele Out Anim | Mage/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |
+| Tele Out Anim | Mage/Tele Out Anim (Hollow Knight/hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Tele Out Anim (Hollow Knight/hollow_knight_Data\level104)] |
 | Teleplane | [null] | NamedAssetPPtr: [null] |
-| White Flash | Mage/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |
-| Zero Point | Mage/Zero Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Zero Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |
+| White Flash | Mage/White Flash (Hollow Knight/hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/White Flash (Hollow Knight/hollow_knight_Data\level104)] |
+| Zero Point | Mage/Zero Point (Hollow Knight/hollow_knight_Data\level104) | NamedAssetPPtr: [Mage/Zero Point (Hollow Knight/hollow_knight_Data\level104)] |
 
 ## States
 
@@ -135,7 +135,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Orb Spinner" |   |   |
-| storeResult |   | [Mage/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] | Variable |   |
+| storeResult |   | [Mage/Orb Spinner (Hollow Knight/hollow_knight_Data\level104)] | Variable |   |
 
 ##### 4. GetOwner
 
@@ -333,7 +333,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_summon_projectiles (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_summon_projectiles (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimation
 
@@ -405,7 +405,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 2.4, -0.0005) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -431,7 +431,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Orb 3 |   |   |
-| parent |   | [Mage/Orb Spinner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level104)] |   |   |
+| parent |   | [Mage/Orb Spinner (Hollow Knight/hollow_knight_Data\level104)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -623,7 +623,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Global] [Mage Orb (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -638,7 +638,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1167,7 +1167,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 6. ActivateGameObject
 
@@ -1324,7 +1324,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Tele Line (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Tele Line (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Line Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

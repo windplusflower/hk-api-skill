@@ -1,4 +1,4 @@
-﻿# Box Open Dream
+# Box Open Dream
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Box Open Dream |
 | GameObject Name | DialogueManager |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9050 |
 | GameObject PathId | 913 |

@@ -1,4 +1,4 @@
-﻿# Mush Roller
+# Mush Roller
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mush Roller |
 | GameObject Name | Mushroom Roller (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level192 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level192 |
 | Start State | Init |
 | FSM PathId | 9167 |
 | GameObject PathId | 2207 |
@@ -189,7 +189,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -456,7 +456,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_roller_roll_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| oneShotClip |   | [mushroom_roller_roll_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -490,7 +490,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -523,7 +523,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_roller_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| oneShotClip |   | [mushroom_roller_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -556,7 +556,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Gas Projectile Quick (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| gameObject |   | [Global] [Gas Projectile Quick (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.3, 0) |   |   |
 | frequency |   | 0.05f |   |   |
@@ -880,7 +880,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_roller_roll_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| oneShotClip |   | [mushroom_roller_roll_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 
 ##### 3. AudioPlayerOneShot
 
@@ -889,7 +889,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -997,7 +997,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_roller_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| oneShotClip |   | [mushroom_roller_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 
 ##### 3. FloatMultiply
 
@@ -1143,7 +1143,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Gas Projectile Quick (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets171.assets)] |   |   |
+| gameObject |   | [Global] [Gas Projectile Quick (Hollow Knight/hollow_knight_Data\sharedassets171.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.3, 0) |   |   |
 | frequency |   | 0.05f |   |   |

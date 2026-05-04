@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | abyss particles windy |
 | GameObject Path | Pre_Double_Jump/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level345 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level345 |
 | Start State | Pause |
 | FSM PathId | 3458 |
 | GameObject PathId | 25 |

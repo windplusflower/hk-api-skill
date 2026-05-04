@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | Glow Response Object |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level326 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level326 |
 | Start State | Idle |
 | FSM PathId | 1210 |
 | GameObject PathId | 58 |

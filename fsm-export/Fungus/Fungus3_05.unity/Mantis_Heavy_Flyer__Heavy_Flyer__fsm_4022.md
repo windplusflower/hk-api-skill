@@ -1,4 +1,4 @@
-﻿# Heavy Flyer
+# Heavy Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Heavy Flyer |
 | GameObject Name | Mantis Heavy Flyer |
 | GameObject Path | Battle Scene/Wave 2/Dragonfly Summon (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level201 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level201 |
 | Start State | Init |
 | FSM PathId | 4022 |
 | GameObject PathId | 773 |
@@ -47,7 +47,7 @@
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shot | [null] | NamedAssetPPtr: [null] |
-| Shot Point | Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level201) | NamedAssetPPtr: [Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level201)] |
+| Shot Point | Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (Hollow Knight/hollow_knight_Data\level201) | NamedAssetPPtr: [Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (Hollow Knight/hollow_knight_Data\level201)] |
 
 ## States
 
@@ -397,7 +397,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -423,7 +423,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_heavy_flyer_projectile_throw (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_heavy_flyer_projectile_throw (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. FaceObject
 
@@ -469,8 +469,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mantis (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level201)] |   |   |
+| gameObject |   | [Global] [Shot Mantis (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 2/Dragonfly Summon (1)/Mantis Heavy Flyer/Shot Point (Hollow Knight/hollow_knight_Data\level201)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Shot | Variable |   |

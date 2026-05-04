@@ -1,4 +1,4 @@
-﻿# fade and deactivate
+# fade and deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and deactivate |
 | GameObject Name | White Flash |
 | GameObject Path | Colosseum Manager/Waves/Wave 47/Electric Mage New/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Idle |
 | FSM PathId | 15788 |
 | GameObject PathId | 3670 |

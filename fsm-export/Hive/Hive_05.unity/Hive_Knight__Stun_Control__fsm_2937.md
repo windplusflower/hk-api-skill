@@ -1,4 +1,4 @@
-﻿# Stun Control
+# Stun Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun Control |
 | GameObject Name | Hive Knight |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Init |
 | FSM PathId | 2937 |
 | GameObject PathId | 670 |

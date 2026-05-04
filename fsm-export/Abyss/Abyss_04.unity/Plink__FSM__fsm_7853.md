@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Plink |
 | GameObject Path | Wishing_Well_anims/Vessel Fragment/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level332 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level332 |
 | Start State | State 1 |
 | FSM PathId | 7853 |
 | GameObject PathId | 2152 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Inspect Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level185 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level185 |
 | Start State | Pause |
 | FSM PathId | 4142 |
 | GameObject PathId | 1068 |

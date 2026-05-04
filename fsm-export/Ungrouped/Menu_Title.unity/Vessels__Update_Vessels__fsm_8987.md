@@ -1,4 +1,4 @@
-﻿# Update Vessels
+# Update Vessels
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Update Vessels |
 | GameObject Name | Vessels |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 8987 |
 | GameObject PathId | 791 |

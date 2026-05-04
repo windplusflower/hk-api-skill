@@ -1,4 +1,4 @@
-﻿# Lazy Flyer
+# Lazy Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lazy Flyer |
 | GameObject Name | Lazy Flyer (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level154 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level154 |
 | Start State | Init |
 | FSM PathId | 3640 |
 | GameObject PathId | 409 |

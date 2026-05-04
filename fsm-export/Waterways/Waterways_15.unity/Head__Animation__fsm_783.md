@@ -1,4 +1,4 @@
-﻿# Animation
+# Animation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Animation |
 | GameObject Name | Head |
 | GameObject Path | Dung Defender_Awake/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level364 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level364 |
 | Start State | Init |
 | FSM PathId | 783 |
 | GameObject PathId | 17 |

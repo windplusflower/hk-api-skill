@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Colosseum Cage Large (2) |
 | GameObject Path | Colosseum Manager/Waves/Wave 33/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 11128 |
 | GameObject PathId | 3201 |
@@ -33,14 +33,14 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Anim | Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
+| Anim | Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (Hollow Knight/hollow_knight_Data\level33)] |
 | Colosseum Manager | [null] | NamedAssetPPtr: [null] |
 | Corpse Instance | [null] | NamedAssetPPtr: [null] |
-| Corpse to Instantiate | Giant Hopper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets) | NamedAssetPPtr: [Giant Hopper (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |
+| Corpse to Instantiate | Giant Hopper (Hollow Knight/hollow_knight_Data\sharedassets33.assets) | NamedAssetPPtr: [Giant Hopper (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |
 | Enemy | [null] | NamedAssetPPtr: [null] |
 | Enemy Type | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Strike | Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
+| Strike | Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Strike Nail (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Strike Nail (Hollow Knight/hollow_knight_Data\level33)] |
 
 ## States
 
@@ -81,7 +81,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Anim" |   |   |
-| storeResult |   | [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] | Variable |   |
+| storeResult |   | [Colosseum Manager/Waves/Wave 33/Colosseum Cage Large (2)/Anim (Hollow Knight/hollow_knight_Data\level33)] | Variable |   |
 
 ##### 4. SetSpriteRenderer
 
@@ -405,7 +405,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Enemy |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

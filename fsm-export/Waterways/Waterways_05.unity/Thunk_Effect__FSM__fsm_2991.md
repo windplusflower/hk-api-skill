@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Thunk Effect |
 | GameObject Path | Dung Corpse BG/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level354 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level354 |
 | Start State | Init |
 | FSM PathId | 2991 |
 | GameObject PathId | 764 |

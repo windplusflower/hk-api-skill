@@ -1,4 +1,4 @@
-﻿# Chain Move
+# Chain Move
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Chain Move |
 | GameObject Name | elev_chain (7) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level233 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level233 |
 | Start State | Init |
 | FSM PathId | 4913 |
 | GameObject PathId | 547 |

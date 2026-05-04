@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level362 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level362 |
 | Start State | Pause |
 | FSM PathId | 6595 |
 | GameObject PathId | 458 |
@@ -31,12 +31,12 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | CamLock | [null] | NamedAssetPPtr: [null] |
-| W1 FatSentry | Battle Scene/Wave 1/Ruins Sentry Fat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 1/Ruins Sentry Fat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
-| W1 Sentry | Battle Scene/Wave 1/Ruins Sentry 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 1/Ruins Sentry 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
-| W2 FlySentry1 | Battle Scene/Wave 2/Ruins Flying Sentry (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 2/Ruins Flying Sentry (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
-| W2 FlySentry2 | Battle Scene/Wave 2/Ruins Flying Sentry (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 2/Ruins Flying Sentry (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
-| W3 FatSentry | Battle Scene/Wave 3/Ruins Sentry Fat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 3/Ruins Sentry Fat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
-| W3 FlySentry | Battle Scene/Wave 3/Ruins Flying Sentry Javelin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 3/Ruins Flying Sentry Javelin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level362)] |
+| W1 FatSentry | Battle Scene/Wave 1/Ruins Sentry Fat (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 1/Ruins Sentry Fat (Hollow Knight/hollow_knight_Data\level362)] |
+| W1 Sentry | Battle Scene/Wave 1/Ruins Sentry 1 (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 1/Ruins Sentry 1 (Hollow Knight/hollow_knight_Data\level362)] |
+| W2 FlySentry1 | Battle Scene/Wave 2/Ruins Flying Sentry (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 2/Ruins Flying Sentry (Hollow Knight/hollow_knight_Data\level362)] |
+| W2 FlySentry2 | Battle Scene/Wave 2/Ruins Flying Sentry (1) (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 2/Ruins Flying Sentry (1) (Hollow Knight/hollow_knight_Data\level362)] |
+| W3 FatSentry | Battle Scene/Wave 3/Ruins Sentry Fat (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 3/Ruins Sentry Fat (Hollow Knight/hollow_knight_Data\level362)] |
+| W3 FlySentry | Battle Scene/Wave 3/Ruins Flying Sentry Javelin (Hollow Knight/hollow_knight_Data\level362) | NamedAssetPPtr: [Battle Scene/Wave 3/Ruins Flying Sentry Javelin (Hollow Knight/hollow_knight_Data\level362)] |
 | Wave 1 | [null] | NamedAssetPPtr: [null] |
 | Wave 2 | [null] | NamedAssetPPtr: [null] |
 | Wave 3 | [null] | NamedAssetPPtr: [null] |
@@ -201,7 +201,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 2. SendEventByName
@@ -574,7 +574,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 #### Transitions

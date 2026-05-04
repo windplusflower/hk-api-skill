@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | room_light parent |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Pause |
 | FSM PathId | 2742 |
 | GameObject PathId | 270 |

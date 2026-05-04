@@ -1,4 +1,4 @@
-﻿# Pigeon
+# Pigeon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pigeon |
 | GameObject Name | Pigeon |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level162 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level162 |
 | Start State | Set Size |
 | FSM PathId | 1012 |
 | GameObject PathId | 153 |
@@ -41,7 +41,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Waker | Pigeon/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level162) | NamedAssetPPtr: [Pigeon/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level162)] |
+| Waker | Pigeon/Waker (Hollow Knight/hollow_knight_Data\level162) | NamedAssetPPtr: [Pigeon/Waker (Hollow Knight/hollow_knight_Data\level162)] |
 
 ## States
 

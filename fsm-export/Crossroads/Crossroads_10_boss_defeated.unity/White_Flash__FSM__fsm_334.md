@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | White Flash |
 | GameObject Path | Prayer Room/FK Corpse/Dream Enter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level49 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level49 |
 | Start State | Init |
 | FSM PathId | 334 |
 | GameObject PathId | 15 |

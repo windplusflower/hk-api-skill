@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | white_butterflies_right |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level366 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level366 |
 | Start State | Pause |
 | FSM PathId | 6377 |
 | GameObject PathId | 201 |

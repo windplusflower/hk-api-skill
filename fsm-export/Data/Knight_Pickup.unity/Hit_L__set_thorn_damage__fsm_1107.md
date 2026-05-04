@@ -1,4 +1,4 @@
-﻿# set_thorn_damage
+# set_thorn_damage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | set_thorn_damage |
 | GameObject Name | Hit L |
 | GameObject Path | Knight/Charm Effects/Thorn Hit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Set |
 | FSM PathId | 1107 |
 | GameObject PathId | 120 |

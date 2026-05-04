@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Above Range |
 | GameObject Path | Lords Defeated Group/Mantis/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level193 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level193 |
 | Start State | Initialise |
 | FSM PathId | 2667 |
 | GameObject PathId | 41 |

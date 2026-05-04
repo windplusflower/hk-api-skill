@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Shot Point |
 | GameObject Path | Moss Knight C/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level159 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level159 |
 | Start State | Idle |
 | FSM PathId | 5656 |
 | GameObject PathId | 1442 |

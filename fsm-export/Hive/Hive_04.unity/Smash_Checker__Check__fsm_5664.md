@@ -1,4 +1,4 @@
-﻿# Check
+# Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check |
 | GameObject Name | Smash Checker |
 | GameObject Path | Hive Break Wall/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | Detect |
 | FSM PathId | 5664 |
 | GameObject PathId | 63 |

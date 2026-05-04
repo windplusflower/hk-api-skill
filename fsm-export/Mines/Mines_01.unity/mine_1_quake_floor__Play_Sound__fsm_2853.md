@@ -1,4 +1,4 @@
-﻿# Play Sound
+# Play Sound
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Sound |
 | GameObject Name | mine_1_quake_floor |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level248 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level248 |
 | Start State | No Sound |
 | FSM PathId | 2853 |
 | GameObject PathId | 193 |

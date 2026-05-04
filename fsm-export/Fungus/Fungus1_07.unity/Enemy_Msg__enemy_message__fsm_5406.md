@@ -1,4 +1,4 @@
-﻿# enemy_message
+# enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_message |
 | GameObject Name | Enemy Msg |
 | GameObject Path | Cave Spikes Invis (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level136 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level136 |
 | Start State | Idle |
 | FSM PathId | 5406 |
 | GameObject PathId | 804 |

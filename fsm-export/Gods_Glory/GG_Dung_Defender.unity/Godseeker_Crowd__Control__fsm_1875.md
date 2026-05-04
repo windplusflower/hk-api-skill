@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Godseeker Crowd |
 | GameObject Path | GG_Arena_Prefab/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | Init Target |
 | FSM PathId | 1875 |
 | GameObject PathId | 598 |

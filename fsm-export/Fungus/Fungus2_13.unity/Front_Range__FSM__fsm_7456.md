@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Front Range |
 | GameObject Path | Mantis (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level177 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level177 |
 | Start State | Initialise |
 | FSM PathId | 7456 |
 | GameObject PathId | 686 |

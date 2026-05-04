@@ -1,4 +1,4 @@
-﻿# Unset
+# Unset
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Unset |
 | GameObject Name | Unset Believer Plaques |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Pause |
 | FSM PathId | 9247 |
 | GameObject PathId | 1749 |

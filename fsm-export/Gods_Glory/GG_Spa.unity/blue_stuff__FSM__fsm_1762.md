@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | blue stuff |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level463 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level463 |
 | Start State | Get Bindings |
 | FSM PathId | 1762 |
 | GameObject PathId | 270 |

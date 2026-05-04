@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Hive Bench |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level384 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level384 |
 | Start State | Pause |
 | FSM PathId | 4204 |
 | GameObject PathId | 487 |
@@ -293,7 +293,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Effect Origin |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -331,7 +331,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Effect Origin |   |   |
 | position |   | Vector3(2, 0, 0) |   |   |
 | spawnMin |   | 8 |   |   |
@@ -352,7 +352,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Effect Origin |   |   |
 | position |   | Vector3(-2, 0, 0) |   |   |
 | spawnMin |   | 8 |   |   |
@@ -419,7 +419,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [honey_orb_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [honey_orb_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -481,7 +481,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [honey_pillar_final_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [honey_pillar_final_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -579,7 +579,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Effect Origin |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 100 |   |   |
@@ -873,9 +873,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Bench Fall |   |   |
-| audioClip |   | [hero_land_soft (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hero_land_soft (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.8f |   |   |
 | volume |   | 1f |   |   |

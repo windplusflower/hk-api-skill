@@ -1,4 +1,4 @@
-﻿# Shake Control
+# Shake Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shake Control |
 | GameObject Name | Shake Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level482 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level482 |
 | Start State | Wait |
 | FSM PathId | 2432 |
 | GameObject PathId | 208 |

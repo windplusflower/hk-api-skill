@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dream Dialogue |
 | GameObject Path | Divine NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level390 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level390 |
 | Start State | Pause |
 | FSM PathId | 309 |
 | GameObject PathId | 54 |

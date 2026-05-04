@@ -1,4 +1,4 @@
-﻿# Guard
+# Guard
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Guard |
 | GameObject Name | Royal Gaurd |
 | GameObject Path | Battle Scene/Wave 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level383 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level383 |
 | Start State | Init |
 | FSM PathId | 6900 |
 | GameObject PathId | 1831 |
@@ -52,8 +52,8 @@
 | --- | --- | --- |
 | Boomerang | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash 1 | Battle Scene/Wave 1/Royal Gaurd/Slash 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level383) | NamedAssetPPtr: [Battle Scene/Wave 1/Royal Gaurd/Slash 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level383)] |
-| Slash 2 | Battle Scene/Wave 1/Royal Gaurd/Slash 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level383) | NamedAssetPPtr: [Battle Scene/Wave 1/Royal Gaurd/Slash 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level383)] |
+| Slash 1 | Battle Scene/Wave 1/Royal Gaurd/Slash 1 (Hollow Knight/hollow_knight_Data\level383) | NamedAssetPPtr: [Battle Scene/Wave 1/Royal Gaurd/Slash 1 (Hollow Knight/hollow_knight_Data\level383)] |
+| Slash 2 | Battle Scene/Wave 1/Royal Gaurd/Slash 2 (Hollow Knight/hollow_knight_Data\level383) | NamedAssetPPtr: [Battle Scene/Wave 1/Royal Gaurd/Slash 2 (Hollow Knight/hollow_knight_Data\level383)] |
 
 ## States
 
@@ -121,9 +121,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.8f |   |   |
 | volume |   | 1f |   |   |
@@ -137,9 +137,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [kingsguard_intro_stomp (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets366.assets)] |   |   |
+| audioClip |   | [kingsguard_intro_stomp (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets366.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -155,7 +155,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 4. SetInvincible
 
@@ -393,7 +393,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -416,7 +416,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Kings Guard (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets366.assets)] |   |   |
+| gameObject |   | [Global] [Shot Kings Guard (Hollow Knight/hollow_knight_Data\sharedassets366.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -1.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -459,7 +459,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_heavy_flyer_projectile_throw (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mantis_heavy_flyer_projectile_throw (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 5. SetVelocity2d
 
@@ -509,7 +509,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hornet_needle_catch (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets133.assets)] |   |   |
+| oneShotClip |   | [hornet_needle_catch (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets133.assets)] |   |   |
 
 #### Transitions
 
@@ -534,7 +534,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -663,7 +663,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -959,7 +959,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_shield_raise (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [zombie_shield_raise (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -1008,7 +1008,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_land_hard (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets76.assets)] |   |   |
+| oneShotClip |   | [hero_land_hard (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets76.assets)] |   |   |
 
 ##### 2. SetVelocity2d
 
@@ -1030,9 +1030,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hero_land_hard (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets76.assets)] |   |   |
+| audioClip |   | [hero_land_hard (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets76.assets)] |   |   |
 | pitchMin |   | 1.2f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -1435,7 +1435,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 

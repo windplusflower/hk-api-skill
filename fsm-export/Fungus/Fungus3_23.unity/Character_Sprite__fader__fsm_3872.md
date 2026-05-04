@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Character Sprite |
 | GameObject Path | Cloth Ghost NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level208 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level208 |
 | Start State | Init |
 | FSM PathId | 3872 |
 | GameObject PathId | 140 |

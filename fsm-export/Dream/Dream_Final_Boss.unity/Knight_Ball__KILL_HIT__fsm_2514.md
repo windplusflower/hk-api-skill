@@ -1,4 +1,4 @@
-﻿# KILL HIT
+# KILL HIT
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | KILL HIT |
 | GameObject Name | Knight Ball |
 | GameObject Path | Boss Control/Radiance/Death/Knight Split/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | State 1 |
 | FSM PathId | 2514 |
 | GameObject PathId | 468 |

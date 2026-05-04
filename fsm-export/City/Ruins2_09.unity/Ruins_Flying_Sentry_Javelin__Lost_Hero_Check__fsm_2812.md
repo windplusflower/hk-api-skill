@@ -1,4 +1,4 @@
-﻿# Lost Hero Check
+# Lost Hero Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lost Hero Check |
 | GameObject Name | Ruins Flying Sentry Javelin |
 | GameObject Path | Battle Scene/Wave 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level121 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level121 |
 | Start State | Out |
 | FSM PathId | 2812 |
 | GameObject PathId | 176 |

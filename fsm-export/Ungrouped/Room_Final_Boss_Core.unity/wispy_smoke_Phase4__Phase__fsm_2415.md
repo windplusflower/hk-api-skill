@@ -1,4 +1,4 @@
-﻿# Phase 
+# Phase 
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Phase  |
 | GameObject Name | wispy smoke Phase4 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Idle |
 | FSM PathId | 2415 |
 | GameObject PathId | 348 |

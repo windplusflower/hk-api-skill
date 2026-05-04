@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Dormant Warriors |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2129 |
 | GameObject PathId | 365 |
@@ -25,7 +25,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Active Warriors | Battle Control/Active Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Active Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
+| Active Warriors | Battle Control/Active Warriors (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Active Warriors (Hollow Knight/hollow_knight_Data\level481)] |
 | Next Spawn | [null] | NamedAssetPPtr: [null] |
 | Zote To Spawn | [null] | NamedAssetPPtr: [null] |
 
@@ -151,7 +151,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Zote To Spawn |   |   |
-| parent |   | [Battle Control/Active Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Active Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 

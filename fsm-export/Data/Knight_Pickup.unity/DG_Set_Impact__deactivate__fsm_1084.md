@@ -1,4 +1,4 @@
-﻿# deactivate
+# deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate |
 | GameObject Name | DG Set Impact |
 | GameObject Path | Knight/Dream Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1084 |
 | GameObject PathId | 179 |

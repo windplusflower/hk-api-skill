@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Entry |
 | GameObject Path | Boss Scene Controller/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level436 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level436 |
 | Start State | Pause |
 | FSM PathId | 2237 |
 | GameObject PathId | 654 |

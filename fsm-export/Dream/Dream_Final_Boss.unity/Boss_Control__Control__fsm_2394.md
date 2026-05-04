@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Boss Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Wait for Hero Pos |
 | FSM PathId | 2394 |
 | GameObject PathId | 310 |
@@ -24,19 +24,19 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Boss Title | Boss Control/Boss Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Boss Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| CamLock Challenge | Boss Control/CamLocks/CamLock Challenge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/CamLocks/CamLock Challenge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
+| Boss Title | Boss Control/Boss Title (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Boss Title (Hollow Knight/hollow_knight_Data\level407)] |
+| CamLock Challenge | Boss Control/CamLocks/CamLock Challenge (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/CamLocks/CamLock Challenge (Hollow Knight/hollow_knight_Data\level407)] |
 | Challenge Prompt Radiant | [null] | NamedAssetPPtr: [null] |
-| Feather Particles | Boss Control/feather_particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/feather_particles (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Light Solid | Boss Control/Light Solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Light Solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Plat Sets | Boss Control/Plat Sets (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Plat Sets (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Plats Init | Boss Control/Plat Sets/Init (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Plat Sets/Init (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Radiance | Boss Control/Radiance (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Radiance Roar | Boss Control/Radiance Roar (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance Roar (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Roar Legs | Boss Control/Radiance Roar/Legs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance Roar/Legs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Sun | Boss Control/Sun (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Sun (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| White Fader | Boss Control/White Fader (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/White Fader (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| White Solid | Boss Control/white_solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/white_solid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
+| Feather Particles | Boss Control/feather_particles (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/feather_particles (Hollow Knight/hollow_knight_Data\level407)] |
+| Light Solid | Boss Control/Light Solid (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Light Solid (Hollow Knight/hollow_knight_Data\level407)] |
+| Plat Sets | Boss Control/Plat Sets (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Plat Sets (Hollow Knight/hollow_knight_Data\level407)] |
+| Plats Init | Boss Control/Plat Sets/Init (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Plat Sets/Init (Hollow Knight/hollow_knight_Data\level407)] |
+| Radiance | Boss Control/Radiance (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance (Hollow Knight/hollow_knight_Data\level407)] |
+| Radiance Roar | Boss Control/Radiance Roar (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance Roar (Hollow Knight/hollow_knight_Data\level407)] |
+| Roar Legs | Boss Control/Radiance Roar/Legs (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Radiance Roar/Legs (Hollow Knight/hollow_knight_Data\level407)] |
+| Sun | Boss Control/Sun (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/Sun (Hollow Knight/hollow_knight_Data\level407)] |
+| White Fader | Boss Control/White Fader (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/White Fader (Hollow Knight/hollow_knight_Data\level407)] |
+| White Solid | Boss Control/white_solid (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Boss Control/white_solid (Hollow Knight/hollow_knight_Data\level407)] |
 
 ## States
 
@@ -91,7 +91,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Boss Control/Plat Sets (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] | Variable |   |
+| gameObject |   | [Boss Control/Plat Sets (Hollow Knight/hollow_knight_Data\level407)] | Variable |   |
 | activate |   | true |   |   |
 
 ##### 2. GetFsmBool
@@ -189,7 +189,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [radiance_challenge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| oneShotClip |   | [radiance_challenge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 
 ##### 3. Wait
 
@@ -222,7 +222,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 #### Transitions
@@ -353,9 +353,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [misc_rumble_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets101.assets)] |   |   |
+| audioClip |   | [misc_rumble_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets101.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -396,9 +396,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [radiance_scream_long (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_scream_long (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -412,9 +412,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mage_lord_onscreen_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets102.assets)] |   |   |
+| audioClip |   | [mage_lord_onscreen_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets102.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -585,9 +585,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [radiance_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioClip |   | [radiance_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -716,9 +716,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [radiance_laser_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets261.assets)] |   |   |
+| audioClip |   | [radiance_laser_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets261.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -768,7 +768,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 4. ApplyMusicCue
@@ -778,7 +778,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [Radiance (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| musicCue |   | [Radiance (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -1094,7 +1094,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 3. ApplyMusicCue
@@ -1104,7 +1104,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [Radiance (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| musicCue |   | [Radiance (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 

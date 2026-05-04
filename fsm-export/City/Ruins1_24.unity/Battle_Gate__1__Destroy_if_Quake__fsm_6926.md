@@ -1,4 +1,4 @@
-﻿# Destroy if Quake
+# Destroy if Quake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy if Quake |
 | GameObject Name | Battle Gate (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level101 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level101 |
 | Start State | Pause |
 | FSM PathId | 6926 |
 | GameObject PathId | 15 |

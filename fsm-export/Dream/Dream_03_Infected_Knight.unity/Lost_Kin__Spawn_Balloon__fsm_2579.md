@@ -1,4 +1,4 @@
-﻿# Spawn Balloon
+# Spawn Balloon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn Balloon |
 | GameObject Name | Lost Kin |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Inert |
 | FSM PathId | 2579 |
 | GameObject PathId | 78 |
@@ -202,7 +202,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Parasite Balloon Spawner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets343.assets)] |   |   |
+| gameObject |   | [Global] [Parasite Balloon Spawner (Hollow Knight/hollow_knight_Data\sharedassets343.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Spawn Vector |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

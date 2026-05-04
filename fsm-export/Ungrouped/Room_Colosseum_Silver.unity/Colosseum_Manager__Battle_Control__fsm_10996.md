@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Colosseum Manager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 10996 |
 | GameObject PathId | 2182 |
@@ -3949,7 +3949,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | delay |   | 0f |   |   |
-| unlockBossScene |   | [Oblobbles Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| unlockBossScene |   | [Oblobbles Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. Wait
 

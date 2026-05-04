@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range New |
 | GameObject Path | Battle Scene/Mawlek Body/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level426 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level426 |
 | Start State | Init |
 | FSM PathId | 1697 |
 | GameObject PathId | 38 |

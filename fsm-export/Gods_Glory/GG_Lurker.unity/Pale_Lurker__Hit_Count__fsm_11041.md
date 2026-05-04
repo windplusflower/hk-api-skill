@@ -1,4 +1,4 @@
-﻿# Hit Count
+# Hit Count
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit Count |
 | GameObject Name | Pale Lurker |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Idle |
 | FSM PathId | 11041 |
 | GameObject PathId | 139 |

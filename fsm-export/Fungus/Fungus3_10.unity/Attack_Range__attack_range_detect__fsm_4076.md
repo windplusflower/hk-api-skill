@@ -1,4 +1,4 @@
-﻿# attack_range_detect
+# attack_range_detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | attack_range_detect |
 | GameObject Name | Attack Range |
 | GameObject Path | Battle Scene/Wave 2/Garden Zombie (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Initialise |
 | FSM PathId | 4076 |
 | GameObject PathId | 767 |

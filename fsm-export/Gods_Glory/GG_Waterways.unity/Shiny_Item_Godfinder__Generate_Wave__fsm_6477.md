@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item Godfinder |
 | GameObject Path | Godseeker Waterways/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Init |
 | FSM PathId | 6477 |
 | GameObject PathId | 1949 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Godseeker Waterways/Shiny Item Godfinder/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Shiny Item Godfinder/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level423)] |
+| Wave | Godseeker Waterways/Shiny Item Godfinder/White Wave (Hollow Knight/hollow_knight_Data\level423) | NamedAssetPPtr: [Godseeker Waterways/Shiny Item Godfinder/White Wave (Hollow Knight/hollow_knight_Data\level423)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# Anim Control
+# Anim Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim Control |
 | GameObject Name | Antique Dealer Outside |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Pause |
 | FSM PathId | 2600 |
 | GameObject PathId | 513 |

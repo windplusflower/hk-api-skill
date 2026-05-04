@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Ghost Warrior NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Pause |
 | FSM PathId | 3270 |
 | GameObject PathId | 272 |
@@ -55,21 +55,21 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Attack Pt | Ghost Warrior NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Idle Pt | Ghost Warrior NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Attack Pt | Ghost Warrior NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level161)] |
+| Idle Pt | Ghost Warrior NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level161)] |
 | Inspect Region | [null] | NamedAssetPPtr: [null] |
 | Player | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
-| Sprite | Ghost Warrior NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Vanish Burst Pt | Ghost Warrior NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Vanish Get Pt | Ghost Warrior NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Vanish Glow | Ghost Warrior NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Vanish Start Pt | Ghost Warrior NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Warp | Ghost Warrior NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Sprite | Ghost Warrior NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level161)] |
+| Vanish Burst Pt | Ghost Warrior NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level161)] |
+| Vanish Get Pt | Ghost Warrior NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level161)] |
+| Vanish Glow | Ghost Warrior NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level161)] |
+| Vanish Start Pt | Ghost Warrior NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level161)] |
+| Warp | Ghost Warrior NPC/Warp (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Warp (Hollow Knight/hollow_knight_Data\level161)] |
 | Warrior Folder | [null] | NamedAssetPPtr: [null] |
-| White Flash | Ghost Warrior NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| Wounded | Ghost Warrior NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| White Flash | Ghost Warrior NPC/White Flash (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/White Flash (Hollow Knight/hollow_knight_Data\level161)] |
+| Wounded | Ghost Warrior NPC/Wounded (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Ghost Warrior NPC/Wounded (Hollow Knight/hollow_knight_Data\level161)] |
 
 ## States
 
@@ -694,7 +694,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 16. BoolTest
@@ -1416,9 +1416,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_explode_clean (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_explode_clean (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -1461,7 +1461,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [dream_area_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [dream_area_effect (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1658,9 +1658,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_initial_white (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_initial_white (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1755,9 +1755,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1878,7 +1878,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Ghost Warrior NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |   |   |
+| gameObject |   | [Ghost Warrior NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level161)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -1930,9 +1930,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [ghost_absorb (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2141,9 +2141,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb_final_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_absorb_final_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2413,9 +2413,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_enter_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2544,7 +2544,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2611,7 +2611,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -2769,7 +2769,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 3. ApplyMusicCue
@@ -2779,7 +2779,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [DreamFight (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| musicCue |   | [DreamFight (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 

@@ -1,4 +1,4 @@
-﻿# Challenge Start
+# Challenge Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Challenge Start |
 | GameObject Name | Challenge Prompt |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Init 2 |
 | FSM PathId | 297 |
 | GameObject PathId | 26 |
@@ -182,7 +182,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1031,7 +1031,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 7. Wait
@@ -1068,7 +1068,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Hero |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_unsheath (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [hero_unsheath (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents

@@ -1,4 +1,4 @@
-﻿# CREntryPauseFSM
+# CREntryPauseFSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | CREntryPauseFSM |
 | GameObject Name | Crossroad Entry Pauser |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Init |
 | FSM PathId | 4791 |
 | GameObject PathId | 555 |

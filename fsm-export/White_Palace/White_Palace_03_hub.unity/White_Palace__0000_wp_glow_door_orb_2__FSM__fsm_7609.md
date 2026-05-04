@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | White_Palace__0000_wp_glow_door_orb_2 |
 | GameObject Path | White_Palace__0002_wp_glow_door (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Pause |
 | FSM PathId | 7609 |
 | GameObject PathId | 721 |

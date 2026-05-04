@@ -1,4 +1,4 @@
-﻿# Remove if plat fallen
+# Remove if plat fallen
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove if plat fallen |
 | GameObject Name | Mossman_Runner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level135 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level135 |
 | Start State | State 1 |
 | FSM PathId | 6458 |
 | GameObject PathId | 808 |

@@ -1,4 +1,4 @@
-﻿# Send Event
+# Send Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Event |
 | GameObject Name | Hitbox |
 | GameObject Path | Knight/Dream Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Idle |
 | FSM PathId | 1055 |
 | GameObject PathId | 61 |

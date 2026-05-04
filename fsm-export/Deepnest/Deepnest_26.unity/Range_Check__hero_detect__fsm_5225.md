@@ -1,4 +1,4 @@
-﻿# hero detect
+# hero detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero detect |
 | GameObject Name | Range Check |
 | GameObject Path | Ruins Lever/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level286 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level286 |
 | Start State | Init |
 | FSM PathId | 5225 |
 | GameObject PathId | 1441 |

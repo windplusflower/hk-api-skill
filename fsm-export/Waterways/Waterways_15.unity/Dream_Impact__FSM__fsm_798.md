@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dream Impact |
 | GameObject Path | Dung Defender_Sleep/Dream Enter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level364 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level364 |
 | Start State | Init |
 | FSM PathId | 798 |
 | GameObject PathId | 115 |

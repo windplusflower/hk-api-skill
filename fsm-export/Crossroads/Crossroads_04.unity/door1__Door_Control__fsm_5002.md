@@ -1,4 +1,4 @@
-﻿# Door Control
+# Door Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Door Control |
 | GameObject Name | door1 |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level40 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level40 |
 | Start State | Wait for enter scene |
 | FSM PathId | 5002 |
 | GameObject PathId | 457 |
@@ -53,9 +53,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Atmos Snapshot | [at Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [at Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
-| Enviro Snapshot | [en Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [en Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
-| Music Snapshot | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |
+| Atmos Snapshot | [at Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [at Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
+| Enviro Snapshot | [en Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [en Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
+| Music Snapshot | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] | NamedAssetPPtr: [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |
 
 ## States
 
@@ -164,7 +164,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | string Prompt Name = "Enter" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |
@@ -417,7 +417,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Atmos Snapshot = [at Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Atmos Snapshot = [at Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Audio Transition Time |   |   |
 
 ##### 2. TransitionToAudioSnapshot
@@ -427,7 +427,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | object Enviro Snapshot = [en Cave (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | object Enviro Snapshot = [en Cave (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Audio Transition Time |   |   |
 
 ##### 3. TransitionToAudioSnapshot
@@ -447,7 +447,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Off (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Off (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.3f |   |   |
 
 #### Transitions

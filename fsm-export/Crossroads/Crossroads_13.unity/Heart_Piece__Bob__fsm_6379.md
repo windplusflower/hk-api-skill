@@ -1,4 +1,4 @@
-﻿# Bob
+# Bob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bob |
 | GameObject Name | Heart Piece |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level52 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level52 |
 | Start State | State 1 |
 | FSM PathId | 6379 |
 | GameObject PathId | 360 |

@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Fountain Donation |
 | GameObject Path | Wishing_Well_anims/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level332 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level332 |
 | Start State | Init |
 | FSM PathId | 7873 |
 | GameObject PathId | 2491 |

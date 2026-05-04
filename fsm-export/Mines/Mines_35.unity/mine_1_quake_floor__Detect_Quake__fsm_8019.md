@@ -1,4 +1,4 @@
-﻿# Detect Quake
+# Detect Quake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Quake |
 | GameObject Name | mine_1_quake_floor |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Pause |
 | FSM PathId | 8019 |
 | GameObject PathId | 370 |
@@ -25,19 +25,19 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bot 1 | _Scenery/mine_1_quake_floor/Bot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Bot 2 | _Scenery/mine_1_quake_floor/Bot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Bot 3 | _Scenery/mine_1_quake_floor/Bot 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Cracks 1 | _Scenery/mine_1_quake_floor/Cracks 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Cracks 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Cracks 2 | _Scenery/mine_1_quake_floor/Cracks 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Cracks 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Dust Break 1 | _Scenery/mine_1_quake_floor/Dust Break 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Dust Break 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Dust Break 2 | _Scenery/mine_1_quake_floor/Dust Break 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Dust Break 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Effect Centre | _Scenery/mine_1_quake_floor/Effect Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Effect Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Floor 1 | _Scenery/mine_1_quake_floor/Loose Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Floor 2 | _Scenery/mine_1_quake_floor/Loose Floor 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
-| Floor 3 | _Scenery/mine_1_quake_floor/Loose Floor 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
+| Bot 1 | _Scenery/mine_1_quake_floor/Bot 1 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 1 (Hollow Knight/hollow_knight_Data\level274)] |
+| Bot 2 | _Scenery/mine_1_quake_floor/Bot 2 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 2 (Hollow Knight/hollow_knight_Data\level274)] |
+| Bot 3 | _Scenery/mine_1_quake_floor/Bot 3 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Bot 3 (Hollow Knight/hollow_knight_Data\level274)] |
+| Cracks 1 | _Scenery/mine_1_quake_floor/Cracks 1 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Cracks 1 (Hollow Knight/hollow_knight_Data\level274)] |
+| Cracks 2 | _Scenery/mine_1_quake_floor/Cracks 2 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Cracks 2 (Hollow Knight/hollow_knight_Data\level274)] |
+| Dust Break 1 | _Scenery/mine_1_quake_floor/Dust Break 1 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Dust Break 1 (Hollow Knight/hollow_knight_Data\level274)] |
+| Dust Break 2 | _Scenery/mine_1_quake_floor/Dust Break 2 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Dust Break 2 (Hollow Knight/hollow_knight_Data\level274)] |
+| Effect Centre | _Scenery/mine_1_quake_floor/Effect Centre (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Effect Centre (Hollow Knight/hollow_knight_Data\level274)] |
+| Floor 1 | _Scenery/mine_1_quake_floor/Loose Floor (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor (Hollow Knight/hollow_knight_Data\level274)] |
+| Floor 2 | _Scenery/mine_1_quake_floor/Loose Floor 1 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor 1 (Hollow Knight/hollow_knight_Data\level274)] |
+| Floor 3 | _Scenery/mine_1_quake_floor/Loose Floor 2 (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Loose Floor 2 (Hollow Knight/hollow_knight_Data\level274)] |
 | Hero Obj | [null] | NamedAssetPPtr: [null] |
-| Quaked Floor | _Scenery/mine_1_quake_floor/Quaked Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Quaked Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |
+| Quaked Floor | _Scenery/mine_1_quake_floor/Quaked Floor (Hollow Knight/hollow_knight_Data\level274) | NamedAssetPPtr: [_Scenery/mine_1_quake_floor/Quaked Floor (Hollow Knight/hollow_knight_Data\level274)] |
 
 ## States
 
@@ -150,9 +150,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [breakable_wall_hit_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [breakable_wall_hit_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -331,9 +331,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [breakable_wall_hit_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [breakable_wall_hit_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -347,9 +347,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -376,7 +376,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -387,7 +387,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor 1 (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -398,7 +398,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Loose Floor 2 (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -409,7 +409,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 1 (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -420,7 +420,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 2 (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -431,7 +431,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [_Scenery/mine_1_quake_floor/Bot 3 (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -464,8 +464,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [_Scenery/mine_1_quake_floor/Effect Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [Global] [Particle Rock Small (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [_Scenery/mine_1_quake_floor/Effect Centre (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 70 |   |   |
 | spawnMax |   | 70 |   |   |
@@ -485,8 +485,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Large (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [_Scenery/mine_1_quake_floor/Effect Centre (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level274)] |   |   |
+| gameObject |   | [Global] [Particle Rock Large (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [_Scenery/mine_1_quake_floor/Effect Centre (Hollow Knight/hollow_knight_Data\level274)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 40 |   |   |
 | spawnMax |   | 40 |   |   |

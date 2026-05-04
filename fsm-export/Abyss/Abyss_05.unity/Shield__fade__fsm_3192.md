@@ -1,4 +1,4 @@
-﻿# fade
+# fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade |
 | GameObject Name | Shield |
 | GameObject Path | Dusk Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level333 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level333 |
 | Start State | Init |
 | FSM PathId | 3192 |
 | GameObject PathId | 79 |

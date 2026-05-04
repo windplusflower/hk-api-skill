@@ -1,4 +1,4 @@
-﻿# Instantiate Game Map
+# Instantiate Game Map
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Instantiate Game Map |
 | GameObject Name | HudCamera |
 | GameObject Path | _GameCameras/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause |
 | FSM PathId | 9086 |
 | GameObject PathId | 834 |
@@ -32,16 +32,16 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Action | _GameCameras/HudCamera/Inventory/Map Key/Action (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Action Text | _GameCameras/HudCamera/Inventory/Map Key/Action/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Action | _GameCameras/HudCamera/Inventory/Map Key/Action (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action (Hollow Knight/hollow_knight_Data\level1)] |
+| Action Text | _GameCameras/HudCamera/Inventory/Map Key/Action/Text (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action/Text (Hollow Knight/hollow_knight_Data\level1)] |
 | Arrow D | [null] | NamedAssetPPtr: [null] |
 | Arrow L | [null] | NamedAssetPPtr: [null] |
 | Arrow R | [null] | NamedAssetPPtr: [null] |
 | Arrow U | [null] | NamedAssetPPtr: [null] |
-| Backboard Key | _GameCameras/HudCamera/Inventory/Map Key/Backboard Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Backboard Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Backboard Key | _GameCameras/HudCamera/Inventory/Map Key/Backboard Key (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Backboard Key (Hollow Knight/hollow_knight_Data\level1)] |
 | HUD Map | [null] | NamedAssetPPtr: [null] |
 | Inventory | [null] | NamedAssetPPtr: [null] |
-| Keys | _GameCameras/HudCamera/Inventory/Map Key/Keys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Keys | _GameCameras/HudCamera/Inventory/Map Key/Keys (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys (Hollow Knight/hollow_knight_Data\level1)] |
 | Map | [null] | NamedAssetPPtr: [null] |
 | Pan Arrows | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -137,7 +137,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Game_Map (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Game_Map (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 38.1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

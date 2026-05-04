@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Base Glow |
 | GameObject Path | Ghost Infected Knight NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level343 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level343 |
 | Start State | Init |
 | FSM PathId | 9926 |
 | GameObject PathId | 2390 |

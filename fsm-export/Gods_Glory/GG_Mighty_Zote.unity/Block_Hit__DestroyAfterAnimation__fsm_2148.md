@@ -1,4 +1,4 @@
-﻿# DestroyAfterAnimation
+# DestroyAfterAnimation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | DestroyAfterAnimation |
 | GameObject Name | Block Hit |
 | GameObject Path | Battle Control/First Zote/Zote Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2148 |
 | GameObject PathId | 457 |

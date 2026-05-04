@@ -1,4 +1,4 @@
-﻿# Spawn Orbit Shield
+# Spawn Orbit Shield
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn Orbit Shield |
 | GameObject Name | Charm Effects |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1082 |
 | GameObject PathId | 147 |
@@ -136,7 +136,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Orbit Shield (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Orbit Shield (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

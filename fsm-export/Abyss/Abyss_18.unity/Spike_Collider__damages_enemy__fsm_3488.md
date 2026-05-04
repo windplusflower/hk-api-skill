@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Spike Collider |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level342 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level342 |
 | Start State | Idle |
 | FSM PathId | 3488 |
 | GameObject PathId | 491 |

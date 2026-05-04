@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Beam Glow |
 | GameObject Path | Crystallised Lazer Bug (6)/Beam/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level263 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level263 |
 | Start State | Init |
 | FSM PathId | 9638 |
 | GameObject PathId | 141 |

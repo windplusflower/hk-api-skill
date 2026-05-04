@@ -1,4 +1,4 @@
-﻿# Hit effect
+# Hit effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit effect |
 | GameObject Name | Shield |
 | GameObject Path | Dreamer Hegemol/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Init |
 | FSM PathId | 12539 |
 | GameObject PathId | 1667 |

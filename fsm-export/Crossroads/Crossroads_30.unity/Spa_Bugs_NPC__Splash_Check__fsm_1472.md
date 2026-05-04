@@ -1,4 +1,4 @@
-﻿# Splash Check
+# Splash Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Splash Check |
 | GameObject Name | Spa Bugs NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level62 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level62 |
 | Start State | Idle |
 | FSM PathId | 1472 |
 | GameObject PathId | 221 |

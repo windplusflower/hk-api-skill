@@ -1,4 +1,4 @@
-﻿# Up and Down
+# Up and Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Up and Down |
 | GameObject Name | Next Dot |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/Equipped Charms/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 8933 |
 | GameObject PathId | 918 |

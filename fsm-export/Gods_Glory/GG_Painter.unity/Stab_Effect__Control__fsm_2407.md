@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Stab Effect |
 | GameObject Path | Battle Scene/Sheo Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level457 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level457 |
 | Start State | Anim1 |
 | FSM PathId | 2407 |
 | GameObject PathId | 585 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hit1 | Battle Scene/Sheo Boss/Stab Effect/Hit1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level457) | NamedAssetPPtr: [Battle Scene/Sheo Boss/Stab Effect/Hit1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level457)] |
-| Hit2 | Battle Scene/Sheo Boss/Stab Effect/Hit2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level457) | NamedAssetPPtr: [Battle Scene/Sheo Boss/Stab Effect/Hit2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level457)] |
+| Hit1 | Battle Scene/Sheo Boss/Stab Effect/Hit1 (Hollow Knight/hollow_knight_Data\level457) | NamedAssetPPtr: [Battle Scene/Sheo Boss/Stab Effect/Hit1 (Hollow Knight/hollow_knight_Data\level457)] |
+| Hit2 | Battle Scene/Sheo Boss/Stab Effect/Hit2 (Hollow Knight/hollow_knight_Data\level457) | NamedAssetPPtr: [Battle Scene/Sheo Boss/Stab Effect/Hit2 (Hollow Knight/hollow_knight_Data\level457)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# Creep
+# Creep
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Creep |
 | GameObject Name | Spider Royal Short |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Idle |
 | FSM PathId | 12818 |
 | GameObject PathId | 3283 |

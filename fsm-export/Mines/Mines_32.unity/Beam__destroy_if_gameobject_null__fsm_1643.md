@@ -1,4 +1,4 @@
-﻿# destroy_if_gameobject_null
+# destroy_if_gameobject_null
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_if_gameobject_null |
 | GameObject Name | Beam |
 | GameObject Path | Battle Scene/Zombie Beam Miner Rematch/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level271 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level271 |
 | Start State | Check |
 | FSM PathId | 1643 |
 | GameObject PathId | 149 |

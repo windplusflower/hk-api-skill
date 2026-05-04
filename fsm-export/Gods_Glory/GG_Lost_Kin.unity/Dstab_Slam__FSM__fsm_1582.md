@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dstab Slam |
 | GameObject Path | Lost Kin/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level450 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level450 |
 | Start State | Init |
 | FSM PathId | 1582 |
 | GameObject PathId | 73 |

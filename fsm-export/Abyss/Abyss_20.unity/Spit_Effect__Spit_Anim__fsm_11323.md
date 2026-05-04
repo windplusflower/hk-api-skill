@@ -1,4 +1,4 @@
-﻿# Spit Anim
+# Spit Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit Anim |
 | GameObject Name | Spit Effect |
 | GameObject Path | Mawlek Turret/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level344 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level344 |
 | Start State | Idle |
 | FSM PathId | 11323 |
 | GameObject PathId | 2711 |

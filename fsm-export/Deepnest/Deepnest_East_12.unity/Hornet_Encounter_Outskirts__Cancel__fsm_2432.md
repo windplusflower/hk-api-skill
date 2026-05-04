@@ -1,4 +1,4 @@
-﻿# Cancel
+# Cancel
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cancel |
 | GameObject Name | Hornet Encounter Outskirts |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level316 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level316 |
 | Start State | Idle |
 | FSM PathId | 2432 |
 | GameObject PathId | 269 |

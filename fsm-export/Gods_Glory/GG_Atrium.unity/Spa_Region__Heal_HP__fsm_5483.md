@@ -1,4 +1,4 @@
-﻿# Heal HP
+# Heal HP
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Heal HP |
 | GameObject Name | Spa Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Idle |
 | FSM PathId | 5483 |
 | GameObject PathId | 300 |
@@ -140,7 +140,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spa Heal HP Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| gameObject |   | [Global] [Spa Heal HP Burst (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 0, -0.1) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

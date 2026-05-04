@@ -1,4 +1,4 @@
-﻿# Crossroads Sign Control
+# Crossroads Sign Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crossroads Sign Control |
 | GameObject Name | Crossroads Sign Post |
 | GameObject Path | _Scenery/sign_post_03/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Pause |
 | FSM PathId | 4777 |
 | GameObject PathId | 116 |

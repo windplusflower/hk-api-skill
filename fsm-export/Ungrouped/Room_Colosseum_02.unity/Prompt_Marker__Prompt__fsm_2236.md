@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Tiso Col NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level31 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level31 |
 | Start State | Init |
 | FSM PathId | 2236 |
 | GameObject PathId | 652 |

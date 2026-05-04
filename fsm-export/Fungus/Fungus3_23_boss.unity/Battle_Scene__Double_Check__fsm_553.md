@@ -1,4 +1,4 @@
-﻿# Double Check
+# Double Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Double Check |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Pause |
 | FSM PathId | 553 |
 | GameObject PathId | 91 |

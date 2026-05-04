@@ -1,4 +1,4 @@
-﻿# Mage Knight
+# Mage Knight
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mage Knight |
 | GameObject Name | Mage Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Pause |
 | FSM PathId | 5766 |
 | GameObject PathId | 214 |
@@ -76,14 +76,14 @@
 | Knight | [null] | NamedAssetPPtr: [null] |
 | No Shoot Range Obj | [null] | NamedAssetPPtr: [null] |
 | Orb | [null] | NamedAssetPPtr: [null] |
-| Orb Origin | Mage Knight/Orb Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Orb Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Orb Origin | Mage Knight/Orb Origin (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Orb Origin (Hollow Knight/hollow_knight_Data\level109)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash | Mage Knight/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
-| Slash Stomp | Mage Knight/Slash Stomp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Slash Stomp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Slash | Mage Knight/Slash (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Slash (Hollow Knight/hollow_knight_Data\level109)] |
+| Slash Stomp | Mage Knight/Slash Stomp (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Slash Stomp (Hollow Knight/hollow_knight_Data\level109)] |
 | Stomp Range Obj | [null] | NamedAssetPPtr: [null] |
 | Tele Object | [null] | NamedAssetPPtr: [null] |
-| Tele Out | Mage Knight/Tele Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Tele Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
-| Tele Out Evade | Mage Knight/Tele Out Evade (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Tele Out Evade (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Tele Out | Mage Knight/Tele Out (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Tele Out (Hollow Knight/hollow_knight_Data\level109)] |
+| Tele Out Evade | Mage Knight/Tele Out Evade (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Mage Knight/Tele Out Evade (Hollow Knight/hollow_knight_Data\level109)] |
 
 ## States
 
@@ -364,7 +364,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_magic_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_magic_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -495,7 +495,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_projectile_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_projectile_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents
 
@@ -527,8 +527,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mage Orb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
-| spawnPoint |   | [Mage Knight/Orb Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |   |   |
+| gameObject |   | [Global] [Mage Orb (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
+| spawnPoint |   | [Mage Knight/Orb Origin (Hollow Knight/hollow_knight_Data\level109)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Orb | Variable |   |
@@ -793,7 +793,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. SetVelocity2d
 
@@ -886,7 +886,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. DecelerateV2
 
@@ -1199,7 +1199,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_teleport (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| oneShotClip |   | [mage_knight_teleport (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 
 ##### 2. GetPosition
 
@@ -1377,7 +1377,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Tele Object | Variable |   |
-| gameObject |   | [Mage Knight/Tele Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |   |   |
+| gameObject |   | [Mage Knight/Tele Out (Hollow Knight/hollow_knight_Data\level109)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SendRandomEvent
@@ -1523,7 +1523,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_teleport (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| oneShotClip |   | [mage_knight_teleport (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 
 ##### 2. GetPosition
 
@@ -1745,7 +1745,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_knight_downslash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_knight_downslash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -2158,7 +2158,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Tele Object | Variable |   |
-| gameObject |   | [Mage Knight/Tele Out Evade (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |   |   |
+| gameObject |   | [Mage Knight/Tele Out Evade (Hollow Knight/hollow_knight_Data\level109)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
@@ -2450,9 +2450,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_explode_clean (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_explode_clean (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

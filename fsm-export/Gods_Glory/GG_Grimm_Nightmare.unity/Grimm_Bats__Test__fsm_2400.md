@@ -1,4 +1,4 @@
-﻿# Test
+# Test
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Test |
 | GameObject Name | Grimm Bats |
 | GameObject Path | Grimm Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level444 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level444 |
 | Start State | State 1 |
 | FSM PathId | 2400 |
 | GameObject PathId | 208 |

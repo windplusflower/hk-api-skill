@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Lurker Barb |
 | GameObject Path | Lurker Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Init |
 | FSM PathId | 11042 |
 | GameObject PathId | 3815 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Burst | Lurker Control/Lurker Barb/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Lurker Barb/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
-| Damager | Lurker Control/Lurker Barb/Damager (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Lurker Barb/Damager (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
+| Burst | Lurker Control/Lurker Barb/Burst (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Lurker Barb/Burst (Hollow Knight/hollow_knight_Data\level451)] |
+| Damager | Lurker Control/Lurker Barb/Damager (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Lurker Barb/Damager (Hollow Knight/hollow_knight_Data\level451)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -82,7 +82,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -185,9 +185,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ruin_flying_javelin_sentry_projectile_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| audioClip |   | [ruin_flying_javelin_sentry_projectile_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -299,7 +299,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -355,7 +355,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

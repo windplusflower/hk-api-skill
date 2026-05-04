@@ -1,4 +1,4 @@
-﻿# Detect Hit
+# Detect Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hit |
 | GameObject Name | Wake Range |
 | GameObject Path | Battle Scene/Moss Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level149 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level149 |
 | Start State | Init |
 | FSM PathId | 7981 |
 | GameObject PathId | 452 |

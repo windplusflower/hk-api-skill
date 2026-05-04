@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Zote Fluke |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2211 |
 | GameObject PathId | 492 |
@@ -33,7 +33,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Parent | Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
+| Parent | Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481)] |
 | Pt Antic | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -255,9 +255,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [worm (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets51.assets)] |   |   |
+| audioClip |   | [worm (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets51.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -416,7 +416,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob Nosk (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| gameObject |   | [Global] [Vomit Glob Nosk (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.001) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -530,7 +530,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Zote Crew Death (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets481.assets)] |   |   |
+| gameObject |   | [Global] [Zote Crew Death (Hollow Knight/hollow_knight_Data\sharedassets481.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

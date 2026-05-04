@@ -1,4 +1,4 @@
-﻿# blue_vine_blob
+# blue_vine_blob
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | blue_vine_blob |
 | GameObject Name | Blue Vine Blob 12 |
 | GameObject Path | Blue Plinth/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | Init |
 | FSM PathId | 10938 |
 | GameObject PathId | 1457 |
@@ -168,7 +168,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Wave |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

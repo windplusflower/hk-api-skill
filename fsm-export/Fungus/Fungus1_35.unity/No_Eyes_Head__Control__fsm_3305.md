@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | No Eyes Head |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3305 |
 | GameObject PathId | 709 |
@@ -26,8 +26,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Idle Pt | No Eyes Head/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [No Eyes Head/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
-| White Light | No Eyes Head/white_light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [No Eyes Head/white_light (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Idle Pt | No Eyes Head/Idle Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [No Eyes Head/Idle Pt (Hollow Knight/hollow_knight_Data\level161)] |
+| White Light | No Eyes Head/white_light (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [No Eyes Head/white_light (Hollow Knight/hollow_knight_Data\level161)] |
 
 ## States
 

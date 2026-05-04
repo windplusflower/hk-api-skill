@@ -1,4 +1,4 @@
-﻿# Play Control
+# Play Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Control |
 | GameObject Name | Shake Dust Long (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level309 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level309 |
 | Start State | Idle |
 | FSM PathId | 8036 |
 | GameObject PathId | 831 |

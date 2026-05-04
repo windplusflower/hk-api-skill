@@ -1,4 +1,4 @@
-﻿# Plant Turret
+# Plant Turret
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Plant Turret |
 | GameObject Name | Plant Turret (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level156 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level156 |
 | Start State | Initialise |
 | FSM PathId | 4495 |
 | GameObject PathId | 616 |
@@ -68,14 +68,14 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Burst Grass | Plant Turret (2)/Burst Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Burst Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Cover | Plant Turret (2)/Cover (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Cover (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Burst Grass | Plant Turret (2)/Burst Grass (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Burst Grass (Hollow Knight/hollow_knight_Data\level156)] |
+| Cover | Plant Turret (2)/Cover (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Cover (Hollow Knight/hollow_knight_Data\level156)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shot Instance | [null] | NamedAssetPPtr: [null] |
-| Shot Spawn | Plant Turret (2)/Shot Spawn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Shot Spawn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Spit Effect | Plant Turret (2)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Under | Plant Turret (2)/Under (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Under (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Shot Spawn | Plant Turret (2)/Shot Spawn (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Shot Spawn (Hollow Knight/hollow_knight_Data\level156)] |
+| Spit Effect | Plant Turret (2)/Spit Effect (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Spit Effect (Hollow Knight/hollow_knight_Data\level156)] |
+| Under | Plant Turret (2)/Under (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Plant Turret (2)/Under (Hollow Knight/hollow_knight_Data\level156)] |
 
 ## States
 
@@ -597,7 +597,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [plant_turret_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets140.assets)] |   |   |
+| oneShotClip |   | [plant_turret_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets140.assets)] |   |   |
 
 ##### 2. PlayParticleEmitter
 
@@ -1429,7 +1429,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [plant_turret_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets140.assets)] |   |   |
+| oneShotClip |   | [plant_turret_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets140.assets)] |   |   |
 
 ##### 2. LookAt2dGameObjectSmooth
 
@@ -1463,8 +1463,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spike Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets140.assets)] |   |   |
-| spawnPoint |   | [Plant Turret (2)/Shot Spawn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |   |   |
+| gameObject |   | [Global] [Spike Ball (Hollow Knight/hollow_knight_Data\sharedassets140.assets)] |   |   |
+| spawnPoint |   | [Plant Turret (2)/Shot Spawn (Hollow Knight/hollow_knight_Data\level156)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Shot Instance | Variable |   |

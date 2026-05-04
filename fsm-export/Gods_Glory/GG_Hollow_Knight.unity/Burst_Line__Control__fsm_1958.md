@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Burst Line |
 | GameObject Path | Battle Scene/HK_Prime_Burst_Chunks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Burst |
 | FSM PathId | 1958 |
 | GameObject PathId | 390 |

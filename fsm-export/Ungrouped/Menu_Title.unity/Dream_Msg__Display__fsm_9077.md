@@ -1,4 +1,4 @@
-﻿# Display
+# Display
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Display |
 | GameObject Name | Dream Msg |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9077 |
 | GameObject PathId | 1062 |
@@ -521,7 +521,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Backboard Sprite Obj |   |   |
-| sprite |   | [Dream_Nail_Dialogue_Backboard_White (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Dream_Nail_Dialogue_Backboard_White (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetBoolValue
 

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Quirrel Station NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level165 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level165 |
 | Start State | Init |
 | FSM PathId | 5759 |
 | GameObject PathId | 1785 |

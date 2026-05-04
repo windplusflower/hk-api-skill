@@ -1,4 +1,4 @@
-﻿# Follow Hero
+# Follow Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow Hero |
 | GameObject Name | Spa Steam |
 | GameObject Path | Spa Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level463 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level463 |
 | Start State | State 1 |
 | FSM PathId | 1813 |
 | GameObject PathId | 566 |

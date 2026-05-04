@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Audio Player Blizzard |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level324 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level324 |
 | Start State | Pause |
 | FSM PathId | 3277 |
 | GameObject PathId | 626 |

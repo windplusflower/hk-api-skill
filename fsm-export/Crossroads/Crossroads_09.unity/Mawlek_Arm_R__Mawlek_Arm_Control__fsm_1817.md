@@ -1,4 +1,4 @@
-﻿# Mawlek Arm Control
+# Mawlek Arm Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mawlek Arm Control |
 | GameObject Name | Mawlek Arm R |
 | GameObject Path | _Enemies/Mawlek Body/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level45 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level45 |
 | Start State | Pause |
 | FSM PathId | 1817 |
 | GameObject PathId | 166 |
@@ -54,7 +54,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level45)]}.enabled |   |   |
+| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (Hollow Knight/hollow_knight_Data\level45)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. GetChild
@@ -162,9 +162,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -225,9 +225,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_whip (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_whip (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -252,7 +252,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level45)]}.enabled |   |   |
+| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (Hollow Knight/hollow_knight_Data\level45)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. Tk2dWatchAnimationEvents
@@ -298,7 +298,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level45)]}.enabled |   |   |
+| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (Hollow Knight/hollow_knight_Data\level45)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. Tk2dWatchAnimationEvents
@@ -344,7 +344,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level45)]}.enabled |   |   |
+| targetProperty |   | Property {[Mawlek Arm R (PolygonCollider2D) (Hollow Knight/hollow_knight_Data\level45)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SetBoolValue

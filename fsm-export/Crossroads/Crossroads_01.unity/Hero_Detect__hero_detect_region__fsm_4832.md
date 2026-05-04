@@ -1,4 +1,4 @@
-﻿# hero_detect_region
+# hero_detect_region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect_region |
 | GameObject Name | Hero Detect |
 | GameObject Path | _Scenery/Mender Bug/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Init |
 | FSM PathId | 4832 |
 | GameObject PathId | 870 |

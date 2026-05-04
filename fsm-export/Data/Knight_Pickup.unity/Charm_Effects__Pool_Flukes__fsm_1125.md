@@ -1,4 +1,4 @@
-﻿# Pool Flukes
+# Pool Flukes
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pool Flukes |
 | GameObject Name | Charm Effects |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | State 1 |
 | FSM PathId | 1125 |
 | GameObject PathId | 147 |
@@ -92,7 +92,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Spell Fluke Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Spell Fluke Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | amount |   | 64 |   |   |
 | useExisting |   | true |   |   |
 
@@ -115,7 +115,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Spell Fluke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Spell Fluke (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | amount |   | 36 |   |   |
 | useExisting |   | true |   |   |
 

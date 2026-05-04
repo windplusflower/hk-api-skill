@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | Dreamer Appear orb |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level402 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level402 |
 | Start State | Init |
 | FSM PathId | 451 |
 | GameObject PathId | 34 |

@@ -1,4 +1,4 @@
-﻿# No Climb
+# No Climb
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | No Climb |
 | GameObject Name | No Climb Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level291 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level291 |
 | Start State | Idle |
 | FSM PathId | 6711 |
 | GameObject PathId | 1233 |

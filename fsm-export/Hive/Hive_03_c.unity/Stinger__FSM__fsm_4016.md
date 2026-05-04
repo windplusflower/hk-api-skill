@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Stinger |
 | GameObject Path | Bee Stinger (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level387 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level387 |
 | Start State | Init |
 | FSM PathId | 4016 |
 | GameObject PathId | 94 |

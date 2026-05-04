@@ -1,4 +1,4 @@
-﻿# Damage Flash
+# Damage Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Flash |
 | GameObject Name | Dummy |
 | GameObject Path | _Enemies/Mawlek Body/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level45 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level45 |
 | Start State | Idle |
 | FSM PathId | 1951 |
 | GameObject PathId | 163 |

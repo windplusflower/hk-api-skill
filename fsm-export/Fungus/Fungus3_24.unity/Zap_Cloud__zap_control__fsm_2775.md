@@ -1,4 +1,4 @@
-﻿# zap control
+# zap control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | zap control |
 | GameObject Name | Zap Cloud |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level210 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level210 |
 | Start State | Pause |
 | FSM PathId | 2775 |
 | GameObject PathId | 833 |
@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Zaps | Zap Cloud/Zaps (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level210) | NamedAssetPPtr: [Zap Cloud/Zaps (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level210)] |
+| Zaps | Zap Cloud/Zaps (Hollow Knight/hollow_knight_Data\level210) | NamedAssetPPtr: [Zap Cloud/Zaps (Hollow Knight/hollow_knight_Data\level210)] |
 
 ## States
 
@@ -215,7 +215,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zap_bug_pt1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [zap_bug_pt1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -280,7 +280,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zap_bug_pt2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [zap_bug_pt2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 

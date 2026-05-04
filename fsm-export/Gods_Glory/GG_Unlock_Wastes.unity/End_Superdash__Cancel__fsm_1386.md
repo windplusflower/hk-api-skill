@@ -1,4 +1,4 @@
-﻿# Cancel
+# Cancel
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cancel |
 | GameObject Name | End Superdash |
 | GameObject Path | World Edge v2 (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level500 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level500 |
 | Start State | Idle |
 | FSM PathId | 1386 |
 | GameObject PathId | 466 |

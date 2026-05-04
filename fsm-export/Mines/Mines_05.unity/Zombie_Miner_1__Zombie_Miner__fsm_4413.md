@@ -1,4 +1,4 @@
-﻿# Zombie Miner
+# Zombie Miner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Miner |
 | GameObject Name | Zombie Miner 1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level252 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level252 |
 | Start State | Init |
 | FSM PathId | 4413 |
 | GameObject PathId | 954 |
@@ -58,10 +58,10 @@
 | Pickaxe | [null] | NamedAssetPPtr: [null] |
 | Roof Check Obj | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash | Zombie Miner 1/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252)] |
+| Slash | Zombie Miner 1/Slash (Hollow Knight/hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/Slash (Hollow Knight/hollow_knight_Data\level252)] |
 | Slash Range Obj | [null] | NamedAssetPPtr: [null] |
-| SpawnPoint | Zombie Miner 1/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252)] |
-| Waker | Zombie Miner 1/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252)] |
+| SpawnPoint | Zombie Miner 1/SpawnPoint (Hollow Knight/hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/SpawnPoint (Hollow Knight/hollow_knight_Data\level252)] |
+| Waker | Zombie Miner 1/Waker (Hollow Knight/hollow_knight_Data\level252) | NamedAssetPPtr: [Zombie Miner 1/Waker (Hollow Knight/hollow_knight_Data\level252)] |
 
 ## States
 
@@ -360,8 +360,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot PickAxe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
-| spawnPoint |   | [Zombie Miner 1/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252)] |   |   |
+| gameObject |   | [Global] [Shot PickAxe (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
+| spawnPoint |   | [Zombie Miner 1/SpawnPoint (Hollow Knight/hollow_knight_Data\level252)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Pickaxe | Variable |   |
@@ -482,8 +482,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot PickAxe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
-| spawnPoint |   | [Zombie Miner 1/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level252)] |   |   |
+| gameObject |   | [Global] [Shot PickAxe (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
+| spawnPoint |   | [Zombie Miner 1/SpawnPoint (Hollow Knight/hollow_knight_Data\level252)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Pickaxe | Variable |   |
@@ -547,7 +547,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_miner_throw (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [zombie_miner_throw (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 2. SendEventByName
 
@@ -759,9 +759,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_small_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets15.assets)] |   |   |
+| audioClip |   | [hornet_small_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets15.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -813,9 +813,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_ground_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [hornet_ground_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# GG Boss UI
+# GG Boss UI
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | GG Boss UI |
 | GameObject Name | Inspect |
 | GameObject Path | GG_Statue_Uumuu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Inert |
 | FSM PathId | 12634 |
 | GameObject PathId | 2329 |
@@ -36,7 +36,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLock | GG_Statue_Uumuu/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Statue_Uumuu/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
+| CamLock | GG_Statue_Uumuu/CameraLockArea (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Statue_Uumuu/CameraLockArea (Hollow Knight/hollow_knight_Data\level470)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Transitions | [null] | NamedAssetPPtr: [null] |
@@ -102,7 +102,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [GG_Challenge_Statue_Canvas (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets470.assets)] |   |   |
+| prefab |   | [Global] [GG_Challenge_Statue_Canvas (Hollow Knight/hollow_knight_Data\sharedassets470.assets)] |   |   |
 | bossNameSheet |   | string Boss Name Sheet |   |   |
 | bossNameKey |   | string Boss Name Key |   |   |
 | descriptionSheet |   | string Description Sheet |   |   |
@@ -275,7 +275,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [dream_area_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [dream_area_effect (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -598,7 +598,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Hero |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_unsheath (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [hero_unsheath (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 | finishedEvent |   |   |   |   |
 
 ##### 2. Tk2dWatchAnimationEvents
@@ -633,7 +633,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [gg_battle_transitions (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| gameObject |   | [Global] [gg_battle_transitions (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

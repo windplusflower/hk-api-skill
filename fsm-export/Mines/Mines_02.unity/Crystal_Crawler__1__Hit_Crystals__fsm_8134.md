@@ -1,4 +1,4 @@
-﻿# Hit Crystals
+# Hit Crystals
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit Crystals |
 | GameObject Name | Crystal Crawler (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level249 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level249 |
 | Start State | Idle |
 | FSM PathId | 8134 |
 | GameObject PathId | 617 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hit Crystals | Crystal Crawler (1)/Hit Crystals Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level249) | NamedAssetPPtr: [Crystal Crawler (1)/Hit Crystals Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level249)] |
+| Hit Crystals | Crystal Crawler (1)/Hit Crystals Effect (Hollow Knight/hollow_knight_Data\level249) | NamedAssetPPtr: [Crystal Crawler (1)/Hit Crystals Effect (Hollow Knight/hollow_knight_Data\level249)] |
 
 ## States
 
@@ -105,7 +105,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_crawler_hit_top (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets249.assets)] |   |   |
+| oneShotClip |   | [mines_crawler_hit_top (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets249.assets)] |   |   |
 
 #### Transitions
 

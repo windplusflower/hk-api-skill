@@ -1,4 +1,4 @@
-﻿# Set Respawn
+# Set Respawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Respawn |
 | GameObject Name | door_dreamReturn |
 | GameObject Path | Godseeker Waterways/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Pause |
 | FSM PathId | 6425 |
 | GameObject PathId | 1953 |

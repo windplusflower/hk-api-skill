@@ -1,4 +1,4 @@
-﻿# Knight Height Check
+# Knight Height Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Knight Height Check |
 | GameObject Name | Breakable Wall (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level245 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level245 |
 | Start State | Pause |
 | FSM PathId | 4933 |
 | GameObject PathId | 1126 |

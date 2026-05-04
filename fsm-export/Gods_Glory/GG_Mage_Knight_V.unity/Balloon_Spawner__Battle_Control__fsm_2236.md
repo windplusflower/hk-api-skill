@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Balloon Spawner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level494 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level494 |
 | Start State | Pause |
 | FSM PathId | 2236 |
 | GameObject PathId | 85 |

@@ -1,4 +1,4 @@
-﻿# damages_enemy
+# damages_enemy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_enemy |
 | GameObject Name | Thorn Collider (16) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level301 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level301 |
 | Start State | Idle |
 | FSM PathId | 4331 |
 | GameObject PathId | 461 |

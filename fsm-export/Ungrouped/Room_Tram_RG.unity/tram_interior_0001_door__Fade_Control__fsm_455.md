@@ -1,4 +1,4 @@
-﻿# Fade Control
+# Fade Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade Control |
 | GameObject Name | tram_interior_0001_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level24 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level24 |
 | Start State | In |
 | FSM PathId | 455 |
 | GameObject PathId | 20 |

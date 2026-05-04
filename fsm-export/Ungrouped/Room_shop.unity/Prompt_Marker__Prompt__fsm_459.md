@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Basement Closed/Sly Shop/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level17 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level17 |
 | Start State | Init |
 | FSM PathId | 459 |
 | GameObject PathId | 14 |

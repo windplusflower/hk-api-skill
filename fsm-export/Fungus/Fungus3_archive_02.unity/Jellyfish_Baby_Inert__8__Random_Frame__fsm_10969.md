@@ -1,4 +1,4 @@
-﻿# Random Frame
+# Random Frame
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Random Frame |
 | GameObject Name | Jellyfish Baby Inert (8) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level228 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level228 |
 | Start State | State 1 |
 | FSM PathId | 10969 |
 | GameObject PathId | 2719 |

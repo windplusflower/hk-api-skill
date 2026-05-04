@@ -1,4 +1,4 @@
-﻿# Summon Minis
+# Summon Minis
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Summon Minis |
 | GameObject Name | Ghost Warrior Galien |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level434 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level434 |
 | Start State | Pause |
 | FSM PathId | 1843 |
 | GameObject PathId | 29 |
@@ -32,9 +32,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Galien/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
+| Attack Pt | Warrior/Ghost Warrior Galien/Attack Pt (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Attack Pt (Hollow Knight/hollow_knight_Data\level434)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Summon Pt | Warrior/Ghost Warrior Galien/Summon Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Summon Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
+| Summon Pt | Warrior/Ghost Warrior Galien/Summon Pt (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Summon Pt (Hollow Knight/hollow_knight_Data\level434)] |
 
 ## States
 
@@ -118,7 +118,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Galien Mini Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets298.assets)] |   |   |
+| gameObject |   | [Global] [Galien Mini Hammer (Hollow Knight/hollow_knight_Data\sharedassets298.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.029) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -142,9 +142,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_enter_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -221,7 +221,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Galien Mini Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets298.assets)] |   |   |
+| gameObject |   | [Global] [Galien Mini Hammer (Hollow Knight/hollow_knight_Data\sharedassets298.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -0.029) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -245,9 +245,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dream_enter_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -308,7 +308,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -373,7 +373,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -472,9 +472,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Galien_battle_cry (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets298.assets)] |   |   |
+| audioClip |   | [Galien_battle_cry (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets298.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | HeavyMantisEnabler |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level220 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level220 |
 | Start State | Pause |
 | FSM PathId | 5368 |
 | GameObject PathId | 365 |

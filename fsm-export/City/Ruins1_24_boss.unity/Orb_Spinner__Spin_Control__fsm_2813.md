@@ -1,4 +1,4 @@
-﻿# Spin Control
+# Spin Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spin Control |
 | GameObject Name | Orb Spinner |
 | GameObject Path | Mage Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Init |
 | FSM PathId | 2813 |
 | GameObject PathId | 41 |

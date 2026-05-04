@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Dead_Tuk/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level351 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level351 |
 | Start State | Init |
 | FSM PathId | 1432 |
 | GameObject PathId | 258 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Dead_Tuk/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level351) | NamedAssetPPtr: [Dead_Tuk/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level351)] |
+| Wave | Dead_Tuk/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level351) | NamedAssetPPtr: [Dead_Tuk/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level351)] |
 
 ## States
 

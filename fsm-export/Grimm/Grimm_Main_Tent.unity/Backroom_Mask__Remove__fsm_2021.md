@@ -1,4 +1,4 @@
-﻿# Remove
+# Remove
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove |
 | GameObject Name | Backroom Mask |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Pause |
 | FSM PathId | 2021 |
 | GameObject PathId | 410 |

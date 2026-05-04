@@ -1,4 +1,4 @@
-﻿# Deactivate List
+# Deactivate List
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate List |
 | GameObject Name | Enemy List |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Journal/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | State 3 |
 | FSM PathId | 10086 |
 | GameObject PathId | 886 |

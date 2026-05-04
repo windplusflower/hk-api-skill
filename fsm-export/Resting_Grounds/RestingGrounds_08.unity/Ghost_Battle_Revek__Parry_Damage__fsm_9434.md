@@ -1,4 +1,4 @@
-﻿# Parry Damage
+# Parry Damage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Parry Damage |
 | GameObject Name | Ghost Battle Revek |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Idle |
 | FSM PathId | 9434 |
 | GameObject PathId | 2788 |

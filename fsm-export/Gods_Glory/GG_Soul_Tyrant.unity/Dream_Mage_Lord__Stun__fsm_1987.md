@@ -1,4 +1,4 @@
-﻿# Stun
+# Stun
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun |
 | GameObject Name | Dream Mage Lord |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level462 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level462 |
 | Start State | Init |
 | FSM PathId | 1987 |
 | GameObject PathId | 65 |

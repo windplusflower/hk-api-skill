@@ -1,4 +1,4 @@
-﻿# Rotate
+# Rotate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotate |
 | GameObject Name | cog6 |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level9 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level9 |
 | Start State | Idle |
 | FSM PathId | 1245 |
 | GameObject PathId | 262 |

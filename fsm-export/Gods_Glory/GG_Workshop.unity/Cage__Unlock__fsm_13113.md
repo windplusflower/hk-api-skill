@@ -1,4 +1,4 @@
-﻿# Unlock
+# Unlock
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Unlock |
 | GameObject Name | Cage |
 | GameObject Path | Radiance Statue Gate/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Wait |
 | FSM PathId | 13113 |
 | GameObject PathId | 3129 |
@@ -54,7 +54,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| bossScene |   | [Radiance Boss Scene (Script BossScene) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| bossScene |   | [Radiance Boss Scene (Script BossScene) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | checkSource | BossSceneCheckSource::Statue | 1 |   |   |
 | trueEvent |   | CAN OPEN |   |   |
 | falseEvent |   |   |   |   |
@@ -80,7 +80,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| trigger |   | [ (Script TriggerEnterEvent) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |   |   |
+| trigger |   | [ (Script TriggerEnterEvent) (Hollow Knight/hollow_knight_Data\level470)] |   |   |
 | triggerEnteredEvent |   | HERO ENTERED |   |   |
 | triggerExitedEvent |   |   |   |   |
 | triggerStayedEvent |   |   |   |   |
@@ -299,7 +299,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [misc_rumble_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| oneShotClip |   | [misc_rumble_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | finishedEvent |   |   |   |   |
 
 ##### 4. StopParticleEmitter

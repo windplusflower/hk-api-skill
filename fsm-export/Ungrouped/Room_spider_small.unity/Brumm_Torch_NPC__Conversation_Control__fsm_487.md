@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Brumm Torch NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level305 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level305 |
 | Start State | Init |
 | FSM PathId | 487 |
 | GameObject PathId | 84 |
@@ -39,10 +39,10 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Explode Effects | Brumm Torch NPC/Explode Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Explode Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305)] |
-| Flame | Brumm Torch NPC/Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305)] |
-| Get Flame | Brumm Torch NPC/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305)] |
-| Get Flash | Brumm Torch NPC/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level305)] |
+| Explode Effects | Brumm Torch NPC/Explode Effects (Hollow Knight/hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Explode Effects (Hollow Knight/hollow_knight_Data\level305)] |
+| Flame | Brumm Torch NPC/Flame (Hollow Knight/hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Flame (Hollow Knight/hollow_knight_Data\level305)] |
+| Get Flame | Brumm Torch NPC/Get Flame (Hollow Knight/hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Get Flame (Hollow Knight/hollow_knight_Data\level305)] |
+| Get Flash | Brumm Torch NPC/Get Flash (Hollow Knight/hollow_knight_Data\level305) | NamedAssetPPtr: [Brumm Torch NPC/Get Flash (Hollow Knight/hollow_knight_Data\level305)] |
 | Grimmchild | [null] | NamedAssetPPtr: [null] |
 | Msg | [null] | NamedAssetPPtr: [null] |
 | Msg Icon | [null] | NamedAssetPPtr: [null] |
@@ -444,9 +444,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_talk_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets305.assets)] |   |   |
+| audioClip |   | [Brumm_talk_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets305.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -590,9 +590,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_talk_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [Brumm_talk_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -694,9 +694,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_talk_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets305.assets)] |   |   |
+| audioClip |   | [Brumm_talk_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets305.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -811,9 +811,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [flamebearer_fire_spiral_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [flamebearer_fire_spiral_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -827,9 +827,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_flame_give_short (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets305.assets)] |   |   |
+| audioClip |   | [Brumm_flame_give_short (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets305.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -917,9 +917,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [flamebearer_fire_spiral_cast (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [flamebearer_fire_spiral_cast (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1020,9 +1020,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1137,7 +1137,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Relic Get Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Relic Get Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1173,7 +1173,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Icon |   |   |
-| sprite |   | [charm_grimmkin_01_upgrade (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [charm_grimmkin_01_upgrade (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 12. GetLanguageString
 
@@ -1203,9 +1203,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Grimmchild |   |   |
-| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 0.75f |   |   |
@@ -1304,9 +1304,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_talk_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [Brumm_talk_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1444,9 +1444,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Brumm_talk_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets305.assets)] |   |   |
+| audioClip |   | [Brumm_talk_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets305.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

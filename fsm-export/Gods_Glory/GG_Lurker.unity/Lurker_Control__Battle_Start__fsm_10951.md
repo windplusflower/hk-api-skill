@@ -1,4 +1,4 @@
-﻿# Battle Start
+# Battle Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Start |
 | GameObject Name | Lurker Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Idle |
 | FSM PathId | 10951 |
 | GameObject PathId | 1309 |
@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | Colosseum Gate | [null] | NamedAssetPPtr: [null] |
 | Gate | [null] | NamedAssetPPtr: [null] |
-| Pale Lurker | Lurker Control/Pale Lurker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Pale Lurker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level451)] |
+| Pale Lurker | Lurker Control/Pale Lurker (Hollow Knight/hollow_knight_Data\level451) | NamedAssetPPtr: [Lurker Control/Pale Lurker (Hollow Knight/hollow_knight_Data\level451)] |
 
 ## States
 
@@ -125,7 +125,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [City (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets83.assets)] |   |   |
+| musicCue |   | [City (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets83.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -136,7 +136,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action Only (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action Only (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 4f |   |   |
 
 #### Transitions

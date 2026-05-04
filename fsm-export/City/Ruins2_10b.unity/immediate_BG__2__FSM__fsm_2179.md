@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | immediate_BG (2) |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level123 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level123 |
 | Start State | Pause |
 | FSM PathId | 2179 |
 | GameObject PathId | 676 |

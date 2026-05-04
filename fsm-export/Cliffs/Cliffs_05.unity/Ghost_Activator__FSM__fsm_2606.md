@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Ghost Activator |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level235 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level235 |
 | Start State | Pause |
 | FSM PathId | 2606 |
 | GameObject PathId | 408 |

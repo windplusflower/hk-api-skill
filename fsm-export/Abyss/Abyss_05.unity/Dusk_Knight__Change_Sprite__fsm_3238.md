@@ -1,4 +1,4 @@
-﻿# Change Sprite
+# Change Sprite
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Change Sprite |
 | GameObject Name | Dusk Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level333 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level333 |
 | Start State | Pause |
 | FSM PathId | 3238 |
 | GameObject PathId | 84 |
@@ -81,7 +81,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| sprite |   | [dusk_knight_armour (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets333.assets)] |   |   |
+| sprite |   | [dusk_knight_armour (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets333.assets)] |   |   |
 
 #### Transitions
 

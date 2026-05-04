@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Abyss Tendrils/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level340 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level340 |
 | Start State | Init |
 | FSM PathId | 2401 |
 | GameObject PathId | 104 |

@@ -1,4 +1,4 @@
-﻿# fat fly bounce
+# fat fly bounce
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fat fly bounce |
 | GameObject Name | Fat Fly (1) |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level158 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level158 |
 | Start State | Initialise |
 | FSM PathId | 9216 |
 | GameObject PathId | 920 |

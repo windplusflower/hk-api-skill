@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Sing Audio |
 | GameObject Path | Ghost NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level87 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level87 |
 | Start State | Pause |
 | FSM PathId | 2218 |
 | GameObject PathId | 646 |

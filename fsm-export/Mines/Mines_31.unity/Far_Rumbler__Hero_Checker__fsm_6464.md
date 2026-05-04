@@ -1,4 +1,4 @@
-﻿# Hero Checker
+# Hero Checker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hero Checker |
 | GameObject Name | Far Rumbler |
 | GameObject Path | Super Dash Get/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Idle |
 | FSM PathId | 6464 |
 | GameObject PathId | 1339 |

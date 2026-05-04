@@ -1,4 +1,4 @@
-﻿# Ruins Sentry
+# Ruins Sentry
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ruins Sentry |
 | GameObject Name | Ruins Sentry 1 (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level117 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level117 |
 | Start State | Init |
 | FSM PathId | 4739 |
 | GameObject PathId | 477 |
@@ -53,8 +53,8 @@
 | Patrol Voice | [null] | NamedAssetPPtr: [null] |
 | Run Check Obj | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash1 | Ruins Sentry 1 (2)/Slash1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry 1 (2)/Slash1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117)] |
-| Slash2 | Ruins Sentry 1 (2)/Slash2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry 1 (2)/Slash2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level117)] |
+| Slash1 | Ruins Sentry 1 (2)/Slash1 (Hollow Knight/hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry 1 (2)/Slash1 (Hollow Knight/hollow_knight_Data\level117)] |
+| Slash2 | Ruins Sentry 1 (2)/Slash2 (Hollow Knight/hollow_knight_Data\level117) | NamedAssetPPtr: [Ruins Sentry 1 (2)/Slash2 (Hollow Knight/hollow_knight_Data\level117)] |
 | Unalert Region Obj | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -789,7 +789,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1405,7 +1405,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1765,7 +1765,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

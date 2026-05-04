@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hornet_Activate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level147 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level147 |
 | Start State | Pause |
 | FSM PathId | 4994 |
 | GameObject PathId | 802 |

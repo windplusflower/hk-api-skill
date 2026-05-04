@@ -1,4 +1,4 @@
-﻿# fade and deactivate
+# fade and deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and deactivate |
 | GameObject Name | White Flash |
 | GameObject Path | Mage Lord Phase2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Idle |
 | FSM PathId | 2852 |
 | GameObject PathId | 111 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wake Range |
 | GameObject Path | Moss Walker (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level220 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level220 |
 | Start State | Initialise |
 | FSM PathId | 5408 |
 | GameObject PathId | 1017 |

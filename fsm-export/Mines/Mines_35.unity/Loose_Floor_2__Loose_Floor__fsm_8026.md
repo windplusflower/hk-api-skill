@@ -1,4 +1,4 @@
-﻿# Loose Floor
+# Loose Floor
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Loose Floor |
 | GameObject Name | Loose Floor 2 |
 | GameObject Path | _Scenery/mine_1_quake_floor/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Init |
 | FSM PathId | 8026 |
 | GameObject PathId | 340 |

@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Bee Hatchling Ambient (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level306 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level306 |
 | Start State | Idle |
 | FSM PathId | 2913 |
 | GameObject PathId | 533 |

@@ -1,4 +1,4 @@
-﻿# Shade Hit
+# Shade Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shade Hit |
 | GameObject Name | Shade Hit Vignette |
 | GameObject Path | Boss Control/Radiance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | State 1 |
 | FSM PathId | 2609 |
 | GameObject PathId | 353 |

@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Dream Gate Set Lock |
 | GameObject Path | Slash Spider/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level297 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level297 |
 | Start State | State 1 |
 | FSM PathId | 12742 |
 | GameObject PathId | 3725 |

@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Detector |
 | GameObject Path | Plant Trap/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level131 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level131 |
 | Start State | trigger |
 | FSM PathId | 5234 |
 | GameObject PathId | 248 |

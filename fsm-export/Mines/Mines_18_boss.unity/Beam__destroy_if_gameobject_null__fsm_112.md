@@ -1,4 +1,4 @@
-﻿# destroy_if_gameobject_null
+# destroy_if_gameobject_null
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_if_gameobject_null |
 | GameObject Name | Beam |
 | GameObject Path | Mega Zombie Beam Miner (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level261 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level261 |
 | Start State | Check |
 | FSM PathId | 112 |
 | GameObject PathId | 15 |

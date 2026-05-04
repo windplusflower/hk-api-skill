@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Music Control |
 | GameObject Path | Colosseum Manager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Idle |
 | FSM PathId | 9398 |
 | GameObject PathId | 2734 |
@@ -73,7 +73,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [S57 COLOSSEUM STING (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [S57 COLOSSEUM STING (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 #### Transitions
 
@@ -95,7 +95,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -199,7 +199,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -261,7 +261,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 3 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 3 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -286,7 +286,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 4 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 4 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -311,7 +311,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 5 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 5 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -336,7 +336,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | objectVariable |   | object New Track | Variable |   |
-| objectValue |   | [S57 COLOSSEUM INTENSITY 6 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| objectValue |   | [S57 COLOSSEUM INTENSITY 6 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

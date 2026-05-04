@@ -1,4 +1,4 @@
-﻿# Rotation
+# Rotation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotation |
 | GameObject Name | Halo |
 | GameObject Path | Boss Control/Radiance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Rotate |
 | FSM PathId | 2640 |
 | GameObject PathId | 441 |

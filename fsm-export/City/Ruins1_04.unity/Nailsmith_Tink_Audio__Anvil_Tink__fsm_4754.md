@@ -1,4 +1,4 @@
-﻿# Anvil Tink
+# Anvil Tink
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anvil Tink |
 | GameObject Name | Nailsmith Tink Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level91 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level91 |
 | Start State | Init |
 | FSM PathId | 4754 |
 | GameObject PathId | 847 |
@@ -95,7 +95,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [nailsmith_anvil (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets16.assets)] |   |   |
+| oneShotClip |   | [nailsmith_anvil (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets16.assets)] |   |   |
 
 #### Transitions
 

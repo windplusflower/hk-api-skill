@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate Set Lock |
 | GameObject Path | Vine Platform (1)/Activated Plat/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level142 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level142 |
 | Start State | Init |
 | FSM PathId | 10736 |
 | GameObject PathId | 3010 |

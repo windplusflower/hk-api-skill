@@ -1,4 +1,4 @@
-﻿# Attack Decision
+# Attack Decision
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack Decision |
 | GameObject Name | Baby Centipede Spawner (4) |
 | GameObject Path | Centipede Cage/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level286 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level286 |
 | Start State | Init |
 | FSM PathId | 5152 |
 | GameObject PathId | 336 |

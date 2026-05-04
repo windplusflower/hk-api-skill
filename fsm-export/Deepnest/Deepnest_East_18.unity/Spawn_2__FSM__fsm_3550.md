@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spawn 2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level323 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level323 |
 | Start State | Pause |
 | FSM PathId | 3550 |
 | GameObject PathId | 348 |

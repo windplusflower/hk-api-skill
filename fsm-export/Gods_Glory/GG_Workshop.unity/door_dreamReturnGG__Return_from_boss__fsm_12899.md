@@ -1,4 +1,4 @@
-﻿# Return from boss
+# Return from boss
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Return from boss |
 | GameObject Name | door_dreamReturnGG |
 | GameObject Path | GG_Statue_FalseKnight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Pause |
 | FSM PathId | 12899 |
 | GameObject PathId | 3263 |
@@ -25,7 +25,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Inspect | GG_Statue_FalseKnight/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Statue_FalseKnight/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
+| Inspect | GG_Statue_FalseKnight/Inspect (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Statue_FalseKnight/Inspect (Hollow Knight/hollow_knight_Data\level470)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Transitions | [null] | NamedAssetPPtr: [null] |
 
@@ -159,7 +159,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [gg_battle_transitions (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| gameObject |   | [Global] [gg_battle_transitions (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Fade
+# Fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade |
 | GameObject Name | GG_statue_beam_front (1) |
 | GameObject Path | Zote_Appear_bits/Zote_Precepts/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Idle |
 | FSM PathId | 12506 |
 | GameObject PathId | 285 |

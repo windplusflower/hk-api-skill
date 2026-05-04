@@ -1,4 +1,4 @@
-﻿# Darkness Region
+# Darkness Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Darkness Region |
 | GameObject Name | Darkness Region |
 | GameObject Path | GG_Arena_Prefab/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level485 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level485 |
 | Start State | Pause |
 | FSM PathId | 1719 |
 | GameObject PathId | 513 |

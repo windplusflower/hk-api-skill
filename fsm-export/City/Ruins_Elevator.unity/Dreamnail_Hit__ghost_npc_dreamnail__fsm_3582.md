@@ -1,4 +1,4 @@
-﻿# ghost_npc_dreamnail
+# ghost_npc_dreamnail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ghost_npc_dreamnail |
 | GameObject Name | Dreamnail Hit |
 | GameObject Path | Ghost NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level86 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level86 |
 | Start State | Init |
 | FSM PathId | 3582 |
 | GameObject PathId | 171 |

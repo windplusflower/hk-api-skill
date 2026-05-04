@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spawn Range |
 | GameObject Path | Mage Balloon (5)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level110 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level110 |
 | Start State | Init |
 | FSM PathId | 6723 |
 | GameObject PathId | 1711 |

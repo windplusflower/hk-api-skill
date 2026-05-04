@@ -1,4 +1,4 @@
-﻿# zap drift
+# zap drift
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | zap drift |
 | GameObject Name | Zap Cloud (7) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level228 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level228 |
 | Start State | State 1 |
 | FSM PathId | 11123 |
 | GameObject PathId | 3028 |

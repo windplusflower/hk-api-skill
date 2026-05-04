@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Evade Range |
 | GameObject Path | Royal Gaurd/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level374 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level374 |
 | Start State | Initialise |
 | FSM PathId | 2333 |
 | GameObject PathId | 66 |

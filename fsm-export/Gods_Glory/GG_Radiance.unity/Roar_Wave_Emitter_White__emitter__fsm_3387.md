@@ -1,4 +1,4 @@
-﻿# emitter
+# emitter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | emitter |
 | GameObject Name | Roar Wave Emitter White |
 | GameObject Path | Boss Control/Radiance Roar/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3387 |
 | GameObject PathId | 651 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | gramaphone_piece_02 (1) |
 | GameObject Path | Gramophone Control/gramaphone/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level226 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level226 |
 | Start State | Spin At Start? |
 | FSM PathId | 1070 |
 | GameObject PathId | 66 |

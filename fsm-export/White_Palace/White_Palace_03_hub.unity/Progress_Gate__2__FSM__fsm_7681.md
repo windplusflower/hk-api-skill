@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Progress Gate (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Pause |
 | FSM PathId | 7681 |
 | GameObject PathId | 2186 |

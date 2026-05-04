@@ -1,4 +1,4 @@
-﻿# Destroy Self
+# Destroy Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | Battle Scene/Wave 3/Mantis Traitor Lord/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level464 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level464 |
 | Start State | Init |
 | FSM PathId | 2089 |
 | GameObject PathId | 165 |

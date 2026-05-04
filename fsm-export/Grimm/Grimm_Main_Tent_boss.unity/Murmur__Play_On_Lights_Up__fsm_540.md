@@ -1,4 +1,4 @@
-﻿# Play On Lights Up
+# Play On Lights Up
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play On Lights Up |
 | GameObject Name | Murmur |
 | GameObject Path | Crowd/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | State 1 |
 | FSM PathId | 540 |
 | GameObject PathId | 25 |

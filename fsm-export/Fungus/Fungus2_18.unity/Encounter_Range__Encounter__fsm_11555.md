@@ -1,4 +1,4 @@
-﻿# Encounter
+# Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Encounter |
 | GameObject Name | Encounter Range |
 | GameObject Path | _NPCs/Cornifer/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level183 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level183 |
 | Start State | Pause |
 | FSM PathId | 11555 |
 | GameObject PathId | 2265 |

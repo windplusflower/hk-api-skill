@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | dung_defender_wall |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level327 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level327 |
 | Start State | Pause |
 | FSM PathId | 4766 |
 | GameObject PathId | 268 |

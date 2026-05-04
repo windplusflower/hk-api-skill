@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | Warrior/Ghost Warrior Galien/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level298 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level298 |
 | Start State | Idle |
 | FSM PathId | 5938 |
 | GameObject PathId | 113 |

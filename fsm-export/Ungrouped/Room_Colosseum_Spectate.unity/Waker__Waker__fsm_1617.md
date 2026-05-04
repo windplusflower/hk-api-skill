@@ -1,4 +1,4 @@
-﻿# Waker
+# Waker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Waker |
 | GameObject Name | Waker |
 | GameObject Path | Colosseum_Miner/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level35 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level35 |
 | Start State | Detect |
 | FSM PathId | 1617 |
 | GameObject PathId | 468 |

@@ -1,4 +1,4 @@
-﻿# Fader
+# Fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fader |
 | GameObject Name | Halo |
 | GameObject Path | Boss Control/Radiance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2465 |
 | GameObject PathId | 441 |

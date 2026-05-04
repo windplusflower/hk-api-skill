@@ -1,4 +1,4 @@
-﻿# ZombieShieldControl
+# ZombieShieldControl
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ZombieShieldControl |
 | GameObject Name | Great Shield Zombie |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level113 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level113 |
 | Start State | Initialise |
 | FSM PathId | 4698 |
 | GameObject PathId | 818 |
@@ -55,13 +55,13 @@
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Patrol Voice | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shield Hit | _Enemies/Great Shield Zombie/Shield Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Shield Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113)] |
-| Shield Hit U | _Enemies/Great Shield Zombie/Shield Hit U (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Shield Hit U (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113)] |
+| Shield Hit | _Enemies/Great Shield Zombie/Shield Hit (Hollow Knight/hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Shield Hit (Hollow Knight/hollow_knight_Data\level113)] |
+| Shield Hit U | _Enemies/Great Shield Zombie/Shield Hit U (Hollow Knight/hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Shield Hit U (Hollow Knight/hollow_knight_Data\level113)] |
 | Slash Collider | [null] | NamedAssetPPtr: [null] |
 | Slash Collider 2 | [null] | NamedAssetPPtr: [null] |
-| Slash1 | _Enemies/Great Shield Zombie/Slash1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113)] |
-| Slash2 1 | _Enemies/Great Shield Zombie/Slash2 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash2 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113)] |
-| Slash2 2 | _Enemies/Great Shield Zombie/Slash2 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash2 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level113)] |
+| Slash1 | _Enemies/Great Shield Zombie/Slash1 (Hollow Knight/hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash1 (Hollow Knight/hollow_knight_Data\level113)] |
+| Slash2 1 | _Enemies/Great Shield Zombie/Slash2 1 (Hollow Knight/hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash2 1 (Hollow Knight/hollow_knight_Data\level113)] |
+| Slash2 2 | _Enemies/Great Shield Zombie/Slash2 2 (Hollow Knight/hollow_knight_Data\level113) | NamedAssetPPtr: [_Enemies/Great Shield Zombie/Slash2 2 (Hollow Knight/hollow_knight_Data\level113)] |
 | SlashU | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -240,7 +240,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. AudioPlayerOneShot
 
@@ -249,7 +249,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -450,7 +450,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -804,7 +804,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1158,7 +1158,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1512,7 +1512,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_shield_move (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -2047,7 +2047,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2547,7 +2547,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Corpse Zombie Basic One |
 | GameObject Path | Break Jar (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Set Z |
 | FSM PathId | 4374 |
 | GameObject PathId | 639 |

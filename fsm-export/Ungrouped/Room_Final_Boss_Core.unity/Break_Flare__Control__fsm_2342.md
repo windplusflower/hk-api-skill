@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Break Flare |
 | GameObject Path | Boss Control/Hollow Knight Boss/Boss Corpse/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Scale |
 | FSM PathId | 2342 |
 | GameObject PathId | 114 |

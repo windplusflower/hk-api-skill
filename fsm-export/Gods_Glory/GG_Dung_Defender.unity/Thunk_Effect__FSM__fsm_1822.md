@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Thunk Effect |
 | GameObject Path | GG_Arena_Prefab/Dung Corpse BG/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | Init |
 | FSM PathId | 1822 |
 | GameObject PathId | 484 |

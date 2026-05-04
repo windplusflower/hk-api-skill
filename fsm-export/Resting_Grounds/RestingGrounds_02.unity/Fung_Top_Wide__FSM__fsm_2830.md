@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fung Top Wide |
 | GameObject Path | grave_short_pole/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level237 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level237 |
 | Start State | Spin At Start? |
 | FSM PathId | 2830 |
 | GameObject PathId | 704 |

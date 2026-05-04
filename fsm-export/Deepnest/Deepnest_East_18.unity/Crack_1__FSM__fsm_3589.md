@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Crack 1 |
 | GameObject Path | Quake Floor (2)/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level323 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level323 |
 | Start State | Init |
 | FSM PathId | 3589 |
 | GameObject PathId | 624 |

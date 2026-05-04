@@ -1,4 +1,4 @@
-﻿# Ceiling Dropper
+# Ceiling Dropper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ceiling Dropper |
 | GameObject Name | Ceiling Dropper (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level358 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level358 |
 | Start State | Init |
 | FSM PathId | 8400 |
 | GameObject PathId | 338 |
@@ -37,7 +37,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Death Skull | Ceiling Dropper (3)/Death Skull (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358) | NamedAssetPPtr: [Ceiling Dropper (3)/Death Skull (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level358)] |
+| Death Skull | Ceiling Dropper (3)/Death Skull (Hollow Knight/hollow_knight_Data\level358) | NamedAssetPPtr: [Ceiling Dropper (3)/Death Skull (Hollow Knight/hollow_knight_Data\level358)] |
 | Explosion | [null] | NamedAssetPPtr: [null] |
 | Flare | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -179,7 +179,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ceiling_dropper_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [ceiling_dropper_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimationWithEvents
 
@@ -251,9 +251,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ceiling_dropper_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets88.assets)] |   |   |
+| audioClip |   | [ceiling_dropper_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets88.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -358,7 +358,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Gas Explosion Recycle M (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Gas Explosion Recycle M (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -424,7 +424,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 15 |   |   |

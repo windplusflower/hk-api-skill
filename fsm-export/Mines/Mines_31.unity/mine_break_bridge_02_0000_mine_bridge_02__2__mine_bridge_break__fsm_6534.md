@@ -1,4 +1,4 @@
-﻿# mine_bridge_break
+# mine_bridge_break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | mine_bridge_break |
 | GameObject Name | mine_break_bridge_02_0000_mine_bridge_02 (2) |
 | GameObject Path | mine_break_bridge/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Idle |
 | FSM PathId | 6534 |
 | GameObject PathId | 1649 |

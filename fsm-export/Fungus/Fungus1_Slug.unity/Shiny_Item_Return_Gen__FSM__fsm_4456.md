@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Shiny Item Return Gen |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level164 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level164 |
 | Start State | Pause |
 | FSM PathId | 4456 |
 | GameObject PathId | 620 |

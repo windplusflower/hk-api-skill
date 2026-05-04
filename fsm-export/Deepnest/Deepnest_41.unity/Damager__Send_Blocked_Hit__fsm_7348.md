@@ -1,4 +1,4 @@
-﻿# Send Blocked Hit
+# Send Blocked Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Blocked Hit |
 | GameObject Name | Damager |
 | GameObject Path | Happy Spider NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level299 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level299 |
 | Start State | Init |
 | FSM PathId | 7348 |
 | GameObject PathId | 2136 |

@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Patrol Range |
 | GameObject Path | Slash Spider (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level297 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level297 |
 | Start State | Pause |
 | FSM PathId | 11899 |
 | GameObject PathId | 2527 |

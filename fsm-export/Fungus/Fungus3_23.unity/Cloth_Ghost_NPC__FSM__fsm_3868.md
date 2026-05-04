@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Cloth Ghost NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level208 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level208 |
 | Start State | Pause |
 | FSM PathId | 3868 |
 | GameObject PathId | 137 |

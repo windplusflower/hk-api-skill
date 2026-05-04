@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | cornifer_sleep_v01 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level12 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level12 |
 | Start State | Pause |
 | FSM PathId | 482 |
 | GameObject PathId | 86 |

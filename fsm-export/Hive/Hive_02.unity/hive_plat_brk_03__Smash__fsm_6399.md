@@ -1,4 +1,4 @@
-﻿# Smash
+# Smash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Smash |
 | GameObject Name | hive_plat_brk_03 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level385 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level385 |
 | Start State | Pause |
 | FSM PathId | 6399 |
 | GameObject PathId | 472 |
@@ -158,7 +158,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [honey_pillar_final_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [honey_pillar_final_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -169,7 +169,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [honey_pillar_hit_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [honey_pillar_hit_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 4. SetPolygonCollider
 
@@ -220,7 +220,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -261,7 +261,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 40 |   |   |

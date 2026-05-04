@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Door Dust L |
 | GameObject Path | elev_main/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level80 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level80 |
 | Start State | Idle |
 | FSM PathId | 836 |
 | GameObject PathId | 230 |

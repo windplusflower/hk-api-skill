@@ -1,4 +1,4 @@
-﻿# Boss Sequence Finish
+# Boss Sequence Finish
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Boss Sequence Finish |
 | GameObject Name | door_dreamReturnGG |
 | GameObject Path | GG_Final_Challenge_Door/Unlocked Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Pause |
 | FSM PathId | 4889 |
 | GameObject PathId | 1643 |
@@ -33,7 +33,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Behind Particles | [null] | NamedAssetPPtr: [null] |
-| Inspect | GG_Final_Challenge_Door/Unlocked Set/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door/Unlocked Set/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
+| Inspect | GG_Final_Challenge_Door/Unlocked Set/Inspect (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door/Unlocked Set/Inspect (Hollow Knight/hollow_knight_Data\level473)] |
 
 ## States
 
@@ -321,7 +321,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [GG_Final_Challenge_Door/Unlocked Set/door_dreamReturnGG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |   |   |
+| gameObject |   | [Global] [GG_Final_Challenge_Door/Unlocked Set/door_dreamReturnGG (Hollow Knight/hollow_knight_Data\level473)] |   |   |
 | storeName |   | string Door Entry | Variable |   |
 | everyFrame |   | false |   |   |
 

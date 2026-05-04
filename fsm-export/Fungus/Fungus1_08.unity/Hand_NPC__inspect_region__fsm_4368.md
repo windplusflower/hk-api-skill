@@ -1,4 +1,4 @@
-﻿# inspect_region
+# inspect_region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | inspect_region |
 | GameObject Name | Hand NPC |
 | GameObject Path | Hunter Entry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Init |
 | FSM PathId | 4368 |
 | GameObject PathId | 722 |
@@ -202,7 +202,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | string Prompt Name = "Listen" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |

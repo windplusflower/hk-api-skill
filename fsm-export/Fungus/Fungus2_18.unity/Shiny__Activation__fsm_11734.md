@@ -1,4 +1,4 @@
-﻿# Activation
+# Activation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activation |
 | GameObject Name | Shiny |
 | GameObject Path | Card & Mushroom/Cornifer Card/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level183 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level183 |
 | Start State | Pause |
 | FSM PathId | 11734 |
 | GameObject PathId | 3440 |

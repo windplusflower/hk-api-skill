@@ -1,4 +1,4 @@
-﻿# Phase Control
+# Phase Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Phase Control |
 | GameObject Name | Radiance |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2644 |
 | GameObject PathId | 458 |

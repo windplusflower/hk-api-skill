@@ -1,4 +1,4 @@
-﻿# Spit Anim
+# Spit Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit Anim |
 | GameObject Name | Spit Effect  |
 | GameObject Path | infected_event/Spitting Zombie/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level69 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level69 |
 | Start State | Idle |
 | FSM PathId | 3082 |
 | GameObject PathId | 308 |

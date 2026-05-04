@@ -1,4 +1,4 @@
-﻿# Trail Control
+# Trail Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Trail Control |
 | GameObject Name | Antic Dust 2 |
 | GameObject Path | Giant Hopper Summon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level321 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level321 |
 | Start State | Init |
 | FSM PathId | 1177 |
 | GameObject PathId | 11 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Love Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Init |
 | FSM PathId | 4418 |
 | GameObject PathId | 698 |

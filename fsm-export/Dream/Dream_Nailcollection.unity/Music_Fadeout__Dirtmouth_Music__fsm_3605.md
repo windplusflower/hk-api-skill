@@ -1,4 +1,4 @@
-﻿# Dirtmouth Music
+# Dirtmouth Music
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dirtmouth Music |
 | GameObject Name | Music Fadeout |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level394 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level394 |
 | Start State | Pause Frame |
 | FSM PathId | 3605 |
 | GameObject PathId | 239 |

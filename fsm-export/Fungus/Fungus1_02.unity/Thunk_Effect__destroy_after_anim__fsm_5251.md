@@ -1,4 +1,4 @@
-﻿# destroy_after_anim
+# destroy_after_anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_after_anim |
 | GameObject Name | Thunk Effect |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level130 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level130 |
 | Start State | Pause |
 | FSM PathId | 5251 |
 | GameObject PathId | 413 |

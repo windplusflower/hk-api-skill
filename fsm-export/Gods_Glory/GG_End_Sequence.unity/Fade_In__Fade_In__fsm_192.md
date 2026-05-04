@@ -1,4 +1,4 @@
-﻿# Fade In
+# Fade In
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade In |
 | GameObject Name | Fade In |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level472 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level472 |
 | Start State | Fade Instant |
 | FSM PathId | 192 |
 | GameObject PathId | 21 |

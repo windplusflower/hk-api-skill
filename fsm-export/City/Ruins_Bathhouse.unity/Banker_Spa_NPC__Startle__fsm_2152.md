@@ -1,4 +1,4 @@
-﻿# Startle
+# Startle
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Startle |
 | GameObject Name | Banker Spa NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level87 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level87 |
 | Start State | Idle |
 | FSM PathId | 2152 |
 | GameObject PathId | 10 |
@@ -119,9 +119,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Banker_Spa_yelp_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets87.assets)] |   |   |
+| audioClip |   | [Banker_Spa_yelp_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets87.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Down
+# Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Down |
 | GameObject Name | Map Update Msg |
 | GameObject Path | Fountain Inspect/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Wait |
 | FSM PathId | 2581 |
 | GameObject PathId | 318 |

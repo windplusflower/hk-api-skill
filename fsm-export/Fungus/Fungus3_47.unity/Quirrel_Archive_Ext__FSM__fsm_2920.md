@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Quirrel Archive Ext |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level223 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level223 |
 | Start State | Pause |
 | FSM PathId | 2920 |
 | GameObject PathId | 433 |

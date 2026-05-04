@@ -1,4 +1,4 @@
-﻿# Tween
+# Tween
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tween |
 | GameObject Name | Sprite |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Journal/Cursor/TR/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9078 |
 | GameObject PathId | 1177 |

@@ -1,4 +1,4 @@
-﻿# Spider
+# Spider
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spider |
 | GameObject Name | Spider Mini (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level299 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level299 |
 | Start State | Init |
 | FSM PathId | 7333 |
 | GameObject PathId | 2072 |

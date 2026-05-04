@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Divine Charm/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Init |
 | FSM PathId | 3860 |
 | GameObject PathId | 399 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Divine Charm/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [Divine Charm/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
+| Wave | Divine Charm/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [Divine Charm/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level7)] |
 
 ## States
 

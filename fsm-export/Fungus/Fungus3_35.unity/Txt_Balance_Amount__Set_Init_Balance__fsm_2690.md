@@ -1,4 +1,4 @@
-﻿# Set Init Balance
+# Set Init Balance
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Init Balance |
 | GameObject Name | Txt Balance Amount |
 | GameObject Path | Bank Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Pause |
 | FSM PathId | 2690 |
 | GameObject PathId | 98 |

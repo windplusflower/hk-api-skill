@@ -1,4 +1,4 @@
-﻿# Fader
+# Fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fader |
 | GameObject Name | Low Health Light |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Health/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 8929 |
 | GameObject PathId | 947 |

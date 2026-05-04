@@ -1,4 +1,4 @@
-﻿# Deactivate in darkness without lantern
+# Deactivate in darkness without lantern
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate in darkness without lantern |
 | GameObject Name | Area Title Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Pause |
 | FSM PathId | 3307 |
 | GameObject PathId | 591 |

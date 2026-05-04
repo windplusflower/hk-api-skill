@@ -1,4 +1,4 @@
-﻿# Rotate
+# Rotate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotate |
 | GameObject Name | Soul Burst |
 | GameObject Path | Godseeker Waterways/Godseeker Awake/Flower Appear/Flower Give/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | State 1 |
 | FSM PathId | 6498 |
 | GameObject PathId | 1950 |

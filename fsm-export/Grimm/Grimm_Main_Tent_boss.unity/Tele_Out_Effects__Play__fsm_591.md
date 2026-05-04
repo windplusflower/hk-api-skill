@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Tele Out Effects |
 | GameObject Path | Grimm Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | Init |
 | FSM PathId | 591 |
 | GameObject PathId | 44 |

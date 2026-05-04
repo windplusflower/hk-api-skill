@@ -1,4 +1,4 @@
-﻿# map_isroom
+# map_isroom
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | map_isroom |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level13 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level13 |
 | Start State | Pause |
 | FSM PathId | 695 |
 | GameObject PathId | 42 |

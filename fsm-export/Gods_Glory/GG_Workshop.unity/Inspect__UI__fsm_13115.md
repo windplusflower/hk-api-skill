@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | UI |
 | GameObject Name | Inspect |
 | GameObject Path | GG_Summary_Board/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level470 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level470 |
 | Start State | Inert |
 | FSM PathId | 13115 |
 | GameObject PathId | 2859 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLock | GG_Summary_Board/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Summary_Board/CameraLockArea (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level470)] |
+| CamLock | GG_Summary_Board/CameraLockArea (Hollow Knight/hollow_knight_Data\level470) | NamedAssetPPtr: [GG_Summary_Board/CameraLockArea (Hollow Knight/hollow_knight_Data\level470)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 

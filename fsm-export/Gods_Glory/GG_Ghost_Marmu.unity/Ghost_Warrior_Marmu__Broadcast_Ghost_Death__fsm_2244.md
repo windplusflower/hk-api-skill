@@ -1,4 +1,4 @@
-﻿# Broadcast Ghost Death
+# Broadcast Ghost Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Broadcast Ghost Death |
 | GameObject Name | Ghost Warrior Marmu |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level438 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level438 |
 | Start State | Idle |
 | FSM PathId | 2244 |
 | GameObject PathId | 238 |

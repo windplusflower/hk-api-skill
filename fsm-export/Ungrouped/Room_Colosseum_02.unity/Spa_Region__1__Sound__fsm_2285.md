@@ -1,4 +1,4 @@
-﻿# Sound
+# Sound
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sound |
 | GameObject Name | Spa Region (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level31 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level31 |
 | Start State | State 1 |
 | FSM PathId | 2285 |
 | GameObject PathId | 634 |

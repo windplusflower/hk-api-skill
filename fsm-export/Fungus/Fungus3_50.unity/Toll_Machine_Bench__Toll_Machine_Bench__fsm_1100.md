@@ -1,4 +1,4 @@
-﻿# Toll Machine Bench
+# Toll Machine Bench
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Toll Machine Bench |
 | GameObject Name | Toll Machine Bench |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level226 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level226 |
 | Start State | Pause |
 | FSM PathId | 1100 |
 | GameObject PathId | 279 |
@@ -61,15 +61,15 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bench Anim | Toll Machine Bench/Bench Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Bench Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226)] |
+| Bench Anim | Toll Machine Bench/Bench Anim (Hollow Knight/hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Bench Anim (Hollow Knight/hollow_knight_Data\level226)] |
 | Dust Bell | [null] | NamedAssetPPtr: [null] |
-| Dust Bench Down | Toll Machine Bench/Dust Bench Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Dust Bench Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226)] |
-| Dust Bench Up | Toll Machine Bench/Dust Bench Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Dust Bench Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226)] |
+| Dust Bench Down | Toll Machine Bench/Dust Bench Down (Hollow Knight/hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Dust Bench Down (Hollow Knight/hollow_knight_Data\level226)] |
+| Dust Bench Up | Toll Machine Bench/Dust Bench Up (Hollow Knight/hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/Dust Bench Up (Hollow Knight/hollow_knight_Data\level226)] |
 | Dust Box Down | [null] | NamedAssetPPtr: [null] |
 | Grate | [null] | NamedAssetPPtr: [null] |
 | Prompt | [null] | NamedAssetPPtr: [null] |
 | Prompt Marker | [null] | NamedAssetPPtr: [null] |
-| Rest Bench | Toll Machine Bench/RestBench (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/RestBench (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level226)] |
+| Rest Bench | Toll Machine Bench/RestBench (Hollow Knight/hollow_knight_Data\level226) | NamedAssetPPtr: [Toll Machine Bench/RestBench (Hollow Knight/hollow_knight_Data\level226)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -109,7 +109,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1373,9 +1373,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [toll_machine_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| audioClip |   | [toll_machine_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1648,9 +1648,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [toll_bench_rise (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets108.assets)] |   |   |
+| audioClip |   | [toll_bench_rise (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets108.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1664,9 +1664,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [toll_bench_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets23.assets)] |   |   |
+| audioClip |   | [toll_bench_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets23.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1680,9 +1680,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [toll_bench_lower (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets108.assets)] |   |   |
+| audioClip |   | [toll_bench_lower (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets108.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

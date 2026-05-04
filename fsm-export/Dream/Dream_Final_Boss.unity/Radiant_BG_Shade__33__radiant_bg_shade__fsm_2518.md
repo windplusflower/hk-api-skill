@@ -1,4 +1,4 @@
-﻿# radiant_bg_shade
+# radiant_bg_shade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | radiant_bg_shade |
 | GameObject Name | Radiant BG Shade (33) |
 | GameObject Path | Boss Control/Ascend Respawns/Shades/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2518 |
 | GameObject PathId | 414 |

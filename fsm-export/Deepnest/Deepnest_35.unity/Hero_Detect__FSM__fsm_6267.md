@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Detect |
 | GameObject Path | Spider Mini (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level293 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level293 |
 | Start State | Initialise |
 | FSM PathId | 6267 |
 | GameObject PathId | 1739 |

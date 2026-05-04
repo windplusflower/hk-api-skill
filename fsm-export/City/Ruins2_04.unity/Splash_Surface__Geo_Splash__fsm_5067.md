@@ -1,4 +1,4 @@
-﻿# Geo Splash
+# Geo Splash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Geo Splash |
 | GameObject Name | Splash Surface |
 | GameObject Path | Surface Water Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level116 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level116 |
 | Start State | Detect |
 | FSM PathId | 5067 |
 | GameObject PathId | 475 |
@@ -64,7 +64,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Geo |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | spawnMin |   | 3 |   |   |

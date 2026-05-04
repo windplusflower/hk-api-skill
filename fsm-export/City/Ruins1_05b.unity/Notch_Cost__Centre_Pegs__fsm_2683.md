@@ -1,4 +1,4 @@
-﻿# Centre Pegs
+# Centre Pegs
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Centre Pegs |
 | GameObject Name | Notch Cost |
 | GameObject Path | Shop Menu/Item Details/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Check Time |
 | FSM PathId | 2683 |
 | GameObject PathId | 68 |
@@ -36,13 +36,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Peg 1 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Peg 2 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Peg 3 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Peg 4 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Peg 5 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 5 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 5 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Peg 6 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 6 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 6 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Pegs | Shop Menu/Item Details/Notch Cost/Pegs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
+| Peg 1 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 1 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 1 (Hollow Knight/hollow_knight_Data\level93)] |
+| Peg 2 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 2 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 2 (Hollow Knight/hollow_knight_Data\level93)] |
+| Peg 3 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 3 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 3 (Hollow Knight/hollow_knight_Data\level93)] |
+| Peg 4 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 4 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 4 (Hollow Knight/hollow_knight_Data\level93)] |
+| Peg 5 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 5 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 5 (Hollow Knight/hollow_knight_Data\level93)] |
+| Peg 6 | Shop Menu/Item Details/Notch Cost/Pegs/Cost 6 (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs/Cost 6 (Hollow Knight/hollow_knight_Data\level93)] |
+| Pegs | Shop Menu/Item Details/Notch Cost/Pegs (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Shop Menu/Item Details/Notch Cost/Pegs (Hollow Knight/hollow_knight_Data\level93)] |
 
 ## States
 

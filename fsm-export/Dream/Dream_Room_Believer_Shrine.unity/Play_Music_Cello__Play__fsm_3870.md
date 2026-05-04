@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Play Music Cello |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level405 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level405 |
 | Start State | Pause |
 | FSM PathId | 3870 |
 | GameObject PathId | 999 |

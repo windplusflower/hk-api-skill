@@ -1,4 +1,4 @@
-﻿# Darkness Region
+# Darkness Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Darkness Region |
 | GameObject Name | Darkness Region (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level119 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level119 |
 | Start State | Pause |
 | FSM PathId | 3506 |
 | GameObject PathId | 766 |

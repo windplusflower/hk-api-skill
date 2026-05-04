@@ -1,4 +1,4 @@
-﻿# Attack
+# Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack |
 | GameObject Name | Garden Zombie (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level217 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level217 |
 | Start State | Init |
 | FSM PathId | 5086 |
 | GameObject PathId | 1549 |
@@ -40,7 +40,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shake Grass | Garden Zombie (1)/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level217) | NamedAssetPPtr: [Garden Zombie (1)/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level217)] |
+| Shake Grass | Garden Zombie (1)/Shake Grass (Hollow Knight/hollow_knight_Data\level217) | NamedAssetPPtr: [Garden Zombie (1)/Shake Grass (Hollow Knight/hollow_knight_Data\level217)] |
 
 ## States
 
@@ -135,7 +135,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [garden_zombie_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| oneShotClip |   | [garden_zombie_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 
 ##### 4. SetVelocity2d
 
@@ -265,7 +265,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -288,7 +288,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [garden_zombie_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| oneShotClip |   | [garden_zombie_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 
 ##### 3. FlingObjectsFromGlobalPool
 
@@ -297,7 +297,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -318,7 +318,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -339,7 +339,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -360,7 +360,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -381,7 +381,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Spine (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets203.assets)] |   |   |
+| gameObject |   | [Global] [Shot Spine (Hollow Knight/hollow_knight_Data\sharedassets203.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3 Shot Origin |   |   |
 | spawnMin |   | 1 |   |   |
@@ -629,9 +629,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_rustle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| audioClip |   | [moss_knight_rustle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -680,9 +680,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_knight_burst_leaves (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [moss_knight_burst_leaves (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

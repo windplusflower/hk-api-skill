@@ -1,4 +1,4 @@
-﻿# Autosave
+# Autosave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Autosave |
 | GameObject Name | Autosaver |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level402 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level402 |
 | Start State | State 1 |
 | FSM PathId | 458 |
 | GameObject PathId | 58 |

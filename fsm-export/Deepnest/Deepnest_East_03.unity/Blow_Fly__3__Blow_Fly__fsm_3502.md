@@ -1,4 +1,4 @@
-﻿# Blow Fly
+# Blow Fly
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blow Fly |
 | GameObject Name | Blow Fly (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level308 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level308 |
 | Start State | Init |
 | FSM PathId | 3502 |
 | GameObject PathId | 760 |

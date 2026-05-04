@@ -1,4 +1,4 @@
-﻿# Zombie Swipe
+# Zombie Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Swipe |
 | GameObject Name | Zombie Barger (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level58 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level58 |
 | Start State | Initialise |
 | FSM PathId | 5123 |
 | GameObject PathId | 678 |

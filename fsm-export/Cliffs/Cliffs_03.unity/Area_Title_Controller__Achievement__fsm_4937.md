@@ -1,4 +1,4 @@
-﻿# Achievement
+# Achievement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Achievement |
 | GameObject Name | Area Title Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level233 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level233 |
 | Start State | State 1 |
 | FSM PathId | 4937 |
 | GameObject PathId | 1062 |

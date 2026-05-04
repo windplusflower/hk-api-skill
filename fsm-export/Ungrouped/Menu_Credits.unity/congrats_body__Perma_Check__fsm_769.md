@@ -1,4 +1,4 @@
-﻿# Perma Check
+# Perma Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Perma Check |
 | GameObject Name | congrats body |
 | GameObject Path | credits object/9 Message from Team Cherry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level417 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level417 |
 | Start State | State 1 |
 | FSM PathId | 769 |
 | GameObject PathId | 92 |

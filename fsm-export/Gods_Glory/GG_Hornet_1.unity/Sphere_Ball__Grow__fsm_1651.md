@@ -1,4 +1,4 @@
-﻿# Grow
+# Grow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Grow |
 | GameObject Name | Sphere Ball |
 | GameObject Path | Boss Holder/Hornet Boss 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level448 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level448 |
 | Start State | Grow |
 | FSM PathId | 1651 |
 | GameObject PathId | 96 |

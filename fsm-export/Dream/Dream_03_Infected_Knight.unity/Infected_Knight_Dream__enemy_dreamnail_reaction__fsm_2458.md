@@ -1,4 +1,4 @@
-﻿# enemy_dreamnail_reaction
+# enemy_dreamnail_reaction
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_dreamnail_reaction |
 | GameObject Name | Infected Knight Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Init |
 | FSM PathId | 2458 |
 | GameObject PathId | 508 |
@@ -152,7 +152,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Emerge And Turn
+# Emerge And Turn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Emerge And Turn |
 | GameObject Name | Dung Defender NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level354 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level354 |
 | Start State | Sleep |
 | FSM PathId | 3007 |
 | GameObject PathId | 688 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Dream Dialogue | [null] | NamedAssetPPtr: [null] |
-| Emerge Chunks | Dung Defender NPC/Erupt Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Defender NPC/Erupt Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level354)] |
+| Emerge Chunks | Dung Defender NPC/Erupt Chunks (Hollow Knight/hollow_knight_Data\level354) | NamedAssetPPtr: [Dung Defender NPC/Erupt Chunks (Hollow Knight/hollow_knight_Data\level354)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -173,9 +173,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dung_defender_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioClip |   | [dung_defender_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -189,9 +189,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Dung_def_burstout_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioClip |   | [Dung_def_burstout_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

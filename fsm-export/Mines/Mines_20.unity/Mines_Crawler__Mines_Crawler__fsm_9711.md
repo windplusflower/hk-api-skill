@@ -1,4 +1,4 @@
-﻿# Mines Crawler
+# Mines Crawler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mines Crawler |
 | GameObject Name | Mines Crawler |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level263 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level263 |
 | Start State | Init |
 | FSM PathId | 9711 |
 | GameObject PathId | 916 |
@@ -42,9 +42,9 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Attack Box | [null] | NamedAssetPPtr: [null] |
-| Edge Range Obj | Mines Crawler/Edge Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level263) | NamedAssetPPtr: [Mines Crawler/Edge Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level263)] |
+| Edge Range Obj | Mines Crawler/Edge Range (Hollow Knight/hollow_knight_Data\level263) | NamedAssetPPtr: [Mines Crawler/Edge Range (Hollow Knight/hollow_knight_Data\level263)] |
 | Wake Range Obj | [null] | NamedAssetPPtr: [null] |
-| Wall Range Obj | Mines Crawler/Wall Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level263) | NamedAssetPPtr: [Mines Crawler/Wall Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level263)] |
+| Wall Range Obj | Mines Crawler/Wall Range (Hollow Knight/hollow_knight_Data\level263) | NamedAssetPPtr: [Mines Crawler/Wall Range (Hollow Knight/hollow_knight_Data\level263)] |
 
 ## States
 
@@ -87,7 +87,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Wall Range" |   |   |
-| storeResult |   | [Mines Crawler/Wall Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level263)] | Variable |   |
+| storeResult |   | [Mines Crawler/Wall Range (Hollow Knight/hollow_knight_Data\level263)] | Variable |   |
 
 ##### 4. ActivateGameObject
 
@@ -954,7 +954,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -1025,7 +1025,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_crystal_expand (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets251.assets)] |   |   |
+| oneShotClip |   | [mines_crystal_expand (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets251.assets)] |   |   |
 
 #### Transitions
 
@@ -1084,9 +1084,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Attack Box |   |   |
-| audioClip |   | [mines_crawler_hit_top (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets249.assets)] |   |   |
+| audioClip |   | [mines_crawler_hit_top (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets249.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1102,7 +1102,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_crawler_hit_top (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets249.assets)] |   |   |
+| oneShotClip |   | [mines_crawler_hit_top (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets249.assets)] |   |   |
 
 #### Transitions
 

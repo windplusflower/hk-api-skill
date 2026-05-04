@@ -1,4 +1,4 @@
-﻿# Set Target
+# Set Target
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Target |
 | GameObject Name | Godseeker Crowd |
 | GameObject Path | Boss Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level449 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level449 |
 | Start State | State 1 |
 | FSM PathId | 1788 |
 | GameObject PathId | 109 |

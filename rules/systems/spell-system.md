@@ -210,5 +210,5 @@ int damageMultiplier = baseMultiplier + (hasShamanStone ? 1 : 0);
   - `hkapi/HeroActions.cs:8`
   - `hkapi/HutongGames/PlayMaker/Actions/ListenForUp.cs:35`
   - `hkapi/HutongGames/PlayMaker/Actions/ListenForDown.cs:35`
-  - `/home/windflower/workspace/DeVect/src/Fsm/SpellDetectAction.cs:20`
-  - `/home/windflower/workspace/DeVect/mydocs/specs/2026-04-10_08-47_DeVectSpellInputHandlerFixAndPush.md:20`
+  - `custom mod implementation: SpellDetectAction.cs:20`
+  - `custom mod spec: DeVectSpellInputHandlerFixAndPush.md:20`

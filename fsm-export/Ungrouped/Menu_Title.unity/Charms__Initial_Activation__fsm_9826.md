@@ -1,4 +1,4 @@
-﻿# Initial Activation
+# Initial Activation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Initial Activation |
 | GameObject Name | Charms |
 | GameObject Path | _GameCameras/HudCamera/Inventory/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | State 1 |
 | FSM PathId | 9826 |
 | GameObject PathId | 1167 |

@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Jelly Egg Empty (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level215 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level215 |
 | Start State | Init |
 | FSM PathId | 4611 |
 | GameObject PathId | 499 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Jelly Egg Empty (1)/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level215) | NamedAssetPPtr: [Jelly Egg Empty (1)/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level215)] |
+| Wave | Jelly Egg Empty (1)/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level215) | NamedAssetPPtr: [Jelly Egg Empty (1)/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level215)] |
 
 ## States
 

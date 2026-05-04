@@ -1,4 +1,4 @@
-﻿# Sign Control
+# Sign Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sign Control |
 | GameObject Name | Bank Sign |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2671 |
 | GameObject PathId | 123 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dust | Bank Sign/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level218) | NamedAssetPPtr: [Bank Sign/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level218)] |
+| Dust | Bank Sign/Dust (Hollow Knight/hollow_knight_Data\level218) | NamedAssetPPtr: [Bank Sign/Dust (Hollow Knight/hollow_knight_Data\level218)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -101,9 +101,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [banker_sign_move_initial (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| audioClip |   | [banker_sign_move_initial (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -141,9 +141,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [banker_sign_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| audioClip |   | [banker_sign_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -203,9 +203,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [banker_sign_snap_off (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| audioClip |   | [banker_sign_snap_off (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

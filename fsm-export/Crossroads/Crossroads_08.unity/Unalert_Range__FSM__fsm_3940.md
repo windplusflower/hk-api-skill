@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unalert Range |
 | GameObject Path | Battle Scene/Wave 2/Spitter Summon v2/Spitter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level44 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level44 |
 | Start State | Initialise |
 | FSM PathId | 3940 |
 | GameObject PathId | 946 |

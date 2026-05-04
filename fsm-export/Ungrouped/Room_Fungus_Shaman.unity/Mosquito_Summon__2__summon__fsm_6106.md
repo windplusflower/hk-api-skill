@@ -1,4 +1,4 @@
-﻿# summon
+# summon
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | summon |
 | GameObject Name | Mosquito Summon (2) |
 | GameObject Path | Battle Scene/Wave 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level27 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level27 |
 | Start State | Instantiate |
 | FSM PathId | 6106 |
 | GameObject PathId | 321 |
@@ -314,7 +314,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mosquito (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| gameObject |   | [Global] [Mosquito (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

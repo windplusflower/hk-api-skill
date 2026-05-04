@@ -1,4 +1,4 @@
-﻿# Moss Flyer
+# Moss Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Moss Flyer |
 | GameObject Name | Moss Flyer (5) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level204 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level204 |
 | Start State | Init |
 | FSM PathId | 3971 |
 | GameObject PathId | 1009 |
@@ -41,8 +41,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hide Grass | Moss Flyer (5)/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level204) | NamedAssetPPtr: [Moss Flyer (5)/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level204)] |
-| Shake Grass | Moss Flyer (5)/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level204) | NamedAssetPPtr: [Moss Flyer (5)/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level204)] |
+| Hide Grass | Moss Flyer (5)/Hide Grass (Hollow Knight/hollow_knight_Data\level204) | NamedAssetPPtr: [Moss Flyer (5)/Hide Grass (Hollow Knight/hollow_knight_Data\level204)] |
+| Shake Grass | Moss Flyer (5)/Shake Grass (Hollow Knight/hollow_knight_Data\level204) | NamedAssetPPtr: [Moss Flyer (5)/Shake Grass (Hollow Knight/hollow_knight_Data\level204)] |
 
 ## States
 
@@ -140,9 +140,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Moss Flyer (5)/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level204)] |   |   |
-| audioClip |   | [moss_flyer_walker_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Moss Flyer (5)/Hide Grass (Hollow Knight/hollow_knight_Data\level204)] |   |   |
+| audioClip |   | [moss_flyer_walker_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

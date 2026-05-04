@@ -1,4 +1,4 @@
-﻿# Chest Control
+# Chest Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Chest Control |
 | GameObject Name | Grimm Holder |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Init |
 | FSM PathId | 1989 |
 | GameObject PathId | 169 |
@@ -174,9 +174,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_teleport_in (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [grimm_teleport_in (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

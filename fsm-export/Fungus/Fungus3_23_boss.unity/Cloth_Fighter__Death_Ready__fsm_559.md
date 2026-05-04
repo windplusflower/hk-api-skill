@@ -1,4 +1,4 @@
-﻿# Death Ready
+# Death Ready
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Death Ready |
 | GameObject Name | Cloth Fighter |
 | GameObject Path | Battle Scene/Cloth Entry/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Idle |
 | FSM PathId | 559 |
 | GameObject PathId | 92 |

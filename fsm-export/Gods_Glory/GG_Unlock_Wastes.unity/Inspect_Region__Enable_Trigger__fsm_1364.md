@@ -1,4 +1,4 @@
-﻿# Enable Trigger
+# Enable Trigger
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enable Trigger |
 | GameObject Name | Inspect Region |
 | GameObject Path | Sequence/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level500 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level500 |
 | Start State | Inert |
 | FSM PathId | 1364 |
 | GameObject PathId | 316 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Trigger Region | Sequence/Trigger Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level500) | NamedAssetPPtr: [Sequence/Trigger Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level500)] |
+| Trigger Region | Sequence/Trigger Region (Hollow Knight/hollow_knight_Data\level500) | NamedAssetPPtr: [Sequence/Trigger Region (Hollow Knight/hollow_knight_Data\level500)] |
 
 ## States
 

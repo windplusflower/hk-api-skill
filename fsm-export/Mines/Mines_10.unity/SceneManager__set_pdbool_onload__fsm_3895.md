@@ -1,4 +1,4 @@
-﻿# set_pdbool_onload
+# set_pdbool_onload
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | set_pdbool_onload |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level255 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level255 |
 | Start State | Pause |
 | FSM PathId | 3895 |
 | GameObject PathId | 503 |

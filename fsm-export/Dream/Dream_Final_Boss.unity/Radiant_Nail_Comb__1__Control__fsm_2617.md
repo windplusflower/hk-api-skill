@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Radiant Nail Comb (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2617 |
 | GameObject PathId | 334 |
@@ -47,8 +47,8 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Nail | [null] | NamedAssetPPtr: [null] |
-| Nails | Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
-| Self | Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407) | NamedAssetPPtr: [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |
+| Nails | Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |
+| Self | Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407) | NamedAssetPPtr: [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |
 
 ## States
 
@@ -145,8 +145,8 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -159,7 +159,7 @@ Enabled: false
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -265,8 +265,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -279,7 +279,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -304,8 +304,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -318,7 +318,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -368,8 +368,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -382,7 +382,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -421,8 +421,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -435,7 +435,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -485,8 +485,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -499,7 +499,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -524,8 +524,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -538,7 +538,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -705,8 +705,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -719,7 +719,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -744,8 +744,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -758,7 +758,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -808,8 +808,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -822,7 +822,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -861,8 +861,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -875,7 +875,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -925,8 +925,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -939,7 +939,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -964,8 +964,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Radiant Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| gameObject |   | [Global] [Radiant Nail (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | position |   | Vector3 Spawn Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Nail | Variable |   |
@@ -978,7 +978,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Nail |   |   |
-| parent |   | [Radiant Nail Comb (1)/Nails (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
+| parent |   | [Radiant Nail Comb (1)/Nails (Hollow Knight/hollow_knight_Data\level407)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -1111,9 +1111,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Radiant Nail Comb (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level407)] |   |   |
-| audioClip |   | [radiance_sword_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets407.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Radiant Nail Comb (1) (Hollow Knight/hollow_knight_Data\level407)] |   |   |
+| audioClip |   | [radiance_sword_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets407.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

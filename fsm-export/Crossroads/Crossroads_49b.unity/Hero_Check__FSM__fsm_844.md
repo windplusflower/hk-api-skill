@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Check |
 | GameObject Path | elev_main/Lift Call Lever/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level80 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level80 |
 | Start State | Init |
 | FSM PathId | 844 |
 | GameObject PathId | 240 |

@@ -1,4 +1,4 @@
-﻿# Lift Control
+# Lift Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lift Control |
 | GameObject Name | Mines Exit Lift |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3943 |
 | GameObject PathId | 687 |
@@ -36,8 +36,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Cage Closed | _Scenery/Mines Exit Lift/Cage Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [_Scenery/Mines Exit Lift/Cage Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
-| Cage Open | _Scenery/Mines Exit Lift/Cage Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [_Scenery/Mines Exit Lift/Cage Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
+| Cage Closed | _Scenery/Mines Exit Lift/Cage Closed (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [_Scenery/Mines Exit Lift/Cage Closed (Hollow Knight/hollow_knight_Data\level7)] |
+| Cage Open | _Scenery/Mines Exit Lift/Cage Open (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [_Scenery/Mines Exit Lift/Cage Open (Hollow Knight/hollow_knight_Data\level7)] |
 | Chain L | [null] | NamedAssetPPtr: [null] |
 | Chain R | [null] | NamedAssetPPtr: [null] |
 | Cog 1 | [null] | NamedAssetPPtr: [null] |
@@ -459,9 +459,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -735,9 +735,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_arrive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_arrive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1050,9 +1050,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_arrive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_arrive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1311,7 +1311,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# Quake Detect
+# Quake Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Quake Detect |
 | GameObject Name | Maskmaker NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level21 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level21 |
 | Start State | Init |
 | FSM PathId | 496 |
 | GameObject PathId | 129 |
@@ -133,7 +133,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -195,7 +195,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Voice Loop |   |   |
-| audioClip |   | [Mask_Maker_unmasked_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets21.assets)] |   |   |
+| audioClip |   | [Mask_Maker_unmasked_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets21.assets)] |   |   |
 
 ##### 4. AudioPlaySimple
 

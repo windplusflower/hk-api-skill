@@ -1,4 +1,4 @@
-﻿# Mossy Control
+# Mossy Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mossy Control |
 | GameObject Name | Mega Moss Charger |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level156 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level156 |
 | Start State | Start Pause |
 | FSM PathId | 4483 |
 | GameObject PathId | 574 |
@@ -73,27 +73,27 @@
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Attack Range | [null] | NamedAssetPPtr: [null] |
-| Burrow Hit | Mega Moss Charger/Burrow Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Burrow Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Burrow Hit | Mega Moss Charger/Burrow Hit (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Burrow Hit (Hollow Knight/hollow_knight_Data\level156)] |
 | Camera | [null] | NamedAssetPPtr: [null] |
 | Charge Grass | [null] | NamedAssetPPtr: [null] |
-| Charge Hit | Mega Moss Charger/Charge Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Charge Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Crouch Hit | Mega Moss Charger/Crouch Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Crouch Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Charge Hit | Mega Moss Charger/Charge Hit (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Charge Hit (Hollow Knight/hollow_knight_Data\level156)] |
+| Crouch Hit | Mega Moss Charger/Crouch Hit (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Crouch Hit (Hollow Knight/hollow_knight_Data\level156)] |
 | G Explode 1 | [null] | NamedAssetPPtr: [null] |
 | Grass Burst | [null] | NamedAssetPPtr: [null] |
-| Grass Burst Down | Mega Moss Charger/Grass Burst Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Burst Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Grass Dig | Mega Moss Charger/Grass Dig (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Dig (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Grass Roar | Mega Moss Charger/Grass Shake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Shake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Grass Shake | Mega Moss Charger/Grass Shake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Shake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
-| Grass Submerge | Mega Moss Charger/Grass Submerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Submerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Grass Burst Down | Mega Moss Charger/Grass Burst Down (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Burst Down (Hollow Knight/hollow_knight_Data\level156)] |
+| Grass Dig | Mega Moss Charger/Grass Dig (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Dig (Hollow Knight/hollow_knight_Data\level156)] |
+| Grass Roar | Mega Moss Charger/Grass Shake (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Shake (Hollow Knight/hollow_knight_Data\level156)] |
+| Grass Shake | Mega Moss Charger/Grass Shake (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Shake (Hollow Knight/hollow_knight_Data\level156)] |
+| Grass Submerge | Mega Moss Charger/Grass Submerge (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Grass Submerge (Hollow Knight/hollow_knight_Data\level156)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Hit Effect | [null] | NamedAssetPPtr: [null] |
 | Leap Hit | [null] | NamedAssetPPtr: [null] |
 | Range Grass | [null] | NamedAssetPPtr: [null] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Roar Point | Mega Moss Charger/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |
+| Roar Point | Mega Moss Charger/Roar Point (Hollow Knight/hollow_knight_Data\level156) | NamedAssetPPtr: [Mega Moss Charger/Roar Point (Hollow Knight/hollow_knight_Data\level156)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Slam Effect R | [null] | NamedAssetPPtr: [null] |
-| Tent Box | Jellyfish/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets156.assets) | NamedAssetPPtr: [Jellyfish/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets156.assets)] |
+| Tent Box | Jellyfish/Tentacle Box (Hollow Knight/hollow_knight_Data\sharedassets156.assets) | NamedAssetPPtr: [Jellyfish/Tentacle Box (Hollow Knight/hollow_knight_Data\sharedassets156.assets)] |
 
 ### Objects
 
@@ -173,7 +173,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grass Roar" |   |   |
-| storeResult |   | [Mega Moss Charger/Grass Shake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] | Variable |   |
+| storeResult |   | [Mega Moss Charger/Grass Shake (Hollow Knight/hollow_knight_Data\level156)] | Variable |   |
 
 ##### 7. FindChild
 
@@ -206,7 +206,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grass Dig" |   |   |
-| storeResult |   | [Mega Moss Charger/Grass Dig (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] | Variable |   |
+| storeResult |   | [Mega Moss Charger/Grass Dig (Hollow Knight/hollow_knight_Data\level156)] | Variable |   |
 
 ##### 10. FindChild
 
@@ -217,7 +217,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grass Burst Down" |   |   |
-| storeResult |   | [Mega Moss Charger/Grass Burst Down (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] | Variable |   |
+| storeResult |   | [Mega Moss Charger/Grass Burst Down (Hollow Knight/hollow_knight_Data\level156)] | Variable |   |
 
 ##### 11. FindChild
 
@@ -239,7 +239,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grass Submerge" |   |   |
-| storeResult |   | [Mega Moss Charger/Grass Submerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] | Variable |   |
+| storeResult |   | [Mega Moss Charger/Grass Submerge (Hollow Knight/hollow_knight_Data\level156)] | Variable |   |
 
 ##### 13. FindChild
 
@@ -860,9 +860,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_charger_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1157,9 +1157,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_charger_return (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_return (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1759,7 +1759,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [moss_knight_rustle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets137.assets)] |   |   |
+| audioClip |   | [moss_knight_rustle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets137.assets)] |   |   |
 
 ##### 2. AudioPlay
 
@@ -1859,7 +1859,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [moss_charger_charging (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_charging (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 
 ##### 3. StopParticleEmitter
 
@@ -1913,8 +1913,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Mega Moss Charger/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level156)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Mega Moss Charger/Roar Point (Hollow Knight/hollow_knight_Data\level156)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -1951,9 +1951,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets45.assets)] |   |   |
+| audioClip |   | [mawlek_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets45.assets)] |   |   |
 | pitchMin |   | 1.25f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |
@@ -1967,9 +1967,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_charger_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2094,9 +2094,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [moss_charger_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets139.assets)] |   |   |
+| audioClip |   | [moss_charger_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets139.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -2399,9 +2399,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mimic_spider_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets156.assets)] |   |   |
+| audioClip |   | [mimic_spider_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets156.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -2591,7 +2591,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.5f |   |   |
 
 ##### 3. GGCheckIfBossScene
@@ -2611,7 +2611,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [Greenpath (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets36.assets)] |   |   |
+| musicCue |   | [Greenpath (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets36.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -2646,7 +2646,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.5f |   |   |
 
 #### Transitions

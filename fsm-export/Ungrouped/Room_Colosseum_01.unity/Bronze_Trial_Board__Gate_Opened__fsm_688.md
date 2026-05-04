@@ -1,4 +1,4 @@
-﻿# Gate Opened
+# Gate Opened
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Gate Opened |
 | GameObject Name | Bronze Trial Board |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level30 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level30 |
 | Start State | Idle |
 | FSM PathId | 688 |
 | GameObject PathId | 94 |

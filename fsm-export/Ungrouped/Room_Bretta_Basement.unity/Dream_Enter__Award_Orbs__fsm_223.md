@@ -1,4 +1,4 @@
-﻿# Award Orbs
+# Award Orbs
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Award Orbs |
 | GameObject Name | Dream Enter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level26 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level26 |
 | Start State | Init |
 | FSM PathId | 223 |
 | GameObject PathId | 34 |
@@ -123,7 +123,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Orb Get S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| gameObject |   | [Global] [Dream Orb Get S (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

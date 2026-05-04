@@ -1,4 +1,4 @@
-﻿# Centipede Hatcher
+# Centipede Hatcher
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Centipede Hatcher |
 | GameObject Name | Centipede Hatcher (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level287 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level287 |
 | Start State | Init |
 | FSM PathId | 3416 |
 | GameObject PathId | 567 |
@@ -52,10 +52,10 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Cage | [null] | NamedAssetPPtr: [null] |
-| Hatch Point | Centipede Hatcher (4)/Hatch Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Hatcher (4)/Hatch Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
+| Hatch Point | Centipede Hatcher (4)/Hatch Point (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Hatcher (4)/Hatch Point (Hollow Knight/hollow_knight_Data\level287)] |
 | Hatchling | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Spit Effect | Centipede Hatcher (4)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Hatcher (4)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |
+| Spit Effect | Centipede Hatcher (4)/Spit Effect (Hollow Knight/hollow_knight_Data\level287) | NamedAssetPPtr: [Centipede Hatcher (4)/Spit Effect (Hollow Knight/hollow_knight_Data\level287)] |
 | Terrain Block | [null] | NamedAssetPPtr: [null] |
 
 ### Objects
@@ -406,9 +406,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mimic_spider_transormation_stage_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets81.assets)] |   |   |
+| audioClip |   | [mimic_spider_transormation_stage_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets81.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 0.75f |   |   |
@@ -446,8 +446,8 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Baby Centipede (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
-| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |   |   |
+| gameObject |   | [Global] [Baby Centipede (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
+| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (Hollow Knight/hollow_knight_Data\level287)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Hatchling | Variable |   |
@@ -461,8 +461,8 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Baby Centipede (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
-| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |   |   |
+| gameObject |   | [Global] [Baby Centipede (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
+| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (Hollow Knight/hollow_knight_Data\level287)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Hatchling | Variable |   |
@@ -642,8 +642,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level287)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Centipede Hatcher (4)/Hatch Point (Hollow Knight/hollow_knight_Data\level287)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 12 |   |   |
 | spawnMax |   | 16 |   |   |
@@ -854,7 +854,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [Fluke_fly_attack_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets286.assets)] |   |   |
+| audioClip |   | [Fluke_fly_attack_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets286.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -1032,7 +1032,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [centipede_hatcher_fly_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets286.assets)] |   |   |
+| audioClip |   | [centipede_hatcher_fly_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets286.assets)] |   |   |
 
 ##### 2. AudioPlaySimple
 

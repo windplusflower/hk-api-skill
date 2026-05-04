@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Poo Greed |
 | GameObject Path | Charm Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level390 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level390 |
 | Start State | Init |
 | FSM PathId | 313 |
 | GameObject PathId | 56 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Charm Holder/Poo Greed/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level390) | NamedAssetPPtr: [Charm Holder/Poo Greed/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level390)] |
+| Wave | Charm Holder/Poo Greed/White Wave (Hollow Knight/hollow_knight_Data\level390) | NamedAssetPPtr: [Charm Holder/Poo Greed/White Wave (Hollow Knight/hollow_knight_Data\level390)] |
 
 ## States
 

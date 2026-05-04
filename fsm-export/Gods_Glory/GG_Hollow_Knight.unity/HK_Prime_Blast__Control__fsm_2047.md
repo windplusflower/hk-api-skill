@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | HK Prime Blast |
 | GameObject Path | Battle Scene/Focus Blasts/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Init |
 | FSM PathId | 2047 |
 | GameObject PathId | 559 |
@@ -34,7 +34,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Blast | Battle Scene/Focus Blasts/HK Prime Blast/Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447) | NamedAssetPPtr: [Battle Scene/Focus Blasts/HK Prime Blast/Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447)] |
+| Blast | Battle Scene/Focus Blasts/HK Prime Blast/Blast (Hollow Knight/hollow_knight_Data\level447) | NamedAssetPPtr: [Battle Scene/Focus Blasts/HK Prime Blast/Blast (Hollow Knight/hollow_knight_Data\level447)] |
 
 ## States
 
@@ -284,9 +284,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Focus Blasts/HK Prime Blast/Blast (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447)] |   |   |
-| audioClip |   | [explosion_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Focus Blasts/HK Prime Blast/Blast (Hollow Knight/hollow_knight_Data\level447)] |   |   |
+| audioClip |   | [explosion_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |

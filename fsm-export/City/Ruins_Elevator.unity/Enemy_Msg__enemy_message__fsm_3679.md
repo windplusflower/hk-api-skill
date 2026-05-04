@@ -1,4 +1,4 @@
-﻿# enemy_message
+# enemy_message
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | enemy_message |
 | GameObject Name | Enemy Msg |
 | GameObject Path | Ruins Lift/deepnest_spider_pieces_0010_a/ruins_lift_spikes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level86 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level86 |
 | Start State | Idle |
 | FSM PathId | 3679 |
 | GameObject PathId | 702 |

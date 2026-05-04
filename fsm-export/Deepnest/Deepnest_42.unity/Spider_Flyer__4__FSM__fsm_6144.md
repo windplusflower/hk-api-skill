@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spider Flyer (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level300 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level300 |
 | Start State | Idle |
 | FSM PathId | 6144 |
 | GameObject PathId | 715 |

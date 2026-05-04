@@ -1,4 +1,4 @@
-﻿# Shockwave Control
+# Shockwave Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shockwave Control |
 | GameObject Name | Shockwave |
 | GameObject Path | Battle Scene/Sly Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level460 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level460 |
 | Start State | Init |
 | FSM PathId | 1507 |
 | GameObject PathId | 336 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Sly | Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460) | NamedAssetPPtr: [Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460)] |
+| Sly | Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460) | NamedAssetPPtr: [Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460)] |
 
 ## States
 
@@ -44,7 +44,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| parent |   | [Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460)] |   |   |
+| parent |   | [Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 

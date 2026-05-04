@@ -1,4 +1,4 @@
-﻿# Destroy if parent null
+# Destroy if parent null
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy if parent null |
 | GameObject Name | Shell |
 | GameObject Path | Acid Flyer (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level138 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level138 |
 | Start State | Check |
 | FSM PathId | 7418 |
 | GameObject PathId | 174 |

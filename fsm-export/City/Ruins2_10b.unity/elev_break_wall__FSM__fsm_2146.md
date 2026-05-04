@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | elev_break wall |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level123 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level123 |
 | Start State | Pause |
 | FSM PathId | 2146 |
 | GameObject PathId | 410 |

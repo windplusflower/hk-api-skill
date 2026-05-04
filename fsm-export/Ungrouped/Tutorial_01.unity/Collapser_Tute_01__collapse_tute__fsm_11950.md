@@ -1,4 +1,4 @@
-﻿# collapse tute
+# collapse tute
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | collapse tute |
 | GameObject Name | Collapser Tute 01 |
 | GameObject Path | _Props/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Pause |
 | FSM PathId | 11950 |
 | GameObject PathId | 317 |
@@ -38,7 +38,7 @@
 | Floor 2 | [null] | NamedAssetPPtr: [null] |
 | Floor 3 | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Mask Object | mask_container/Tut_msk_02 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6) | NamedAssetPPtr: [mask_container/Tut_msk_02 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6)] |
+| Mask Object | mask_container/Tut_msk_02 (Hollow Knight/hollow_knight_Data\level6) | NamedAssetPPtr: [mask_container/Tut_msk_02 (Hollow Knight/hollow_knight_Data\level6)] |
 | Pool1 | [null] | NamedAssetPPtr: [null] |
 | Pool2 | [null] | NamedAssetPPtr: [null] |
 | Pool3 | [null] | NamedAssetPPtr: [null] |
@@ -279,7 +279,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Rubble Fall Once (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Rubble Fall Once (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(124, 66.46, 0.1) |   |   |
 | rotation |   | Vector3(90, -180, 0) |   |   |
@@ -294,9 +294,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [breakable_wall_death (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [breakable_wall_death (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -310,9 +310,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -326,9 +326,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_land_1st_time (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [false_knight_land_1st_time (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -354,7 +354,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Collapser Tute 01 (BoxCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6)]}.enabled |   |   |
+| targetProperty |   | Property {[Collapser Tute 01 (BoxCollider2D) (Hollow Knight/hollow_knight_Data\level6)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 20. SendEventByName
@@ -420,9 +420,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [breakable_wall_hit_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [breakable_wall_hit_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -571,7 +571,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[Collapser Tute 01 (BoxCollider2D) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6)]}.enabled |   |   |
+| targetProperty |   | Property {[Collapser Tute 01 (BoxCollider2D) (Hollow Knight/hollow_knight_Data\level6)]}.enabled |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SendEventByName

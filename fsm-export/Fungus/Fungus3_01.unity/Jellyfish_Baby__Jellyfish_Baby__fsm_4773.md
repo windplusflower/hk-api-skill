@@ -1,4 +1,4 @@
-﻿# Jellyfish Baby
+# Jellyfish Baby
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Jellyfish Baby |
 | GameObject Name | Jellyfish Baby |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level197 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level197 |
 | Start State | Init |
 | FSM PathId | 4773 |
 | GameObject PathId | 1149 |

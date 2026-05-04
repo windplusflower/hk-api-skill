@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Shoot Range |
 | GameObject Path | Battle Scene/Wave 3/Dragonfly Summon (2)/Mantis Heavy Flyer/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level203 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level203 |
 | Start State | Initialise |
 | FSM PathId | 4006 |
 | GameObject PathId | 430 |

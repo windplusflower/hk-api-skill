@@ -1,4 +1,4 @@
-﻿# Activation
+# Activation
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activation |
 | GameObject Name | Giraffe Upper NPC (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level196 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level196 |
 | Start State | Idle |
 | FSM PathId | 1195 |
 | GameObject PathId | 340 |

@@ -1,4 +1,4 @@
-﻿# shop_control
+# shop_control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | shop_control |
 | GameObject Name | Bank Menu |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2614 |
 | GameObject PathId | 57 |
@@ -43,9 +43,9 @@
 | Confirm UI List | [null] | NamedAssetPPtr: [null] |
 | Current Figurehead | [null] | NamedAssetPPtr: [null] |
 | Item List | [null] | NamedAssetPPtr: [null] |
-| Menu 1 | Bank Menu/Menu 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets) | NamedAssetPPtr: [Bank Menu/Menu 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |
+| Menu 1 | Bank Menu/Menu 1 (Hollow Knight/hollow_knight_Data\sharedassets218.assets) | NamedAssetPPtr: [Bank Menu/Menu 1 (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Txt Balance Amount | Bank Menu/Txt Balance Amount (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets) | NamedAssetPPtr: [Bank Menu/Txt Balance Amount (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |
+| Txt Balance Amount | Bank Menu/Txt Balance Amount (Hollow Knight/hollow_knight_Data\sharedassets218.assets) | NamedAssetPPtr: [Bank Menu/Txt Balance Amount (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |
 | Window | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -142,7 +142,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Menu 1" |   |   |
-| storeResult |   | [Bank Menu/Menu 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] | Variable |   |
+| storeResult |   | [Bank Menu/Menu 1 (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] | Variable |   |
 
 #### Transitions
 

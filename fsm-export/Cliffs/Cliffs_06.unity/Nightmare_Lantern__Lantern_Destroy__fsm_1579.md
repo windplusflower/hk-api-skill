@@ -1,4 +1,4 @@
-﻿# Lantern Destroy
+# Lantern Destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lantern Destroy |
 | GameObject Name | Nightmare Lantern |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | State 1 |
 | FSM PathId | 1579 |
 | GameObject PathId | 315 |

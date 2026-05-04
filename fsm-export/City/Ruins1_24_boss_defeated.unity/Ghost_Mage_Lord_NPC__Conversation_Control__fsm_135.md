@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Ghost Mage Lord NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level103 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level103 |
 | Start State | Pause |
 | FSM PathId | 135 |
 | GameObject PathId | 13 |
@@ -42,19 +42,19 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Ghost Mage Lord NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Idle Pt | Ghost Mage Lord NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
+| Attack Pt | Ghost Mage Lord NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level103)] |
+| Idle Pt | Ghost Mage Lord NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level103)] |
 | Inspect Region | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
-| Sprite | Ghost Mage Lord NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Vanish Burst Pt | Ghost Mage Lord NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Vanish Get Pt | Ghost Mage Lord NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Vanish Glow | Ghost Mage Lord NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Vanish Start Pt | Ghost Mage Lord NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Warp | Ghost Mage Lord NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| White Flash | Ghost Mage Lord NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
-| Wounded | Ghost Mage Lord NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |
+| Sprite | Ghost Mage Lord NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level103)] |
+| Vanish Burst Pt | Ghost Mage Lord NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level103)] |
+| Vanish Get Pt | Ghost Mage Lord NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level103)] |
+| Vanish Glow | Ghost Mage Lord NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level103)] |
+| Vanish Start Pt | Ghost Mage Lord NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level103)] |
+| Warp | Ghost Mage Lord NPC/Warp (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Warp (Hollow Knight/hollow_knight_Data\level103)] |
+| White Flash | Ghost Mage Lord NPC/White Flash (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/White Flash (Hollow Knight/hollow_knight_Data\level103)] |
+| Wounded | Ghost Mage Lord NPC/Wounded (Hollow Knight/hollow_knight_Data\level103) | NamedAssetPPtr: [Ghost Mage Lord NPC/Wounded (Hollow Knight/hollow_knight_Data\level103)] |
 
 ## States
 
@@ -585,9 +585,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -627,9 +627,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -738,7 +738,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Ghost Mage Lord NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level103)] |   |   |
+| gameObject |   | [Ghost Mage Lord NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level103)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -790,9 +790,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [ghost_absorb (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1013,9 +1013,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb_final_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_absorb_final_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -107,7 +107,7 @@ When working on Hollow Knight mods, treat logging as part of the API contract:
 1. **Code logging**: prefer Modding API logging interfaces such as `Mod.Log(...)`, `LogDebug(...)`, `LogWarn(...)`, `LogError(...)`, or `Modding.Logger.*`.
 2. **Do not default to Unity logging**: avoid using `UnityEngine.Debug.Log*` as the main channel for mod business/debug logs unless the task is specifically about Unity engine-level diagnostics.
 3. **Log file priority**: when investigating a mod issue, check `ModLog.txt` first, then use `Player.log` only as a supplemental Unity/game trace.
-4. **Common ModLog location**: `Application.persistentDataPath` maps on this machine to `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight`, so the usual file is `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`.
+4. **Common ModLog location**: the usual file is `<persistentDataPath>/ModLog.txt`. On Windows this commonly resolves under `AppData/LocalLow/Team Cherry/Hollow Knight/ModLog.txt`.
 
 ## Build & Dependency Rules
 

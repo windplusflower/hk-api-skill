@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Battle Start |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level449 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level449 |
 | Start State | Wait |
 | FSM PathId | 1795 |
 | GameObject PathId | 143 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hornet | Boss Holder/Hornet Boss 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level449) | NamedAssetPPtr: [Boss Holder/Hornet Boss 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level449)] |
+| Hornet | Boss Holder/Hornet Boss 2 (Hollow Knight/hollow_knight_Data\level449) | NamedAssetPPtr: [Boss Holder/Hornet Boss 2 (Hollow Knight/hollow_knight_Data\level449)] |
 
 ## States
 

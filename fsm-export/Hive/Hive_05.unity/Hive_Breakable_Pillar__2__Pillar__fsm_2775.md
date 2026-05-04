@@ -1,4 +1,4 @@
-﻿# Pillar
+# Pillar
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pillar |
 | GameObject Name | Hive Breakable Pillar (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Pause |
 | FSM PathId | 2775 |
 | GameObject PathId | 505 |
@@ -47,10 +47,10 @@
 | --- | --- | --- |
 | Damager | [null] | NamedAssetPPtr: [null] |
 | Hit Effect | [null] | NamedAssetPPtr: [null] |
-| Remains | Hive Breakable Pillar (2)/Remains (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Remains (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389)] |
-| Rubble | Hive Breakable Pillar (2)/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389)] |
+| Remains | Hive Breakable Pillar (2)/Remains (Hollow Knight/hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Remains (Hollow Knight/hollow_knight_Data\level389)] |
+| Rubble | Hive Breakable Pillar (2)/Rubble (Hollow Knight/hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Rubble (Hollow Knight/hollow_knight_Data\level389)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sprite | Hive Breakable Pillar (2)/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389)] |
+| Sprite | Hive Breakable Pillar (2)/Sprite (Hollow Knight/hollow_knight_Data\level389) | NamedAssetPPtr: [Hive Breakable Pillar (2)/Sprite (Hollow Knight/hollow_knight_Data\level389)] |
 
 ## States
 
@@ -438,7 +438,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |
@@ -459,7 +459,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |
@@ -480,7 +480,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -520,7 +520,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -792,7 +792,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [honey_pillar_final_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| oneShotClip |   | [honey_pillar_final_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 
 ##### 2. SetBoolValue
 
@@ -873,7 +873,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |
@@ -894,7 +894,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Honey (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets384.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Honey (Hollow Knight/hollow_knight_Data\sharedassets384.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 10 |   |   |
@@ -915,7 +915,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [Hive Breakable Pillar (2)/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level389)] |   |   |
+| containerObject |   | [Hive Breakable Pillar (2)/Rubble (Hollow Knight/hollow_knight_Data\level389)] |   |   |
 | adjustPosition |   | Vector3(0, 0, 0) |   |   |
 | randomisePosition |   | false |   |   |
 | speedMin |   | 0f |   |   |

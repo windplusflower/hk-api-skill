@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | False Shiny |
 | GameObject Path | Jelly Egg Empty (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level215 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level215 |
 | Start State | Pause |
 | FSM PathId | 4617 |
 | GameObject PathId | 513 |

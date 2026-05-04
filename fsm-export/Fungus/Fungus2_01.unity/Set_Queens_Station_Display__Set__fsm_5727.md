@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set Queens Station Display |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level165 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level165 |
 | Start State | Pause |
 | FSM PathId | 5727 |
 | GameObject PathId | 771 |

@@ -1,4 +1,4 @@
-﻿# Get Scream
+# Get Scream
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Get Scream |
 | GameObject Name | Scream Item |
 | GameObject Path | Scream Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level27 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level27 |
 | Start State | Pause |
 | FSM PathId | 6073 |
 | GameObject PathId | 122 |

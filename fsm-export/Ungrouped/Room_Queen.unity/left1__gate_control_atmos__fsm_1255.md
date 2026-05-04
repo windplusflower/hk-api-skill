@@ -1,4 +1,4 @@
-﻿# gate_control_atmos
+# gate_control_atmos
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | gate_control_atmos |
 | GameObject Name | left1 |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Pause Frame |
 | FSM PathId | 1255 |
 | GameObject PathId | 106 |

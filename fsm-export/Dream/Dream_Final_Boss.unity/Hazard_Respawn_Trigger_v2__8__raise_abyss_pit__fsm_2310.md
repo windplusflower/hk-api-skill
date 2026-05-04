@@ -1,4 +1,4 @@
-﻿# raise_abyss_pit
+# raise_abyss_pit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | raise_abyss_pit |
 | GameObject Name | Hazard Respawn Trigger v2 (8) |
 | GameObject Path | Boss Control/Ascend Respawns/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Init |
 | FSM PathId | 2310 |
 | GameObject PathId | 242 |

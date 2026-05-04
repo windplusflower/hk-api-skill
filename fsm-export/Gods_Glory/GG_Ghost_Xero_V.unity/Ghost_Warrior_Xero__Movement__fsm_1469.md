@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior Xero |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level493 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level493 |
 | Start State | Init |
 | FSM PathId | 1469 |
 | GameObject PathId | 147 |
@@ -50,12 +50,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Xero/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |
+| Attack Pt | Warrior/Ghost Warrior Xero/Attack Pt (Hollow Knight/hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Attack Pt (Hollow Knight/hollow_knight_Data\level493)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior Xero/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |
-| Warp | Ghost Warrior Slug/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets194.assets) | NamedAssetPPtr: [Ghost Warrior Slug/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets194.assets)] |
-| Warp Out | Warrior/Ghost Warrior Xero/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |
-| White Flash | Warrior/Ghost Warrior Xero/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] |
+| Target | Warrior/Ghost Warrior Xero/Target (Hollow Knight/hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Target (Hollow Knight/hollow_knight_Data\level493)] |
+| Warp | Ghost Warrior Slug/Warp (Hollow Knight/hollow_knight_Data\sharedassets194.assets) | NamedAssetPPtr: [Ghost Warrior Slug/Warp (Hollow Knight/hollow_knight_Data\sharedassets194.assets)] |
+| Warp Out | Warrior/Ghost Warrior Xero/Warp Out (Hollow Knight/hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/Warp Out (Hollow Knight/hollow_knight_Data\level493)] |
+| White Flash | Warrior/Ghost Warrior Xero/White Flash (Hollow Knight/hollow_knight_Data\level493) | NamedAssetPPtr: [Warrior/Ghost Warrior Xero/White Flash (Hollow Knight/hollow_knight_Data\level493)] |
 
 ## States
 
@@ -435,7 +435,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior Xero/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level493)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior Xero/Target (Hollow Knight/hollow_knight_Data\level493)] | Variable |   |
 | speedMax |   | 9f |   |   |
 | accelerationForce |   | 50f |   |   |
 | offsetX |   | 0f |   |   |

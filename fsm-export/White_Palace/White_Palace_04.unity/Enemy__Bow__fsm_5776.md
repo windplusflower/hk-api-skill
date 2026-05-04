@@ -1,4 +1,4 @@
-﻿# Bow
+# Bow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bow |
 | GameObject Name | Enemy |
 | GameObject Path | _Scenery/White_Servant_03 (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level368 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level368 |
 | Start State | State 1 |
 | FSM PathId | 5776 |
 | GameObject PathId | 1919 |
@@ -83,7 +83,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

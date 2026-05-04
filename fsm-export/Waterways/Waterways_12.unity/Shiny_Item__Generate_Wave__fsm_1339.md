@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Charm Dropper/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level360 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level360 |
 | Start State | Init |
 | FSM PathId | 1339 |
 | GameObject PathId | 132 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Charm Dropper/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level360) | NamedAssetPPtr: [Charm Dropper/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level360)] |
+| Wave | Charm Dropper/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level360) | NamedAssetPPtr: [Charm Dropper/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level360)] |
 
 ## States
 

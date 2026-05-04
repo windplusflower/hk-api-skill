@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | Warrior/Ghost Warrior Markoth/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level490 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level490 |
 | Start State | Idle |
 | FSM PathId | 1120 |
 | GameObject PathId | 217 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | gg_atrium_hidden_path |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level424 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level424 |
 | Start State | Idle |
 | FSM PathId | 5618 |
 | GameObject PathId | 1262 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Closed | gg_atrium_hidden_path/top_leaves_closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path/top_leaves_closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
-| Open | gg_atrium_hidden_path/top_leaves_path_glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path/top_leaves_path_glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level424)] |
+| Closed | gg_atrium_hidden_path/top_leaves_closed (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path/top_leaves_closed (Hollow Knight/hollow_knight_Data\level424)] |
+| Open | gg_atrium_hidden_path/top_leaves_path_glow (Hollow Knight/hollow_knight_Data\level424) | NamedAssetPPtr: [gg_atrium_hidden_path/top_leaves_path_glow (Hollow Knight/hollow_knight_Data\level424)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Audio Field Conveyor |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level249 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level249 |
 | Start State | Pause |
 | FSM PathId | 8249 |
 | GameObject PathId | 2668 |

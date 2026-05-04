@@ -1,4 +1,4 @@
-﻿# Land Detector
+# Land Detector
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Land Detector |
 | GameObject Name | Landing Box |
 | GameObject Path | Chain Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level106 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level106 |
 | Start State | State 1 |
 | FSM PathId | 5538 |
 | GameObject PathId | 1389 |

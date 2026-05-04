@@ -1,4 +1,4 @@
-﻿# Quake Fake
+# Quake Fake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Quake Fake |
 | GameObject Name | Quake Fake |
 | GameObject Path | Quake Fake Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Idle |
 | FSM PathId | 2858 |
 | GameObject PathId | 136 |
@@ -130,7 +130,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# disable_special_death
+# disable_special_death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | disable_special_death |
 | GameObject Name | Ruins Sentry 1 (1) |
 | GameObject Path | Activate on Hero contact Trigger/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level117 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level117 |
 | Start State | State 1 |
 | FSM PathId | 4949 |
 | GameObject PathId | 968 |

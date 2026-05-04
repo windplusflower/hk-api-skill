@@ -1,4 +1,4 @@
-﻿# Shadow Dash
+# Shadow Dash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shadow Dash |
 | GameObject Name | Abyss Tendrils |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level340 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level340 |
 | Start State | Init |
 | FSM PathId | 2399 |
 | GameObject PathId | 105 |

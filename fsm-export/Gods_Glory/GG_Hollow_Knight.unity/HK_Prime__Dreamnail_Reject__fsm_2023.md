@@ -1,4 +1,4 @@
-﻿# Dreamnail Reject
+# Dreamnail Reject
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dreamnail Reject |
 | GameObject Name | HK Prime |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Init |
 | FSM PathId | 2023 |
 | GameObject PathId | 256 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
+| Attack Pt | Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
 | Collider | [null] | NamedAssetPPtr: [null] |
 | Dream Impact | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -57,7 +57,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Attack Pt" |   |   |
-| storeResult |   | [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | Variable |   |
+| storeResult |   | [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -129,9 +129,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [sword_hit_reject (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [sword_hit_reject (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

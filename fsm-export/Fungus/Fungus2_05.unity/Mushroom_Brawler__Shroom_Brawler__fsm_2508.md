@@ -1,4 +1,4 @@
-﻿# Shroom Brawler
+# Shroom Brawler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shroom Brawler |
 | GameObject Name | Mushroom Brawler |
 | GameObject Path | Battle Scene v2/Completed/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Init |
 | FSM PathId | 2508 |
 | GameObject PathId | 551 |
@@ -47,10 +47,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Cap Hit | Battle Scene v2/Completed/Mushroom Brawler/Cap Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Cap Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
-| Smash Hits | Battle Scene v2/Completed/Mushroom Brawler/Smash Hits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Smash Hits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
-| Spit Effect | Battle Scene v2/Completed/Mushroom Brawler/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
-| Spit Point | Battle Scene v2/Completed/Mushroom Brawler/Spit Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Spit Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |
+| Cap Hit | Battle Scene v2/Completed/Mushroom Brawler/Cap Hit (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Cap Hit (Hollow Knight/hollow_knight_Data\level169)] |
+| Smash Hits | Battle Scene v2/Completed/Mushroom Brawler/Smash Hits (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Smash Hits (Hollow Knight/hollow_knight_Data\level169)] |
+| Spit Effect | Battle Scene v2/Completed/Mushroom Brawler/Spit Effect (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Spit Effect (Hollow Knight/hollow_knight_Data\level169)] |
+| Spit Point | Battle Scene v2/Completed/Mushroom Brawler/Spit Point (Hollow Knight/hollow_knight_Data\level169) | NamedAssetPPtr: [Battle Scene v2/Completed/Mushroom Brawler/Spit Point (Hollow Knight/hollow_knight_Data\level169)] |
 
 ## States
 
@@ -187,7 +187,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_brawler_awaken (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets169.assets)] |   |   |
+| oneShotClip |   | [mushroom_brawler_awaken (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets169.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1050,7 +1050,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_brawler_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets169.assets)] |   |   |
+| oneShotClip |   | [mushroom_brawler_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets169.assets)] |   |   |
 
 ##### 2. SendEventByName
 
@@ -1215,8 +1215,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob NoiseFix (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
-| spawnPoint |   | [Battle Scene v2/Completed/Mushroom Brawler/Spit Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level169)] |   |   |
+| gameObject |   | [Global] [Vomit Glob NoiseFix (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
+| spawnPoint |   | [Battle Scene v2/Completed/Mushroom Brawler/Spit Point (Hollow Knight/hollow_knight_Data\level169)] |   |   |
 | position |   | Vector3(0, 0, -0.004) |   |   |
 | spawnMin |   | 2 |   |   |
 | spawnMax |   | 4 |   |   |
@@ -1339,7 +1339,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mushroom_brawler_awaken (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets169.assets)] |   |   |
+| oneShotClip |   | [mushroom_brawler_awaken (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets169.assets)] |   |   |
 
 #### Transitions
 

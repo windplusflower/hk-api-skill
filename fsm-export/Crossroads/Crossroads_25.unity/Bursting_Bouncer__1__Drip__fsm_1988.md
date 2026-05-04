@@ -1,4 +1,4 @@
-﻿# Drip
+# Drip
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Drip |
 | GameObject Name | Bursting Bouncer (1) |
 | GameObject Path | Infected_Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level60 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level60 |
 | Start State | Init |
 | FSM PathId | 1988 |
 | GameObject PathId | 193 |
@@ -93,7 +93,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mawlek (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Shot Mawlek (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

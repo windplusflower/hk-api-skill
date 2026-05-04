@@ -1,4 +1,4 @@
-﻿# Recycle After Sound Played
+# Recycle After Sound Played
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Recycle After Sound Played |
 | GameObject Name | flock sound 2 |
 | GameObject Path | white_butterflies_right (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level376 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level376 |
 | Start State | Wait |
 | FSM PathId | 14556 |
 | GameObject PathId | 5022 |

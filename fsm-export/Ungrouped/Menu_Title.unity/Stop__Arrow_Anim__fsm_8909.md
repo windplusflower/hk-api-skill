@@ -1,4 +1,4 @@
-﻿# Arrow Anim
+# Arrow Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Arrow Anim |
 | GameObject Name | Stop |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/Text/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 8909 |
 | GameObject PathId | 1421 |

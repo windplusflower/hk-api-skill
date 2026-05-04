@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | mines_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level248 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level248 |
 | Start State | Pause |
 | FSM PathId | 2846 |
 | GameObject PathId | 114 |

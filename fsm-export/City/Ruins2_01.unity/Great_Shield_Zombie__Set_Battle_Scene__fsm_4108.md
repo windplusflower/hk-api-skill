@@ -1,4 +1,4 @@
-﻿# Set Battle Scene
+# Set Battle Scene
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Battle Scene |
 | GameObject Name | Great Shield Zombie |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level111 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level111 |
 | Start State | Pause |
 | FSM PathId | 4108 |
 | GameObject PathId | 287 |

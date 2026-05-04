@@ -1,4 +1,4 @@
-﻿# Control Mesh Renderer
+# Control Mesh Renderer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control Mesh Renderer |
 | GameObject Name | Bound Nail Icon |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Extras/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Hide |
 | FSM PathId | 10435 |
 | GameObject PathId | 2090 |

@@ -1,4 +1,4 @@
-﻿# fade
+# fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade |
 | GameObject Name | Grimm_sleep_shield (1) |
 | GameObject Path | Grimm_sleep_shield/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Init |
 | FSM PathId | 1970 |
 | GameObject PathId | 88 |

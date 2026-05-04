@@ -1,4 +1,4 @@
-﻿# Delay Collider
+# Delay Collider
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Delay Collider |
 | GameObject Name | top1 |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | State 1 |
 | FSM PathId | 11990 |
 | GameObject PathId | 985 |

@@ -1,4 +1,4 @@
-﻿# Crowd Control
+# Crowd Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crowd Control |
 | GameObject Name | Crowd |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | Init |
 | FSM PathId | 537 |
 | GameObject PathId | 14 |

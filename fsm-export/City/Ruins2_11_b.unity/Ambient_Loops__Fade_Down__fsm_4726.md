@@ -1,4 +1,4 @@
-﻿# Fade Down
+# Fade Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fade Down |
 | GameObject Name | Ambient Loops |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Pause |
 | FSM PathId | 4726 |
 | GameObject PathId | 1020 |

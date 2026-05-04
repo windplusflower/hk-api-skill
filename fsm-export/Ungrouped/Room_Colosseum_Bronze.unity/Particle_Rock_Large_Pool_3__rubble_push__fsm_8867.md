@@ -1,4 +1,4 @@
-﻿# rubble_push
+# rubble_push
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | rubble_push |
 | GameObject Name | Particle Rock Large Pool 3 |
 | GameObject Path | colosseum gold trophy/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Init |
 | FSM PathId | 8867 |
 | GameObject PathId | 494 |

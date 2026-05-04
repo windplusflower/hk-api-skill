@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Shot Mantis Lord |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Pause |
 | FSM PathId | 332 |
 | GameObject PathId | 65 |
@@ -34,8 +34,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Pt DU | Shot Mantis Lord/Pt DU (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Shot Mantis Lord/Pt DU (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
-| Pt UD | Shot Mantis Lord/Pt UD (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Shot Mantis Lord/Pt UD (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
+| Pt DU | Shot Mantis Lord/Pt DU (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Shot Mantis Lord/Pt DU (Hollow Knight/hollow_knight_Data\level180)] |
+| Pt UD | Shot Mantis Lord/Pt UD (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Shot Mantis Lord/Pt UD (Hollow Knight/hollow_knight_Data\level180)] |
 
 ## States
 
@@ -717,9 +717,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [sword_hit_reject (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [sword_hit_reject (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |

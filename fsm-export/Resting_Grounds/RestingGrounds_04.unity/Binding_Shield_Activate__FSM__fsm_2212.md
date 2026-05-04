@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Binding Shield Activate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level239 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level239 |
 | Start State | Pause |
 | FSM PathId | 2212 |
 | GameObject PathId | 79 |

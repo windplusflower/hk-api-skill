@@ -1,4 +1,4 @@
-﻿# Look at dung corpse
+# Look at dung corpse
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Look at dung corpse |
 | GameObject Name | Godseeker Crowd |
 | GameObject Path | GG_Arena_Prefab/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | State 1 |
 | FSM PathId | 1850 |
 | GameObject PathId | 598 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Corpse | GG_Arena_Prefab/Dung Corpse BG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [GG_Arena_Prefab/Dung Corpse BG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
+| Corpse | GG_Arena_Prefab/Dung Corpse BG (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [GG_Arena_Prefab/Dung Corpse BG (Hollow Knight/hollow_knight_Data\level430)] |
 
 ## States
 

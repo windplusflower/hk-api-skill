@@ -1,4 +1,4 @@
-﻿# Area Resetter
+# Area Resetter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Area Resetter |
 | GameObject Name | Area Resetter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Detect |
 | FSM PathId | 3763 |
 | GameObject PathId | 89 |

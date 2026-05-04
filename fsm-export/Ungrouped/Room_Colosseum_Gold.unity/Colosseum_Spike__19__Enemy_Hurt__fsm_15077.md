@@ -1,4 +1,4 @@
-﻿# Enemy Hurt
+# Enemy Hurt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enemy Hurt |
 | GameObject Name | Colosseum Spike (19) |
 | GameObject Path | Colosseum Manager/Ground Spikes/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Hurt |
 | FSM PathId | 15077 |
 | GameObject PathId | 12 |

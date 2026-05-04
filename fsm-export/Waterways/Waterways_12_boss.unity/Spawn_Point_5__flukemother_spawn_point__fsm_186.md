@@ -1,4 +1,4 @@
-﻿# flukemother_spawn_point
+# flukemother_spawn_point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flukemother_spawn_point |
 | GameObject Name | Spawn Point 5 |
 | GameObject Path | Fluke Mother/Spawn Points/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level361 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level361 |
 | Start State | Init |
 | FSM PathId | 186 |
 | GameObject PathId | 13 |
@@ -26,7 +26,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Gush Audio | Fluke Mother/Gush Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level361) | NamedAssetPPtr: [Fluke Mother/Gush Audio (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level361)] |
+| Gush Audio | Fluke Mother/Gush Audio (Hollow Knight/hollow_knight_Data\level361) | NamedAssetPPtr: [Fluke Mother/Gush Audio (Hollow Knight/hollow_knight_Data\level361)] |
 | Pt Blood | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Spit Effect | [null] | NamedAssetPPtr: [null] |

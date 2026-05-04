@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Mid Chunk |
 | GameObject Path | Ruins Soul Vial/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level101 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level101 |
 | Start State | Spin At Start? |
 | FSM PathId | 6953 |
 | GameObject PathId | 1410 |

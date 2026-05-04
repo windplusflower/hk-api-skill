@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Trigger Region |
 | GameObject Path | Sequence/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level500 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level500 |
 | Start State | Idle |
 | FSM PathId | 1349 |
 | GameObject PathId | 209 |
@@ -25,7 +25,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Animator | Sequence/Hallownest_call_event (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level500) | NamedAssetPPtr: [Sequence/Hallownest_call_event (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level500)] |
+| Animator | Sequence/Hallownest_call_event (Hollow Knight/hollow_knight_Data\level500) | NamedAssetPPtr: [Sequence/Hallownest_call_event (Hollow Knight/hollow_knight_Data\level500)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -219,9 +219,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [GS_standard_06 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets500.assets)] |   |   |
+| audioClip |   | [GS_standard_06 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets500.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

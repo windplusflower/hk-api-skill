@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Character Sprite |
 | GameObject Path | Ghost Mage Lord NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level103 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level103 |
 | Start State | Init |
 | FSM PathId | 126 |
 | GameObject PathId | 22 |

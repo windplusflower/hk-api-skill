@@ -1,4 +1,4 @@
-﻿# End
+# End
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | End |
 | GameObject Name | Corpse End |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | State 1 |
 | FSM PathId | 9377 |
 | GameObject PathId | 263 |

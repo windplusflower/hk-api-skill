@@ -1,4 +1,4 @@
-﻿# Fountain Control
+# Fountain Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fountain Control |
 | GameObject Name | Wishing_Well_anims |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level332 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level332 |
 | Start State | Pause |
 | FSM PathId | 7782 |
 | GameObject PathId | 69 |

@@ -1,4 +1,4 @@
-﻿# Destroy
+# Destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Pause |
 | FSM PathId | 14218 |
 | GameObject PathId | 2914 |

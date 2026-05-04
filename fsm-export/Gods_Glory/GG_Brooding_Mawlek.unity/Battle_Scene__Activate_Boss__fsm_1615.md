@@ -1,4 +1,4 @@
-﻿# Activate Boss
+# Activate Boss
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate Boss |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level426 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level426 |
 | Start State | State 1 |
 | FSM PathId | 1615 |
 | GameObject PathId | 44 |

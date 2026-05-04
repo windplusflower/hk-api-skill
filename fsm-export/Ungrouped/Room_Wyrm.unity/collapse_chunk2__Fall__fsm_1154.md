@@ -1,4 +1,4 @@
-﻿# Fall
+# Fall
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fall |
 | GameObject Name | collapse_chunk2 |
 | GameObject Path | Avalanche End/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level326 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level326 |
 | Start State | Init |
 | FSM PathId | 1154 |
 | GameObject PathId | 158 |

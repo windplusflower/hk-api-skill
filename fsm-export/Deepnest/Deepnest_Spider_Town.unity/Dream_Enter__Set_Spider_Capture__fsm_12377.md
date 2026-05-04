@@ -1,4 +1,4 @@
-﻿# Set Spider Capture
+# Set Spider Capture
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Spider Capture |
 | GameObject Name | Dream Enter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | State 1 |
 | FSM PathId | 12377 |
 | GameObject PathId | 952 |

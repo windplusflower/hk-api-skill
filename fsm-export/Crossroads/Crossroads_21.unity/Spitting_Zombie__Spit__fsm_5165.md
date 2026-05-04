@@ -1,4 +1,4 @@
-﻿# Spit
+# Spit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spit |
 | GameObject Name | Spitting Zombie |
 | GameObject Path | infected_event/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level58 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level58 |
 | Start State | Init |
 | FSM PathId | 5165 |
 | GameObject PathId | 1018 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Self | infected_event/Spitting Zombie (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58) | NamedAssetPPtr: [infected_event/Spitting Zombie (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |
-| SpawnPoint | infected_event/Spitting Zombie/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58) | NamedAssetPPtr: [infected_event/Spitting Zombie/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |
+| Self | infected_event/Spitting Zombie (Hollow Knight/hollow_knight_Data\level58) | NamedAssetPPtr: [infected_event/Spitting Zombie (Hollow Knight/hollow_knight_Data\level58)] |
+| SpawnPoint | infected_event/Spitting Zombie/Spawn Point (Hollow Knight/hollow_knight_Data\level58) | NamedAssetPPtr: [infected_event/Spitting Zombie/Spawn Point (Hollow Knight/hollow_knight_Data\level58)] |
 
 ## States
 
@@ -66,7 +66,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [infected_event/Spitting Zombie (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |   |   |
+| gameObject |   | [infected_event/Spitting Zombie (Hollow Knight/hollow_knight_Data\level58)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -124,7 +124,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [infected_event/Spitting Zombie (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |   |   |
+| objectA |   | [infected_event/Spitting Zombie (Hollow Knight/hollow_knight_Data\level58)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | false |   |   |
 | playNewAnimation |   | false |   |   |
@@ -165,8 +165,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mawlek (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
-| spawnPoint |   | [infected_event/Spitting Zombie/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |   |   |
+| gameObject |   | [Global] [Shot Mawlek (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
+| spawnPoint |   | [infected_event/Spitting Zombie/Spawn Point (Hollow Knight/hollow_knight_Data\level58)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
 | spawnMax |   | 3 |   |   |
@@ -282,8 +282,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mawlek (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
-| spawnPoint |   | [infected_event/Spitting Zombie/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] |   |   |
+| gameObject |   | [Global] [Shot Mawlek (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
+| spawnPoint |   | [infected_event/Spitting Zombie/Spawn Point (Hollow Knight/hollow_knight_Data\level58)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
 | spawnMax |   | 3 |   |   |
@@ -328,7 +328,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [spitting_zombie_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [spitting_zombie_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. SendEventByName
 
@@ -378,7 +378,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| storeGameObject |   | [infected_event/Spitting Zombie (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level58)] | Variable |   |
+| storeGameObject |   | [infected_event/Spitting Zombie (Hollow Knight/hollow_knight_Data\level58)] | Variable |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# Check State
+# Check State
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check State |
 | GameObject Name | Bathhouse Door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level116 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level116 |
 | Start State | Pause |
 | FSM PathId | 5081 |
 | GameObject PathId | 661 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Door Closed | Bathhouse Door/Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116)] |
-| Door Object | Bathhouse Door/door_Ruin_Elevator (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/door_Ruin_Elevator (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116)] |
-| Door Open | Bathhouse Door/Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116)] |
-| Inspect | Bathhouse Door/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Inspect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level116)] |
+| Door Closed | Bathhouse Door/Closed (Hollow Knight/hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Closed (Hollow Knight/hollow_knight_Data\level116)] |
+| Door Object | Bathhouse Door/door_Ruin_Elevator (Hollow Knight/hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/door_Ruin_Elevator (Hollow Knight/hollow_knight_Data\level116)] |
+| Door Open | Bathhouse Door/Open (Hollow Knight/hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Open (Hollow Knight/hollow_knight_Data\level116)] |
+| Inspect | Bathhouse Door/Inspect (Hollow Knight/hollow_knight_Data\level116) | NamedAssetPPtr: [Bathhouse Door/Inspect (Hollow Knight/hollow_knight_Data\level116)] |
 
 ## States
 

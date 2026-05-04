@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door_dreamEnter |
 | GameObject Path | Boss Scene Controller/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level439 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level439 |
 | Start State | Idle |
 | FSM PathId | 2087 |
 | GameObject PathId | 637 |

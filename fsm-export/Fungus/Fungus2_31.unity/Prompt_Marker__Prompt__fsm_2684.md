@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Mantis Chest/Item/Shiny Item Charm/Inspect Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level193 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level193 |
 | Start State | Init |
 | FSM PathId | 2684 |
 | GameObject PathId | 304 |

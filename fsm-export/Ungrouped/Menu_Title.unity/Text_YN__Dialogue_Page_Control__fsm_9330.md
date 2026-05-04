@@ -1,4 +1,4 @@
-﻿# Dialogue Page Control
+# Dialogue Page Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dialogue Page Control |
 | GameObject Name | Text YN |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9330 |
 | GameObject PathId | 1376 |

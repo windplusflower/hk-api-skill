@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | cd_FG_eggs_11 |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level74 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level74 |
 | Start State | Idle |
 | FSM PathId | 1429 |
 | GameObject PathId | 143 |

@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level48 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level48 |
 | Start State | Pause |
 | FSM PathId | 247 |
 | GameObject PathId | 10 |
@@ -30,16 +30,16 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Armour | Battle Scene/FK Armour (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/FK Armour (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Barger | Battle Scene/Pre Battle Enemies/Zombie Barger (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Barger (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| CameraLock 1 | Battle Scene/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| CameraLock 2 | Battle Scene/CameraLockArea B2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/CameraLockArea B2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| False Knight | Battle Scene/False Knight New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/False Knight New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Floor | Battle Scene/FK Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/FK Floor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Hornhead | Battle Scene/Pre Battle Enemies/Zombie Hornhead (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Hornhead (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Pre Battle Enemies | Battle Scene/Pre Battle Enemies (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Runner | Battle Scene/Pre Battle Enemies/Zombie Runner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Runner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
-| Tension Region | Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |
+| Armour | Battle Scene/FK Armour (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/FK Armour (Hollow Knight/hollow_knight_Data\level48)] |
+| Barger | Battle Scene/Pre Battle Enemies/Zombie Barger (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Barger (Hollow Knight/hollow_knight_Data\level48)] |
+| CameraLock 1 | Battle Scene/CameraLockArea B (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/CameraLockArea B (Hollow Knight/hollow_knight_Data\level48)] |
+| CameraLock 2 | Battle Scene/CameraLockArea B2 (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/CameraLockArea B2 (Hollow Knight/hollow_knight_Data\level48)] |
+| False Knight | Battle Scene/False Knight New (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/False Knight New (Hollow Knight/hollow_knight_Data\level48)] |
+| Floor | Battle Scene/FK Floor (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/FK Floor (Hollow Knight/hollow_knight_Data\level48)] |
+| Hornhead | Battle Scene/Pre Battle Enemies/Zombie Hornhead (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Hornhead (Hollow Knight/hollow_knight_Data\level48)] |
+| Pre Battle Enemies | Battle Scene/Pre Battle Enemies (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies (Hollow Knight/hollow_knight_Data\level48)] |
+| Runner | Battle Scene/Pre Battle Enemies/Zombie Runner (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Pre Battle Enemies/Zombie Runner (Hollow Knight/hollow_knight_Data\level48)] |
+| Tension Region | Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level48) | NamedAssetPPtr: [Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level48)] |
 
 ## States
 
@@ -110,7 +110,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/FK Armour (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/FK Armour (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -147,7 +147,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -234,7 +234,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/CameraLockArea B (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -245,7 +245,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/CameraLockArea B2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/CameraLockArea B2 (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -328,7 +328,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/Music Region B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/Music Region B (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -351,7 +351,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/CameraLockArea B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/CameraLockArea B (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -362,7 +362,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/CameraLockArea B2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/CameraLockArea B2 (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -373,7 +373,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/False Knight New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/False Knight New (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -384,7 +384,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Battle Scene/Pre Battle Enemies (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| gameObject |   | [Battle Scene/Pre Battle Enemies (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -444,7 +444,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Hornhead (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Hornhead (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | AttackType |   | 1 |   |   |
 | CircleDirection |   | false |   |   |
 | DamageDealt |   | 9999 |   |   |
@@ -474,7 +474,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Runner (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Runner (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | AttackType |   | 1 |   |   |
 | CircleDirection |   | false |   |   |
 | DamageDealt |   | 9999 |   |   |
@@ -504,7 +504,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Barger (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level48)] |   |   |
+| Target |   | [Battle Scene/Pre Battle Enemies/Zombie Barger (Hollow Knight/hollow_knight_Data\level48)] |   |   |
 | AttackType |   | 1 |   |   |
 | CircleDirection |   | false |   |   |
 | DamageDealt |   | 9999 |   |   |

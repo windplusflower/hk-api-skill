@@ -1,4 +1,4 @@
-﻿# Chandelier Smash
+# Chandelier Smash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Chandelier Smash |
 | GameObject Name | Black Knight 3 |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level115 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level115 |
 | Start State | Idle |
 | FSM PathId | 932 |
 | GameObject PathId | 28 |

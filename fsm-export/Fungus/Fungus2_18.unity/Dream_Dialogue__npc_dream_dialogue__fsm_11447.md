@@ -1,4 +1,4 @@
-﻿# npc_dream_dialogue
+# npc_dream_dialogue
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | npc_dream_dialogue |
 | GameObject Name | Dream Dialogue |
 | GameObject Path | Card & Mushroom/Mr Mushroom NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level183 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level183 |
 | Start State | Init |
 | FSM PathId | 11447 |
 | GameObject PathId | 1411 |
@@ -25,8 +25,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Active Pt | Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
-| Impact Pt | Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
+| Active Pt | Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
+| Impact Pt | Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -57,7 +57,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Active Pt" |   |   |
-| storeResult |   | [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | Variable |   |
+| storeResult |   | [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -68,7 +68,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Impact Pt" |   |   |
-| storeResult |   | [Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | Variable |   |
+| storeResult |   | [Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | Variable |   |
 
 #### Transitions
 
@@ -168,7 +168,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [dream_area_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [dream_area_effect (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -183,7 +183,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

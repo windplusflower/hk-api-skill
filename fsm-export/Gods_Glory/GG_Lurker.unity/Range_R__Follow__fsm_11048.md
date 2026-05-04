@@ -1,4 +1,4 @@
-﻿# Follow
+# Follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow |
 | GameObject Name | Range R |
 | GameObject Path | Lurker Control/Pale Lurker/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level451 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level451 |
 | Start State | Pause Frame |
 | FSM PathId | 11048 |
 | GameObject PathId | 3825 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Tiso Bench NPC |
 | GameObject Path | _NPCs/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level77 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level77 |
 | Start State | Pause |
 | FSM PathId | 1069 |
 | GameObject PathId | 189 |

@@ -1,4 +1,4 @@
-﻿# Manhole Control
+# Manhole Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Manhole Control |
 | GameObject Name | Waterways Manhole |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level93 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level93 |
 | Start State | Pause |
 | FSM PathId | 2719 |
 | GameObject PathId | 147 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Open Anim | Waterways Manhole/Open Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Manhole/Open Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
-| Opened | Waterways Manhole/Opened (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Manhole/Opened (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level93)] |
+| Open Anim | Waterways Manhole/Open Anim (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Manhole/Open Anim (Hollow Knight/hollow_knight_Data\level93)] |
+| Opened | Waterways Manhole/Opened (Hollow Knight/hollow_knight_Data\level93) | NamedAssetPPtr: [Waterways Manhole/Opened (Hollow Knight/hollow_knight_Data\level93)] |
 
 ## States
 

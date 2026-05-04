@@ -1,4 +1,4 @@
-﻿# Set Pinned
+# Set Pinned
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Pinned |
 | GameObject Name | Pin Range |
 | GameObject Path | Dream Plant/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level264 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level264 |
 | Start State | Idle |
 | FSM PathId | 5297 |
 | GameObject PathId | 266 |

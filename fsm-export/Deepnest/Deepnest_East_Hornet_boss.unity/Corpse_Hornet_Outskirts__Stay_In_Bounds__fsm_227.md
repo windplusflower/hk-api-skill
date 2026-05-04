@@ -1,4 +1,4 @@
-﻿# Stay In Bounds
+# Stay In Bounds
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stay In Bounds |
 | GameObject Name | Corpse Hornet Outskirts |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level325 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level325 |
 | Start State | Idle |
 | FSM PathId | 227 |
 | GameObject PathId | 33 |

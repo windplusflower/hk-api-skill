@@ -1,4 +1,4 @@
-﻿# Check Journal Placement
+# Check Journal Placement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Journal Placement |
 | GameObject Name | Hunter Eyes |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Init |
 | FSM PathId | 4329 |
 | GameObject PathId | 58 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Shiny Item | Hunter Eyes/Shiny Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level137) | NamedAssetPPtr: [Hunter Eyes/Shiny Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level137)] |
+| Shiny Item | Hunter Eyes/Shiny Item (Hollow Knight/hollow_knight_Data\level137) | NamedAssetPPtr: [Hunter Eyes/Shiny Item (Hollow Knight/hollow_knight_Data\level137)] |
 
 ## States
 

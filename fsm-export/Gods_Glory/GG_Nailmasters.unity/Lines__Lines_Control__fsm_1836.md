@@ -1,4 +1,4 @@
-﻿# Lines Control
+# Lines Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lines Control |
 | GameObject Name | Lines |
 | GameObject Path | Brothers/Mato/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level454 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level454 |
 | Start State | State 1 |
 | FSM PathId | 1836 |
 | GameObject PathId | 348 |

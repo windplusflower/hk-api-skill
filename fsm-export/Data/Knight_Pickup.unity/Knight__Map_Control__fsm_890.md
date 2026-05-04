@@ -1,4 +1,4 @@
-﻿# Map Control
+# Map Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Map Control |
 | GameObject Name | Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Pause |
 | FSM PathId | 890 |
 | GameObject PathId | 161 |

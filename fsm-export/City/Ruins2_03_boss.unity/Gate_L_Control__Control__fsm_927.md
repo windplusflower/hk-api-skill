@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Gate L Control |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level115 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level115 |
 | Start State | Idle |
 | FSM PathId | 927 |
 | GameObject PathId | 64 |

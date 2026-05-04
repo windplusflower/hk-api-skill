@@ -1,4 +1,4 @@
-﻿# Shaker
+# Shaker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shaker |
 | GameObject Name | Shake Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level276 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level276 |
 | Start State | Idle |
 | FSM PathId | 5815 |
 | GameObject PathId | 1894 |

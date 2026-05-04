@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fluke Fly (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level353 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level353 |
 | Start State | Wait |
 | FSM PathId | 4414 |
 | GameObject PathId | 422 |

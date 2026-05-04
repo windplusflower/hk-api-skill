@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Slam Effect |
 | GameObject Path | Battle Scene/Sheo Boss/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level457 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level457 |
 | Start State | Init |
 | FSM PathId | 2438 |
 | GameObject PathId | 683 |

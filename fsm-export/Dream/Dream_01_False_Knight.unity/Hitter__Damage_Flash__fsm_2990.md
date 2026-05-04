@@ -1,4 +1,4 @@
-﻿# Damage Flash
+# Damage Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Flash |
 | GameObject Name | Hitter |
 | GameObject Path | False Knight Dream/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level395 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level395 |
 | Start State | Idle |
 | FSM PathId | 2990 |
 | GameObject PathId | 771 |

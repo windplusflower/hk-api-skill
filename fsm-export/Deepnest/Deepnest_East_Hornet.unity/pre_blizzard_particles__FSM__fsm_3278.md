@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | pre_blizzard_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level324 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level324 |
 | Start State | Pause |
 | FSM PathId | 3278 |
 | GameObject PathId | 612 |

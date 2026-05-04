@@ -1,4 +1,4 @@
-﻿# Leave
+# Leave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Leave |
 | GameObject Name | Nailsmith Leave Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level16 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level16 |
 | Start State | Idle |
 | FSM PathId | 148 |
 | GameObject PathId | 24 |

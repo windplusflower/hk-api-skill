@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Map Key |
 | GameObject Path | _GameCameras/HudCamera/Inventory/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Pause |
 | FSM PathId | 9194 |
 | GameObject PathId | 1109 |
@@ -48,22 +48,22 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Action | _GameCameras/HudCamera/Inventory/Map Key/Action (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Action Text | _GameCameras/HudCamera/Inventory/Map Key/Action/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action/Text (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Backboard Key | _GameCameras/HudCamera/Inventory/Map Key/Backboard Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Backboard Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Action | _GameCameras/HudCamera/Inventory/Map Key/Action (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action (Hollow Knight/hollow_knight_Data\level1)] |
+| Action Text | _GameCameras/HudCamera/Inventory/Map Key/Action/Text (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Action/Text (Hollow Knight/hollow_knight_Data\level1)] |
+| Backboard Key | _GameCameras/HudCamera/Inventory/Map Key/Backboard Key (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Backboard Key (Hollow Knight/hollow_knight_Data\level1)] |
 | Current Pin | [null] | NamedAssetPPtr: [null] |
-| Keys | _GameCameras/HudCamera/Inventory/Map Key/Keys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Bench | _GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Black Egg | _GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Cocoon | _GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Dream Plant | _GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Dreamer | _GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Ghost | _GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Grub | _GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Spa | _GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Stag | _GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Tram | _GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| Pin Vendor | _GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Keys | _GameCameras/HudCamera/Inventory/Map Key/Keys (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Bench | _GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Black Egg | _GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Cocoon | _GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Dream Plant | _GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Dreamer | _GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Ghost | _GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Grub | _GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Spa | _GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Stag | _GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Tram | _GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (Hollow Knight/hollow_knight_Data\level1)] |
+| Pin Vendor | _GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (Hollow Knight/hollow_knight_Data\level1)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -130,7 +130,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Bench (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -265,7 +265,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] | Variable |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys (Hollow Knight/hollow_knight_Data\level1)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions
@@ -314,7 +314,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Cocoon (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -415,7 +415,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Vendor (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -516,7 +516,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dream Plant (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -617,7 +617,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Spa (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -718,7 +718,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Key Stag (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -819,7 +819,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Tram (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -920,7 +920,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Ghost (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -1021,7 +1021,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Grub (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -1122,7 +1122,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Dreamer (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject
@@ -1721,7 +1721,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Current Pin | Variable |   |
-| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |   |   |
+| gameObject |   | [_GameCameras/HudCamera/Inventory/Map Key/Keys/Black Egg (Hollow Knight/hollow_knight_Data\level1)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. ActivateGameObject

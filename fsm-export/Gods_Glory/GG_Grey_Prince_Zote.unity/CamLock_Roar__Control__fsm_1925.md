@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | CamLock Roar |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level442 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level442 |
 | Start State | Inactive |
 | FSM PathId | 1925 |
 | GameObject PathId | 86 |

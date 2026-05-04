@@ -1,4 +1,4 @@
-﻿# Play
+# Play
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play |
 | GameObject Name | Particle System |
 | GameObject Path | Breakable Wall top/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level315 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level315 |
 | Start State | State 1 |
 | FSM PathId | 5925 |
 | GameObject PathId | 1445 |

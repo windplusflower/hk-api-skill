@@ -1,4 +1,4 @@
-﻿# Flash
+# Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flash |
 | GameObject Name | Legs |
 | GameObject Path | Boss Control/Absolute Radiance/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Pause |
 | FSM PathId | 3662 |
 | GameObject PathId | 854 |

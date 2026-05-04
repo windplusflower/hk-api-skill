@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Defeated NPC |
 | GameObject Path | Grimm Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Init |
 | FSM PathId | 2011 |
 | GameObject PathId | 353 |
@@ -26,13 +26,13 @@
 | --- | --- | --- |
 | CamLock Battle | [null] | NamedAssetPPtr: [null] |
 | CamLock Normal | [null] | NamedAssetPPtr: [null] |
-| Dark_room | Grimm Holder/Grimm Scene/Dark_room (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level391) | NamedAssetPPtr: [Grimm Holder/Grimm Scene/Dark_room (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level391)] |
-| Get Flame | Flamebearer Spawn/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Flamebearer Spawn/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |
-| Get Flash | Flamebearer Spawn/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Flamebearer Spawn/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |
+| Dark_room | Grimm Holder/Grimm Scene/Dark_room (Hollow Knight/hollow_knight_Data\level391) | NamedAssetPPtr: [Grimm Holder/Grimm Scene/Dark_room (Hollow Knight/hollow_knight_Data\level391)] |
+| Get Flame | Flamebearer Spawn/Get Flame (Hollow Knight/hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Flamebearer Spawn/Get Flame (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |
+| Get Flash | Flamebearer Spawn/Get Flash (Hollow Knight/hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Flamebearer Spawn/Get Flash (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |
 | Grimm Hand | [null] | NamedAssetPPtr: [null] |
-| Grimm NPC | Grimm Scene/Grimm NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Grimm NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |
+| Grimm NPC | Grimm Scene/Grimm NPC (Hollow Knight/hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Grimm NPC (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |
 | Grimm Scene | [null] | NamedAssetPPtr: [null] |
-| Grimm_teleport_effect2 | Grimm Scene/Grimm_teleport_effect2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |
+| Grimm_teleport_effect2 | Grimm Scene/Grimm_teleport_effect2 (Hollow Knight/hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect2 (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |
 | Grimmchild | [null] | NamedAssetPPtr: [null] |
 | Parent | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -130,7 +130,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Get Flame" |   |   |
-| storeResult |   | [Flamebearer Spawn/Get Flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] | Variable |   |
+| storeResult |   | [Flamebearer Spawn/Get Flame (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] | Variable |   |
 
 ##### 7. FindChild
 
@@ -141,7 +141,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Get Flash" |   |   |
-| storeResult |   | [Flamebearer Spawn/Get Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] | Variable |   |
+| storeResult |   | [Flamebearer Spawn/Get Flash (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] | Variable |   |
 
 ##### 8. GetParent
 
@@ -447,7 +447,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -507,9 +507,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [grimm_teleport_in (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [grimm_teleport_in (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -673,9 +673,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [hornet_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hornet_jump (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -689,9 +689,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [accordion_sting_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [accordion_sting_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -763,9 +763,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [accordion_sting_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [accordion_sting_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1004,9 +1004,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Grimm_click (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [Grimm_click (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1109,9 +1109,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_powering_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1189,9 +1189,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [nightmare_lantern_flame_burst (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1371,7 +1371,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1486,9 +1486,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_teleport_out (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |   |   |
+| audioClip |   | [grimm_teleport_out (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1860,7 +1860,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

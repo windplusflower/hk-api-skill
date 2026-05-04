@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Cloak Corpse/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level132 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level132 |
 | Start State | Init |
 | FSM PathId | 4655 |
 | GameObject PathId | 491 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Cloak Corpse/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level132) | NamedAssetPPtr: [Cloak Corpse/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level132)] |
+| Wave | Cloak Corpse/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level132) | NamedAssetPPtr: [Cloak Corpse/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level132)] |
 
 ## States
 

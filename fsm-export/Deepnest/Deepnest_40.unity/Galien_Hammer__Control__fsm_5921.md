@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Galien Hammer |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level298 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level298 |
 | Start State | Init |
 | FSM PathId | 5921 |
 | GameObject PathId | 72 |
@@ -32,11 +32,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dust Emerge | Warrior/Galien Hammer/Dust Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Dust Emerge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
-| Dust Idle | Warrior/Galien Hammer/Dust Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Dust Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
-| Hit Idle | Warrior/Galien Hammer/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
-| Hit Spin | Warrior/Galien Hammer/Hit Spin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Spin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
-| Rock Point | Warrior/Galien Hammer/Rock Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Rock Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
+| Dust Emerge | Warrior/Galien Hammer/Dust Emerge (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Dust Emerge (Hollow Knight/hollow_knight_Data\level298)] |
+| Dust Idle | Warrior/Galien Hammer/Dust Idle (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Dust Idle (Hollow Knight/hollow_knight_Data\level298)] |
+| Hit Idle | Warrior/Galien Hammer/Hit Idle (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Idle (Hollow Knight/hollow_knight_Data\level298)] |
+| Hit Spin | Warrior/Galien Hammer/Hit Spin (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Spin (Hollow Knight/hollow_knight_Data\level298)] |
+| Rock Point | Warrior/Galien Hammer/Rock Point (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Galien Hammer/Rock Point (Hollow Knight/hollow_knight_Data\level298)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -108,9 +108,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets48.assets)] |   |   |
+| audioClip |   | [false_knight_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets48.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

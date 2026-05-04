@@ -1,4 +1,4 @@
-﻿# Quick Map
+# Quick Map
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Quick Map |
 | GameObject Name | Quick Map |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Globalise |
 | FSM PathId | 9146 |
 | GameObject PathId | 804 |

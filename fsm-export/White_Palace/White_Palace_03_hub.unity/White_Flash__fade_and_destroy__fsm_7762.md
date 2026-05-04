@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | White Flash |
 | GameObject Path | White Palace Lift/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Idle |
 | FSM PathId | 7762 |
 | GameObject PathId | 2317 |

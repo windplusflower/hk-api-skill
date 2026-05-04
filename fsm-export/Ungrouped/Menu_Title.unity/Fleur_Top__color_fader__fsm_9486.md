@@ -1,4 +1,4 @@
-﻿# color_fader
+# color_fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | color_fader |
 | GameObject Name | Fleur Top |
 | GameObject Path | _GameCameras/HudCamera/Area Title Holder/Area Title/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9486 |
 | GameObject PathId | 1573 |

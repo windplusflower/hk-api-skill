@@ -1,4 +1,4 @@
-﻿# HeroLight Control
+# HeroLight Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | HeroLight Control |
 | GameObject Name | HeroLight |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1026 |
 | GameObject PathId | 75 |

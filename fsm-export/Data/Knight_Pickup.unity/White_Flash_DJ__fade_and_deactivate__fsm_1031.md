@@ -1,4 +1,4 @@
-﻿# fade and deactivate
+# fade and deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and deactivate |
 | GameObject Name | White Flash DJ |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Pause |
 | FSM PathId | 1031 |
 | GameObject PathId | 47 |

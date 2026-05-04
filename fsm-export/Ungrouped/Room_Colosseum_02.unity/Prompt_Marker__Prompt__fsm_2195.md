@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Zote Colosseum/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level31 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level31 |
 | Start State | Init |
 | FSM PathId | 2195 |
 | GameObject PathId | 242 |

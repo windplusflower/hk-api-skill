@@ -1,4 +1,4 @@
-﻿# Remove on battle start
+# Remove on battle start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove on battle start |
 | GameObject Name | Hatcher Baby Spawner (11) |
 | GameObject Path | Hatcher Cage (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Idle |
 | FSM PathId | 6285 |
 | GameObject PathId | 630 |

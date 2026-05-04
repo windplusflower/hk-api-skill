@@ -1,4 +1,4 @@
-﻿# Set Pin
+# Set Pin
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Pin |
 | GameObject Name | Pin Range |
 | GameObject Path | Ghost Warrior NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level232 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level232 |
 | Start State | Idle |
 | FSM PathId | 139 |
 | GameObject PathId | 2 |

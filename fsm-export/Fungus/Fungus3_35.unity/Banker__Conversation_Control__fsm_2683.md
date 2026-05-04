@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Banker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Pause |
 | FSM PathId | 2683 |
 | GameObject PathId | 401 |
@@ -502,7 +502,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 #### Transitions
 
@@ -730,7 +730,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 #### Transitions
 
@@ -852,7 +852,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 ##### 2. GetPlayerDataInt
 
@@ -1078,7 +1078,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_05 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_05 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 ##### 2. CallMethodProper
 
@@ -1226,7 +1226,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_05 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_05 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 ##### 2. CallMethodProper
 
@@ -1301,7 +1301,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_talk_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| oneShotClip |   | [Banker_talk_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 
 ##### 2. CallMethodProper
 
@@ -1722,7 +1722,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Banker_Spa_yelp_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets87.assets)] |   |   |
+| oneShotClip |   | [Banker_Spa_yelp_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets87.assets)] |   |   |
 
 ##### 3. AudioPlayerOneShotSingle
 
@@ -1731,9 +1731,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Banker_Spa_yelp_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets87.assets)] |   |   |
+| audioClip |   | [Banker_Spa_yelp_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets87.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

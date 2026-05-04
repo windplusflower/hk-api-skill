@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | floor_full_open |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level334 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level334 |
 | Start State | State 3 |
 | FSM PathId | 10886 |
 | GameObject PathId | 662 |

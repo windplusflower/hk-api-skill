@@ -1,4 +1,4 @@
-﻿# Destroy Self
+# Destroy Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | Mushroom Brawler/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level192 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level192 |
 | Start State | Init |
 | FSM PathId | 9123 |
 | GameObject PathId | 1944 |

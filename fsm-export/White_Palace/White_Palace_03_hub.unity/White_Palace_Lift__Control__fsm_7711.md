@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | White Palace Lift |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Init |
 | FSM PathId | 7711 |
 | GameObject PathId | 2307 |
@@ -40,12 +40,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bot Beam | White Palace Lift/Bot Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Bot Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
+| Bot Beam | White Palace Lift/Bot Beam (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Bot Beam (Hollow Knight/hollow_knight_Data\level367)] |
 | Collider | [null] | NamedAssetPPtr: [null] |
-| Pt | White Palace Lift/Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
-| Rise Beam | White Palace Lift/Rise Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Rise Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
-| Sprite | White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
-| White Flash | White Palace Lift/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
+| Pt | White Palace Lift/Pt (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Pt (Hollow Knight/hollow_knight_Data\level367)] |
+| Rise Beam | White Palace Lift/Rise Beam (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Rise Beam (Hollow Knight/hollow_knight_Data\level367)] |
+| Sprite | White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367)] |
+| White Flash | White Palace Lift/White Flash (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Lift/White Flash (Hollow Knight/hollow_knight_Data\level367)] |
 
 ## States
 
@@ -227,9 +227,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |   |   |
-| audioClip |   | [white_seal_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367)] |   |   |
+| audioClip |   | [white_seal_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -365,9 +365,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |   |   |
-| audioClip |   | [misc_rumble_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367)] |   |   |
+| audioClip |   | [misc_rumble_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -531,9 +531,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |   |   |
-| audioClip |   | [focus_health_heal (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367)] |   |   |
+| audioClip |   | [focus_health_heal (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |
@@ -615,9 +615,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [White Palace Lift/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [White Palace Lift/Sprite (Hollow Knight/hollow_knight_Data\level367)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# BetaEndControl
+# BetaEndControl
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | BetaEndControl |
 | GameObject Name | BetaEnder |
 | GameObject Path | _Areas/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level50 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level50 |
 | Start State | Wait For Trigger |
 | FSM PathId | 4337 |
 | GameObject PathId | 534 |

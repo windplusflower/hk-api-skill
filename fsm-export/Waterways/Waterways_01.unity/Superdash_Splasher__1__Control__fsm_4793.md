@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Superdash Splasher (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level349 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level349 |
 | Start State | Init |
 | FSM PathId | 4793 |
 | GameObject PathId | 1416 |

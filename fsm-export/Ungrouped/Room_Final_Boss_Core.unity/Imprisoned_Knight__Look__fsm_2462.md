@@ -1,4 +1,4 @@
-﻿# Look
+# Look
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Look |
 | GameObject Name | Imprisoned Knight |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Init |
 | FSM PathId | 2462 |
 | GameObject PathId | 470 |

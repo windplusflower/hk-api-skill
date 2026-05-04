@@ -1,4 +1,4 @@
-﻿# Give
+# Give
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Give |
 | GameObject Name | Key Giver |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Pause |
 | FSM PathId | 7832 |
 | GameObject PathId | 250 |

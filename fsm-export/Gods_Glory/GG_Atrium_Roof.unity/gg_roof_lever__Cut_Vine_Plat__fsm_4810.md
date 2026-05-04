@@ -1,4 +1,4 @@
-﻿# Cut Vine Plat
+# Cut Vine Plat
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cut Vine Plat |
 | GameObject Name | gg_roof_lever |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | State 1 |
 | FSM PathId | 4810 |
 | GameObject PathId | 1416 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Vine Plat Cut | GG Fall Platform (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [GG Fall Platform (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
+| Vine Plat Cut | GG Fall Platform (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [GG Fall Platform (Hollow Knight/hollow_knight_Data\level473)] |
 
 ## States
 

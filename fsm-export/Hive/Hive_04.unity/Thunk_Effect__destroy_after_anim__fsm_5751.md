@@ -1,4 +1,4 @@
-﻿# destroy_after_anim
+# destroy_after_anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_after_anim |
 | GameObject Name | Thunk Effect |
 | GameObject Path | Bee Stinger (9)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level388 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level388 |
 | Start State | Init |
 | FSM PathId | 5751 |
 | GameObject PathId | 650 |

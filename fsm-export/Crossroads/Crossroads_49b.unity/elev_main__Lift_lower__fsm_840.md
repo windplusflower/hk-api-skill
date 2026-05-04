@@ -1,4 +1,4 @@
-﻿# Lift lower
+# Lift lower
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lift lower |
 | GameObject Name | elev_main |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level80 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level80 |
 | Start State | Pause |
 | FSM PathId | 840 |
 | GameObject PathId | 215 |
@@ -32,11 +32,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Closed Block | elev_main/Closed Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Closed Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80)] |
-| Inactive Block | elev_main/Inactive Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Inactive Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80)] |
-| Open Block | elev_main/Open Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Open Block (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80)] |
+| Closed Block | elev_main/Closed Block (Hollow Knight/hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Closed Block (Hollow Knight/hollow_knight_Data\level80)] |
+| Inactive Block | elev_main/Inactive Block (Hollow Knight/hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Inactive Block (Hollow Knight/hollow_knight_Data\level80)] |
+| Open Block | elev_main/Open Block (Hollow Knight/hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Open Block (Hollow Knight/hollow_knight_Data\level80)] |
 | Roof Dust | [null] | NamedAssetPPtr: [null] |
-| Whole Dust | elev_main/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Whole Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level80)] |
+| Whole Dust | elev_main/Whole Dust (Hollow Knight/hollow_knight_Data\level80) | NamedAssetPPtr: [elev_main/Whole Dust (Hollow Knight/hollow_knight_Data\level80)] |
 
 ## States
 
@@ -211,9 +211,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ruins_big_lift_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets79.assets)] |   |   |
+| audioClip |   | [ruins_big_lift_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets79.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -325,9 +325,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ruins_big_lift_arrive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets79.assets)] |   |   |
+| audioClip |   | [ruins_big_lift_arrive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets79.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -422,9 +422,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [ruins_big_lift_gate_door_thingy_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

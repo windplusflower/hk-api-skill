@@ -1,4 +1,4 @@
-﻿# DJ Control
+# DJ Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | DJ Control |
 | GameObject Name | Shiny Item DJ |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level345 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level345 |
 | Start State | Init |
 | FSM PathId | 3520 |
 | GameObject PathId | 540 |
@@ -44,17 +44,17 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bugs Burst | Shiny Item DJ/Bugs Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
-| Bugs Get | Shiny Item DJ/Bugs Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
-| Bugs Idle | Shiny Item DJ/Bugs Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
-| Cutscene | Shiny Item DJ/Knight Cutscene (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Knight Cutscene (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
+| Bugs Burst | Shiny Item DJ/Bugs Burst (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Burst (Hollow Knight/hollow_knight_Data\level345)] |
+| Bugs Get | Shiny Item DJ/Bugs Get (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Get (Hollow Knight/hollow_knight_Data\level345)] |
+| Bugs Idle | Shiny Item DJ/Bugs Idle (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Bugs Idle (Hollow Knight/hollow_knight_Data\level345)] |
+| Cutscene | Shiny Item DJ/Knight Cutscene (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/Knight Cutscene (Hollow Knight/hollow_knight_Data\level345)] |
 | Post_Double_Jump | [null] | NamedAssetPPtr: [null] |
 | Pre_Double_Jump | [null] | NamedAssetPPtr: [null] |
 | UI Msg | [null] | NamedAssetPPtr: [null] |
-| White Flash | Shiny Item DJ/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
+| White Flash | Shiny Item DJ/White Flash (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Flash (Hollow Knight/hollow_knight_Data\level345)] |
 | White Flash2 | [null] | NamedAssetPPtr: [null] |
-| White Wave Get | Shiny Item DJ/White Wave Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Wave Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
-| White Wave Get2 | Shiny Item DJ/White Wave Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Wave Get (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |
+| White Wave Get | Shiny Item DJ/White Wave Get (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Wave Get (Hollow Knight/hollow_knight_Data\level345)] |
+| White Wave Get2 | Shiny Item DJ/White Wave Get (Hollow Knight/hollow_knight_Data\level345) | NamedAssetPPtr: [Shiny Item DJ/White Wave Get (Hollow Knight/hollow_knight_Data\level345)] |
 
 ## States
 
@@ -203,7 +203,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [shiny_item_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [shiny_item_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 8. AudioPlayerOneShotSingle
 
@@ -212,9 +212,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -412,7 +412,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Shiny Item DJ/Bugs Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level345)] |   |   |
+| gameObject |   | [Shiny Item DJ/Bugs Idle (Hollow Knight/hollow_knight_Data\level345)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -679,9 +679,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [UI Msg Get Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [UI Msg Get Item (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | storeObject |   | GameObject UI Msg | Variable |   |
-| sprite |   | [_0009_emperors_wings (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets345.assets)] |   |   |
+| sprite |   | [_0009_emperors_wings (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets345.assets)] |   |   |
 
 ##### 3. SetFsmString
 
@@ -801,9 +801,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dream_enter_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [dream_enter_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -817,9 +817,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [hero_fury_charm_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hero_fury_charm_burst (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

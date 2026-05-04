@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Lost Kin/Corpse Inspect/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level450 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level450 |
 | Start State | Init |
 | FSM PathId | 1569 |
 | GameObject PathId | 66 |

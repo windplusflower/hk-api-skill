@@ -1,4 +1,4 @@
-﻿# Break 1
+# Break 1
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break 1 |
 | GameObject Name | Loose Floor 1 |
 | GameObject Path | _Scenery/mine_1_quake_floor/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Idle |
 | FSM PathId | 8013 |
 | GameObject PathId | 353 |

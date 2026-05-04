@@ -1,4 +1,4 @@
-﻿# Miner FX
+# Miner FX
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Miner FX |
 | GameObject Name | Zombie Miner 1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level256 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level256 |
 | Start State | Init |
 | FSM PathId | 4432 |
 | GameObject PathId | 927 |
@@ -89,7 +89,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Particle Rock Tiny Transient Plain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Particle Rock Tiny Transient Plain (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Dust |   |   |
 | position |   | Vector3(0, 0, -1) |   |   |
 | spawnMin |   | 2 |   |   |
@@ -252,7 +252,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | float Chooser |   |   |
-| oneShotClip |   | [myla_pickaxe_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
+| oneShotClip |   | [myla_pickaxe_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. NextFrameEvent
@@ -287,7 +287,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Self |   |   |
 | volume |   | float Chooser |   |   |
-| oneShotClip |   | [myla_pickaxe_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets73.assets)] |   |   |
+| oneShotClip |   | [myla_pickaxe_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets73.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. NextFrameEvent

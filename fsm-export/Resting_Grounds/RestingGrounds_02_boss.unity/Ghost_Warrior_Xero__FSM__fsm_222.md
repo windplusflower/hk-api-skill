@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Ghost Warrior Xero |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level238 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level238 |
 | Start State | Pause |
 | FSM PathId | 222 |
 | GameObject PathId | 21 |

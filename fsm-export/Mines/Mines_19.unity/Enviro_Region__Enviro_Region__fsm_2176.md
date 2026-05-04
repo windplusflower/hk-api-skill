@@ -1,4 +1,4 @@
-﻿# Enviro Region
+# Enviro Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enviro Region |
 | GameObject Name | Enviro Region |
 | GameObject Path | Metal Gate v2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level262 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level262 |
 | Start State | Pause |
 | FSM PathId | 2176 |
 | GameObject PathId | 255 |

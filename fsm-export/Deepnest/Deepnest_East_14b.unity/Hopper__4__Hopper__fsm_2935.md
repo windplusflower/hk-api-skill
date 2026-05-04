@@ -1,4 +1,4 @@
-﻿# Hopper
+# Hopper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hopper |
 | GameObject Name | Hopper (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level319 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level319 |
 | Start State | Init |
 | FSM PathId | 2935 |
 | GameObject PathId | 307 |
@@ -257,7 +257,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. BoolTest

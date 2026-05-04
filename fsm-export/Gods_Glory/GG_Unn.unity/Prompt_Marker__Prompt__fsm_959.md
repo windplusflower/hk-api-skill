@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Godseeker Young NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level498 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level498 |
 | Start State | Init |
 | FSM PathId | 959 |
 | GameObject PathId | 315 |

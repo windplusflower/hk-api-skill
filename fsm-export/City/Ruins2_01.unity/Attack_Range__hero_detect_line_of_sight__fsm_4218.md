@@ -1,4 +1,4 @@
-﻿# hero_detect_line_of_sight
+# hero_detect_line_of_sight
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect_line_of_sight |
 | GameObject Name | Attack Range |
 | GameObject Path | Royal Zombie 1 (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level111 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level111 |
 | Start State | Initialise |
 | FSM PathId | 4218 |
 | GameObject PathId | 1004 |

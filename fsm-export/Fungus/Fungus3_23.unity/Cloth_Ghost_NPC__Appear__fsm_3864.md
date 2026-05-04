@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Cloth Ghost NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level208 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level208 |
 | Start State | Pause |
 | FSM PathId | 3864 |
 | GameObject PathId | 137 |
@@ -25,9 +25,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | Cloth Ghost NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208)] |
-| Burst | Cloth Ghost NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208)] |
-| Idle Pt | Cloth Ghost NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level208)] |
+| Away Pt | Cloth Ghost NPC/Away Pt (Hollow Knight/hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Away Pt (Hollow Knight/hollow_knight_Data\level208)] |
+| Burst | Cloth Ghost NPC/Burst (Hollow Knight/hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Burst (Hollow Knight/hollow_knight_Data\level208)] |
+| Idle Pt | Cloth Ghost NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level208) | NamedAssetPPtr: [Cloth Ghost NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level208)] |
 
 ## States
 

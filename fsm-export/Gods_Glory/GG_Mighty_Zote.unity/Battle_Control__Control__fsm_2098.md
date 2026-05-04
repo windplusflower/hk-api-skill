@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Battle Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Init |
 | FSM PathId | 2098 |
 | GameObject PathId | 226 |
@@ -24,23 +24,23 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Balloon | Battle Control/Zote Balloon Ordeal (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Balloon Ordeal (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Dormant Warriors | Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Extra Zotes | Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Fat 1 | Battle Control/Fat Zotes/Zote Crew Fat (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Fat 2 | Battle Control/Fat Zotes/Zote Crew Fat (2) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (2) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Fat 3 | Battle Control/Fat Zotes/Zote Crew Fat (3) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (3) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| First Zote | Battle Control/First Zote (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/First Zote (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Music | Battle Control/Music (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Music (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Music Initial | Battle Control/Music Initial (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Music Initial (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Tall 1 | Battle Control/Tall Zotes/Zote Crew Tall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Tall Zotes/Zote Crew Tall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Tall 2 | Battle Control/Tall Zotes/Zote Crew Tall (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Tall Zotes/Zote Crew Tall (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Thwomp 1 | Battle Control/Zote Thwomp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Thwomp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Title | Battle Control/Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Zote Fluke | Battle Control/Zote Fluke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Fluke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Zote Salubra | Battle Control/Zote Salubra (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Salubra (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Zoteling 1 | Battle Control/Zotelings/Ordeal Zoteling (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zotelings/Ordeal Zoteling (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
-| Zoteling 2 | Battle Control/Zotelings/Ordeal Zoteling (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zotelings/Ordeal Zoteling (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |
+| Balloon | Battle Control/Zote Balloon Ordeal (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Balloon Ordeal (Hollow Knight/hollow_knight_Data\level481)] |
+| Dormant Warriors | Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |
+| Extra Zotes | Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481)] |
+| Fat 1 | Battle Control/Fat Zotes/Zote Crew Fat (1) (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (1) (Hollow Knight/hollow_knight_Data\level481)] |
+| Fat 2 | Battle Control/Fat Zotes/Zote Crew Fat (2) (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (2) (Hollow Knight/hollow_knight_Data\level481)] |
+| Fat 3 | Battle Control/Fat Zotes/Zote Crew Fat (3) (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Fat Zotes/Zote Crew Fat (3) (Hollow Knight/hollow_knight_Data\level481)] |
+| First Zote | Battle Control/First Zote (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/First Zote (Hollow Knight/hollow_knight_Data\level481)] |
+| Music | Battle Control/Music (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Music (Hollow Knight/hollow_knight_Data\level481)] |
+| Music Initial | Battle Control/Music Initial (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Music Initial (Hollow Knight/hollow_knight_Data\level481)] |
+| Tall 1 | Battle Control/Tall Zotes/Zote Crew Tall (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Tall Zotes/Zote Crew Tall (Hollow Knight/hollow_knight_Data\level481)] |
+| Tall 2 | Battle Control/Tall Zotes/Zote Crew Tall (1) (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Tall Zotes/Zote Crew Tall (1) (Hollow Knight/hollow_knight_Data\level481)] |
+| Thwomp 1 | Battle Control/Zote Thwomp (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Thwomp (Hollow Knight/hollow_knight_Data\level481)] |
+| Title | Battle Control/Title (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Title (Hollow Knight/hollow_knight_Data\level481)] |
+| Zote Fluke | Battle Control/Zote Fluke (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Fluke (Hollow Knight/hollow_knight_Data\level481)] |
+| Zote Salubra | Battle Control/Zote Salubra (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zote Salubra (Hollow Knight/hollow_knight_Data\level481)] |
+| Zoteling 1 | Battle Control/Zotelings/Ordeal Zoteling (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zotelings/Ordeal Zoteling (Hollow Knight/hollow_knight_Data\level481)] |
+| Zoteling 2 | Battle Control/Zotelings/Ordeal Zoteling (1) (Hollow Knight/hollow_knight_Data\level481) | NamedAssetPPtr: [Battle Control/Zotelings/Ordeal Zoteling (1) (Hollow Knight/hollow_knight_Data\level481)] |
 
 ## States
 
@@ -100,9 +100,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/First Zote (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
-| audioClip |   | [col_cage_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/First Zote (Hollow Knight/hollow_knight_Data\level481)] |   |   |
+| audioClip |   | [col_cage_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -116,9 +116,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Control/First Zote (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
-| audioClip |   | [Zote_ceiling_drop_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets399.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Control/First Zote (Hollow Knight/hollow_knight_Data\level481)] |   |   |
+| audioClip |   | [Zote_ceiling_drop_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets399.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -303,7 +303,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Fat 1 |   |   |
-| parent |   | [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -315,7 +315,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Fat 2 |   |   |
-| parent |   | [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -327,7 +327,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Fat 3 |   |   |
-| parent |   | [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -447,7 +447,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Tall 1 |   |   |
-| parent |   | [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -459,7 +459,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Tall 2 |   |   |
-| parent |   | [Battle Control/Dormant Warriors (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Dormant Warriors (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -539,7 +539,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Thwomp 1 |   |   |
-| parent |   | [Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -659,7 +659,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Zote Fluke |   |   |
-| parent |   | [Battle Control/Extra Zotes (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level481)] |   |   |
+| parent |   | [Battle Control/Extra Zotes (Hollow Knight/hollow_knight_Data\level481)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -781,7 +781,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions
@@ -833,9 +833,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -889,9 +889,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 0.9f |   |   |
 | volume |   | 1f |   |   |
@@ -945,9 +945,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_explode_clean (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_explode_clean (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -961,9 +961,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [explosion_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets236.assets)] |   |   |
+| audioClip |   | [explosion_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets236.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1015,9 +1015,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [col_moving_wall_impact_into_place (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -1043,9 +1043,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [boss_explode_clean (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [boss_explode_clean (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1143,7 +1143,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 3. Wait

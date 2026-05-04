@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fat Grub King |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Pause |
 | FSM PathId | 2536 |
 | GameObject PathId | 281 |

@@ -1,4 +1,4 @@
-﻿# Set Visited
+# Set Visited
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Visited |
 | GameObject Name | SetTempleVisited |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level19 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level19 |
 | Start State | Init |
 | FSM PathId | 2788 |
 | GameObject PathId | 505 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Mantis Battle |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level486 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level486 |
 | Start State | State 1 |
 | FSM PathId | 1750 |
 | GameObject PathId | 53 |

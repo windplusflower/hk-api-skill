@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Mosquito (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level134 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level134 |
 | Start State | Idle |
 | FSM PathId | 6150 |
 | GameObject PathId | 832 |

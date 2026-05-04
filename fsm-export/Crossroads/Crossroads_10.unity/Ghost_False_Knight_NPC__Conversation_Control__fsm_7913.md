@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Ghost False Knight NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Pause |
 | FSM PathId | 7913 |
 | GameObject PathId | 844 |
@@ -42,19 +42,19 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Ghost False Knight NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Idle Pt | Ghost False Knight NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
+| Attack Pt | Ghost False Knight NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level46)] |
+| Idle Pt | Ghost False Knight NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level46)] |
 | Inspect Region | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
-| Sprite | Ghost False Knight NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Vanish Burst Pt | Ghost False Knight NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Burst Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Vanish Get Pt | Ghost False Knight NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Get Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Vanish Glow | Ghost False Knight NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Glow (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Vanish Start Pt | Ghost False Knight NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Warp | Ghost False Knight NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| White Flash | Ghost False Knight NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Wounded | Ghost False Knight NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
+| Sprite | Ghost False Knight NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level46)] |
+| Vanish Burst Pt | Ghost False Knight NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Burst Pt (Hollow Knight/hollow_knight_Data\level46)] |
+| Vanish Get Pt | Ghost False Knight NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Get Pt (Hollow Knight/hollow_knight_Data\level46)] |
+| Vanish Glow | Ghost False Knight NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Glow (Hollow Knight/hollow_knight_Data\level46)] |
+| Vanish Start Pt | Ghost False Knight NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level46)] |
+| Warp | Ghost False Knight NPC/Warp (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Warp (Hollow Knight/hollow_knight_Data\level46)] |
+| White Flash | Ghost False Knight NPC/White Flash (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/White Flash (Hollow Knight/hollow_knight_Data\level46)] |
+| Wounded | Ghost False Knight NPC/Wounded (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Ghost False Knight NPC/Wounded (Hollow Knight/hollow_knight_Data\level46)] |
 
 ## States
 
@@ -517,9 +517,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_initial_white (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_initial_white (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -627,9 +627,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_dialogue_death_explode (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -738,7 +738,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Ghost False Knight NPC/Vanish Start Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |   |   |
+| gameObject |   | [Ghost False Knight NPC/Vanish Start Pt (Hollow Knight/hollow_knight_Data\level46)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -790,9 +790,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [ghost_absorb (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1013,9 +1013,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [ghost_absorb_final_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [ghost_absorb_final_impact (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

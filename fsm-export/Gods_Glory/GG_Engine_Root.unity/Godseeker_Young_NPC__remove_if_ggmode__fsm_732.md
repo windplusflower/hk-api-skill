@@ -1,4 +1,4 @@
-﻿# remove_if_ggmode
+# remove_if_ggmode
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | remove_if_ggmode |
 | GameObject Name | Godseeker Young NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level477 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level477 |
 | Start State | Check |
 | FSM PathId | 732 |
 | GameObject PathId | 250 |

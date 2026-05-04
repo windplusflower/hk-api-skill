@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Godseeker Crowd |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Init Target |
 | FSM PathId | 2077 |
 | GameObject PathId | 576 |
@@ -32,7 +32,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Target | Battle Scene/HK Prime (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447) | NamedAssetPPtr: [Battle Scene/HK Prime (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447)] |
+| Target | Battle Scene/HK Prime (Hollow Knight/hollow_knight_Data\level447) | NamedAssetPPtr: [Battle Scene/HK Prime (Hollow Knight/hollow_knight_Data\level447)] |
 
 ## States
 

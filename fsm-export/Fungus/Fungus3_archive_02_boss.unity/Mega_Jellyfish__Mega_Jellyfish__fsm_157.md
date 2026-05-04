@@ -1,4 +1,4 @@
-﻿# Mega Jellyfish
+# Mega Jellyfish
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mega Jellyfish |
 | GameObject Name | Mega Jellyfish |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level229 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level229 |
 | Start State | Init |
 | FSM PathId | 157 |
 | GameObject PathId | 15 |
@@ -62,7 +62,7 @@
 | Multizaps | [null] | NamedAssetPPtr: [null] |
 | Pattern 1 | [null] | NamedAssetPPtr: [null] |
 | Pattern 2 | [null] | NamedAssetPPtr: [null] |
-| Pt Attack | Mega Jellyfish/Pt Attack (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229) | NamedAssetPPtr: [Mega Jellyfish/Pt Attack (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level229)] |
+| Pt Attack | Mega Jellyfish/Pt Attack (Hollow Knight/hollow_knight_Data\level229) | NamedAssetPPtr: [Mega Jellyfish/Pt Attack (Hollow Knight/hollow_knight_Data\level229)] |
 | Pt Bub | [null] | NamedAssetPPtr: [null] |
 | Pt Spore | [null] | NamedAssetPPtr: [null] |
 | Pt Steam | [null] | NamedAssetPPtr: [null] |
@@ -334,7 +334,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [uumuu_is_zapping (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [uumuu_is_zapping (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -463,7 +463,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Mega Jelly Zap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| gameObject |   | [Global] [Mega Jelly Zap (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -552,7 +552,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [uumuu_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -680,9 +680,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [zap_bug (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [zap_bug (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1.5f |   |   |
@@ -856,9 +856,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Land |   |   |
-| audioClip |   | [Quirrel_battle_intro (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [Quirrel_battle_intro (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1163,9 +1163,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Slash |   |   |
-| audioClip |   | [uumuu_helper_enter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_enter (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1243,9 +1243,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Slash |   |   |
-| audioClip |   | [uumuu_helper_exit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_exit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1306,7 +1306,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Slash |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1323,9 +1323,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Slash |   |   |
-| audioClip |   | [uumuu_helper_enter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_enter (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1441,9 +1441,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Quirrel Slash |   |   |
-| audioClip |   | [uumuu_helper_slash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_helper_slash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1459,7 +1459,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [uumuu_wounded (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| oneShotClip |   | [uumuu_wounded (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 
 ##### 4. SendEventByName
 
@@ -1756,7 +1756,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [uumuu_back_to_normal (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| oneShotClip |   | [uumuu_back_to_normal (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 
 #### Transitions
 
@@ -2098,7 +2098,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [uumuu_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets164.assets)] |   |   |
+| oneShotClip |   | [uumuu_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets164.assets)] |   |   |
 
 ##### 3. iTweenMoveBy
 
@@ -2232,7 +2232,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [uumuu_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets229.assets)] |   |   |
+| audioClip |   | [uumuu_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets229.assets)] |   |   |
 
 ##### 2. AudioPlaySimple
 
@@ -2432,7 +2432,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 3. ApplyMusicCue
@@ -2442,7 +2442,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [EnemyBattle (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets40.assets)] |   |   |
+| musicCue |   | [EnemyBattle (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets40.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 

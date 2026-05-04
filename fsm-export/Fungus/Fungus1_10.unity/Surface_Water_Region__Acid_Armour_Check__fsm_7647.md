@@ -1,4 +1,4 @@
-﻿# Acid Armour Check
+# Acid Armour Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Acid Armour Check |
 | GameObject Name | Surface Water Region |
 | GameObject Path | Acid Control v2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level139 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level139 |
 | Start State | Pause |
 | FSM PathId | 7647 |
 | GameObject PathId | 1678 |

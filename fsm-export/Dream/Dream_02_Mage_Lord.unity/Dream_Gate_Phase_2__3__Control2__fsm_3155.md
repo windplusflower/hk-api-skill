@@ -1,4 +1,4 @@
-﻿# Control2
+# Control2
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control2 |
 | GameObject Name | Dream Gate Phase 2 (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level396 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level396 |
 | Start State | Init |
 | FSM PathId | 3155 |
 | GameObject PathId | 559 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| CamLocks | Dream Gate Phase 2 (3)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level396) | NamedAssetPPtr: [Dream Gate Phase 2 (3)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level396)] |
+| CamLocks | Dream Gate Phase 2 (3)/CamLocks (Hollow Knight/hollow_knight_Data\level396) | NamedAssetPPtr: [Dream Gate Phase 2 (3)/CamLocks (Hollow Knight/hollow_knight_Data\level396)] |
 
 ## States
 
@@ -57,7 +57,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level396)] | Variable |   |
+| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (Hollow Knight/hollow_knight_Data\level396)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions
@@ -113,7 +113,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level396)] | Variable |   |
+| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (Hollow Knight/hollow_knight_Data\level396)] | Variable |   |
 | activate |   | true |   |   |
 
 #### Transitions
@@ -185,7 +185,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level396)] | Variable |   |
+| gameObject |   | [Dream Gate Phase 2 (3)/CamLocks (Hollow Knight/hollow_knight_Data\level396)] | Variable |   |
 | activate |   | false |   |   |
 
 #### Transitions

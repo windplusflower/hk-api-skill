@@ -1,4 +1,4 @@
-﻿# Bottle Control
+# Bottle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bottle Control |
 | GameObject Name | Grub Mimic Bottle (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level294 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level294 |
 | Start State | Pool |
 | FSM PathId | 2725 |
 | GameObject PathId | 27 |
@@ -31,12 +31,12 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Damager | [null] | NamedAssetPPtr: [null] |
-| Debris | Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |
-| Grub | Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |
-| Phys Box | Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |
+| Debris | Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294)] |
+| Grub | Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294)] |
+| Phys Box | Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Top (1) (Hollow Knight/hollow_knight_Data\level294)] |
 | Pool | [null] | NamedAssetPPtr: [null] |
-| Pt Glass L | Grub Mimic Bottle (1)/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Bottle (1)/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |
-| Pt Glass S | Grub Mimic Bottle (1)/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Bottle (1)/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |
+| Pt Glass L | Grub Mimic Bottle (1)/Pt Glass L (Hollow Knight/hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Bottle (1)/Pt Glass L (Hollow Knight/hollow_knight_Data\level294)] |
+| Pt Glass S | Grub Mimic Bottle (1)/Pt Glass S (Hollow Knight/hollow_knight_Data\level294) | NamedAssetPPtr: [Grub Mimic Bottle (1)/Pt Glass S (Hollow Knight/hollow_knight_Data\level294)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -58,7 +58,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Bottle Physical" |   |   |
-| storeResult |   | [Grub Mimic Bottle (1)/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] | Variable |   |
+| storeResult |   | [Grub Mimic Bottle (1)/Bottle Physical (Hollow Knight/hollow_knight_Data\level294)] | Variable |   |
 
 ##### 2. Trigger2dEvent
 
@@ -94,7 +94,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -111,7 +111,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Grub Mimic Bottle (1)/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |   |   |
+| gameObject |   | [Grub Mimic Bottle (1)/Bottle Physical (Hollow Knight/hollow_knight_Data\level294)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -122,7 +122,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -194,7 +194,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Lid (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 1.69, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -225,7 +225,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [Grub Mimic Bottle (1)/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] |   |   |
+| containerObject |   | [Grub Mimic Bottle (1)/Debris (Hollow Knight/hollow_knight_Data\level294)] |   |   |
 | adjustPosition |   | Vector3(0, 0, 0) |   |   |
 | randomisePosition |   | false |   |   |
 | speedMin |   | 10f |   |   |
@@ -349,7 +349,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Lid (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -415,7 +415,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Bottle Physical" |   |   |
-| storeResult |   | [Grub Mimic Bottle (1)/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level294)] | Variable |   |
+| storeResult |   | [Grub Mimic Bottle (1)/Bottle Physical (Hollow Knight/hollow_knight_Data\level294)] | Variable |   |
 
 ##### 4. ActivateGameObject
 

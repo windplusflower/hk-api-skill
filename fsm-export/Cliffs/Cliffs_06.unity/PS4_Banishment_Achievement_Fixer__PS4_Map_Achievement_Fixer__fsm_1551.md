@@ -1,4 +1,4 @@
-﻿# PS4 Map Achievement Fixer
+# PS4 Map Achievement Fixer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | PS4 Map Achievement Fixer |
 | GameObject Name | PS4 Banishment Achievement Fixer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Check Platform |
 | FSM PathId | 1551 |
 | GameObject PathId | 105 |

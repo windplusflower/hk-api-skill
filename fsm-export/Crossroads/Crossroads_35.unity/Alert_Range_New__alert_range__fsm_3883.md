@@ -1,4 +1,4 @@
-﻿# alert_range
+# alert_range
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | alert_range |
 | GameObject Name | Alert Range New |
 | GameObject Path | Infected_Parent/Hatcher (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level65 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level65 |
 | Start State | Initialise |
 | FSM PathId | 3883 |
 | GameObject PathId | 292 |

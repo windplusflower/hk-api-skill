@@ -1,4 +1,4 @@
-﻿# Pickup
+# Pickup
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pickup |
 | GameObject Name | Quake Pickup |
 | GameObject Path | Quake Real Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level101 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level101 |
 | Start State | Idle |
 | FSM PathId | 6942 |
 | GameObject PathId | 1253 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Arrival | Quake Real Parent/Quake Pickup/Arrival (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Arrival (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101)] |
-| Cascade | Quake Real Parent/Quake Pickup/Cascade (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Cascade (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101)] |
-| Quake Item | Quake Real Parent/Quake Pickup/Quake Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Quake Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101)] |
-| White Flash | Quake Real Parent/Quake Pickup/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101)] |
+| Arrival | Quake Real Parent/Quake Pickup/Arrival (Hollow Knight/hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Arrival (Hollow Knight/hollow_knight_Data\level101)] |
+| Cascade | Quake Real Parent/Quake Pickup/Cascade (Hollow Knight/hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Cascade (Hollow Knight/hollow_knight_Data\level101)] |
+| Quake Item | Quake Real Parent/Quake Pickup/Quake Item (Hollow Knight/hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/Quake Item (Hollow Knight/hollow_knight_Data\level101)] |
+| White Flash | Quake Real Parent/Quake Pickup/White Flash (Hollow Knight/hollow_knight_Data\level101) | NamedAssetPPtr: [Quake Real Parent/Quake Pickup/White Flash (Hollow Knight/hollow_knight_Data\level101)] |
 
 ## States
 
@@ -308,9 +308,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [shaman_spell (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets43.assets)] |   |   |
+| audioClip |   | [shaman_spell (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets43.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -324,8 +324,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave Default R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets101.assets)] |   |   |
-| spawnPoint |   | [Quake Real Parent/Quake Pickup/Quake Item (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level101)] |   |   |
+| gameObject |   | [Global] [White Wave Default R (Hollow Knight/hollow_knight_Data\sharedassets101.assets)] |   |   |
+| spawnPoint |   | [Quake Real Parent/Quake Pickup/Quake Item (Hollow Knight/hollow_knight_Data\level101)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |

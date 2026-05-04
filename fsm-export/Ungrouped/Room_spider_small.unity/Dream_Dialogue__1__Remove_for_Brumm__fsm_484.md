@@ -1,4 +1,4 @@
-﻿# Remove for Brumm
+# Remove for Brumm
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove for Brumm |
 | GameObject Name | Dream Dialogue (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level305 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level305 |
 | Start State | State 1 |
 | FSM PathId | 484 |
 | GameObject PathId | 46 |

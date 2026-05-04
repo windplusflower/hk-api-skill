@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Infected Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level425 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level425 |
 | Start State | Pause |
 | FSM PathId | 1929 |
 | GameObject PathId | 38 |

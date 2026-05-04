@@ -1,4 +1,4 @@
-﻿# Set
+# Set
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set |
 | GameObject Name | Set Kings Station Display |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level118 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level118 |
 | Start State | Pause |
 | FSM PathId | 5027 |
 | GameObject PathId | 37 |

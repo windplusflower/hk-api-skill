@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grey Prince Title |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level442 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level442 |
 | Start State | Init |
 | FSM PathId | 1932 |
 | GameObject PathId | 97 |
@@ -30,20 +30,20 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Extra Title 1 | Grey Prince Title/Extra Title 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 10 | Grey Prince Title/Extra Title 10 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 10 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 11 | Grey Prince Title/Extra Title 11 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 11 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 12 | Grey Prince Title/Extra Title 12 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 12 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 13 | Grey Prince Title/Extra Title 13 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 13 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 2 | Grey Prince Title/Extra Title 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 3 | Grey Prince Title/Extra Title 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 4 | Grey Prince Title/Extra Title 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 4 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 5 | Grey Prince Title/Extra Title 5 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 5 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 6 | Grey Prince Title/Extra Title 6 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 6 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 7 | Grey Prince Title/Extra Title 7 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 7 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 8 | Grey Prince Title/Extra Title 8 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 8 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Extra Title 9 | Grey Prince Title/Extra Title 9 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 9 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
-| Title Main | Grey Prince Title/Title Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Title Main (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level442)] |
+| Extra Title 1 | Grey Prince Title/Extra Title 1 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 1 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 10 | Grey Prince Title/Extra Title 10 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 10 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 11 | Grey Prince Title/Extra Title 11 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 11 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 12 | Grey Prince Title/Extra Title 12 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 12 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 13 | Grey Prince Title/Extra Title 13 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 13 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 2 | Grey Prince Title/Extra Title 2 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 2 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 3 | Grey Prince Title/Extra Title 3 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 3 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 4 | Grey Prince Title/Extra Title 4 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 4 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 5 | Grey Prince Title/Extra Title 5 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 5 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 6 | Grey Prince Title/Extra Title 6 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 6 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 7 | Grey Prince Title/Extra Title 7 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 7 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 8 | Grey Prince Title/Extra Title 8 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 8 (Hollow Knight/hollow_knight_Data\level442)] |
+| Extra Title 9 | Grey Prince Title/Extra Title 9 (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Extra Title 9 (Hollow Knight/hollow_knight_Data\level442)] |
+| Title Main | Grey Prince Title/Title Main (Hollow Knight/hollow_knight_Data\level442) | NamedAssetPPtr: [Grey Prince Title/Title Main (Hollow Knight/hollow_knight_Data\level442)] |
 
 ## States
 

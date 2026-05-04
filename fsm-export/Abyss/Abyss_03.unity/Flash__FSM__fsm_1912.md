@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Flash |
 | GameObject Path | Tram Call Box/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level329 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level329 |
 | Start State | Init |
 | FSM PathId | 1912 |
 | GameObject PathId | 24 |

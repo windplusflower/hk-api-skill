@@ -1,4 +1,4 @@
-﻿# chaser
+# chaser
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | chaser |
 | GameObject Name | Buzzer |
 | GameObject Path | Uninfected Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level55 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level55 |
 | Start State | Initiate |
 | FSM PathId | 3315 |
 | GameObject PathId | 315 |
@@ -146,7 +146,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

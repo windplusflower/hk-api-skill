@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Warrior |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level434 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level434 |
 | Start State | Wait |
 | FSM PathId | 1852 |
 | GameObject PathId | 128 |
@@ -24,8 +24,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Enable GameObject | Warrior/Ghost Warrior Galien (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
-| Hammer | Warrior/Galien Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
+| Enable GameObject | Warrior/Ghost Warrior Galien (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien (Hollow Knight/hollow_knight_Data\level434)] |
+| Hammer | Warrior/Galien Hammer (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer (Hollow Knight/hollow_knight_Data\level434)] |
 
 ## States
 
@@ -69,8 +69,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Galien (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Galien (Hollow Knight/hollow_knight_Data\level434)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -82,9 +82,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Warrior/Ghost Warrior Galien (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |   |   |
-| audioClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Warrior/Ghost Warrior Galien (Hollow Knight/hollow_knight_Data\level434)] |   |   |
+| audioClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

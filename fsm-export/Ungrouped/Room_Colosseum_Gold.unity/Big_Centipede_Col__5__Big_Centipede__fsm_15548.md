@@ -1,4 +1,4 @@
-﻿# Big Centipede
+# Big Centipede
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Big Centipede |
 | GameObject Name | Big Centipede Col (5) |
 | GameObject Path | Colosseum Manager/Waves/Garpedes 3/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Init |
 | FSM PathId | 15548 |
 | GameObject PathId | 2463 |
@@ -42,9 +42,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Entry | Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Entry | Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (Hollow Knight/hollow_knight_Data\level34)] |
 | Entry Dust | [null] | NamedAssetPPtr: [null] |
-| Exit | Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Exit | Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (Hollow Knight/hollow_knight_Data\level34)] |
 | Exit Dust | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -76,7 +76,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Entry" |   |   |
-| storeResult |   | [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] | Variable |   |
+| storeResult |   | [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Entry (Hollow Knight/hollow_knight_Data\level34)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -87,7 +87,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Exit" |   |   |
-| storeResult |   | [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] | Variable |   |
+| storeResult |   | [Colosseum Manager/Waves/Garpedes 3/Big Centipede Col (5)/Exit (Hollow Knight/hollow_knight_Data\level34)] | Variable |   |
 
 ##### 4. FindChild
 

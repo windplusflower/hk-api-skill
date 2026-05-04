@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Spark |
 | GameObject Path | Boss Scene Controller/Dream Entry/Knight Dream Arrival/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level469 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level469 |
 | Start State | Init |
 | FSM PathId | 2269 |
 | GameObject PathId | 584 |

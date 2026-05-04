@@ -1,4 +1,4 @@
-﻿# Remove on Battle Start
+# Remove on Battle Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove on Battle Start |
 | GameObject Name | Music Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level124 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level124 |
 | Start State | State 1 |
 | FSM PathId | 5763 |
 | GameObject PathId | 275 |

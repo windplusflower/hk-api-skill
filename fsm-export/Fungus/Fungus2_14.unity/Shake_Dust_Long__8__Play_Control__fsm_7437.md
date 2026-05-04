@@ -1,4 +1,4 @@
-﻿# Play Control
+# Play Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Control |
 | GameObject Name | Shake Dust Long (8) |
 | GameObject Path | Mantis Floor Gate/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level178 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level178 |
 | Start State | Idle |
 | FSM PathId | 7437 |
 | GameObject PathId | 20 |

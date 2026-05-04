@@ -1,4 +1,4 @@
-﻿# Set Compass Point
+# Set Compass Point
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Compass Point |
 | GameObject Name | door2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level404 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level404 |
 | Start State | Idle |
 | FSM PathId | 1089 |
 | GameObject PathId | 123 |

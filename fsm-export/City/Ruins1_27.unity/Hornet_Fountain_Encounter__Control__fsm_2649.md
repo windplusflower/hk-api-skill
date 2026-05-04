@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Hornet Fountain Encounter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Pause |
 | FSM PathId | 2649 |
 | GameObject PathId | 177 |
@@ -32,14 +32,14 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Cinematic Player | [null] | NamedAssetPPtr: [null] |
-| Grass | Corpse Hornet 1/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |
-| Grass Escape | Corpse Hornet 1/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |
+| Grass | Corpse Hornet 1/Grass (Hollow Knight/hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Grass (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |
+| Grass Escape | Corpse Hornet 1/Grass Escape (Hollow Knight/hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Grass Escape (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |
 | Hornet | [null] | NamedAssetPPtr: [null] |
-| Leave Anim | Corpse Hornet 1/Leave Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Leave Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |
+| Leave Anim | Corpse Hornet 1/Leave Anim (Hollow Knight/hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Leave Anim (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |
 | PanCam | [null] | NamedAssetPPtr: [null] |
 | Roar | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Thread | Corpse Hornet 1/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |
+| Thread | Corpse Hornet 1/Thread (Hollow Knight/hollow_knight_Data\sharedassets105.assets) | NamedAssetPPtr: [Corpse Hornet 1/Thread (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |
 
 ## States
 
@@ -128,7 +128,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Hornet |   |   |
 | childName |   | "Thread" |   |   |
-| storeResult |   | [Corpse Hornet 1/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] | Variable |   |
+| storeResult |   | [Corpse Hornet 1/Thread (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] | Variable |   |
 
 #### Transitions
 
@@ -204,7 +204,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 ##### 2. ActivateGameObject
@@ -634,9 +634,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Hornet_Dialogue_Generic_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| audioClip |   | [Hornet_Dialogue_Generic_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -752,9 +752,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Hornet_Dialogue_Generic_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioClip |   | [Hornet_Dialogue_Generic_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -831,9 +831,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Hornet_Fight_Yell_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| audioClip |   | [Hornet_Fight_Yell_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -847,9 +847,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [hornet_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hornet_jump (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -939,9 +939,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [hornet_needle_thow_spin (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| audioClip |   | [hornet_needle_thow_spin (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1062,9 +1062,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [hornet_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [hornet_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -1124,7 +1124,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 3f |   |   |
 
 ##### 5. SetPlayerDataBool

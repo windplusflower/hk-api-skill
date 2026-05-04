@@ -1,4 +1,4 @@
-﻿# Attacking
+# Attacking
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attacking |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Init |
 | FSM PathId | 3281 |
 | GameObject PathId | 324 |
@@ -39,7 +39,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior No Eyes/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level161)] |
+| Attack Pt | Warrior/Ghost Warrior No Eyes/Attack Pt (Hollow Knight/hollow_knight_Data\level161) | NamedAssetPPtr: [Warrior/Ghost Warrior No Eyes/Attack Pt (Hollow Knight/hollow_knight_Data\level161)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shot | [null] | NamedAssetPPtr: [null] |
 
@@ -181,7 +181,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -223,7 +223,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -265,7 +265,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -307,7 +307,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -349,7 +349,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -391,7 +391,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -433,7 +433,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -475,7 +475,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -734,7 +734,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -776,7 +776,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -818,7 +818,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -860,7 +860,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -902,7 +902,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -944,7 +944,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -986,7 +986,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1028,7 +1028,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1296,7 +1296,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1338,7 +1338,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1380,7 +1380,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1422,7 +1422,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1464,7 +1464,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1506,7 +1506,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1548,7 +1548,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1590,7 +1590,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

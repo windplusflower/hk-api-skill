@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Real Bat |
 | GameObject Path | Grimm Bats/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | Init |
 | FSM PathId | 582 |
 | GameObject PathId | 107 |
@@ -37,7 +37,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Grimm | Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level392) | NamedAssetPPtr: [Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level392)] |
+| Grimm | Grimm Boss (Hollow Knight/hollow_knight_Data\level392) | NamedAssetPPtr: [Grimm Boss (Hollow Knight/hollow_knight_Data\level392)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Colosseum Cage Small (2) |
 | GameObject Path | Colosseum Manager/Waves/Wave 27/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level32 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level32 |
 | Start State | Init |
 | FSM PathId | 8976 |
 | GameObject PathId | 1513 |
@@ -30,12 +30,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Anim | Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level32) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level32)] |
+| Anim | Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Anim (Hollow Knight/hollow_knight_Data\level32) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Anim (Hollow Knight/hollow_knight_Data\level32)] |
 | Colosseum Manager | [null] | NamedAssetPPtr: [null] |
 | Enemy | [null] | NamedAssetPPtr: [null] |
-| Enemy Type | Bursting Bouncer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets) | NamedAssetPPtr: [Bursting Bouncer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |
+| Enemy Type | Bursting Bouncer (Hollow Knight/hollow_knight_Data\sharedassets32.assets) | NamedAssetPPtr: [Bursting Bouncer (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Strike | Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level32) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level32)] |
+| Strike | Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Strike Nail (Hollow Knight/hollow_knight_Data\level32) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 27/Colosseum Cage Small (2)/Strike Nail (Hollow Knight/hollow_knight_Data\level32)] |
 | z Corpse Instance | [null] | NamedAssetPPtr: [null] |
 | z Corpse to Instantiate | [null] | NamedAssetPPtr: [null] |
 
@@ -393,7 +393,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Enemy |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

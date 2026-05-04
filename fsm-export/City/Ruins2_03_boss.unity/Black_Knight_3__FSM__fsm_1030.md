@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Black Knight 3 |
 | GameObject Path | Battle Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level115 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level115 |
 | Start State | Pause |
 | FSM PathId | 1030 |
 | GameObject PathId | 28 |

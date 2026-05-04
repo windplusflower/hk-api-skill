@@ -1,4 +1,4 @@
-﻿# ghost_npc_dreamnail
+# ghost_npc_dreamnail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ghost_npc_dreamnail |
 | GameObject Name | Dreamnail Hit |
 | GameObject Path | Battle Scene/Vespa NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Init |
 | FSM PathId | 2859 |
 | GameObject PathId | 759 |

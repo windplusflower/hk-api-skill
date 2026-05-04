@@ -1,4 +1,4 @@
-﻿# Send Event
+# Send Event
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Send Event |
 | GameObject Name | Splash Surface |
 | GameObject Path | Surface Water Region/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level360 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level360 |
 | Start State | Idle |
 | FSM PathId | 1331 |
 | GameObject PathId | 30 |

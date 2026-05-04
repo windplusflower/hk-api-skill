@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item (1) |
 | GameObject Path | _Props/Chest/Item/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Init |
 | FSM PathId | 12107 |
 | GameObject PathId | 2539 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | _Props/Chest/Item/Shiny Item (1)/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6) | NamedAssetPPtr: [_Props/Chest/Item/Shiny Item (1)/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level6)] |
+| Wave | _Props/Chest/Item/Shiny Item (1)/White Wave (Hollow Knight/hollow_knight_Data\level6) | NamedAssetPPtr: [_Props/Chest/Item/Shiny Item (1)/White Wave (Hollow Knight/hollow_knight_Data\level6)] |
 
 ## States
 

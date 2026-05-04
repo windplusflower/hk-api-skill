@@ -1,4 +1,4 @@
-﻿# Blanker Control
+# Blanker Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blanker Control |
 | GameObject Name | Stag Blanker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | Init |
 | FSM PathId | 1850 |
 | GameObject PathId | 478 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Glow |
 | GameObject Path | Open Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level85 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level85 |
 | Start State | Init |
 | FSM PathId | 1132 |
 | GameObject PathId | 312 |

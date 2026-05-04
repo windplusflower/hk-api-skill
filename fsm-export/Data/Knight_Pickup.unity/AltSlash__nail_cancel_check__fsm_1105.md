@@ -1,4 +1,4 @@
-﻿# nail_cancel_check
+# nail_cancel_check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | nail_cancel_check |
 | GameObject Name | AltSlash |
 | GameObject Path | Knight/Attacks/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1105 |
 | GameObject PathId | 41 |

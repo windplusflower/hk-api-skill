@@ -1,4 +1,4 @@
-﻿# Fluke Mother
+# Fluke Mother
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fluke Mother |
 | GameObject Name | Fluke Mother |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level433 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level433 |
 | Start State | Init |
 | FSM PathId | 1745 |
 | GameObject PathId | 353 |
@@ -46,7 +46,7 @@
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Cage | [null] | NamedAssetPPtr: [null] |
 | Fluke Fly | [null] | NamedAssetPPtr: [null] |
-| Flukeflys | Fluke Mother/Flukeflys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level433) | NamedAssetPPtr: [Fluke Mother/Flukeflys (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level433)] |
+| Flukeflys | Fluke Mother/Flukeflys (Hollow Knight/hollow_knight_Data\level433) | NamedAssetPPtr: [Fluke Mother/Flukeflys (Hollow Knight/hollow_knight_Data\level433)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Spawn Point | [null] | NamedAssetPPtr: [null] |
@@ -596,9 +596,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [fluke_mother_roar (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets361.assets)] |   |   |
+| audioClip |   | [fluke_mother_roar (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets361.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -642,7 +642,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -679,7 +679,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 9. SetGameObject
@@ -800,7 +800,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [Fluke_Mother_aggressive_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets361.assets)] |   |   |
+| audioClip |   | [Fluke_Mother_aggressive_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets361.assets)] |   |   |
 
 ##### 6. AudioPlaySimple
 
@@ -1008,9 +1008,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_spit_b (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_spit_b (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1024,9 +1024,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hatcher_give_birth (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hatcher_give_birth (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

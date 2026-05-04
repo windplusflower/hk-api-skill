@@ -1,4 +1,4 @@
-﻿# Follow Grimmchild
+# Follow Grimmchild
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow Grimmchild |
 | GameObject Name | Get Flame |
 | GameObject Path | Flamebearer Spawn/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | State 1 |
 | FSM PathId | 12643 |
 | GameObject PathId | 3771 |

@@ -1,4 +1,4 @@
-﻿# Enemy Recoil Up
+# Enemy Recoil Up
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enemy Recoil Up |
 | GameObject Name | Charm Effects |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 892 |
 | GameObject PathId | 147 |

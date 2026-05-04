@@ -1,4 +1,4 @@
-﻿# Spawn
+# Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spawn |
 | GameObject Name | Jellyfish Spawner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level466 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level466 |
 | Start State | Init |
 | FSM PathId | 2292 |
 | GameObject PathId | 212 |
@@ -72,7 +72,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Jellyfish GG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets466.assets)] |   |   |
+| gameObject |   | [Global] [Jellyfish GG (Hollow Knight/hollow_knight_Data\sharedassets466.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -114,7 +114,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Jellyfish GG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets466.assets)] |   |   |
+| gameObject |   | [Global] [Jellyfish GG (Hollow Knight/hollow_knight_Data\sharedassets466.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -154,7 +154,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Jellyfish GG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets466.assets)] |   |   |
+| gameObject |   | [Global] [Jellyfish GG (Hollow Knight/hollow_knight_Data\sharedassets466.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -196,7 +196,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Jellyfish GG (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets466.assets)] |   |   |
+| gameObject |   | [Global] [Jellyfish GG (Hollow Knight/hollow_knight_Data\sharedassets466.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Audio
+# Audio
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Audio |
 | GameObject Name | Brilliant_Style |
 | GameObject Path | Menu_Styles/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Frame 1 |
 | FSM PathId | 8120 |
 | GameObject PathId | 116 |

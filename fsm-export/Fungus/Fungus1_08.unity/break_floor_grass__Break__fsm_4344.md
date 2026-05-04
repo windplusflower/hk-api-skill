@@ -1,4 +1,4 @@
-﻿# Break
+# Break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break |
 | GameObject Name | break_floor_grass |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level137 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level137 |
 | Start State | Init |
 | FSM PathId | 4344 |
 | GameObject PathId | 543 |

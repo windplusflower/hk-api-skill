@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Area Title Controller (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level118 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level118 |
 | Start State | Pause |
 | FSM PathId | 5045 |
 | GameObject PathId | 518 |

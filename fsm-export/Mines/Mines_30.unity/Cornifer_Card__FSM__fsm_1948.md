@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Cornifer Card |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level269 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level269 |
 | Start State | Pause |
 | FSM PathId | 1948 |
 | GameObject PathId | 603 |

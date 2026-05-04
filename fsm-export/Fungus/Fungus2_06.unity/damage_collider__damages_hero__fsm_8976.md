@@ -1,4 +1,4 @@
-﻿# damages_hero
+# damages_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | damages_hero |
 | GameObject Name | damage_collider |
 | GameObject Path | Waterfall_collider/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level170 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level170 |
 | Start State | Init |
 | FSM PathId | 8976 |
 | GameObject PathId | 1806 |

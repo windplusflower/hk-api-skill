@@ -1,4 +1,4 @@
-﻿# Spa Region
+# Spa Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spa Region |
 | GameObject Name | Spa Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level62 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level62 |
 | Start State | Pause |
 | FSM PathId | 1400 |
 | GameObject PathId | 87 |
@@ -51,15 +51,15 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Glow Front | Spa Region/Spa Glows Front (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Glows Front (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62)] |
-| Glows | Spa Region/Spa Glows (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Glows (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62)] |
+| Glow Front | Spa Region/Spa Glows Front (Hollow Knight/hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Glows Front (Hollow Knight/hollow_knight_Data\level62)] |
+| Glows | Spa Region/Spa Glows (Hollow Knight/hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Glows (Hollow Knight/hollow_knight_Data\level62)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Plink | [null] | NamedAssetPPtr: [null] |
 | Spa Ripple | [null] | NamedAssetPPtr: [null] |
 | Spatter Obj | [null] | NamedAssetPPtr: [null] |
 | Splash | [null] | NamedAssetPPtr: [null] |
 | Splash Out Obj | [null] | NamedAssetPPtr: [null] |
-| Steam | Spa Region/Spa Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Steam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level62)] |
+| Steam | Spa Region/Spa Steam (Hollow Knight/hollow_knight_Data\level62) | NamedAssetPPtr: [Spa Region/Spa Steam (Hollow Knight/hollow_knight_Data\level62)] |
 
 ## States
 
@@ -115,7 +115,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0.2, -0.7, 0) |   |   |
 | spawnMin |   | 6 |   |   |
@@ -136,7 +136,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(-0.2, -0.7, 0) |   |   |
 | spawnMin |   | 6 |   |   |
@@ -157,9 +157,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.95f |   |   |
 | volume |   | 1f |   |   |
@@ -300,7 +300,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splash In Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash In Small (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -467,9 +467,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -584,7 +584,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splash Out Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash Out Small (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -764,9 +764,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
-| audioClip |   | [spa_heal (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets0.assets)] |   |   |
+| audioClip |   | [spa_heal (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets0.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -780,7 +780,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Plink effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| gameObject |   | [Global] [Plink effect (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, -0.4, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1167,7 +1167,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, -0.7, 0) |   |   |
 | spawnMin |   | 60 |   |   |
@@ -1188,9 +1188,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.95f |   |   |
 | volume |   | 1f |   |   |
@@ -1204,7 +1204,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splash In Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash In Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

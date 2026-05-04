@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | hollow_knight_skull_left |
 | GameObject Path | Boss Control/Radiance/Death/Knight Split/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Fling |
 | FSM PathId | 2623 |
 | GameObject PathId | 487 |

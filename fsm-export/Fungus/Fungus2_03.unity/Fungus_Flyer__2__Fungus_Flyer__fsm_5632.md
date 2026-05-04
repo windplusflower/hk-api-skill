@@ -1,4 +1,4 @@
-﻿# Fungus Flyer
+# Fungus Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fungus Flyer |
 | GameObject Name | Fungus Flyer (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level167 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level167 |
 | Start State | Init |
 | FSM PathId | 5632 |
 | GameObject PathId | 583 |
@@ -33,8 +33,8 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Antic Audio | [null] | NamedAssetPPtr: [null] |
-| Spawn Point | Fungus Flyer (2)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167) | NamedAssetPPtr: [Fungus Flyer (2)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167)] |
-| Spit Effect | Fungus Flyer (2)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167) | NamedAssetPPtr: [Fungus Flyer (2)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167)] |
+| Spawn Point | Fungus Flyer (2)/Spawn Point (Hollow Knight/hollow_knight_Data\level167) | NamedAssetPPtr: [Fungus Flyer (2)/Spawn Point (Hollow Knight/hollow_knight_Data\level167)] |
+| Spit Effect | Fungus Flyer (2)/Spit Effect (Hollow Knight/hollow_knight_Data\level167) | NamedAssetPPtr: [Fungus Flyer (2)/Spit Effect (Hollow Knight/hollow_knight_Data\level167)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -174,9 +174,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Fungus Flyer (2)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167)] |   |   |
-| audioClip |   | [plant_turret_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets140.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Fungus Flyer (2)/Spit Effect (Hollow Knight/hollow_knight_Data\level167)] |   |   |
+| audioClip |   | [plant_turret_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets140.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |
@@ -203,7 +203,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [fungus_balloon_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets167.assets)] |   |   |
+| oneShotClip |   | [fungus_balloon_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets167.assets)] |   |   |
 
 ##### 4. Tk2dPlayAnimationWithEvents
 
@@ -251,8 +251,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Gas Projectile (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets167.assets)] |   |   |
-| spawnPoint |   | [Fungus Flyer (2)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level167)] |   |   |
+| gameObject |   | [Global] [Gas Projectile (Hollow Knight/hollow_knight_Data\sharedassets167.assets)] |   |   |
+| spawnPoint |   | [Fungus Flyer (2)/Spawn Point (Hollow Knight/hollow_knight_Data\level167)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | frequency |   | 0.05f |   |   |
 | spawnMin |   | 1 |   |   |

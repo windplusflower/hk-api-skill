@@ -1,4 +1,4 @@
-﻿# Shake Token Control
+# Shake Token Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shake Token Control |
 | GameObject Name | Infected Knight Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level397 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level397 |
 | Start State | Idle |
 | FSM PathId | 2472 |
 | GameObject PathId | 508 |

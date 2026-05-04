@@ -1,4 +1,4 @@
-﻿# Laser Bug Mega
+# Laser Bug Mega
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Laser Bug Mega |
 | GameObject Name | Laser Turret Mega (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level271 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level271 |
 | Start State | Init |
 | FSM PathId | 1633 |
 | GameObject PathId | 464 |
@@ -38,10 +38,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Beam | Laser Turret Mega (3)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
-| Beam Ball | Laser Turret Mega (3)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam Ball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Beam | Laser Turret Mega (3)/Beam (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam (Hollow Knight/hollow_knight_Data\level271)] |
+| Beam Ball | Laser Turret Mega (3)/Beam Ball (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam Ball (Hollow Knight/hollow_knight_Data\level271)] |
 | Beam Glow | [null] | NamedAssetPPtr: [null] |
-| Beam Impact | Laser Turret Mega (3)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level271)] |
+| Beam Impact | Laser Turret Mega (3)/Beam Impact (Hollow Knight/hollow_knight_Data\level271) | NamedAssetPPtr: [Laser Turret Mega (3)/Beam Impact (Hollow Knight/hollow_knight_Data\level271)] |
 | Burn Particle | [null] | NamedAssetPPtr: [null] |
 | End Particle | [null] | NamedAssetPPtr: [null] |
 | Impact Particle | [null] | NamedAssetPPtr: [null] |
@@ -162,7 +162,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets252.assets)] |   |   |
+| oneShotClip |   | [mines_pink_laser_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets252.assets)] |   |   |
 
 ##### 3. PlayParticleEmitter
 

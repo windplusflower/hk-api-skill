@@ -1,4 +1,4 @@
-﻿# Prompt Control
+# Prompt Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt Control |
 | GameObject Name | Lore Prompt |
 | GameObject Path | _GameCameras/HudCamera/Prompts/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9338 |
 | GameObject PathId | 1378 |

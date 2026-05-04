@@ -1,4 +1,4 @@
-﻿# Flashing
+# Flashing
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flashing |
 | GameObject Name | Spaz |
 | GameObject Path | Quake Fake Parent/Knight Get Quake Fake/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Flashing |
 | FSM PathId | 2832 |
 | GameObject PathId | 86 |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | 16 |
 | GameObject Path | Ring Holder/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level194 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level194 |
 | Start State | Init |
 | FSM PathId | 2171 |
 | GameObject PathId | 155 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Box Big | Ring Holder/16/Box Big (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Big (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Impact | Ring Holder/16/Box Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Small | Ring Holder/16/Box Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
-| Box Up | Ring Holder/16/Box Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level194)] |
+| Box Big | Ring Holder/16/Box Big (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Big (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Impact | Ring Holder/16/Box Impact (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Impact (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Small | Ring Holder/16/Box Small (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Small (Hollow Knight/hollow_knight_Data\level194)] |
+| Box Up | Ring Holder/16/Box Up (Hollow Knight/hollow_knight_Data\level194) | NamedAssetPPtr: [Ring Holder/16/Box Up (Hollow Knight/hollow_knight_Data\level194)] |
 
 ## States
 

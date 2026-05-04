@@ -1,4 +1,4 @@
-﻿# Shift
+# Shift
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift |
 | GameObject Name | Grubs Folder |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level124 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level124 |
 | Start State | Idle |
 | FSM PathId | 6047 |
 | GameObject PathId | 1115 |

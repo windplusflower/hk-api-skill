@@ -1,4 +1,4 @@
-﻿# Fluke Fly
+# Fluke Fly
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fluke Fly |
 | GameObject Name | Fluke Fly Spawner (4) |
 | GameObject Path | Hatcher Cage (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level361 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level361 |
 | Start State | Init |
 | FSM PathId | 167 |
 | GameObject PathId | 2 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Cage | [null] | NamedAssetPPtr: [null] |
-| Pt Death | Hatcher Cage (2)/Fluke Fly Spawner (4)/Pt Death (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level361) | NamedAssetPPtr: [Hatcher Cage (2)/Fluke Fly Spawner (4)/Pt Death (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level361)] |
+| Pt Death | Hatcher Cage (2)/Fluke Fly Spawner (4)/Pt Death (Hollow Knight/hollow_knight_Data\level361) | NamedAssetPPtr: [Hatcher Cage (2)/Fluke Fly Spawner (4)/Pt Death (Hollow Knight/hollow_knight_Data\level361)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -39,9 +39,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [fluke_fairy_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [fluke_fairy_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -114,7 +114,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [fluke_fairy_charge_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [fluke_fairy_charge_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 
 ##### 2. AudioPlaySimple
 

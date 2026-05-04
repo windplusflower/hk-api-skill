@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Dream Gate Set Lock |
 | GameObject Path | Zombie Guard/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level78 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level78 |
 | Start State | Init |
 | FSM PathId | 1381 |
 | GameObject PathId | 411 |

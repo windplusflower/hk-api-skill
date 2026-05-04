@@ -1,4 +1,4 @@
-﻿# Grub Mimic
+# Grub Mimic
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Grub Mimic |
 | GameObject Name | Grub Mimic 2 |
 | GameObject Path | Grub Mimic Top (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level294 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level294 |
 | Start State | Init |
 | FSM PathId | 2759 |
 | GameObject PathId | 627 |
@@ -105,7 +105,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [grub_mimic_transform_start (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [grub_mimic_transform_start (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -197,7 +197,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [grub_mimic_initial_roar (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [grub_mimic_initial_roar (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 #### Transitions
 
@@ -483,7 +483,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [grub_mimic_transform_end (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [grub_mimic_transform_end (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimationWithEvents
 
@@ -504,7 +504,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Burst Point |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 20 |   |   |

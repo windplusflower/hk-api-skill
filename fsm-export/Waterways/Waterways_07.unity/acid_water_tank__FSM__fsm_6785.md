@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | acid water tank |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level357 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level357 |
 | Start State | Pause |
 | FSM PathId | 6785 |
 | GameObject PathId | 1623 |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Cloak Corpse |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level132 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level132 |
 | Start State | Pause |
 | FSM PathId | 4664 |
 | GameObject PathId | 606 |

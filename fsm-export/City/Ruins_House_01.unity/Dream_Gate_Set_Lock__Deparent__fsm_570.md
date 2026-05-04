@@ -1,4 +1,4 @@
-﻿# Deparent
+# Deparent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deparent |
 | GameObject Name | Dream Gate Set Lock |
 | GameObject Path | Battle Scene/Great Shield Zombie/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level83 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level83 |
 | Start State | State 1 |
 | FSM PathId | 570 |
 | GameObject PathId | 133 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Giraffe Upper NPC (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level196 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level196 |
 | Start State | Init |
 | FSM PathId | 1177 |
 | GameObject PathId | 134 |

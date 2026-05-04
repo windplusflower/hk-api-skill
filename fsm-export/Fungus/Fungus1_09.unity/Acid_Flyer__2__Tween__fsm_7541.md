@@ -1,4 +1,4 @@
-﻿# Tween
+# Tween
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tween |
 | GameObject Name | Acid Flyer (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level138 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level138 |
 | Start State | Init |
 | FSM PathId | 7541 |
 | GameObject PathId | 1059 |

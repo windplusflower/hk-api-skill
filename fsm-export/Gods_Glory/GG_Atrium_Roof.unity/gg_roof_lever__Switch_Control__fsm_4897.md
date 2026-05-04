@@ -1,4 +1,4 @@
-﻿# Switch Control
+# Switch Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Switch Control |
 | GameObject Name | gg_roof_lever |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Pause |
 | FSM PathId | 4897 |
 | GameObject PathId | 1416 |
@@ -48,7 +48,7 @@
 | Damager | [null] | NamedAssetPPtr: [null] |
 | Hit Origin | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target 1 | gg_roof_lever (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [gg_roof_lever (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
+| Target 1 | gg_roof_lever (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [gg_roof_lever (Hollow Knight/hollow_knight_Data\level473)] |
 | Target 2 | [null] | NamedAssetPPtr: [null] |
 | Target 3 | [null] | NamedAssetPPtr: [null] |
 
@@ -221,9 +221,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [gg_sphere_switch (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets424.assets)] |   |   |
+| audioClip |   | [gg_sphere_switch (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets424.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -272,7 +272,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Hit Origin |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

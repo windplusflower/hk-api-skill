@@ -1,4 +1,4 @@
-﻿# BG Control
+# BG Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | BG Control |
 | GameObject Name | Battle Gate Deepnest (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level290 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level290 |
 | Start State | Opened |
 | FSM PathId | 3569 |
 | GameObject PathId | 97 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sprite | Battle Gate Deepnest (2)/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level290) | NamedAssetPPtr: [Battle Gate Deepnest (2)/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level290)] |
+| Sprite | Battle Gate Deepnest (2)/Sprite (Hollow Knight/hollow_knight_Data\level290) | NamedAssetPPtr: [Battle Gate Deepnest (2)/Sprite (Hollow Knight/hollow_knight_Data\level290)] |
 
 ## States
 
@@ -122,9 +122,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| audioClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |
@@ -173,9 +173,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets290.assets)] |   |   |
+| audioClip |   | [mimic_spider_transormation_stage_4 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets290.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 1.2f |   |   |
 | volume |   | 1f |   |   |

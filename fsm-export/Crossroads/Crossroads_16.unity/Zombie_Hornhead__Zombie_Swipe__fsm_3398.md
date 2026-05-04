@@ -1,4 +1,4 @@
-﻿# Zombie Swipe
+# Zombie Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Swipe |
 | GameObject Name | Zombie Hornhead |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level55 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level55 |
 | Start State | Initialise |
 | FSM PathId | 3398 |
 | GameObject PathId | 673 |

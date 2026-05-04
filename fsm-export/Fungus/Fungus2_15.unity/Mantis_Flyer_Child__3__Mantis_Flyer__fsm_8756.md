@@ -1,4 +1,4 @@
-﻿# Mantis Flyer
+# Mantis Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis Flyer |
 | GameObject Name | Mantis Flyer Child (3) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level179 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level179 |
 | Start State | Init |
 | FSM PathId | 8756 |
 | GameObject PathId | 2016 |
@@ -36,7 +36,7 @@
 | --- | --- | --- |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sting Hit | Mantis Flyer Child (3)/Sting Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179) | NamedAssetPPtr: [Mantis Flyer Child (3)/Sting Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |
+| Sting Hit | Mantis Flyer Child (3)/Sting Hit (Hollow Knight/hollow_knight_Data\level179) | NamedAssetPPtr: [Mantis Flyer Child (3)/Sting Hit (Hollow Knight/hollow_knight_Data\level179)] |
 
 ## States
 
@@ -236,9 +236,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_flyer_child_awake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_flyer_child_awake (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -266,9 +266,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_flyer_child_charge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mantis_flyer_child_charge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -583,9 +583,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_flyer_child_awake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_flyer_child_awake (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |

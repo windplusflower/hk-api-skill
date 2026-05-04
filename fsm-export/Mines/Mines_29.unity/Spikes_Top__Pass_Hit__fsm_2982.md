@@ -1,4 +1,4 @@
-﻿# Pass Hit
+# Pass Hit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Pass Hit |
 | GameObject Name | Spikes Top |
 | GameObject Path | Mines Platform/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level268 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level268 |
 | Start State | Init |
 | FSM PathId | 2982 |
 | GameObject PathId | 817 |

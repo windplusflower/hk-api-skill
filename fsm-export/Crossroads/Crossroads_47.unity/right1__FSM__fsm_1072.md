@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | right1 |
 | GameObject Path | _Transition Gates/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level77 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level77 |
 | Start State | Pause Frame |
 | FSM PathId | 1072 |
 | GameObject PathId | 214 |

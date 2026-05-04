@@ -1,4 +1,4 @@
-﻿# Mantis Gate
+# Mantis Gate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis Gate |
 | GameObject Name | Mantis Floor Gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level178 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level178 |
 | Start State | Idle |
 | FSM PathId | 7582 |
 | GameObject PathId | 1630 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bits | Mantis Floor Gate/Bits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level178) | NamedAssetPPtr: [Mantis Floor Gate/Bits (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level178)] |
+| Bits | Mantis Floor Gate/Bits (Hollow Knight/hollow_knight_Data\level178) | NamedAssetPPtr: [Mantis Floor Gate/Bits (Hollow Knight/hollow_knight_Data\level178)] |
 | Gate Mantis | [null] | NamedAssetPPtr: [null] |
 | Mantis Gate F | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -345,7 +345,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [misc_rumble_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
+| oneShotClip |   | [misc_rumble_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
 
 #### Transitions
 
@@ -391,9 +391,9 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Mantis Gate F |   |   |
-| audioClip |   | [switch_gate_gate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| audioClip |   | [switch_gate_gate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# bouncer_control
+# bouncer_control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | bouncer_control |
 | GameObject Name | Giant Fly |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level484 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level484 |
 | Start State | Initialise |
 | FSM PathId | 1498 |
 | GameObject PathId | 73 |

@@ -1,4 +1,4 @@
-﻿# Destroy Self
+# Destroy Self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy Self |
 | GameObject Name | Slam Effect |
 | GameObject Path | Battle Scene/Jar Collector/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level126 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level126 |
 | Start State | Init |
 | FSM PathId | 72 |
 | GameObject PathId | 11 |

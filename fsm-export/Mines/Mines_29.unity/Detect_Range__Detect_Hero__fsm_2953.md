@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Detect Range |
 | GameObject Path | RestBench/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level268 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level268 |
 | Start State | Init |
 | FSM PathId | 2953 |
 | GameObject PathId | 171 |

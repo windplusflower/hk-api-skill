@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Globe Lit |
 | GameObject Path | White Palace Orb Lever/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level366 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level366 |
 | Start State | Init |
 | FSM PathId | 6372 |
 | GameObject PathId | 56 |

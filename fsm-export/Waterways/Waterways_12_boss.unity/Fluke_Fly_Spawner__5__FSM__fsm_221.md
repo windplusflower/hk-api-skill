@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Fluke Fly Spawner (5) |
 | GameObject Path | Hatcher Cage (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level361 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level361 |
 | Start State | Wait |
 | FSM PathId | 221 |
 | GameObject PathId | 3 |

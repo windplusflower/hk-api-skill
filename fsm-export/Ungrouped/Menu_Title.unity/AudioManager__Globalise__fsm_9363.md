@@ -1,4 +1,4 @@
-﻿# Globalise
+# Globalise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Globalise |
 | GameObject Name | AudioManager |
 | GameObject Path | _GameManager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9363 |
 | GameObject PathId | 1454 |

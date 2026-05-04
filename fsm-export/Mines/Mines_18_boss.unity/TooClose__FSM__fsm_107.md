@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | TooClose |
 | GameObject Path | Mega Zombie Beam Miner (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level261 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level261 |
 | Start State | Init |
 | FSM PathId | 107 |
 | GameObject PathId | 22 |

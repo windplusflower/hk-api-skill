@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | _Props/Grub Bottle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level39 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level39 |
 | Start State | Init |
 | FSM PathId | 5037 |
 | GameObject PathId | 1276 |

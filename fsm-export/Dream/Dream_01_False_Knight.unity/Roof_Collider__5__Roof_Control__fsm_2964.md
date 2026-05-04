@@ -1,4 +1,4 @@
-﻿# Roof Control
+# Roof Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Roof Control |
 | GameObject Name | Roof Collider (5) |
 | GameObject Path | Polygon_Collider_Cross_10/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level395 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level395 |
 | Start State | Idle |
 | FSM PathId | 2964 |
 | GameObject PathId | 498 |

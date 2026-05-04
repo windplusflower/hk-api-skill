@@ -1,4 +1,4 @@
-﻿# Fungus Zombie Attack
+# Fungus Zombie Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fungus Zombie Attack |
 | GameObject Name | Zombie Fungus A |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level174 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level174 |
 | Start State | Initialise |
 | FSM PathId | 8141 |
 | GameObject PathId | 1406 |
@@ -196,9 +196,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_fungus_a_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets167.assets)] |   |   |
+| audioClip |   | [zombie_fungus_a_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets167.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -302,9 +302,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_fungus_a_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| audioClip |   | [zombie_fungus_a_explode (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

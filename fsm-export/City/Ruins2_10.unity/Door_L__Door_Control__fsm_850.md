@@ -1,4 +1,4 @@
-﻿# Door Control
+# Door Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Door Control |
 | GameObject Name | Door L |
 | GameObject Path | elev_main/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level122 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level122 |
 | Start State | Init |
 | FSM PathId | 850 |
 | GameObject PathId | 40 |

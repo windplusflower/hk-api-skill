@@ -1,4 +1,4 @@
-﻿# Leave if not saved
+# Leave if not saved
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Leave if not saved |
 | GameObject Name | Zote Colosseum |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level31 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level31 |
 | Start State | Pause |
 | FSM PathId | 2199 |
 | GameObject PathId | 241 |

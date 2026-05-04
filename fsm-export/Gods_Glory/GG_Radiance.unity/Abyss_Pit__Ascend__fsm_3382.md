@@ -1,4 +1,4 @@
-﻿# Ascend
+# Ascend
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ascend |
 | GameObject Name | Abyss Pit |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Idle |
 | FSM PathId | 3382 |
 | GameObject PathId | 622 |

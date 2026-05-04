@@ -1,4 +1,4 @@
-﻿# Fungus Flyer Ambient
+# Fungus Flyer Ambient
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fungus Flyer Ambient |
 | GameObject Name | Fungus Flyer (10) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Float |
 | FSM PathId | 6302 |
 | GameObject PathId | 510 |

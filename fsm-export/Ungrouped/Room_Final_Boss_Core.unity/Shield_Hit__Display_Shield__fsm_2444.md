@@ -1,4 +1,4 @@
-﻿# Display Shield
+# Display Shield
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Display Shield |
 | GameObject Name | Shield Hit |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | State 1 |
 | FSM PathId | 2444 |
 | GameObject PathId | 407 |

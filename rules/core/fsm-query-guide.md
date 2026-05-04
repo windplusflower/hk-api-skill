@@ -49,7 +49,7 @@ tags: hk-api, fsm, query, manifest, boss
 如果还要继续精确筛选，再查 manifest：
 
 ```bash
-rg -n 'Radiance|Hornet|Grimm|Mantis|Zote' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'Radiance|Hornet|Grimm|Mantis|Zote' fsm-index/fsm-manifest.tsv
 ```
 
 ### 2. 按 scene 查
@@ -57,13 +57,13 @@ rg -n 'Radiance|Hornet|Grimm|Mantis|Zote' /home/windflower/.codex/skills/hk-api/
 如果用户说“`GG_Vengefly` 里有哪些 FSM”：
 
 ```bash
-rg -n 'GG_Vengefly(\.unity)?' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly(\.unity)?' fsm-index/fsm-manifest.tsv
 ```
 
 如果只知道 scene，不确定 group，也可以直接搜 scene 名：
 
 ```bash
-rg -n 'GG_Vengefly|Abyss_01\.unity' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly|Abyss_01\.unity' fsm-index/fsm-manifest.tsv
 ```
 
 ### 3. 按 GameObject 查
@@ -71,7 +71,7 @@ rg -n 'GG_Vengefly|Abyss_01\.unity' /home/windflower/.codex/skills/hk-api/fsm-in
 如果用户说“找 `Boss_Control_Radiance` 上的 FSM”：
 
 ```bash
-rg -n 'Boss_Control_Radiance' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'Boss_Control_Radiance' fsm-index/fsm-manifest.tsv
 ```
 
 ### 4. 按 FSM 名查
@@ -79,13 +79,13 @@ rg -n 'Boss_Control_Radiance' /home/windflower/.codex/skills/hk-api/fsm-index/fs
 如果用户只说“找某个 `Control`”：
 
 ```bash
-rg -n $'\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n $'\tControl\t' fsm-index/fsm-manifest.tsv
 ```
 
 这类查询通常结果很多，必须再加 scene 或 GameObject 条件：
 
 ```bash
-rg -n 'GG_Vengefly|GG_Radiance|Boss_Control_Radiance.*\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly|GG_Radiance|Boss_Control_Radiance.*\tControl\t' fsm-index/fsm-manifest.tsv
 ```
 
 ## 歧义消解规则

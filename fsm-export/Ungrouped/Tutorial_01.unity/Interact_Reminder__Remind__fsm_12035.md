@@ -1,4 +1,4 @@
-﻿# Remind
+# Remind
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remind |
 | GameObject Name | Interact Reminder |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Pause |
 | FSM PathId | 12035 |
 | GameObject PathId | 1625 |

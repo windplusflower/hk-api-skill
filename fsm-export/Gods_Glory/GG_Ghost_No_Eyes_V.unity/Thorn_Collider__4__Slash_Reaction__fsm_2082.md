@@ -1,4 +1,4 @@
-﻿# Slash Reaction
+# Slash Reaction
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Slash Reaction |
 | GameObject Name | Thorn Collider (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level492 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level492 |
 | Start State | Init |
 | FSM PathId | 2082 |
 | GameObject PathId | 612 |
@@ -109,7 +109,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -137,7 +137,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Audio Player |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [enemy_damage (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [enemy_damage (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 5. GetFsmFloat
@@ -230,7 +230,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | spawnMin |   | 2 |   |   |
@@ -251,7 +251,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -309,7 +309,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Thorn Cut Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets134.assets)] |   |   |
+| gameObject |   | [Global] [Thorn Cut Grass (Hollow Knight/hollow_knight_Data\sharedassets134.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 90, 0) |   |   |
@@ -389,7 +389,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | spawnMin |   | 2 |   |   |
@@ -410,7 +410,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -468,7 +468,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Thorn Cut Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets134.assets)] |   |   |
+| gameObject |   | [Global] [Thorn Cut Grass (Hollow Knight/hollow_knight_Data\sharedassets134.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 270, 180) |   |   |
@@ -523,7 +523,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | spawnMin |   | 2 |   |   |
@@ -544,7 +544,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -614,7 +614,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Thorn Cut Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets134.assets)] |   |   |
+| gameObject |   | [Global] [Thorn Cut Grass (Hollow Knight/hollow_knight_Data\sharedassets134.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(270, 90, 0) |   |   |
@@ -669,7 +669,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | spawnMin |   | 2 |   |   |
@@ -690,7 +690,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -760,7 +760,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Thorn Cut Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets134.assets)] |   |   |
+| gameObject |   | [Global] [Thorn Cut Grass (Hollow Knight/hollow_knight_Data\sharedassets134.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Effect Origin |   |   |
 | rotation |   | Vector3(90, 90, 0) |   |   |

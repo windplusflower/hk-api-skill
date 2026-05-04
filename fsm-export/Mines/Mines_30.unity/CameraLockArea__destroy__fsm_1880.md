@@ -1,4 +1,4 @@
-﻿# destroy
+# destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy |
 | GameObject Name | CameraLockArea |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level269 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level269 |
 | Start State | Pause |
 | FSM PathId | 1880 |
 | GameObject PathId | 122 |

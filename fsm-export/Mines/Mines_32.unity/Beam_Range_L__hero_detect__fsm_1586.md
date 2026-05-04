@@ -1,4 +1,4 @@
-﻿# hero_detect
+# hero_detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect |
 | GameObject Name | Beam Range L |
 | GameObject Path | Battle Scene/Zombie Beam Miner Rematch/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level271 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level271 |
 | Start State | Initialise |
 | FSM PathId | 1586 |
 | GameObject PathId | 155 |

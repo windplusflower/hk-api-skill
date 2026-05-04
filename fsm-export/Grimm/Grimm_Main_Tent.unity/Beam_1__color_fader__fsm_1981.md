@@ -1,4 +1,4 @@
-﻿# color_fader
+# color_fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | color_fader |
 | GameObject Name | Beam 1 |
 | GameObject Path | Grimm Holder/Defeated NPC/Spotlight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Init |
 | FSM PathId | 1981 |
 | GameObject PathId | 130 |

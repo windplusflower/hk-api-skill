@@ -1,4 +1,4 @@
-﻿# Enough Geo?
+# Enough Geo?
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Enough Geo? |
 | GameObject Name | Not Enough Sub |
 | GameObject Path | Shop Menu/Confirm/UI List/Yes/Not Enough/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level18 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level18 |
 | Start State | Init |
 | FSM PathId | 1025 |
 | GameObject PathId | 172 |

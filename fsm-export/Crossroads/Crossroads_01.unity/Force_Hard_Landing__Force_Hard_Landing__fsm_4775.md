@@ -1,4 +1,4 @@
-﻿# Force Hard Landing
+# Force Hard Landing
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Force Hard Landing |
 | GameObject Name | Force Hard Landing |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Detect |
 | FSM PathId | 4775 |
 | GameObject PathId | 501 |

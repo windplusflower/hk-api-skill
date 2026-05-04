@@ -1,4 +1,4 @@
-﻿# Bouncer Notify Parent
+# Bouncer Notify Parent
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bouncer Notify Parent |
 | GameObject Name | Projectile Stopper |
 | GameObject Path | Mega Fat Bee (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level456 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level456 |
 | Start State | Init |
 | FSM PathId | 1689 |
 | GameObject PathId | 26 |

@@ -1,4 +1,4 @@
-﻿# Anim
+# Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim |
 | GameObject Name | Cloth NPC 1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level173 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level173 |
 | Start State | Inert |
 | FSM PathId | 2426 |
 | GameObject PathId | 217 |

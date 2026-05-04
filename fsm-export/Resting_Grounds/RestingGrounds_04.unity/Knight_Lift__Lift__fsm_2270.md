@@ -1,4 +1,4 @@
-﻿# Lift
+# Lift
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lift |
 | GameObject Name | Knight Lift |
 | GameObject Path | Dreamer Scene 2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level239 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level239 |
 | Start State | Tween |
 | FSM PathId | 2270 |
 | GameObject PathId | 598 |

@@ -1,4 +1,4 @@
-﻿# Hornet Encounter
+# Hornet Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hornet Encounter |
 | GameObject Name | Hornet Encounter GP1 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level130 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level130 |
 | Start State | Init |
 | FSM PathId | 5259 |
 | GameObject PathId | 641 |
@@ -32,7 +32,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | CamLock | [null] | NamedAssetPPtr: [null] |
-| Grass | Hornet Encounter GP1/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level130) | NamedAssetPPtr: [Hornet Encounter GP1/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level130)] |
+| Grass | Hornet Encounter GP1/Grass (Hollow Knight/hollow_knight_Data\level130) | NamedAssetPPtr: [Hornet Encounter GP1/Grass (Hollow Knight/hollow_knight_Data\level130)] |
 
 ## States
 
@@ -305,7 +305,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Hornet_Fight_Yell_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| oneShotClip |   | [Hornet_Fight_Yell_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 
 #### Transitions
 

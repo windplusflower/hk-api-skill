@@ -1,4 +1,4 @@
-﻿# Mantis Lord
+# Mantis Lord
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis Lord |
 | GameObject Name | Mantis Lord |
 | GameObject Path | Mantis Battle/Battle Main/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Pause |
 | FSM PathId | 329 |
 | GameObject PathId | 64 |
@@ -86,13 +86,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dash Hit | Mantis Battle/Battle Main/Mantis Lord/Dash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Dash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
+| Dash Hit | Mantis Battle/Battle Main/Mantis Lord/Dash Hit (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Dash Hit (Hollow Knight/hollow_knight_Data\level180)] |
 | Hero Object | [null] | NamedAssetPPtr: [null] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
 | Pt Dash | [null] | NamedAssetPPtr: [null] |
-| Pt Land | Mantis Battle/Battle Main/Mantis Lord/Pt Land (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Pt Land (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
+| Pt Land | Mantis Battle/Battle Main/Mantis Lord/Pt Land (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Pt Land (Hollow Knight/hollow_knight_Data\level180)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Throw Point | Mantis Battle/Battle Main/Mantis Lord/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |
+| Throw Point | Mantis Battle/Battle Main/Mantis Lord/Throw Point (Hollow Knight/hollow_knight_Data\level180) | NamedAssetPPtr: [Mantis Battle/Battle Main/Mantis Lord/Throw Point (Hollow Knight/hollow_knight_Data\level180)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -123,7 +123,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Pt Dash" |   |   |
-| storeResult |   | [Mantis Battle/Battle Main/Mantis Lord/Pt Dash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] | Variable |   |
+| storeResult |   | [Mantis Battle/Battle Main/Mantis Lord/Pt Dash (Hollow Knight/hollow_knight_Data\level180)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -134,7 +134,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Pt Land" |   |   |
-| storeResult |   | [Mantis Battle/Battle Main/Mantis Lord/Pt Land (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] | Variable |   |
+| storeResult |   | [Mantis Battle/Battle Main/Mantis Lord/Pt Land (Hollow Knight/hollow_knight_Data\level180)] | Variable |   |
 
 ##### 4. SetGameObject
 
@@ -439,7 +439,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -532,7 +532,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_horizontal_dash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_horizontal_dash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 3. Tk2dPlayAnimation
 
@@ -813,7 +813,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_jump_off_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_jump_off_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. SetCollider
 
@@ -1078,7 +1078,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_whoosh_to_above (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_whoosh_to_above (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 3. SetCollider
 
@@ -1125,7 +1125,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_down_slash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_down_slash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimation
 
@@ -1220,7 +1220,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_down_slash_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_down_slash_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. SetPosition
 
@@ -1308,7 +1308,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_jump_off_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_jump_off_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 #### Transitions
 
@@ -1675,7 +1675,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. SpawnObjectFromGlobalPool
 
@@ -1684,8 +1684,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mantis Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
-| spawnPoint |   | [Mantis Battle/Battle Main/Mantis Lord/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |   |   |
+| gameObject |   | [Global] [Shot Mantis Lord (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
+| spawnPoint |   | [Mantis Battle/Battle Main/Mantis Lord/Throw Point (Hollow Knight/hollow_knight_Data\level180)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
@@ -1879,7 +1879,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_jump_off_cage (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_jump_off_cage (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 #### Transitions
 
@@ -1930,7 +1930,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_land_cage (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_land_cage (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -2416,7 +2416,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_shield_sentry_sword_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -2437,8 +2437,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Mantis Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
-| spawnPoint |   | [Mantis Battle/Battle Main/Mantis Lord/Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level180)] |   |   |
+| gameObject |   | [Global] [Shot Mantis Lord (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
+| spawnPoint |   | [Mantis Battle/Battle Main/Mantis Lord/Throw Point (Hollow Knight/hollow_knight_Data\level180)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
@@ -2545,7 +2545,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lord_land_on_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 

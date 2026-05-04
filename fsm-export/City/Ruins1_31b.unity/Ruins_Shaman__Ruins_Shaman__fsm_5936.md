@@ -1,4 +1,4 @@
-﻿# Ruins Shaman
+# Ruins Shaman
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ruins Shaman |
 | GameObject Name | Ruins Shaman |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level109 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level109 |
 | Start State | Pause |
 | FSM PathId | 5936 |
 | GameObject PathId | 981 |
@@ -61,14 +61,14 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Dust Box Down | [null] | NamedAssetPPtr: [null] |
-| Get Scene | Ruins Shaman/Knight Get Fireball Lv2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Knight Get Fireball Lv2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Get Scene | Ruins Shaman/Knight Get Fireball Lv2 (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Knight Get Fireball Lv2 (Hollow Knight/hollow_knight_Data\level109)] |
 | Lift | [null] | NamedAssetPPtr: [null] |
 | Prompt | [null] | NamedAssetPPtr: [null] |
 | Prompt Marker | [null] | NamedAssetPPtr: [null] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Roar Point | Ruins Shaman/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Roar Point | Ruins Shaman/Roar Point (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Roar Point (Hollow Knight/hollow_knight_Data\level109)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shaman Sprite | Ruins Shaman/Shaman Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Shaman Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |
+| Shaman Sprite | Ruins Shaman/Shaman Sprite (Hollow Knight/hollow_knight_Data\level109) | NamedAssetPPtr: [Ruins Shaman/Shaman Sprite (Hollow Knight/hollow_knight_Data\level109)] |
 
 ## States
 
@@ -107,7 +107,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1414,7 +1414,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Shaman Sprite |   |   |
-| sprite |   | [shaman_experiment_03 (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| sprite |   | [shaman_experiment_03 (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 
 #### Transitions
 
@@ -1487,9 +1487,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mimic_spider_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| audioClip |   | [mimic_spider_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |
@@ -1503,9 +1503,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [mimic_spider_scream (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| audioClip |   | [mimic_spider_scream (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 | pitchMin |   | 1.25f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |
@@ -1557,8 +1557,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Ruins Shaman/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level109)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Ruins Shaman/Roar Point (Hollow Knight/hollow_knight_Data\level109)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -1573,7 +1573,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Shaman Sprite |   |   |
-| sprite |   | [shaman_experiment_02 (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| sprite |   | [shaman_experiment_02 (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 
 ##### 9. iTweenMoveBy
 
@@ -1708,9 +1708,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [dark_spell_get (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets28.assets)] |   |   |
+| audioClip |   | [dark_spell_get (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets28.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1749,7 +1749,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Shaman Sprite |   |   |
-| sprite |   | [shaman_experiment_03 (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets109.assets)] |   |   |
+| sprite |   | [shaman_experiment_03 (Sprite) (Hollow Knight/hollow_knight_Data\sharedassets109.assets)] |   |   |
 
 ##### 5. SendEventByName
 

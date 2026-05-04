@@ -132,7 +132,7 @@ Modding.Logger.LogDebug("[DeVectMod] - Filled slots = 3");
 ```
 
 - 模组业务日志默认应进入 `ModLog.txt`，不要把 `UnityEngine.Debug.Log*` 当作 HK mod 的主日志通道。
-- 排障时优先读取 `ModLog.txt`，常见目录是 `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`。
+- 排障时优先读取 `ModLog.txt`，Windows 上常见目录是 `AppData/LocalLow/Team Cherry/Hollow Knight/ModLog.txt`。
 - `Player.log` 只作为 Unity / 游戏主流程异常的补充参考。
 
 

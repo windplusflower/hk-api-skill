@@ -1,4 +1,4 @@
-﻿# inspect_region
+# inspect_region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | inspect_region |
 | GameObject Name | Inspect Region Ghost |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level220 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level220 |
 | Start State | Init |
 | FSM PathId | 5388 |
 | GameObject PathId | 896 |
@@ -202,7 +202,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| prefab |   | [Global] [Arrow Prompt New (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| prefab |   | [Global] [Arrow Prompt New (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | labelName |   | string Prompt Name = "Listen" |   |   |
 | spawnPoint |   | GameObject Prompt Marker | Variable |   |
 | storeObject |   | GameObject Prompt | Variable |   |

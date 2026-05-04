@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | City Gate Control |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level186 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level186 |
 | Start State | Pause |
 | FSM PathId | 5554 |
 | GameObject PathId | 702 |
@@ -40,8 +40,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Activate Anim | City Gate Control/Activate Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level186) | NamedAssetPPtr: [City Gate Control/Activate Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level186)] |
-| Activated | City Gate Control/Activated (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level186) | NamedAssetPPtr: [City Gate Control/Activated (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level186)] |
+| Activate Anim | City Gate Control/Activate Anim (Hollow Knight/hollow_knight_Data\level186) | NamedAssetPPtr: [City Gate Control/Activate Anim (Hollow Knight/hollow_knight_Data\level186)] |
+| Activated | City Gate Control/Activated (Hollow Knight/hollow_knight_Data\level186) | NamedAssetPPtr: [City Gate Control/Activated (Hollow Knight/hollow_knight_Data\level186)] |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Crest | [null] | NamedAssetPPtr: [null] |
 | Door Closed | [null] | NamedAssetPPtr: [null] |
@@ -251,7 +251,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Area Title (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets9.assets)] |   |   |
+| gameObject |   | [Area Title (Hollow Knight/hollow_knight_Data\sharedassets9.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -599,9 +599,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [manhole_key_turn (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [manhole_key_turn (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -615,9 +615,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [shiny_item_pickup (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [shiny_item_pickup (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

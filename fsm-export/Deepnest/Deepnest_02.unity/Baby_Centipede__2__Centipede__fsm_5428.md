@@ -1,4 +1,4 @@
-﻿# Centipede
+# Centipede
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Centipede |
 | GameObject Name | Baby Centipede (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level279 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level279 |
 | Start State | Pause |
 | FSM PathId | 5428 |
 | GameObject PathId | 1490 |
@@ -76,7 +76,7 @@
 | Corner Check Obj | [null] | NamedAssetPPtr: [null] |
 | Dig Dust | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Plat Rocks | Baby Centipede (2)/Plat Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level279) | NamedAssetPPtr: [Baby Centipede (2)/Plat Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level279)] |
+| Plat Rocks | Baby Centipede (2)/Plat Rocks (Hollow Knight/hollow_knight_Data\level279) | NamedAssetPPtr: [Baby Centipede (2)/Plat Rocks (Hollow Knight/hollow_knight_Data\level279)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Teleplane | [null] | NamedAssetPPtr: [null] |
 | Wake Range Obj | [null] | NamedAssetPPtr: [null] |
@@ -120,7 +120,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Plat Rocks" |   |   |
-| storeResult |   | [Baby Centipede (2)/Plat Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level279)] | Variable |   |
+| storeResult |   | [Baby Centipede (2)/Plat Rocks (Hollow Knight/hollow_knight_Data\level279)] | Variable |   |
 
 ##### 4. GetHero
 
@@ -1206,7 +1206,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_call_from_below (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_call_from_below (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 ##### 2. ActivateGameObject
 
@@ -1395,7 +1395,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [centipede_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -1445,7 +1445,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 ##### 2. SetVelocityAsAngle
 
@@ -2029,7 +2029,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 #### Transitions
 
@@ -2132,7 +2132,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [centipede_burrow (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets278.assets)] |   |   |
+| oneShotClip |   | [centipede_burrow (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets278.assets)] |   |   |
 
 ##### 2. PlayParticleEmitter
 
@@ -2752,9 +2752,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_flyer_child_awake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_flyer_child_awake (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -2768,9 +2768,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [loose_floor_temp (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |   |   |
+| audioClip |   | [loose_floor_temp (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |   |   |
 | pitchMin |   | 1.1f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |

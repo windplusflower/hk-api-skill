@@ -1,4 +1,4 @@
-﻿# Shake
+# Shake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shake |
 | GameObject Name | Dust Collapse Small |
 | GameObject Path | Hopper Spawn/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level310 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level310 |
 | Start State | Shake |
 | FSM PathId | 9444 |
 | GameObject PathId | 1116 |

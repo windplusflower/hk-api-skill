@@ -1,4 +1,4 @@
-﻿# Beam Extender
+# Beam Extender
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Beam Extender |
 | GameObject Name | Beam |
 | GameObject Path | Crystallised Lazer Bug (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level256 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level256 |
 | Start State | Init |
 | FSM PathId | 4400 |
 | GameObject PathId | 738 |

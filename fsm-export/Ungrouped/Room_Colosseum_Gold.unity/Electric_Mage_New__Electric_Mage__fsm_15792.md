@@ -1,4 +1,4 @@
-﻿# Electric Mage
+# Electric Mage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Electric Mage |
 | GameObject Name | Electric Mage New |
 | GameObject Path | Colosseum Manager/Waves/Wave 47/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Init |
 | FSM PathId | 15792 |
 | GameObject PathId | 3673 |
@@ -74,7 +74,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Appear Flash | Colosseum Manager/Waves/Wave 47/Electric Mage New/Appear Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Appear Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Appear Flash | Colosseum Manager/Waves/Wave 47/Electric Mage New/Appear Flash (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Appear Flash (Hollow Knight/hollow_knight_Data\level34)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Orb Spinner | [null] | NamedAssetPPtr: [null] |
 | Pt Cast | [null] | NamedAssetPPtr: [null] |
@@ -82,12 +82,12 @@
 | Pt Idle Front | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Tele Line | [null] | NamedAssetPPtr: [null] |
-| Tele Out Anim | Colosseum Manager/Waves/Wave 47/Electric Mage New/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Tele Out Anim (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Tele Out Anim | Colosseum Manager/Waves/Wave 47/Electric Mage New/Tele Out Anim (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Tele Out Anim (Hollow Knight/hollow_knight_Data\level34)] |
 | Teleplane | [null] | NamedAssetPPtr: [null] |
 | Teleplanes | [null] | NamedAssetPPtr: [null] |
-| White Flash | Colosseum Manager/Waves/Wave 47/Electric Mage New/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| White Flash | Colosseum Manager/Waves/Wave 47/Electric Mage New/White Flash (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/White Flash (Hollow Knight/hollow_knight_Data\level34)] |
 | Zap | [null] | NamedAssetPPtr: [null] |
-| Zero Point | Colosseum Manager/Waves/Wave 47/Electric Mage New/Zero Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Zero Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level34)] |
+| Zero Point | Colosseum Manager/Waves/Wave 47/Electric Mage New/Zero Point (Hollow Knight/hollow_knight_Data\level34) | NamedAssetPPtr: [Colosseum Manager/Waves/Wave 47/Electric Mage New/Zero Point (Hollow Knight/hollow_knight_Data\level34)] |
 
 ## States
 
@@ -624,7 +624,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mage_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mage_appear (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 6. ActivateGameObject
 
@@ -781,7 +781,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Tele Line (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Tele Line (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3 Line Pos |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -1079,9 +1079,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
-| audioClip |   | [mage_summon_projectiles (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mage_summon_projectiles (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1095,9 +1095,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
-| audioClip |   | [mage_summon_projectiles (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mage_summon_projectiles (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1271,7 +1271,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Electro Zap (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| gameObject |   | [Global] [Electro Zap (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

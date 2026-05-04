@@ -1,4 +1,4 @@
-﻿# Check Health
+# Check Health
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check Health |
 | GameObject Name | False Knight New |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level432 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level432 |
 | Start State | Init |
 | FSM PathId | 1696 |
 | GameObject PathId | 39 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Init Blast |
 | GameObject Path | Dreamer Scene 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level448 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level448 |
 | Start State | Pause |
 | FSM PathId | 1674 |
 | GameObject PathId | 130 |

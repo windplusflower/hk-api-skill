@@ -1,4 +1,4 @@
-﻿# Waker
+# Waker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Waker |
 | GameObject Name | Waker |
 | GameObject Path | Zombie Miner 1 (4)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level276 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level276 |
 | Start State | Detect |
 | FSM PathId | 5716 |
 | GameObject PathId | 1206 |

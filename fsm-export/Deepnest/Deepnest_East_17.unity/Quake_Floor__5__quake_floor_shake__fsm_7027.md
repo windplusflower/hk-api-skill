@@ -1,4 +1,4 @@
-﻿# quake_floor_shake
+# quake_floor_shake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | quake_floor_shake |
 | GameObject Name | Quake Floor (5) |
 | GameObject Path | quake floors/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level322 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level322 |
 | Start State | Init |
 | FSM PathId | 7027 |
 | GameObject PathId | 948 |

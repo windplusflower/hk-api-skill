@@ -1,4 +1,4 @@
-﻿# Flash
+# Flash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flash |
 | GameObject Name | Legs |
 | GameObject Path | Boss Control/Radiance Roar/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | Pause |
 | FSM PathId | 2389 |
 | GameObject PathId | 292 |

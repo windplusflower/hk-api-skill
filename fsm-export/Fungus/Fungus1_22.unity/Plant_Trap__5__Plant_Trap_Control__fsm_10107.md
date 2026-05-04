@@ -1,4 +1,4 @@
-﻿# Plant Trap Control
+# Plant Trap Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Plant Trap Control |
 | GameObject Name | Plant Trap (5) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level150 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level150 |
 | Start State | Init |
 | FSM PathId | 10107 |
 | GameObject PathId | 1189 |
@@ -87,7 +87,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [plant_trap_bite_new (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| oneShotClip |   | [plant_trap_bite_new (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 
 #### Transitions
 

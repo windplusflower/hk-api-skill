@@ -1,4 +1,4 @@
-﻿# Vengeful Spirit
+# Vengeful Spirit
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Vengeful Spirit |
 | GameObject Name | Vengeful Spirit |
 | GameObject Path | _Props/Shaman Meeting/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Idle |
 | FSM PathId | 14113 |
 | GameObject PathId | 1836 |
@@ -30,7 +30,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Fireball Getter | _Props/Knight Get Fireball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level76) | NamedAssetPPtr: [_Props/Knight Get Fireball (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level76)] |
+| Fireball Getter | _Props/Knight Get Fireball (Hollow Knight/hollow_knight_Data\level76) | NamedAssetPPtr: [_Props/Knight Get Fireball (Hollow Knight/hollow_knight_Data\level76)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Idle Particles | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |

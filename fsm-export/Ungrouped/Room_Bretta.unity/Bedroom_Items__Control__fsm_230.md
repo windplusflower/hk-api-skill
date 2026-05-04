@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Bedroom Items |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level25 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level25 |
 | Start State | Init |
 | FSM PathId | 230 |
 | GameObject PathId | 38 |

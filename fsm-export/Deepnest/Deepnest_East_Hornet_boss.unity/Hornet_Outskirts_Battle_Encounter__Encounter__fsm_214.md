@@ -1,4 +1,4 @@
-﻿# Encounter
+# Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Encounter |
 | GameObject Name | Hornet Outskirts Battle Encounter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level325 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level325 |
 | Start State | Pause |
 | FSM PathId | 214 |
 | GameObject PathId | 25 |
@@ -26,11 +26,11 @@
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Boss | [null] | NamedAssetPPtr: [null] |
-| Grass | Hornet Outskirts Battle Encounter/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325)] |
-| Grass Escape | Hornet Outskirts Battle Encounter/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325)] |
+| Grass | Hornet Outskirts Battle Encounter/Grass (Hollow Knight/hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Grass (Hollow Knight/hollow_knight_Data\level325)] |
+| Grass Escape | Hornet Outskirts Battle Encounter/Grass Escape (Hollow Knight/hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Grass Escape (Hollow Knight/hollow_knight_Data\level325)] |
 | Hornet Saver | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Thread | Hornet Outskirts Battle Encounter/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level325)] |
+| Thread | Hornet Outskirts Battle Encounter/Thread (Hollow Knight/hollow_knight_Data\level325) | NamedAssetPPtr: [Hornet Outskirts Battle Encounter/Thread (Hollow Knight/hollow_knight_Data\level325)] |
 
 ## States
 
@@ -280,7 +280,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Hornet_Dialogue_Generic_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| oneShotClip |   | [Hornet_Dialogue_Generic_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 
 ##### 2. CallMethodProper
 
@@ -620,7 +620,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 5. SendEventByName
@@ -868,7 +868,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Hornet_Dialogue_Generic_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets325.assets)] |   |   |
+| oneShotClip |   | [Hornet_Dialogue_Generic_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets325.assets)] |   |   |
 
 #### Transitions
 
@@ -950,9 +950,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [blizzard_start (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioClip |   | [blizzard_start (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

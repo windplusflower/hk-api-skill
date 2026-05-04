@@ -1,4 +1,4 @@
-﻿# Knight Damage
+# Knight Damage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Knight Damage |
 | GameObject Name | Damage Effect |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1075 |
 | GameObject PathId | 202 |
@@ -44,15 +44,15 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Effect | [null] | NamedAssetPPtr: [null] |
-| HeroLight | Knight/HeroLight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/HeroLight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| HeroLight | Knight/HeroLight (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/HeroLight (Hollow Knight/hollow_knight_Data\level4)] |
 | Hit Crack | [null] | NamedAssetPPtr: [null] |
 | Hit Effect | [null] | NamedAssetPPtr: [null] |
 | Hit Pt 1 | [null] | NamedAssetPPtr: [null] |
 | Hit Pt 2 | [null] | NamedAssetPPtr: [null] |
-| Leak | Knight/Effects/Damage Effect/Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Effects/Damage Effect/Leak (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
-| Low Health Effect | Knight/Effects/Damage Effect/low health hit effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Effects/Damage Effect/low health hit effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Leak | Knight/Effects/Damage Effect/Leak (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Effects/Damage Effect/Leak (Hollow Knight/hollow_knight_Data\level4)] |
+| Low Health Effect | Knight/Effects/Damage Effect/low health hit effect (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Effects/Damage Effect/low health hit effect (Hollow Knight/hollow_knight_Data\level4)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Vignette | Knight/Vignette (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Vignette (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Vignette | Knight/Vignette (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Vignette (Hollow Knight/hollow_knight_Data\level4)] |
 
 ## States
 
@@ -196,7 +196,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect GhostDark1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Effect GhostDark1 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
@@ -217,7 +217,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect GhostDark2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Effect GhostDark2 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
@@ -282,7 +282,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect GhostDark1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Effect GhostDark1 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
@@ -303,7 +303,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect GhostDark2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Slash Effect GhostDark2 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
@@ -544,7 +544,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Blue (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Blue (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 40 |   |   |
@@ -582,7 +582,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splat Explode Blue (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splat Explode Blue (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.02) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -610,7 +610,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Blue Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Blue Flash (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.02) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

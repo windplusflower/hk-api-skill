@@ -1,4 +1,4 @@
-﻿# fade and destroy
+# fade and destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade and destroy |
 | GameObject Name | white_light |
 | GameObject Path | Scream Control/Knight Get Scream/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level27 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level27 |
 | Start State | State 1 |
 | FSM PathId | 6094 |
 | GameObject PathId | 167 |

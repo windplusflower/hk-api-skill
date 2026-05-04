@@ -1,4 +1,4 @@
-﻿# Play Control
+# Play Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Play Control |
 | GameObject Name | Break Dust |
 | GameObject Path | mine_break_bridge/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Idle |
 | FSM PathId | 6526 |
 | GameObject PathId | 1648 |

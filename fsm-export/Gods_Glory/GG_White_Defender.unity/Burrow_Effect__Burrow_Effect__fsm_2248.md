@@ -1,4 +1,4 @@
-﻿# Burrow Effect
+# Burrow Effect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Burrow Effect |
 | GameObject Name | Burrow Effect |
 | GameObject Path | White Defender/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level469 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level469 |
 | Start State | Init |
 | FSM PathId | 2248 |
 | GameObject PathId | 304 |

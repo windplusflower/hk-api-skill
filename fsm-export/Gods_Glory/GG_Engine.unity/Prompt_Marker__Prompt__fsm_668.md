@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Godseeker EngineRoom NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level475 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level475 |
 | Start State | Init |
 | FSM PathId | 668 |
 | GameObject PathId | 192 |

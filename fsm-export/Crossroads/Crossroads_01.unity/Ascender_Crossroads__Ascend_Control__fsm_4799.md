@@ -1,4 +1,4 @@
-﻿# Ascend Control
+# Ascend Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Ascend Control |
 | GameObject Name | Ascender Crossroads |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level37 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level37 |
 | Start State | Init |
 | FSM PathId | 4799 |
 | GameObject PathId | 620 |

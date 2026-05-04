@@ -1,4 +1,4 @@
-﻿# Spider Spawn
+# Spider Spawn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Spider Spawn |
 | GameObject Name | deep_egg_set_05 (18) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Init |
 | FSM PathId | 12637 |
 | GameObject PathId | 2121 |
@@ -131,7 +131,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Tiny Spider (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets291.assets)] |   |   |
+| gameObject |   | [Global] [Tiny Spider (Hollow Knight/hollow_knight_Data\sharedassets291.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

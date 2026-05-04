@@ -1,4 +1,4 @@
-﻿# Set Jinn
+# Set Jinn
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Jinn |
 | GameObject Name | door_jiji |
 | GameObject Path | Jiji Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3819 |
 | GameObject PathId | 162 |

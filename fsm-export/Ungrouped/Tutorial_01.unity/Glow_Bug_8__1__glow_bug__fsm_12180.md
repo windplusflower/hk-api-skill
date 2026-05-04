@@ -1,4 +1,4 @@
-﻿# glow_bug
+# glow_bug
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | glow_bug |
 | GameObject Name | Glow Bug 8 (1) |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Idle |
 | FSM PathId | 12180 |
 | GameObject PathId | 3365 |

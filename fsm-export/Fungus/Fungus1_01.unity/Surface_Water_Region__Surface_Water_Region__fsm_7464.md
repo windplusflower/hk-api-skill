@@ -1,4 +1,4 @@
-﻿# Surface Water Region
+# Surface Water Region
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Surface Water Region |
 | GameObject Name | Surface Water Region |
 | GameObject Path | Acid Control v2 (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level128 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level128 |
 | Start State | Init |
 | FSM PathId | 7464 |
 | GameObject PathId | 56 |
@@ -288,7 +288,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splash In Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash In Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero Obj |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -301,9 +301,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero Obj |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.95f |   |   |
 | volume |   | 1f |   |   |
@@ -355,9 +355,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero Obj |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1.15f |   |   |
 | volume |   | 1f |   |   |
@@ -487,9 +487,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [water_splash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets31.assets)] |   |   |
+| audioClip |   | [water_splash (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets31.assets)] |   |   |
 | pitchMin |   | 0.8f |   |   |
 | pitchMax |   | 0.95f |   |   |
 | volume |   | 1f |   |   |
@@ -503,7 +503,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Splash In Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash In Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | position |   | Vector3(0, 1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -645,7 +645,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Splash Out Obj | Variable |   |
-| gameObject |   | [Global] [Splash Out Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash Out Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SetGameObject
@@ -656,7 +656,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Spatter Obj | Variable |   |
-| gameObject |   | [Global] [Spatter Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Black (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. SetGameObject
@@ -667,7 +667,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dripper Obj | Variable |   |
-| gameObject |   | [Global] [Dripper Black (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets50.assets)] |   |   |
+| gameObject |   | [Global] [Dripper Black (Hollow Knight/hollow_knight_Data\sharedassets50.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions
@@ -703,7 +703,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Splash Out Obj | Variable |   |
-| gameObject |   | [Global] [Splash Out White (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Splash Out White (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 3. SetGameObject
@@ -714,7 +714,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Spatter Obj | Variable |   |
-| gameObject |   | [Global] [Spatter White R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter White R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. SetGameObject
@@ -725,7 +725,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | variable |   | GameObject Dripper Obj | Variable |   |
-| gameObject |   | [Global] [Dripper White (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets50.assets)] |   |   |
+| gameObject |   | [Global] [Dripper White (Hollow Knight/hollow_knight_Data\sharedassets50.assets)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

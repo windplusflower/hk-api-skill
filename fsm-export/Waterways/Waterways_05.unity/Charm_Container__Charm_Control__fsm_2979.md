@@ -1,4 +1,4 @@
-﻿# Charm Control
+# Charm Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Charm Control |
 | GameObject Name | Charm Container |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level354 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level354 |
 | Start State | Pause |
 | FSM PathId | 2979 |
 | GameObject PathId | 377 |

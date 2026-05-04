@@ -1,4 +1,4 @@
-﻿# final_chain_break
+# final_chain_break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | final_chain_break |
 | GameObject Name | hollow_knight_chain_base (4) |
 | GameObject Path | Death Break Chains/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Idle |
 | FSM PathId | 2448 |
 | GameObject PathId | 414 |
@@ -98,7 +98,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | haze2 (5) |
 | GameObject Path | Tram Console L/Lit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level24 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level24 |
 | Start State | Init |
 | FSM PathId | 448 |
 | GameObject PathId | 17 |

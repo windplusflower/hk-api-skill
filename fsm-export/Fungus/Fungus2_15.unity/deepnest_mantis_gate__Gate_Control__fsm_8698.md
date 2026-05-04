@@ -1,4 +1,4 @@
-﻿# Gate Control
+# Gate Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Gate Control |
 | GameObject Name | deepnest_mantis_gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level179 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level179 |
 | Start State | Pause |
 | FSM PathId | 8698 |
 | GameObject PathId | 971 |
@@ -18,9 +18,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Collider | deepnest_mantis_gate/Collider (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Collider (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |
-| Dust Close | deepnest_mantis_gate/Dust Close (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Dust Close (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |
-| Gate | deepnest_mantis_gate/Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |
+| Collider | deepnest_mantis_gate/Collider (Hollow Knight/hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Collider (Hollow Knight/hollow_knight_Data\level179)] |
+| Dust Close | deepnest_mantis_gate/Dust Close (Hollow Knight/hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Dust Close (Hollow Knight/hollow_knight_Data\level179)] |
+| Gate | deepnest_mantis_gate/Gate (Hollow Knight/hollow_knight_Data\level179) | NamedAssetPPtr: [deepnest_mantis_gate/Gate (Hollow Knight/hollow_knight_Data\level179)] |
 | Mantis Lord | [null] | NamedAssetPPtr: [null] |
 | Parent | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -128,9 +128,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [deepnest_mantis_gate/Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |   |   |
-| audioClip |   | [switch_gate_gate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [deepnest_mantis_gate/Gate (Hollow Knight/hollow_knight_Data\level179)] |   |   |
+| audioClip |   | [switch_gate_gate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -223,9 +223,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [deepnest_mantis_gate/Gate (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |   |   |
-| audioClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [deepnest_mantis_gate/Gate (Hollow Knight/hollow_knight_Data\level179)] |   |   |
+| audioClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -265,9 +265,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [Mantis_Lords_Door_close (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets179.assets)] |   |   |
+| audioClip |   | [Mantis_Lords_Door_close (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets179.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Crystal Flyer
+# Crystal Flyer
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crystal Flyer |
 | GameObject Name | Crystal Flyer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Init |
 | FSM PathId | 7999 |
 | GameObject PathId | 316 |
@@ -401,7 +401,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [crystal_flyer_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets251.assets)] |   |   |
+| oneShotClip |   | [crystal_flyer_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets251.assets)] |   |   |
 
 ##### 2. GetAngleToTarget2D
 
@@ -436,7 +436,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Crystal Shot (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets251.assets)] |   |   |
+| gameObject |   | [Global] [Crystal Shot (Hollow Knight/hollow_knight_Data\sharedassets251.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

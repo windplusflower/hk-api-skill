@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior Markoth |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level437 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level437 |
 | Start State | Init |
 | FSM PathId | 1583 |
 | GameObject PathId | 73 |
@@ -69,12 +69,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Markoth/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |
+| Attack Pt | Warrior/Ghost Warrior Markoth/Attack Pt (Hollow Knight/hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Attack Pt (Hollow Knight/hollow_knight_Data\level437)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior Markoth/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |
+| Target | Warrior/Ghost Warrior Markoth/Target (Hollow Knight/hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Target (Hollow Knight/hollow_knight_Data\level437)] |
 | Warp | [null] | NamedAssetPPtr: [null] |
-| Warp Out | Warrior/Ghost Warrior Markoth/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |
-| White Flash | Warrior/Ghost Warrior Markoth/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] |
+| Warp Out | Warrior/Ghost Warrior Markoth/Warp Out (Hollow Knight/hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Warp Out (Hollow Knight/hollow_knight_Data\level437)] |
+| White Flash | Warrior/Ghost Warrior Markoth/White Flash (Hollow Knight/hollow_knight_Data\level437) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/White Flash (Hollow Knight/hollow_knight_Data\level437)] |
 
 ## States
 
@@ -447,7 +447,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior Markoth/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level437)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior Markoth/Target (Hollow Knight/hollow_knight_Data\level437)] | Variable |   |
 | speedMax |   | 5f |   |   |
 | acceleration |   | 0.3f |   |   |
 | targetSpread |   | 0f |   |   |

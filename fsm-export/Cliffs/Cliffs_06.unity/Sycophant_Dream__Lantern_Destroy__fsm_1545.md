@@ -1,4 +1,4 @@
-﻿# Lantern Destroy
+# Lantern Destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lantern Destroy |
 | GameObject Name | Sycophant Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | State 1 |
 | FSM PathId | 1545 |
 | GameObject PathId | 493 |

@@ -1,4 +1,4 @@
-﻿# Avoid Knight
+# Avoid Knight
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Avoid Knight |
 | GameObject Name | Progress Gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Pause |
 | FSM PathId | 7628 |
 | GameObject PathId | 1163 |

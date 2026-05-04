@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Gravedigger NPC |
 | GameObject Path | _NPCs/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 4277 |
 | GameObject PathId | 1174 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | _NPCs/Gravedigger NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
-| Burst | _NPCs/Gravedigger NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
+| Away Pt | _NPCs/Gravedigger NPC/Away Pt (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Away Pt (Hollow Knight/hollow_knight_Data\level7)] |
+| Burst | _NPCs/Gravedigger NPC/Burst (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Burst (Hollow Knight/hollow_knight_Data\level7)] |
 | Dreamnail Hit | [null] | NamedAssetPPtr: [null] |
-| Idle Pt | _NPCs/Gravedigger NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level7)] |
+| Idle Pt | _NPCs/Gravedigger NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level7) | NamedAssetPPtr: [_NPCs/Gravedigger NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level7)] |
 
 ## States
 
@@ -222,7 +222,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. BoolTest
 

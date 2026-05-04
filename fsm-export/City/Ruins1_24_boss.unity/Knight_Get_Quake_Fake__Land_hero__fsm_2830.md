@@ -1,4 +1,4 @@
-﻿# Land hero
+# Land hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Land hero |
 | GameObject Name | Knight Get Quake Fake |
 | GameObject Path | Quake Fake Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Idle |
 | FSM PathId | 2830 |
 | GameObject PathId | 82 |

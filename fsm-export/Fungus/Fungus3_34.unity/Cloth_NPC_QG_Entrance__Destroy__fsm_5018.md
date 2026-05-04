@@ -1,4 +1,4 @@
-﻿# Destroy
+# Destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy |
 | GameObject Name | Cloth NPC QG Entrance |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level217 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level217 |
 | Start State | Pause |
 | FSM PathId | 5018 |
 | GameObject PathId | 32 |

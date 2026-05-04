@@ -1,4 +1,4 @@
-﻿# hp_scaler
+# hp_scaler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hp_scaler |
 | GameObject Name | Ruins Sentry 1 |
 | GameObject Path | Battle Scene/Wave 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level121 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level121 |
 | Start State | Pause |
 | FSM PathId | 2935 |
 | GameObject PathId | 597 |

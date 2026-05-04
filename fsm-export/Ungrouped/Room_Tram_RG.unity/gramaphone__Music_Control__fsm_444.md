@@ -1,4 +1,4 @@
-﻿# Music Control
+# Music Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Music Control |
 | GameObject Name | gramaphone |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level24 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level24 |
 | Start State | Init |
 | FSM PathId | 444 |
 | GameObject PathId | 7 |

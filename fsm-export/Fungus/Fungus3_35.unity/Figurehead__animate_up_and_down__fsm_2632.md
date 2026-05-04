@@ -1,4 +1,4 @@
-﻿# animate_up_and_down
+# animate_up_and_down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | animate_up_and_down |
 | GameObject Name | Figurehead |
 | GameObject Path | Bank Menu/Window/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2632 |
 | GameObject PathId | 78 |

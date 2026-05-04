@@ -1,4 +1,4 @@
-﻿# Death
+# Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Death |
 | GameObject Name | Zote Colosseum |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level31 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level31 |
 | Start State | Pause |
 | FSM PathId | 2191 |
 | GameObject PathId | 241 |

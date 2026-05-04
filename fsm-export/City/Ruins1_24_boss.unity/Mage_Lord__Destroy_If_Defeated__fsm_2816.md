@@ -1,4 +1,4 @@
-﻿# Destroy If Defeated
+# Destroy If Defeated
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy If Defeated |
 | GameObject Name | Mage Lord |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level102 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level102 |
 | Start State | Pause |
 | FSM PathId | 2816 |
 | GameObject PathId | 35 |

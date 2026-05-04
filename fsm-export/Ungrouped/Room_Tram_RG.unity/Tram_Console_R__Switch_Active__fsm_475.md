@@ -1,4 +1,4 @@
-﻿# Switch Active
+# Switch Active
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Switch Active |
 | GameObject Name | Tram Console R |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level24 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level24 |
 | Start State | Init |
 | FSM PathId | 475 |
 | GameObject PathId | 54 |
@@ -18,9 +18,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Flash | Tram Console R/Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24)] |
-| Inspect Region | Tram Console R/Inspect Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Inspect Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24)] |
-| Lit | Tram Console R/Lit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Lit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level24)] |
+| Flash | Tram Console R/Flash (Hollow Knight/hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Flash (Hollow Knight/hollow_knight_Data\level24)] |
+| Inspect Region | Tram Console R/Inspect Region (Hollow Knight/hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Inspect Region (Hollow Knight/hollow_knight_Data\level24)] |
+| Lit | Tram Console R/Lit (Hollow Knight/hollow_knight_Data\level24) | NamedAssetPPtr: [Tram Console R/Lit (Hollow Knight/hollow_knight_Data\level24)] |
 
 ## States
 

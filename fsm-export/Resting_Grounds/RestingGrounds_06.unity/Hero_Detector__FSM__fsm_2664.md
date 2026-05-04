@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Detector |
 | GameObject Path | Flamebearer Spawn/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level241 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level241 |
 | Start State | Init |
 | FSM PathId | 2664 |
 | GameObject PathId | 849 |

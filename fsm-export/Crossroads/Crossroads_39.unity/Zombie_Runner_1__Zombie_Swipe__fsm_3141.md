@@ -1,4 +1,4 @@
-﻿# Zombie Swipe
+# Zombie Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Swipe |
 | GameObject Name | Zombie Runner 1 |
 | GameObject Path | non_infected_event/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level69 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level69 |
 | Start State | Initialise |
 | FSM PathId | 3141 |
 | GameObject PathId | 549 |

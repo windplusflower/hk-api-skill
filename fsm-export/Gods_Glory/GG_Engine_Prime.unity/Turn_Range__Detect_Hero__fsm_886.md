@@ -1,4 +1,4 @@
-﻿# Detect Hero
+# Detect Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Detect Hero |
 | GameObject Name | Turn Range |
 | GameObject Path | Godseeker EngineRoom NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level476 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level476 |
 | Start State | Init |
 | FSM PathId | 886 |
 | GameObject PathId | 277 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Parent | Godseeker EngineRoom NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level476) | NamedAssetPPtr: [Godseeker EngineRoom NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level476)] |
+| Parent | Godseeker EngineRoom NPC (Hollow Knight/hollow_knight_Data\level476) | NamedAssetPPtr: [Godseeker EngineRoom NPC (Hollow Knight/hollow_knight_Data\level476)] |
 
 ## States
 

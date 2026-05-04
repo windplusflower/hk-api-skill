@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Fk Break Wall |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level46 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level46 |
 | Start State | Pause |
 | FSM PathId | 8014 |
 | GameObject PathId | 1705 |
@@ -19,10 +19,10 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Battle Gate | [null] | NamedAssetPPtr: [null] |
-| Breakable | Fk Break Wall/Breakable (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Breakable (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Broken | Fk Break Wall/Broken (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Broken (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Initial | Fk Break Wall/Initial (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Initial (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
-| Repaired | Fk Break Wall/Repaired (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Repaired (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level46)] |
+| Breakable | Fk Break Wall/Breakable (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Breakable (Hollow Knight/hollow_knight_Data\level46)] |
+| Broken | Fk Break Wall/Broken (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Broken (Hollow Knight/hollow_knight_Data\level46)] |
+| Initial | Fk Break Wall/Initial (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Initial (Hollow Knight/hollow_knight_Data\level46)] |
+| Repaired | Fk Break Wall/Repaired (Hollow Knight/hollow_knight_Data\level46) | NamedAssetPPtr: [Fk Break Wall/Repaired (Hollow Knight/hollow_knight_Data\level46)] |
 | Zombies | [null] | NamedAssetPPtr: [null] |
 
 ## States

@@ -1,4 +1,4 @@
-﻿# grub_rewards_shinyitem
+# grub_rewards_shinyitem
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | grub_rewards_shinyitem |
 | GameObject Name | Reward 10 |
 | GameObject Path | Grub King/Rewards Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Pause |
 | FSM PathId | 2524 |
 | GameObject PathId | 698 |

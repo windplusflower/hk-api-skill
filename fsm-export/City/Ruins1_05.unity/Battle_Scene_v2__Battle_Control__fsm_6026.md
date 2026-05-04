@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene v2 |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level92 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level92 |
 | Start State | Pause |
 | FSM PathId | 6026 |
 | GameObject PathId | 231 |
@@ -34,9 +34,9 @@
 | Camera Lock | [null] | NamedAssetPPtr: [null] |
 | Moss Knight | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| W1 SentryFat | Battle Scene v2/Wave 1/Ruins Sentry FatB (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 1/Ruins Sentry FatB (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92)] |
-| W2 Sentry | Battle Scene v2/Wave 2/Ruins SentryB 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins SentryB 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92)] |
-| W2 SentryFly | Battle Scene v2/Wave 2/Ruins Flying SentryB (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins Flying SentryB (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level92)] |
+| W1 SentryFat | Battle Scene v2/Wave 1/Ruins Sentry FatB (Hollow Knight/hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 1/Ruins Sentry FatB (Hollow Knight/hollow_knight_Data\level92)] |
+| W2 Sentry | Battle Scene v2/Wave 2/Ruins SentryB 1 (Hollow Knight/hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins SentryB 1 (Hollow Knight/hollow_knight_Data\level92)] |
+| W2 SentryFly | Battle Scene v2/Wave 2/Ruins Flying SentryB (Hollow Knight/hollow_knight_Data\level92) | NamedAssetPPtr: [Battle Scene v2/Wave 2/Ruins Flying SentryB (Hollow Knight/hollow_knight_Data\level92)] |
 | Wave 1 | [null] | NamedAssetPPtr: [null] |
 | Wave 2 | [null] | NamedAssetPPtr: [null] |
 
@@ -166,7 +166,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action and Sub (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 2. SetIntValue
@@ -316,7 +316,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Sub Area (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Sub Area (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 5f |   |   |
 
 ##### 3. SendEventByName

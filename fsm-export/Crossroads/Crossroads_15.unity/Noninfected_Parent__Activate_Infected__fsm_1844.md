@@ -1,4 +1,4 @@
-﻿# Activate Infected
+# Activate Infected
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate Infected |
 | GameObject Name | Noninfected Parent |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level54 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level54 |
 | Start State | Pause |
 | FSM PathId | 1844 |
 | GameObject PathId | 341 |

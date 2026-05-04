@@ -1,4 +1,4 @@
-﻿# Globalise
+# Globalise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Globalise |
 | GameObject Name | Text |
 | GameObject Path | _GameCameras/HudCamera/DialogueManager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Set |
 | FSM PathId | 9019 |
 | GameObject PathId | 849 |

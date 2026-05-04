@@ -1,4 +1,4 @@
-﻿# No Climb Msg
+# No Climb Msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | No Climb Msg |
 | GameObject Name | Zombie Spider 1 (1) |
 | GameObject Path | Zombie Spider Wake/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | Init |
 | FSM PathId | 12394 |
 | GameObject PathId | 889 |

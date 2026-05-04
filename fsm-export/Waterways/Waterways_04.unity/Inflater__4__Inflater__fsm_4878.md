@@ -1,4 +1,4 @@
-﻿# Inflater
+# Inflater
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Inflater |
 | GameObject Name | Inflater (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level352 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level352 |
 | Start State | Init |
 | FSM PathId | 4878 |
 | GameObject PathId | 1075 |
@@ -43,10 +43,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Alert range Obj | Inflater (4)/Alert Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Alert Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352)] |
-| Bouncer | Inflater (4)/Bouncer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Bouncer (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352)] |
+| Alert range Obj | Inflater (4)/Alert Range (Hollow Knight/hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Alert Range (Hollow Knight/hollow_knight_Data\level352)] |
+| Bouncer | Inflater (4)/Bouncer (Hollow Knight/hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Bouncer (Hollow Knight/hollow_knight_Data\level352)] |
 | Damager | [null] | NamedAssetPPtr: [null] |
-| Enemy Inflater | Inflater (4)/Enemy Inflater (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Enemy Inflater (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level352)] |
+| Enemy Inflater | Inflater (4)/Enemy Inflater (Hollow Knight/hollow_knight_Data\level352) | NamedAssetPPtr: [Inflater (4)/Enemy Inflater (Hollow Knight/hollow_knight_Data\level352)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -617,9 +617,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [inflater_inflate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| audioClip |   | [inflater_inflate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -634,7 +634,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [inflator_big_moving_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| audioClip |   | [inflator_big_moving_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -1028,7 +1028,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [inflater_idle_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets349.assets)] |   |   |
+| audioClip |   | [inflater_idle_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets349.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 

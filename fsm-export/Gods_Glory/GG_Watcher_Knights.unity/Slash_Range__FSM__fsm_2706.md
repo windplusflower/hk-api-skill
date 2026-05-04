@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Slash Range |
 | GameObject Path | Battle Control/Black Knight 6/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level468 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level468 |
 | Start State | Initialise |
 | FSM PathId | 2706 |
 | GameObject PathId | 107 |

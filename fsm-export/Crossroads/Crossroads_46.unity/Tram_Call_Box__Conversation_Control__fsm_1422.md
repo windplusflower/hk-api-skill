@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Tram Call Box |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level74 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level74 |
 | Start State | Pause |
 | FSM PathId | 1422 |
 | GameObject PathId | 85 |
@@ -33,8 +33,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Flash | Tram Call Box/Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Call Box/Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
-| Lit | Tram Call Box/Lit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Call Box/Lit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level74)] |
+| Flash | Tram Call Box/Flash (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Call Box/Flash (Hollow Knight/hollow_knight_Data\level74)] |
+| Lit | Tram Call Box/Lit (Hollow Knight/hollow_knight_Data\level74) | NamedAssetPPtr: [Tram Call Box/Lit (Hollow Knight/hollow_knight_Data\level74)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -578,7 +578,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [white_seal_1 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| oneShotClip |   | [white_seal_1 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 
 #### Transitions
 
@@ -627,7 +627,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| oneShotClip |   | [jiji_door_open_pt_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 
 #### Transitions
 

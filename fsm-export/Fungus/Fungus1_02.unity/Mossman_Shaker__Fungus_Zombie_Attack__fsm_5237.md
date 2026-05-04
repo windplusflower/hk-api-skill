@@ -1,4 +1,4 @@
-﻿# Fungus Zombie Attack
+# Fungus Zombie Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fungus Zombie Attack |
 | GameObject Name | Mossman_Shaker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level130 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level130 |
 | Start State | Initialise |
 | FSM PathId | 5237 |
 | GameObject PathId | 93 |
@@ -240,7 +240,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mossman_shaker_explode_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| oneShotClip |   | [mossman_shaker_explode_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 
 ##### 6. Tk2dPlayAnimation
 
@@ -271,7 +271,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -326,7 +326,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_fungus_a_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| oneShotClip |   | [zombie_fungus_a_explode (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 
 ##### 4. PlayParticleEmitter
 

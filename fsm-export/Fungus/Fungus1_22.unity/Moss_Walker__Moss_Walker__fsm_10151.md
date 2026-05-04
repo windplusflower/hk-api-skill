@@ -1,4 +1,4 @@
-﻿# Moss Walker
+# Moss Walker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Moss Walker |
 | GameObject Name | Moss Walker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level150 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level150 |
 | Start State | Init |
 | FSM PathId | 10151 |
 | GameObject PathId | 2074 |
@@ -50,9 +50,9 @@
 | --- | --- | --- |
 | Edge Range Obj | [null] | NamedAssetPPtr: [null] |
 | Ground Range Obj | [null] | NamedAssetPPtr: [null] |
-| Hide Grass | Moss Walker/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150) | NamedAssetPPtr: [Moss Walker/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150)] |
+| Hide Grass | Moss Walker/Hide Grass (Hollow Knight/hollow_knight_Data\level150) | NamedAssetPPtr: [Moss Walker/Hide Grass (Hollow Knight/hollow_knight_Data\level150)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shake Grass | Moss Walker/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150) | NamedAssetPPtr: [Moss Walker/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150)] |
+| Shake Grass | Moss Walker/Shake Grass (Hollow Knight/hollow_knight_Data\level150) | NamedAssetPPtr: [Moss Walker/Shake Grass (Hollow Knight/hollow_knight_Data\level150)] |
 | Wall Range Obj | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -182,9 +182,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Moss Walker/Hide Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150)] |   |   |
-| audioClip |   | [moss_flyer_walker_emerge (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Moss Walker/Hide Grass (Hollow Knight/hollow_knight_Data\level150)] |   |   |
+| audioClip |   | [moss_flyer_walker_emerge (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -231,8 +231,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Moss Walker/Shake Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level150)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Moss Walker/Shake Grass (Hollow Knight/hollow_knight_Data\level150)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 0.65f |   |   |

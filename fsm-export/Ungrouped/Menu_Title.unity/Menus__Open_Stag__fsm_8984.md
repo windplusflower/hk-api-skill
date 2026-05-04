@@ -1,4 +1,4 @@
-﻿# Open Stag
+# Open Stag
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Open Stag |
 | GameObject Name | Menus |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 8984 |
 | GameObject PathId | 1305 |
@@ -68,7 +68,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stag Map (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stag Map (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.03, 0.03, 35.35) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -173,7 +173,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stag Map (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Stag Map (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.03, 0.03, 35.35) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

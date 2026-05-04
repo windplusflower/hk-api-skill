@@ -1,4 +1,4 @@
-﻿# fat fly bounce
+# fat fly bounce
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fat fly bounce |
 | GameObject Name | Mega Fat Bee (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level456 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level456 |
 | Start State | Initialise |
 | FSM PathId | 1690 |
 | GameObject PathId | 25 |

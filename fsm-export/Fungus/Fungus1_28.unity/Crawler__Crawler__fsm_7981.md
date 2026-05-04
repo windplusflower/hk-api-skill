@@ -1,4 +1,4 @@
-﻿# Crawler
+# Crawler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crawler |
 | GameObject Name | Crawler |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level155 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level155 |
 | Start State | Walk |
 | FSM PathId | 7981 |
 | GameObject PathId | 1332 |

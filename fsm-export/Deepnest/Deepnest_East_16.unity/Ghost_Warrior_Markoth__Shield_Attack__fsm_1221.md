@@ -1,4 +1,4 @@
-﻿# Shield Attack
+# Shield Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shield Attack |
 | GameObject Name | Ghost Warrior Markoth |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level321 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level321 |
 | Start State | Init |
 | FSM PathId | 1221 |
 | GameObject PathId | 219 |
@@ -31,7 +31,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Markoth/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level321) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level321)] |
+| Attack Pt | Warrior/Ghost Warrior Markoth/Attack Pt (Hollow Knight/hollow_knight_Data\level321) | NamedAssetPPtr: [Warrior/Ghost Warrior Markoth/Attack Pt (Hollow Knight/hollow_knight_Data\level321)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Shield 1 | [null] | NamedAssetPPtr: [null] |
 
@@ -61,7 +61,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Markoth Shield (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets314.assets)] |   |   |
+| gameObject |   | [Global] [Markoth Shield (Hollow Knight/hollow_knight_Data\sharedassets314.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

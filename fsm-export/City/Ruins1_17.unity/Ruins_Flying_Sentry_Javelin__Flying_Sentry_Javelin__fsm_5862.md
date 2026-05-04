@@ -1,4 +1,4 @@
-﻿# Flying Sentry Javelin
+# Flying Sentry Javelin
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Flying Sentry Javelin |
 | GameObject Name | Ruins Flying Sentry Javelin |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level97 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level97 |
 | Start State | Init |
 | FSM PathId | 5862 |
 | GameObject PathId | 950 |
@@ -52,7 +52,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Charge Javelin Hit | Ruins Flying Sentry Javelin/Charge Javelin Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level97) | NamedAssetPPtr: [Ruins Flying Sentry Javelin/Charge Javelin Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level97)] |
+| Charge Javelin Hit | Ruins Flying Sentry Javelin/Charge Javelin Hit (Hollow Knight/hollow_knight_Data\level97) | NamedAssetPPtr: [Ruins Flying Sentry Javelin/Charge Javelin Hit (Hollow Knight/hollow_knight_Data\level97)] |
 | Javelin | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -212,7 +212,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -463,7 +463,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -496,7 +496,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_flying_javelin_sentry_shoot (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| oneShotClip |   | [ruin_flying_javelin_sentry_shoot (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 
 ##### 2. SpawnObjectFromGlobalPool
 
@@ -505,7 +505,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Sentry Javelin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets92.assets)] |   |   |
+| gameObject |   | [Global] [Sentry Javelin (Hollow Knight/hollow_knight_Data\sharedassets92.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 1.31, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -608,7 +608,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [ruin_flying_sentry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 4. AudioPlayerOneShot
 
@@ -617,7 +617,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

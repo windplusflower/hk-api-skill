@@ -1,4 +1,4 @@
-﻿# KILL HIT
+# KILL HIT
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | KILL HIT |
 | GameObject Name | Hollow Shade |
 | GameObject Path | Boss Control/Radiance/Death/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level407 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level407 |
 | Start State | State 1 |
 | FSM PathId | 2507 |
 | GameObject PathId | 365 |

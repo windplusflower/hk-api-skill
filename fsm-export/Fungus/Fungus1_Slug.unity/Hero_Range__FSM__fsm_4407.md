@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Hero Range |
 | GameObject Path | One Way Wall (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level164 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level164 |
 | Start State | Init |
 | FSM PathId | 4407 |
 | GameObject PathId | 24 |

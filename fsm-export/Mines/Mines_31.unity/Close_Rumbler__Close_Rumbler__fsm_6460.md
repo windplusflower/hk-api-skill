@@ -1,4 +1,4 @@
-﻿# Close Rumbler
+# Close Rumbler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Close Rumbler |
 | GameObject Name | Close Rumbler |
 | GameObject Path | Super Dash Get/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level270 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level270 |
 | Start State | Idle |
 | FSM PathId | 6460 |
 | GameObject PathId | 1334 |

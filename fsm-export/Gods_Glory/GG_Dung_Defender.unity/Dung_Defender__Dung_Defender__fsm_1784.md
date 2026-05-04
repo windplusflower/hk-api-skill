@@ -1,4 +1,4 @@
-﻿# Dung Defender
+# Dung Defender
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dung Defender |
 | GameObject Name | Dung Defender |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level430 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level430 |
 | Start State | Init |
 | FSM PathId | 1784 |
 | GameObject PathId | 119 |
@@ -97,21 +97,21 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
-| Build Chunks | Dung Defender/Build Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Build Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Burrow Effect | Dung Defender/Burrow Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Burrow Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Burst Effect | Dung Defender/Burst Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Burst Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Dolphin Chunks | Dung Defender/Dolphin Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dolphin Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
+| Build Chunks | Dung Defender/Build Chunks (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Build Chunks (Hollow Knight/hollow_knight_Data\level430)] |
+| Burrow Effect | Dung Defender/Burrow Effect (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Burrow Effect (Hollow Knight/hollow_knight_Data\level430)] |
+| Burst Effect | Dung Defender/Burst Effect (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Burst Effect (Hollow Knight/hollow_knight_Data\level430)] |
+| Dolphin Chunks | Dung Defender/Dolphin Chunks (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dolphin Chunks (Hollow Knight/hollow_knight_Data\level430)] |
 | Dung Ball | [null] | NamedAssetPPtr: [null] |
-| Dung Small Point | Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Dung Throw Point | Dung Defender/Dung Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dung Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Erupt Chunks | Dung Defender/Erupt Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Erupt Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
+| Dung Small Point | Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430)] |
+| Dung Throw Point | Dung Defender/Dung Throw Point (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Dung Throw Point (Hollow Knight/hollow_knight_Data\level430)] |
+| Erupt Chunks | Dung Defender/Erupt Chunks (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Erupt Chunks (Hollow Knight/hollow_knight_Data\level430)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Self | Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Slam Chunks | Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Slam Effect | Dung Defender/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Splash Out | Dung Defender/Splash Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Splash Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Splash Out Erupt | Dung Defender/Splash Out Erupt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Splash Out Erupt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
-| Throw Swipe | Dung Defender/Throw Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Throw Swipe (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |
+| Self | Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |
+| Slam Chunks | Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |
+| Slam Effect | Dung Defender/Slam Effect (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Slam Effect (Hollow Knight/hollow_knight_Data\level430)] |
+| Splash Out | Dung Defender/Splash Out (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Splash Out (Hollow Knight/hollow_knight_Data\level430)] |
+| Splash Out Erupt | Dung Defender/Splash Out Erupt (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Splash Out Erupt (Hollow Knight/hollow_knight_Data\level430)] |
+| Throw Swipe | Dung Defender/Throw Swipe (Hollow Knight/hollow_knight_Data\level430) | NamedAssetPPtr: [Dung Defender/Throw Swipe (Hollow Knight/hollow_knight_Data\level430)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -131,7 +131,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| storeGameObject |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] | Variable |   |
+| storeGameObject |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] | Variable |   |
 
 ##### 2. NextFrameEvent
 
@@ -197,7 +197,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | true |   |   |
@@ -272,8 +272,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -360,9 +360,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_dive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_dive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -985,8 +985,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -1105,8 +1105,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dung Ball Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Dung Ball Small (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Dung Ball | Variable |   |
@@ -1131,8 +1131,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dung Ball Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Dung Ball Small (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Dung Ball | Variable |   |
@@ -1157,8 +1157,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dung Ball Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Dung Ball Small (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Dung Ball | Variable |   |
@@ -1183,8 +1183,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dung Ball Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Dung Small Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Dung Ball Small (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Dung Small Point (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Dung Ball | Variable |   |
@@ -1473,7 +1473,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dung_defender_roll_and_throw (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [dung_defender_roll_and_throw (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 ##### 2. FaceObject
 
@@ -1482,7 +1482,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -1596,8 +1596,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dung Ball Large (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Dung Throw Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Dung Ball Large (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Dung Throw Point (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Dung Ball | Variable |   |
@@ -1960,7 +1960,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -2003,7 +2003,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dung_defender_self_ball_launch (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [dung_defender_self_ball_launch (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 ##### 2. AudioStop
 
@@ -2021,8 +2021,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -2273,7 +2273,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dung_defender_self_ball_bounce (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [dung_defender_self_ball_bounce (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 ##### 2. IntAdd
 
@@ -2825,8 +2825,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -2891,9 +2891,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_dive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets354.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_dive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets354.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3338,7 +3338,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dung_defender_side_roll_attack (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [dung_defender_side_roll_attack (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 ##### 3. SetVelocity2d
 
@@ -3369,8 +3369,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -3624,8 +3624,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Stun Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Stun Effect (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -3655,7 +3655,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -3835,8 +3835,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |
@@ -4210,7 +4210,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dung_defender_emerge_from_ground (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| oneShotClip |   | [dung_defender_emerge_from_ground (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 
 ##### 3. AudioPlayerOneShotSingle
 
@@ -4442,7 +4442,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -4482,7 +4482,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Hero |   |   |
 | fsmName |   | "Roar Lock" | FsmName |   |
 | variableName |   | "Roar Object" | FsmGameObject |   |
-| setValue |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| setValue |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 6. SendEventByName
@@ -4504,9 +4504,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [Dung_Def_roar_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [Dung_Def_roar_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -4520,9 +4520,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_chest_beat_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_chest_beat_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -4536,9 +4536,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -4552,8 +4552,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -4568,7 +4568,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Roar Emitter |   |   |
-| parent |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| parent |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -4714,7 +4714,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [DungDefender (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| musicCue |   | [DungDefender (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -4725,7 +4725,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions
@@ -5075,7 +5075,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| objectA |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| objectA |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | objectB |   | [Global] GameObject Hero | Variable |   |
 | spriteFacesRight |   | true |   |   |
 | playNewAnimation |   | false |   |   |
@@ -5104,7 +5104,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Hero |   |   |
 | fsmName |   | "Roar Lock" | FsmName |   |
 | variableName |   | "Roar Object" | FsmGameObject |   |
-| setValue |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| setValue |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | everyFrame |   | false |   |   |
 
 ##### 4. SendEventByName
@@ -5126,8 +5126,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -5142,7 +5142,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Roar Emitter |   |   |
-| parent |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| parent |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | resetLocalPosition |   | false |   |   |
 | resetLocalRotation |   | false |   |   |
 
@@ -5153,9 +5153,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [Dung_Def_roar_02 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [Dung_Def_roar_02 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -5169,9 +5169,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -5185,9 +5185,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
-| audioClip |   | [dung_defender_chest_beat_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets355.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
+| audioClip |   | [dung_defender_chest_beat_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets355.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -5759,8 +5759,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Dung Defender/Slam Chunks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level430)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Dung Defender/Slam Chunks (Hollow Knight/hollow_knight_Data\level430)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 1f |   |   |

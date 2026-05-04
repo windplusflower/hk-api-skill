@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Centipede Inspect/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level302 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level302 |
 | Start State | Init |
 | FSM PathId | 6777 |
 | GameObject PathId | 444 |

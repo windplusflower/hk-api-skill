@@ -1,4 +1,4 @@
-﻿# Hatcher
+# Hatcher
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hatcher |
 | GameObject Name | Hatcher NP |
 | GameObject Path | Battle Scene/Wave 1/Hatcher Summon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level59 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level59 |
 | Start State | Initiate |
 | FSM PathId | 6311 |
 | GameObject PathId | 1424 |
@@ -303,7 +303,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -320,7 +320,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Hatcher Baby (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets59.assets)] |   |   |
+| gameObject |   | [Global] [Hatcher Baby (Hollow Knight/hollow_knight_Data\sharedassets59.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -1, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -424,7 +424,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -1, 0) |   |   |
 | spawnMin |   | 5 |   |   |

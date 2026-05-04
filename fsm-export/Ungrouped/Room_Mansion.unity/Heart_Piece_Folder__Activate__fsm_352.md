@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Heart Piece Folder |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level22 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level22 |
 | Start State | Pause |
 | FSM PathId | 352 |
 | GameObject PathId | 37 |

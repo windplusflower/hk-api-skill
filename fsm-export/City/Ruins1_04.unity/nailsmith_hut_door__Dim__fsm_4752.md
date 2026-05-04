@@ -1,4 +1,4 @@
-﻿# Dim
+# Dim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Dim |
 | GameObject Name | nailsmith_hut_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level91 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level91 |
 | Start State | Pause |
 | FSM PathId | 4752 |
 | GameObject PathId | 843 |

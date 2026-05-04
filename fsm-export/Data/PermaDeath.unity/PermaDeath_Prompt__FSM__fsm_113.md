@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | PermaDeath Prompt |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level419 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level419 |
 | Start State | Pause Frame |
 | FSM PathId | 113 |
 | GameObject PathId | 12 |

@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Godseeker EngineRoom NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level475 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level475 |
 | Start State | Pause Frame |
 | FSM PathId | 666 |
 | GameObject PathId | 185 |
@@ -45,7 +45,7 @@
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Dream Dialogue | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Turn Range | Godseeker EngineRoom NPC/Turn Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level475) | NamedAssetPPtr: [Godseeker EngineRoom NPC/Turn Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level475)] |
+| Turn Range | Godseeker EngineRoom NPC/Turn Range (Hollow Knight/hollow_knight_Data\level475) | NamedAssetPPtr: [Godseeker EngineRoom NPC/Turn Range (Hollow Knight/hollow_knight_Data\level475)] |
 
 ## States
 
@@ -638,9 +638,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [GS_engine_room (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets475.assets)] |   |   |
+| audioClip |   | [GS_engine_room (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets475.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -738,7 +738,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 1 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 1 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | Event(TIER 1) |   |   |
 | falseEvent |   | Event() |   |   |
 
@@ -749,7 +749,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 2 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 2 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | Event(TIER 2) |   |   |
 | falseEvent |   | Event() |   |   |
 
@@ -760,7 +760,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 3 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 3 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | Event(TIER 3) |   |   |
 | falseEvent |   | Event() |   |   |
 
@@ -771,7 +771,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 4 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 4 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | Event(TIER 4) |   |   |
 | falseEvent |   | Event() |   |   |
 
@@ -782,7 +782,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 5 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 5 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | Event(TIER 5) |   |   |
 | falseEvent |   | Event() |   |   |
 

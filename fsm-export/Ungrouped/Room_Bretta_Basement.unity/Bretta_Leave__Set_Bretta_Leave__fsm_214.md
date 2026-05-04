@@ -1,4 +1,4 @@
-﻿# Set Bretta Leave
+# Set Bretta Leave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Bretta Leave |
 | GameObject Name | Bretta Leave |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level26 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level26 |
 | Start State | Pause |
 | FSM PathId | 214 |
 | GameObject PathId | 4 |

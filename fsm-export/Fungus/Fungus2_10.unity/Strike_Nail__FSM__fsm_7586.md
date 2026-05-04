@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Strike Nail |
 | GameObject Path | bounce_shroom_BG_01 (12)/Cut Sprite/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level174 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level174 |
 | Start State | Init |
 | FSM PathId | 7586 |
 | GameObject PathId | 527 |

@@ -1,4 +1,4 @@
-﻿# unparent_and_follow
+# unparent_and_follow
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unparent_and_follow |
 | GameObject Name | Bouncer |
 | GameObject Path | _Enemies/Roller 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | State 1 |
 | FSM PathId | 14100 |
 | GameObject PathId | 1682 |

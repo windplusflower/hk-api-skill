@@ -1,4 +1,4 @@
-﻿# Hit Crystals
+# Hit Crystals
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hit Crystals |
 | GameObject Name | Mines Crawler (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level276 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level276 |
 | Start State | Idle |
 | FSM PathId | 5669 |
 | GameObject PathId | 756 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hit Crystals | Mines Crawler (1)/Hit Crystals Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level276) | NamedAssetPPtr: [Mines Crawler (1)/Hit Crystals Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level276)] |
+| Hit Crystals | Mines Crawler (1)/Hit Crystals Effect (Hollow Knight/hollow_knight_Data\level276) | NamedAssetPPtr: [Mines Crawler (1)/Hit Crystals Effect (Hollow Knight/hollow_knight_Data\level276)] |
 
 ## States
 

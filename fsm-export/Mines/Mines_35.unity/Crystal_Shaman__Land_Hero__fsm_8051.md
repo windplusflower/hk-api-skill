@@ -1,4 +1,4 @@
-﻿# Land Hero
+# Land Hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Land Hero |
 | GameObject Name | Crystal Shaman |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level274 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level274 |
 | Start State | Idle |
 | FSM PathId | 8051 |
 | GameObject PathId | 542 |

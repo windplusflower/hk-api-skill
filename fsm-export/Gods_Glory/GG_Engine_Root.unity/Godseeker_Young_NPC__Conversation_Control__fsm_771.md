@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Godseeker Young NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level477 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level477 |
 | Start State | Pause Frame |
 | FSM PathId | 771 |
 | GameObject PathId | 250 |

@@ -1,4 +1,4 @@
-﻿# follow_hero
+# follow_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | follow_hero |
 | GameObject Name | Stomp Range |
 | GameObject Path | Balloon Spawner/Mage Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level494 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level494 |
 | Start State | Follow |
 | FSM PathId | 2484 |
 | GameObject PathId | 467 |

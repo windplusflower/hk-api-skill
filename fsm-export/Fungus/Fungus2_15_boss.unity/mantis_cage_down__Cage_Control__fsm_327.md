@@ -1,4 +1,4 @@
-﻿# Cage Control
+# Cage Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Cage Control |
 | GameObject Name | mantis_cage_down |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level180 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level180 |
 | Start State | Init |
 | FSM PathId | 327 |
 | GameObject PathId | 55 |
@@ -209,7 +209,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mantis_lords_gate_close (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets180.assets)] |   |   |
+| oneShotClip |   | [mantis_lords_gate_close (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets180.assets)] |   |   |
 
 ##### 2. SendEventByName
 

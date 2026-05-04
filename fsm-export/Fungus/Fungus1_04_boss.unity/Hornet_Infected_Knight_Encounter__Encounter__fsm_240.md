@@ -1,4 +1,4 @@
-﻿# Encounter
+# Encounter
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Encounter |
 | GameObject Name | Hornet Infected Knight Encounter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level133 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level133 |
 | Start State | Pause |
 | FSM PathId | 240 |
 | GameObject PathId | 38 |
@@ -26,11 +26,11 @@
 | --- | --- | --- |
 | Area Title | [null] | NamedAssetPPtr: [null] |
 | Boss | [null] | NamedAssetPPtr: [null] |
-| Grass | Hornet Infected Knight Encounter/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Grass (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
-| Grass Escape | Hornet Infected Knight Encounter/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Grass Escape (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
+| Grass | Hornet Infected Knight Encounter/Grass (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Grass (Hollow Knight/hollow_knight_Data\level133)] |
+| Grass Escape | Hornet Infected Knight Encounter/Grass Escape (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Grass Escape (Hollow Knight/hollow_knight_Data\level133)] |
 | Hornet Saver | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Thread | Hornet Infected Knight Encounter/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Thread (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level133)] |
+| Thread | Hornet Infected Knight Encounter/Thread (Hollow Knight/hollow_knight_Data\level133) | NamedAssetPPtr: [Hornet Infected Knight Encounter/Thread (Hollow Knight/hollow_knight_Data\level133)] |
 
 ## States
 
@@ -329,7 +329,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Hornet_Greenpath_01 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets133.assets)] |   |   |
+| oneShotClip |   | [Hornet_Greenpath_01 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets133.assets)] |   |   |
 
 #### Transitions
 
@@ -764,7 +764,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [Hornet_Fight_Yell_03 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets105.assets)] |   |   |
+| oneShotClip |   | [Hornet_Fight_Yell_03 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets105.assets)] |   |   |
 
 #### Transitions
 
@@ -936,7 +936,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Normal (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Normal (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 #### Transitions

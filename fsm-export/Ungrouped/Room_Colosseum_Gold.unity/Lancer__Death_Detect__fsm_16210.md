@@ -1,4 +1,4 @@
-﻿# Death Detect
+# Death Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Death Detect |
 | GameObject Name | Lancer |
 | GameObject Path | Colosseum Manager/Waves/Lobster Lancer/Entry Object/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Idle |
 | FSM PathId | 16210 |
 | GameObject PathId | 4570 |

@@ -1,4 +1,4 @@
-﻿# Effect Control
+# Effect Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Effect Control |
 | GameObject Name | Dash Burst |
 | GameObject Path | Knight/Effects/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Idle |
 | FSM PathId | 973 |
 | GameObject PathId | 39 |

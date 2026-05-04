@@ -1,4 +1,4 @@
-﻿# fade
+# fade
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fade |
 | GameObject Name | msk_generic |
 | GameObject Path | Break Floor 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level45 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level45 |
 | Start State | Pause |
 | FSM PathId | 1804 |
 | GameObject PathId | 14 |

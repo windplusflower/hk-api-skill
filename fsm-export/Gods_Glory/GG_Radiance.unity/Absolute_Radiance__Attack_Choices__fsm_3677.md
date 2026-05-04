@@ -1,4 +1,4 @@
-﻿# Attack Choices
+# Attack Choices
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Attack Choices |
 | GameObject Name | Absolute Radiance |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | Init |
 | FSM PathId | 3677 |
 | GameObject PathId | 834 |

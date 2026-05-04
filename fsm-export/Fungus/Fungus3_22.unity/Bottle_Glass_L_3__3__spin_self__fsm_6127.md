@@ -1,4 +1,4 @@
-﻿# spin_self
+# spin_self
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | spin_self |
 | GameObject Name | Bottle Glass L 3 (3) |
 | GameObject Path | ruind_dressing_light_01/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level207 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level207 |
 | Start State | Spin At Start? |
 | FSM PathId | 6127 |
 | GameObject PathId | 264 |

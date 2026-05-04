@@ -1,4 +1,4 @@
-﻿# Rotate
+# Rotate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotate |
 | GameObject Name | cog1 |
 | GameObject Path | Stag Lift/sprites/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level9 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level9 |
 | Start State | Idle |
 | FSM PathId | 1234 |
 | GameObject PathId | 200 |

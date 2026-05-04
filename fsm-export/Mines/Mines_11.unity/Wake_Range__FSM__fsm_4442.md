@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wake Range |
 | GameObject Path | Mines Crawler (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level256 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level256 |
 | Start State | Initialise |
 | FSM PathId | 4442 |
 | GameObject PathId | 1010 |

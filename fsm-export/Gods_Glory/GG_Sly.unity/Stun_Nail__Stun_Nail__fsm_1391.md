@@ -1,4 +1,4 @@
-﻿# Stun Nail
+# Stun Nail
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun Nail |
 | GameObject Name | Stun Nail |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level460 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level460 |
 | Start State | Start |
 | FSM PathId | 1391 |
 | GameObject PathId | 82 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sly | Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460) | NamedAssetPPtr: [Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460)] |
+| Sly | Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460) | NamedAssetPPtr: [Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460)] |
 | Thunk Anim | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -49,7 +49,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| targetObject |   | [Battle Scene/Sly Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level460)] |   |   |
+| targetObject |   | [Battle Scene/Sly Boss (Hollow Knight/hollow_knight_Data\level460)] |   |   |
 | xOffset |   | 0f |   |   |
 | yOffset |   | 2f |   |   |
 | zOffset |   | 0f |   |   |
@@ -205,9 +205,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_damage_armour (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets46.assets)] |   |   |
+| audioClip |   | [false_knight_damage_armour (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets46.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -260,9 +260,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hornet_parry_prepare (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets243.assets)] |   |   |
+| audioClip |   | [hornet_parry_prepare (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets243.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -276,9 +276,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [Sly_stun_nail_grab (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets460.assets)] |   |   |
+| audioClip |   | [Sly_stun_nail_grab (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets460.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

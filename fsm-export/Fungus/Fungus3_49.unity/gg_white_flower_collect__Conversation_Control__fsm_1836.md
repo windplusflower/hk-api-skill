@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | gg_white_flower_collect |
 | GameObject Path | gg_white_flower/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level225 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level225 |
 | Start State | Pause |
 | FSM PathId | 1836 |
 | GameObject PathId | 531 |
@@ -32,9 +32,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Godseeker | Godseeker Waterways/Godseeker Awake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Awake (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |
-| Godseeker Fall | Godseeker Waterways/Godseeker Fall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Fall (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |
-| Key | Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |
+| Godseeker | Godseeker Waterways/Godseeker Awake (Hollow Knight/hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Awake (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |
+| Godseeker Fall | Godseeker Waterways/Godseeker Fall (Hollow Knight/hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Godseeker Fall (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |
+| Key | Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (Hollow Knight/hollow_knight_Data\sharedassets225.assets) | NamedAssetPPtr: [Godseeker Waterways/Coffin/GG_Waterways_Coffin_0003_1/Key (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |
 | Msg | [null] | NamedAssetPPtr: [null] |
 | Msg | [null] | NamedAssetPPtr: [null] |
 | Msg | [null] | NamedAssetPPtr: [null] |
@@ -405,7 +405,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Relic Get Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Relic Get Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -441,7 +441,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Msg Item |   |   |
-| sprite |   | [White_Flower_Full (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [White_Flower_Full (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 8. GetLanguageString
 

@@ -1,4 +1,4 @@
-﻿# Superdash
+# Superdash
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Superdash |
 | GameObject Name | Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 944 |
 | GameObject PathId | 161 |
@@ -47,14 +47,14 @@
 | --- | --- | --- |
 | Bling Effect | [null] | NamedAssetPPtr: [null] |
 | Camera Target | [null] | NamedAssetPPtr: [null] |
-| Charge Audio | Knight/Sounds/SuperDash Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDash Charge (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Charge Audio | Knight/Sounds/SuperDash Charge (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDash Charge (Hollow Knight/hollow_knight_Data\level4)] |
 | Charge Effect | [null] | NamedAssetPPtr: [null] |
 | Charge Effect Wall | [null] | NamedAssetPPtr: [null] |
 | Charge Glow | [null] | NamedAssetPPtr: [null] |
 | Crystal Burst GL | [null] | NamedAssetPPtr: [null] |
 | Crystal Burst GR | [null] | NamedAssetPPtr: [null] |
-| Crystal Burst W | Knight/Sounds/SuperDashing (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDashing (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
-| Dashing Audio | Knight/Sounds/SuperDashing (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDashing (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] |
+| Crystal Burst W | Knight/Sounds/SuperDashing (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDashing (Hollow Knight/hollow_knight_Data\level4)] |
+| Dashing Audio | Knight/Sounds/SuperDashing (Hollow Knight/hollow_knight_Data\level4) | NamedAssetPPtr: [Knight/Sounds/SuperDashing (Hollow Knight/hollow_knight_Data\level4)] |
 | Dust Wall Impact | [null] | NamedAssetPPtr: [null] |
 | FX Folder | [null] | NamedAssetPPtr: [null] |
 | Pulse Pt | [null] | NamedAssetPPtr: [null] |
@@ -461,7 +461,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FX Folder |   |   |
 | childName |   | "SD Crystal Burst W" |   |   |
-| storeResult |   | [Knight/Sounds/SuperDashing (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level4)] | Variable |   |
+| storeResult |   | [Knight/Sounds/SuperDashing (Hollow Knight/hollow_knight_Data\level4)] | Variable |   |
 
 ##### 24. FindChild
 
@@ -1358,7 +1358,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_super_dash_ready (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_super_dash_ready (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. SendEventByName
@@ -1565,7 +1565,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_super_dash_burst (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_super_dash_burst (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -1576,12 +1576,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_super_dash_burst (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_super_dash_burst (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [SuperDashPop (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SuperDashPop (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. AudioPlayRandom
 
@@ -2332,7 +2332,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_super_dash_air_brake (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_super_dash_air_brake (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. PlayVibration
@@ -2343,12 +2343,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_super_dash_air_brake (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_super_dash_air_brake (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "" |   |   |
-| gamepadVibration |   | [SuperDashAirCancel (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [SuperDashAirCancel (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SendEventByName
 
@@ -2551,7 +2551,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_super_dash_impact_wall (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_super_dash_impact_wall (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 6. CallMethodProper
@@ -3173,7 +3173,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_super_dash_ready (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_super_dash_ready (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. SendEventByName

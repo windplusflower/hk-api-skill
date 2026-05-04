@@ -1,4 +1,4 @@
-﻿# Rotater
+# Rotater
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rotater |
 | GameObject Name | conveyor_cog_010000 |
 | GameObject Path | cogs/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level186 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level186 |
 | Start State | Init |
 | FSM PathId | 5530 |
 | GameObject PathId | 292 |

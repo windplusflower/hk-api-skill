@@ -1,4 +1,4 @@
-﻿# Travel Forward
+# Travel Forward
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Travel Forward |
 | GameObject Name | Shiny Item Rancid Egg |
 | GameObject Path | Loose Rewards/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Travel |
 | FSM PathId | 2437 |
 | GameObject PathId | 67 |

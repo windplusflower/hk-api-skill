@@ -1,4 +1,4 @@
-﻿# Activate Lantern
+# Activate Lantern
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate Lantern |
 | GameObject Name | Sycophant Dream |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Pause |
 | FSM PathId | 1594 |
 | GameObject PathId | 493 |
@@ -30,14 +30,14 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Burn Flash | Sycophant Dream/Burn Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Burn Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
-| Hit Flash | Sycophant Dream/Hit Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Hit Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
-| Impact Pt | Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
-| Inspect Region | Sycophant Dream/Inspect Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Inspect Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
+| Burn Flash | Sycophant Dream/Burn Flash (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Burn Flash (Hollow Knight/hollow_knight_Data\level236)] |
+| Hit Flash | Sycophant Dream/Hit Flash (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Hit Flash (Hollow Knight/hollow_knight_Data\level236)] |
+| Impact Pt | Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
+| Inspect Region | Sycophant Dream/Inspect Region (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Inspect Region (Hollow Knight/hollow_knight_Data\level236)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Smoke | Sycophant Dream/Smoke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Smoke (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
-| Sprite | Sycophant Dream/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
-| particle_flame | Sycophant Dream/particle_flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/particle_flame (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level236)] |
+| Smoke | Sycophant Dream/Smoke (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Smoke (Hollow Knight/hollow_knight_Data\level236)] |
+| Sprite | Sycophant Dream/Sprite (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/Sprite (Hollow Knight/hollow_knight_Data\level236)] |
+| particle_flame | Sycophant Dream/particle_flame (Hollow Knight/hollow_knight_Data\level236) | NamedAssetPPtr: [Sycophant Dream/particle_flame (Hollow Knight/hollow_knight_Data\level236)] |
 
 ## States
 
@@ -67,7 +67,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Impact Pt" |   |   |
-| storeResult |   | [Dream Dialogue/Impact Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | Variable |   |
+| storeResult |   | [Dream Dialogue/Impact Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | Variable |   |
 
 ##### 3. PlayerDataBoolTest
 
@@ -166,7 +166,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Dream Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Dream Impact (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

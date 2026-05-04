@@ -1,4 +1,4 @@
-﻿# inspect
+# inspect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | inspect |
 | GameObject Name | Inspect Region |
 | GameObject Path | Battle Scene v2/Uncompleted/Shiny Item/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Pause |
 | FSM PathId | 2539 |
 | GameObject PathId | 659 |
@@ -99,7 +99,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

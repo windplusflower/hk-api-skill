@@ -1,4 +1,4 @@
-﻿# Light Pulse
+# Light Pulse
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Light Pulse |
 | GameObject Name | Light |
 | GameObject Path | RestBench/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level36 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level36 |
 | Start State | State 1 |
 | FSM PathId | 399 |
 | GameObject PathId | 26 |

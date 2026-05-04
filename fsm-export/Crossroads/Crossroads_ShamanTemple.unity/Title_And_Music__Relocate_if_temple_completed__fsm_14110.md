@@ -1,4 +1,4 @@
-﻿# Relocate if temple completed
+# Relocate if temple completed
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Relocate if temple completed |
 | GameObject Name | Title And Music |
 | GameObject Path | _Managers/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level76 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level76 |
 | Start State | Init |
 | FSM PathId | 14110 |
 | GameObject PathId | 1815 |

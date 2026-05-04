@@ -1,4 +1,4 @@
-﻿# Convo
+# Convo
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Convo |
 | GameObject Name | Inspect Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level404 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level404 |
 | Start State | Init |
 | FSM PathId | 1084 |
 | GameObject PathId | 44 |
@@ -162,7 +162,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Arrow Prompt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Arrow Prompt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Prompt Marker |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

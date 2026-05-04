@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Ghost NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level26 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level26 |
 | Start State | Pause |
 | FSM PathId | 234 |
 | GameObject PathId | 51 |

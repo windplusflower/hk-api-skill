@@ -1,4 +1,4 @@
-﻿# Deactivate After Delay
+# Deactivate After Delay
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate After Delay |
 | GameObject Name | low health hit effect |
 | GameObject Path | Knight/Effects/Damage Effect/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Wait |
 | FSM PathId | 1044 |
 | GameObject PathId | 213 |

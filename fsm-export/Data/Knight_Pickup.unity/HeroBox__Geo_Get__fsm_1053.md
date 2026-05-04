@@ -1,4 +1,4 @@
-﻿# Geo Get
+# Geo Get
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Geo Get |
 | GameObject Name | HeroBox |
 | GameObject Path | Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 1053 |
 | GameObject PathId | 173 |

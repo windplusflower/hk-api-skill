@@ -1,4 +1,4 @@
-﻿# Control2
+# Control2
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control2 |
 | GameObject Name | white_ash_particles |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level324 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level324 |
 | Start State | Pause |
 | FSM PathId | 3265 |
 | GameObject PathId | 19 |

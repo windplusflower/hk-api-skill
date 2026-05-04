@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Ghost Warrior Marmu |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level438 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level438 |
 | Start State | Init |
 | FSM PathId | 2247 |
 | GameObject PathId | 238 |
@@ -50,13 +50,13 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Marmu/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438)] |
-| Hit Idle | Warrior/Ghost Warrior Marmu/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438)] |
+| Attack Pt | Warrior/Ghost Warrior Marmu/Attack Pt (Hollow Knight/hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Attack Pt (Hollow Knight/hollow_knight_Data\level438)] |
+| Hit Idle | Warrior/Ghost Warrior Marmu/Hit Idle (Hollow Knight/hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Hit Idle (Hollow Knight/hollow_knight_Data\level438)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
-| Warp | Warrior/Ghost Warrior Marmu/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438)] |
-| Warp Out | Warrior/Ghost Warrior Marmu/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438)] |
-| White Flash | Warrior/Ghost Warrior Marmu/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level438)] |
+| Warp | Warrior/Ghost Warrior Marmu/Warp (Hollow Knight/hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Warp (Hollow Knight/hollow_knight_Data\level438)] |
+| Warp Out | Warrior/Ghost Warrior Marmu/Warp Out (Hollow Knight/hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/Warp Out (Hollow Knight/hollow_knight_Data\level438)] |
+| White Flash | Warrior/Ghost Warrior Marmu/White Flash (Hollow Knight/hollow_knight_Data\level438) | NamedAssetPPtr: [Warrior/Ghost Warrior Marmu/White Flash (Hollow Knight/hollow_knight_Data\level438)] |
 
 ## States
 
@@ -145,7 +145,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -849,7 +849,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -866,7 +866,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1142,7 +1142,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1269,7 +1269,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1309,7 +1309,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor 2D (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor 2D (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

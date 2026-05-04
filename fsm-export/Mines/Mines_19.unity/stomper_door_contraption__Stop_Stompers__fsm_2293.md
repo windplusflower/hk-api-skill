@@ -1,4 +1,4 @@
-﻿# Stop Stompers
+# Stop Stompers
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stop Stompers |
 | GameObject Name | stomper_door_contraption |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level262 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level262 |
 | Start State | Inert |
 | FSM PathId | 2293 |
 | GameObject PathId | 720 |
@@ -18,8 +18,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Door | Metal Gate v2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level262) | NamedAssetPPtr: [Metal Gate v2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level262)] |
-| Shake Region | Shake Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level262) | NamedAssetPPtr: [Shake Region (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level262)] |
+| Door | Metal Gate v2 (Hollow Knight/hollow_knight_Data\level262) | NamedAssetPPtr: [Metal Gate v2 (Hollow Knight/hollow_knight_Data\level262)] |
+| Shake Region | Shake Region (Hollow Knight/hollow_knight_Data\level262) | NamedAssetPPtr: [Shake Region (Hollow Knight/hollow_knight_Data\level262)] |
 
 ## States
 

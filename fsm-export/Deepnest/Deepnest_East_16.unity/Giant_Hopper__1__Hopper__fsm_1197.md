@@ -1,4 +1,4 @@
-﻿# Hopper
+# Hopper
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hopper |
 | GameObject Name | Giant Hopper (1) |
 | GameObject Path | Giant Hopper Summon/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level321 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level321 |
 | Start State | Init |
 | FSM PathId | 1197 |
 | GameObject PathId | 123 |
@@ -42,7 +42,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dust | Giant Hopper Summon/Giant Hopper (1)/Dust Land Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level321) | NamedAssetPPtr: [Giant Hopper Summon/Giant Hopper (1)/Dust Land Small (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level321)] |
+| Dust | Giant Hopper Summon/Giant Hopper (1)/Dust Land Small (Hollow Knight/hollow_knight_Data\level321) | NamedAssetPPtr: [Giant Hopper Summon/Giant Hopper (1)/Dust Land Small (Hollow Knight/hollow_knight_Data\level321)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -252,7 +252,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [giant_hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [giant_hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. BoolTest
@@ -644,7 +644,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [giant_hopper_land (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [giant_hopper_land (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 ##### 2. Tk2dPlayAnimationWithEvents
 
@@ -986,7 +986,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [giant_hopper_jump (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| oneShotClip |   | [giant_hopper_jump (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 
 #### Transitions
 

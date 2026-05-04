@@ -1,4 +1,4 @@
-﻿# quake_floor
+# quake_floor
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | quake_floor |
 | GameObject Name | Quake Floor Glass |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level100 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level100 |
 | Start State | Pause |
 | FSM PathId | 7047 |
 | GameObject PathId | 33 |
@@ -31,10 +31,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Active | Quake Floor/Active (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Active (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |
-| Debris | Quake Floor/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |
-| Effects | Quake Floor/Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |
-| Inactive | Quake Floor/Inactive (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Inactive (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |
+| Active | Quake Floor/Active (Hollow Knight/hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Active (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |
+| Debris | Quake Floor/Debris (Hollow Knight/hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Debris (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |
+| Effects | Quake Floor/Effects (Hollow Knight/hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Effects (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |
+| Inactive | Quake Floor/Inactive (Hollow Knight/hollow_knight_Data\sharedassets82.assets) | NamedAssetPPtr: [Quake Floor/Inactive (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |
 | Pt Break Rocks | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -68,7 +68,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Active" |   |   |
-| storeResult |   | [Quake Floor/Active (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] | Variable |   |
+| storeResult |   | [Quake Floor/Active (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] | Variable |   |
 
 ##### 3. FindChild
 
@@ -90,7 +90,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Debris" |   |   |
-| storeResult |   | [Quake Floor/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] | Variable |   |
+| storeResult |   | [Quake Floor/Debris (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] | Variable |   |
 
 ##### 5. FindChild
 
@@ -101,7 +101,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Inactive" |   |   |
-| storeResult |   | [Quake Floor/Inactive (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] | Variable |   |
+| storeResult |   | [Quake Floor/Inactive (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] | Variable |   |
 
 ##### 6. FindChild
 
@@ -112,7 +112,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Effects" |   |   |
-| storeResult |   | [Quake Floor/Effects (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] | Variable |   |
+| storeResult |   | [Quake Floor/Effects (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] | Variable |   |
 
 #### Transitions
 
@@ -273,7 +273,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Quake Floor/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] | Variable |   |
+| gameObject |   | [Quake Floor/Debris (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] | Variable |   |
 | activate |   | true |   |   |
 
 ##### 8. SetCollider
@@ -293,7 +293,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [Quake Floor/Debris (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |   |   |
+| containerObject |   | [Quake Floor/Debris (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |   |   |
 | adjustPosition |   | Vector3(0, 0, 0) |   |   |
 | randomisePosition |   | false |   |   |
 | speedMin |   | 5f |   |   |
@@ -441,8 +441,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Quake Floor/Active (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Quake Floor/Active (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 0.85f |   |   |
@@ -482,8 +482,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Quake Floor/Active (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets82.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Quake Floor/Active (Hollow Knight/hollow_knight_Data\sharedassets82.assets)] |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | pitchMin |   | 0.85f |   |   |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Unalert Range |
 | GameObject Path | _Enemies/Spitter/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level72 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level72 |
 | Start State | Initialise |
 | FSM PathId | 3843 |
 | GameObject PathId | 753 |

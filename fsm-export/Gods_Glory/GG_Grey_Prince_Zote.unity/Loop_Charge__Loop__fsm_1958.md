@@ -1,4 +1,4 @@
-﻿# Loop
+# Loop
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Loop |
 | GameObject Name | Loop Charge |
 | GameObject Path | Grey Prince/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level442 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level442 |
 | Start State | Init |
 | FSM PathId | 1958 |
 | GameObject PathId | 169 |

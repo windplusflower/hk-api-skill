@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | _NPCs/Tiso Bench NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level77 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level77 |
 | Start State | Init |
 | FSM PathId | 1070 |
 | GameObject PathId | 190 |

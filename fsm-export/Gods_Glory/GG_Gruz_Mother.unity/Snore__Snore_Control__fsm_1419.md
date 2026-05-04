@@ -1,4 +1,4 @@
-﻿# Snore Control
+# Snore Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Snore Control |
 | GameObject Name | Snore |
 | GameObject Path | _Enemies/Giant Fly/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level445 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level445 |
 | Start State | State 1 |
 | FSM PathId | 1419 |
 | GameObject PathId | 13 |

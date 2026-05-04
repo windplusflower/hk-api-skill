@@ -1,4 +1,4 @@
-﻿# Damage Control
+# Damage Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Control |
 | GameObject Name | Jar Collector |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level126 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level126 |
 | Start State | Idle |
 | FSM PathId | 84 |
 | GameObject PathId | 10 |

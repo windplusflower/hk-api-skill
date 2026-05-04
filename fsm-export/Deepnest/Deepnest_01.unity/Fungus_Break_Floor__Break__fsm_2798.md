@@ -1,4 +1,4 @@
-﻿# Break
+# Break
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break |
 | GameObject Name | Fungus Break Floor |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level277 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level277 |
 | Start State | Pause |
 | FSM PathId | 2798 |
 | GameObject PathId | 396 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dust | _Scenery/Fungus Break Floor/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277)] |
-| Rubble | _Scenery/Fungus Break Floor/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277)] |
+| Dust | _Scenery/Fungus Break Floor/Dust (Hollow Knight/hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Dust (Hollow Knight/hollow_knight_Data\level277)] |
+| Rubble | _Scenery/Fungus Break Floor/Rubble (Hollow Knight/hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Rubble (Hollow Knight/hollow_knight_Data\level277)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Terrain | _Scenery/Fungus Break Floor/Terrain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Terrain (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277)] |
+| Terrain | _Scenery/Fungus Break Floor/Terrain (Hollow Knight/hollow_knight_Data\level277) | NamedAssetPPtr: [_Scenery/Fungus Break Floor/Terrain (Hollow Knight/hollow_knight_Data\level277)] |
 
 ## States
 
@@ -224,7 +224,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Scenery/Fungus Break Floor/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277)] | Variable |   |
+| gameObject |   | [_Scenery/Fungus Break Floor/Rubble (Hollow Knight/hollow_knight_Data\level277)] | Variable |   |
 | activate |   | true |   |   |
 
 ##### 7. FlingObjects
@@ -234,7 +234,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| containerObject |   | [_Scenery/Fungus Break Floor/Rubble (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level277)] |   |   |
+| containerObject |   | [_Scenery/Fungus Break Floor/Rubble (Hollow Knight/hollow_knight_Data\level277)] |   |   |
 | adjustPosition |   | Vector3(0, 0, 0) |   |   |
 | randomisePosition |   | false |   |   |
 | speedMin |   | 0f |   |   |
@@ -259,9 +259,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [break_wall_after_tutorial_area (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -275,9 +275,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_ceiling_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| audioClip |   | [false_knight_ceiling_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

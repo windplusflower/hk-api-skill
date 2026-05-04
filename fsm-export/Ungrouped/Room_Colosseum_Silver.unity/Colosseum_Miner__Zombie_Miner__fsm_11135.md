@@ -1,4 +1,4 @@
-﻿# Zombie Miner
+# Zombie Miner
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Miner |
 | GameObject Name | Colosseum_Miner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level33 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level33 |
 | Start State | Init |
 | FSM PathId | 11135 |
 | GameObject PathId | 3343 |
@@ -48,9 +48,9 @@
 | --- | --- | --- |
 | Pickaxe | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash | Colosseum_Miner/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/Slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
-| SpawnPoint | Colosseum_Miner/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
-| Waker | Colosseum_Miner/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/Waker (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |
+| Slash | Colosseum_Miner/Slash (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/Slash (Hollow Knight/hollow_knight_Data\level33)] |
+| SpawnPoint | Colosseum_Miner/SpawnPoint (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/SpawnPoint (Hollow Knight/hollow_knight_Data\level33)] |
+| Waker | Colosseum_Miner/Waker (Hollow Knight/hollow_knight_Data\level33) | NamedAssetPPtr: [Colosseum_Miner/Waker (Hollow Knight/hollow_knight_Data\level33)] |
 
 ## States
 
@@ -302,8 +302,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot GladiatorSickle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
-| spawnPoint |   | [Colosseum_Miner/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |   |   |
+| gameObject |   | [Global] [Shot GladiatorSickle (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
+| spawnPoint |   | [Colosseum_Miner/SpawnPoint (Hollow Knight/hollow_knight_Data\level33)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Pickaxe | Variable |   |
@@ -424,8 +424,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot GladiatorSickle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
-| spawnPoint |   | [Colosseum_Miner/SpawnPoint (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level33)] |   |   |
+| gameObject |   | [Global] [Shot GladiatorSickle (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
+| spawnPoint |   | [Colosseum_Miner/SpawnPoint (Hollow Knight/hollow_knight_Data\level33)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Pickaxe | Variable |   |
@@ -499,7 +499,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -518,7 +518,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [zombie_miner_throw (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [zombie_miner_throw (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 4. RandomFloatV2
 
@@ -1299,7 +1299,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

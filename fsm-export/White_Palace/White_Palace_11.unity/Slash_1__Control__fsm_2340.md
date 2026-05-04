@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Slash 1 |
 | GameObject Path | Royal Gaurd/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level374 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level374 |
 | Start State | Wait |
 | FSM PathId | 2340 |
 | GameObject PathId | 61 |

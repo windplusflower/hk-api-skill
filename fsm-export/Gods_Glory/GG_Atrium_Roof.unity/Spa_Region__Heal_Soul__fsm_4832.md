@@ -1,4 +1,4 @@
-﻿# Heal Soul
+# Heal Soul
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Heal Soul |
 | GameObject Name | Spa Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Idle |
 | FSM PathId | 4832 |
 | GameObject PathId | 915 |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Brumm Torch NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level305 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level305 |
 | Start State | Init |
 | FSM PathId | 488 |
 | GameObject PathId | 83 |

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | hollow_knight_chain_base 3 |
 | GameObject Path | Boss Control/break_chains/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level409 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level409 |
 | Start State | Pause |
 | FSM PathId | 2404 |
 | GameObject PathId | 346 |
@@ -37,9 +37,9 @@
 | Burst | [null] | NamedAssetPPtr: [null] |
 | Chain | [null] | NamedAssetPPtr: [null] |
 | Chain Break | [null] | NamedAssetPPtr: [null] |
-| Chain Glow 1 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409)] |
-| Chain Glow 2 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (1) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409)] |
-| Chain Glow 3 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_02 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_02 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level409)] |
+| Chain Glow 1 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (Hollow Knight/hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (Hollow Knight/hollow_knight_Data\level409)] |
+| Chain Glow 2 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (1) (Hollow Knight/hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_01 (1) (Hollow Knight/hollow_knight_Data\level409)] |
+| Chain Glow 3 | Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_02 (Hollow Knight/hollow_knight_Data\level409) | NamedAssetPPtr: [Boss Control/break_chains/hollow_knight_chain_base 3/GameObject/Glow Response chain_02 (Hollow Knight/hollow_knight_Data\level409)] |
 | Chain Glow 4 | [null] | NamedAssetPPtr: [null] |
 | Cracks | [null] | NamedAssetPPtr: [null] |
 | Parent | [null] | NamedAssetPPtr: [null] |
@@ -482,7 +482,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [barrel_death_2 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| oneShotClip |   | [barrel_death_2 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 
 ##### 2. AudioPlayerOneShotSingle
 
@@ -491,9 +491,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [chain_cut (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets30.assets)] |   |   |
+| audioClip |   | [chain_cut (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets30.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -507,7 +507,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -596,7 +596,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [boss_final_hit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [boss_final_hit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 ##### 3. AudioPlayerOneShotSingle
 
@@ -605,9 +605,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [final_boss_chain_break (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets409.assets)] |   |   |
+| audioClip |   | [final_boss_chain_break (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets409.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -859,9 +859,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [chain_cut (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets30.assets)] |   |   |
+| audioClip |   | [chain_cut (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets30.assets)] |   |   |
 | pitchMin |   | 0.85f |   |   |
 | pitchMax |   | 0.85f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Charm Slug/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level10 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level10 |
 | Start State | Init |
 | FSM PathId | 464 |
 | GameObject PathId | 25 |

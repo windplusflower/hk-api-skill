@@ -1,4 +1,4 @@
-﻿# Combo Control
+# Combo Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Combo Control |
 | GameObject Name | Brothers |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level454 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level454 |
 | Start State | Init |
 | FSM PathId | 1777 |
 | GameObject PathId | 73 |
@@ -32,8 +32,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Mato | Brothers/Mato (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level454) | NamedAssetPPtr: [Brothers/Mato (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level454)] |
-| Oro | Brothers/Oro (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level454) | NamedAssetPPtr: [Brothers/Oro (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level454)] |
+| Mato | Brothers/Mato (Hollow Knight/hollow_knight_Data\level454) | NamedAssetPPtr: [Brothers/Mato (Hollow Knight/hollow_knight_Data\level454)] |
+| Oro | Brothers/Oro (Hollow Knight/hollow_knight_Data\level454) | NamedAssetPPtr: [Brothers/Oro (Hollow Knight/hollow_knight_Data\level454)] |
 
 ## States
 
@@ -370,7 +370,7 @@ Enabled: false
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions
@@ -484,7 +484,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Firing Range |
 | GameObject Path | Battle Scene/Mage/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level96 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level96 |
 | Start State | Initialise |
 | FSM PathId | 1266 |
 | GameObject PathId | 314 |

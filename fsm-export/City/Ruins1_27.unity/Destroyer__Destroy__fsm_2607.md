@@ -1,4 +1,4 @@
-﻿# Destroy
+# Destroy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Destroy |
 | GameObject Name | Destroyer |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level105 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level105 |
 | Start State | Detect |
 | FSM PathId | 2607 |
 | GameObject PathId | 537 |

@@ -1,4 +1,4 @@
-﻿# deactivate
+# deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate |
 | GameObject Name | grave_door |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level240 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level240 |
 | Start State | Pause |
 | FSM PathId | 4073 |
 | GameObject PathId | 32 |

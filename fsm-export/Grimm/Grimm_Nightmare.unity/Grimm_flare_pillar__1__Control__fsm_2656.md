@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grimm_flare_pillar (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Pillar |
 | FSM PathId | 2656 |
 | GameObject PathId | 563 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Pt Afterburn | Grimm_flare_pillar (1)/Pt Afterburn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm_flare_pillar (1)/Pt Afterburn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| Pt Afterburn | Grimm_flare_pillar (1)/Pt Afterburn (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm_flare_pillar (1)/Pt Afterburn (Hollow Knight/hollow_knight_Data\level393)] |
 
 ## States
 
@@ -50,7 +50,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [nightmare_lantern_powering_up (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| oneShotClip |   | [nightmare_lantern_powering_up (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 
 ##### 3. SetPosition
 
@@ -209,9 +209,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Grimm_flare_pillar (1)/Pt Afterburn (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |   |   |
-| audioClip |   | [grimm_explode_into_bats (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Grimm_flare_pillar (1)/Pt Afterburn (Hollow Knight/hollow_knight_Data\level393)] |   |   |
+| audioClip |   | [grimm_explode_into_bats (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

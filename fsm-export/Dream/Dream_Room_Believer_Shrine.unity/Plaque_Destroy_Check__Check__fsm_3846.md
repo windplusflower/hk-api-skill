@@ -1,4 +1,4 @@
-﻿# Check
+# Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check |
 | GameObject Name | Plaque Destroy Check |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level405 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level405 |
 | Start State | Idle |
 | FSM PathId | 3846 |
 | GameObject PathId | 629 |

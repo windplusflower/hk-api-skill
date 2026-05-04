@@ -1,4 +1,4 @@
-﻿# Mantis
+# Mantis
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis |
 | GameObject Name | Mantis Traitor Lord |
 | GameObject Path | Battle Scene/Wave 3/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level209 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level209 |
 | Start State | Init |
 | FSM PathId | 503 |
 | GameObject PathId | 33 |
@@ -80,32 +80,32 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title Real | [null] | NamedAssetPPtr: [null] |
-| Attack Box | Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Dash Dust | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Dash Effect A | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect A (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Dash Effect G | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect G (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect G (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Death Scene | Battle Scene/Wave 3/Mantis Traitor Lord/Death Scene (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Death Scene (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Emerge Dust | Battle Scene/Wave 3/Mantis Traitor Lord/Emerge Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Emerge Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Enter Box | Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Eye Steam 1 | Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Eye Steam 2 | Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Head Box | Battle Scene/Wave 3/Mantis Traitor Lord/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Attack Box | Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (Hollow Knight/hollow_knight_Data\level209)] |
+| Dash Dust | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Dust (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Dust (Hollow Knight/hollow_knight_Data\level209)] |
+| Dash Effect A | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect A (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect A (Hollow Knight/hollow_knight_Data\level209)] |
+| Dash Effect G | Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect G (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Dash Effect G (Hollow Knight/hollow_knight_Data\level209)] |
+| Death Scene | Battle Scene/Wave 3/Mantis Traitor Lord/Death Scene (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Death Scene (Hollow Knight/hollow_knight_Data\level209)] |
+| Emerge Dust | Battle Scene/Wave 3/Mantis Traitor Lord/Emerge Dust (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Emerge Dust (Hollow Knight/hollow_knight_Data\level209)] |
+| Enter Box | Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Attack Box (Hollow Knight/hollow_knight_Data\level209)] |
+| Eye Steam 1 | Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 1 (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 1 (Hollow Knight/hollow_knight_Data\level209)] |
+| Eye Steam 2 | Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 2 (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Eye Steam 2 (Hollow Knight/hollow_knight_Data\level209)] |
+| Head Box | Battle Scene/Wave 3/Mantis Traitor Lord/Head Box (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Head Box (Hollow Knight/hollow_knight_Data\level209)] |
 | Hit Effect | [null] | NamedAssetPPtr: [null] |
 | Projectile | [null] | NamedAssetPPtr: [null] |
-| Pt Mist | Battle Scene/Wave 3/Mantis Traitor Lord/Pt Mist (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Pt Mist (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Pt Throw | Battle Scene/Wave 3/Mantis Traitor Lord/Pt Throw (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Pt Throw (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Pt Mist | Battle Scene/Wave 3/Mantis Traitor Lord/Pt Mist (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Pt Mist (Hollow Knight/hollow_knight_Data\level209)] |
+| Pt Throw | Battle Scene/Wave 3/Mantis Traitor Lord/Pt Throw (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Pt Throw (Hollow Knight/hollow_knight_Data\level209)] |
 | Roar Emitter | [null] | NamedAssetPPtr: [null] |
-| Roar Point | Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Roar Point | Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (Hollow Knight/hollow_knight_Data\level209)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Sickle Point | Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Slam Effect | Battle Scene/Wave 3/Mantis Traitor Lord/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Slam Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Slash Forward | Battle Scene/Wave 3/Mantis Traitor Lord/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Sickle Point | Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (Hollow Knight/hollow_knight_Data\level209)] |
+| Slam Effect | Battle Scene/Wave 3/Mantis Traitor Lord/Slam Effect (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Slam Effect (Hollow Knight/hollow_knight_Data\level209)] |
+| Slash Forward | Battle Scene/Wave 3/Mantis Traitor Lord/Slash Forward (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Slash Forward (Hollow Knight/hollow_knight_Data\level209)] |
 | Smoker | [null] | NamedAssetPPtr: [null] |
 | Sound Player | [null] | NamedAssetPPtr: [null] |
-| Stab FX Point | Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Stab FX Point | Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209)] |
 | Voice Player | [null] | NamedAssetPPtr: [null] |
-| Walk Range Obj | Battle Scene/Wave 3/Mantis Traitor Lord/Walk Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Walk Range (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
-| Wave Hitter | Battle Scene/Wave 3/Mantis Traitor Lord/Wave Hitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Wave Hitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |
+| Walk Range Obj | Battle Scene/Wave 3/Mantis Traitor Lord/Walk Range (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Walk Range (Hollow Knight/hollow_knight_Data\level209)] |
+| Wave Hitter | Battle Scene/Wave 3/Mantis Traitor Lord/Wave Hitter (Hollow Knight/hollow_knight_Data\level209) | NamedAssetPPtr: [Battle Scene/Wave 3/Mantis Traitor Lord/Wave Hitter (Hollow Knight/hollow_knight_Data\level209)] |
 
 ## States
 
@@ -420,7 +420,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -497,7 +497,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1535,7 +1535,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1616,7 +1616,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1741,7 +1741,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2024,7 +2024,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2089,7 +2089,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2129,7 +2129,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2297,7 +2297,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2409,7 +2409,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -2451,8 +2451,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Roar Wave Emitter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets13.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Roar Wave Emitter (Hollow Knight/hollow_knight_Data\sharedassets13.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Roar Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Roar Emitter | Variable |   |
@@ -3093,8 +3093,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Uninfected Death Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Uninfected Death Pt (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   |   | Variable |   |
@@ -3108,8 +3108,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect Ghost1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Slash Effect Ghost1 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 8 |   |   |
 | spawnMax |   | 8 |   |   |
@@ -3127,8 +3127,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Effect Ghost2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Slash Effect Ghost2 (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 2 |   |   |
 | spawnMax |   | 3 |   |   |
@@ -3146,9 +3146,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [enemy_death_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [enemy_death_sword (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |
@@ -3162,9 +3162,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [enemy_damage (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [enemy_damage (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.75f |   |   |
 | pitchMax |   | 0.75f |   |   |
 | volume |   | 1f |   |   |
@@ -3178,7 +3178,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3195,8 +3195,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [White Wave (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Stab FX Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Hit Effect | Variable |   |
@@ -3233,7 +3233,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.5f |   |   |
 
 #### Transitions
@@ -3295,7 +3295,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3312,7 +3312,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -3365,7 +3365,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Death Puff Large (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Death Puff Large (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3380,7 +3380,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Death Wave Infected (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Death Wave Infected (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3410,7 +3410,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 75 |   |   |
@@ -3581,7 +3581,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Journal Update Msg (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Journal Update Msg (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   |   |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3610,7 +3610,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0.002) |   |   |
 | frequency |   | 0.1f |   |   |
@@ -3630,9 +3630,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [boss_gushing (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [boss_gushing (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3646,7 +3646,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Death Puff Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Death Puff Boss (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, -5) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -3865,9 +3865,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [boss_explode (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| audioClip |   | [boss_explode (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -3915,7 +3915,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spatter Orange (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Spatter Orange (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | spawnMin |   | 90 |   |   |
@@ -3936,7 +3936,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Death Explode Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| gameObject |   | [Global] [Death Explode Boss (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -4012,7 +4012,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -4077,7 +4077,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -4122,8 +4122,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Traitor Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Shot Traitor Lord (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
@@ -4159,8 +4159,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Traitor Lord (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
-| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level209)] |   |   |
+| gameObject |   | [Global] [Shot Traitor Lord (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
+| spawnPoint |   | [Battle Scene/Wave 3/Mantis Traitor Lord/Sickle Point (Hollow Knight/hollow_knight_Data\level209)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
@@ -4262,7 +4262,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -4353,9 +4353,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [false_knight_land_1st_time (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [false_knight_land_1st_time (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -4383,7 +4383,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [mega_mantis_tall_slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
+| gameObject |   | [Global] [mega_mantis_tall_slash (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0.25, -3.4, 6.2) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -4424,7 +4424,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [mega_mantis_tall_slash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets209.assets)] |   |   |
+| gameObject |   | [Global] [mega_mantis_tall_slash (Hollow Knight/hollow_knight_Data\sharedassets209.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(-0.25, -3.4, 6.2) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -4437,9 +4437,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -4453,9 +4453,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [zombie_guard_club (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [zombie_guard_club (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

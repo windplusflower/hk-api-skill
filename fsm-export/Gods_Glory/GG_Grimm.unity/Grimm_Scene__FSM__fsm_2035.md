@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Grimm Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level443 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level443 |
 | Start State | Init |
 | FSM PathId | 2035 |
 | GameObject PathId | 49 |
@@ -25,13 +25,13 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Area Title2 | [null] | NamedAssetPPtr: [null] |
-| Boss | Grimm Scene/Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] |
+| Boss | Grimm Scene/Grimm Boss (Hollow Knight/hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm Boss (Hollow Knight/hollow_knight_Data\level443)] |
 | Godseeker | [null] | NamedAssetPPtr: [null] |
-| Grimm NPC | Grimm Scene/Grimm NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm NPC (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] |
-| Grimm_teleport_effect | Grimm Scene/Grimm_teleport_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] |
-| Grimm_teleport_effect2 | Grimm Scene/Grimm_teleport_effect2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] |
+| Grimm NPC | Grimm Scene/Grimm NPC (Hollow Knight/hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm NPC (Hollow Knight/hollow_knight_Data\level443)] |
+| Grimm_teleport_effect | Grimm Scene/Grimm_teleport_effect (Hollow Knight/hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect (Hollow Knight/hollow_knight_Data\level443)] |
+| Grimm_teleport_effect2 | Grimm Scene/Grimm_teleport_effect2 (Hollow Knight/hollow_knight_Data\level443) | NamedAssetPPtr: [Grimm Scene/Grimm_teleport_effect2 (Hollow Knight/hollow_knight_Data\level443)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Spotlight | Grimm Scene/Spotlight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Spotlight (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets391.assets)] |
+| Spotlight | Grimm Scene/Spotlight (Hollow Knight/hollow_knight_Data\sharedassets391.assets) | NamedAssetPPtr: [Grimm Scene/Spotlight (Hollow Knight/hollow_knight_Data\sharedassets391.assets)] |
 
 ## States
 
@@ -70,7 +70,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grimm_teleport_effect" |   |   |
-| storeResult |   | [Grimm Scene/Grimm_teleport_effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] | Variable |   |
+| storeResult |   | [Grimm Scene/Grimm_teleport_effect (Hollow Knight/hollow_knight_Data\level443)] | Variable |   |
 
 ##### 4. FindChild
 
@@ -81,7 +81,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Grimm_teleport_effect2" |   |   |
-| storeResult |   | [Grimm Scene/Grimm_teleport_effect2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] | Variable |   |
+| storeResult |   | [Grimm Scene/Grimm_teleport_effect2 (Hollow Knight/hollow_knight_Data\level443)] | Variable |   |
 
 ##### 5. FindChild
 
@@ -420,9 +420,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [grimm_explode_into_bats (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [grimm_explode_into_bats (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -450,7 +450,7 @@ Enabled: true
 | gameObject |   | OwnerDefault Godseeker |   |   |
 | fsmName |   | "Control" | FsmName |   |
 | variableName |   | "Target" | FsmGameObject |   |
-| setValue |   | [Grimm Scene/Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level443)] |   |   |
+| setValue |   | [Grimm Scene/Grimm Boss (Hollow Knight/hollow_knight_Data\level443)] |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

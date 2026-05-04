@@ -1,4 +1,4 @@
-﻿# Check for Blockers
+# Check for Blockers
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Check for Blockers |
 | GameObject Name | CameraLockArea |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level155 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level155 |
 | Start State | Check |
 | FSM PathId | 7830 |
 | GameObject PathId | 786 |

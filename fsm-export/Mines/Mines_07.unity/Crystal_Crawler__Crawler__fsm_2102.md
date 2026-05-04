@@ -1,4 +1,4 @@
-﻿# Crawler
+# Crawler
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Crawler |
 | GameObject Name | Crystal Crawler |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level254 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level254 |
 | Start State | Walk |
 | FSM PathId | 2102 |
 | GameObject PathId | 334 |

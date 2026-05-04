@@ -1,4 +1,4 @@
-﻿# Mantis
+# Mantis
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis |
 | GameObject Name | Mantis (4) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level177 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level177 |
 | Start State | Pause |
 | FSM PathId | 7501 |
 | GameObject PathId | 1356 |
@@ -54,11 +54,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Head Box | Mantis (4)/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Head Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177)] |
-| Head Box F | Mantis (4)/Head Box F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Head Box F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177)] |
+| Head Box | Mantis (4)/Head Box (Hollow Knight/hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Head Box (Hollow Knight/hollow_knight_Data\level177)] |
+| Head Box F | Mantis (4)/Head Box F (Hollow Knight/hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Head Box F (Hollow Knight/hollow_knight_Data\level177)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Slash Forward | Mantis (4)/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Slash Forward (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177)] |
-| Slash Up | Mantis (4)/Slash Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Slash Up (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level177)] |
+| Slash Forward | Mantis (4)/Slash Forward (Hollow Knight/hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Slash Forward (Hollow Knight/hollow_knight_Data\level177)] |
+| Slash Up | Mantis (4)/Slash Up (Hollow Knight/hollow_knight_Data\level177) | NamedAssetPPtr: [Mantis (4)/Slash Up (Hollow Knight/hollow_knight_Data\level177)] |
 
 ## States
 
@@ -376,9 +376,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -852,9 +852,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_sword (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_sword (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -1555,9 +1555,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mantis_steps_back (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets176.assets)] |   |   |
+| audioClip |   | [mantis_steps_back (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets176.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

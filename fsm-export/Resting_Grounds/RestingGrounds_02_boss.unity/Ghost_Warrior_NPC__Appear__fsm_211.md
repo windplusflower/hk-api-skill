@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Ghost Warrior NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level238 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level238 |
 | Start State | Pause |
 | FSM PathId | 211 |
 | GameObject PathId | 28 |
@@ -25,14 +25,14 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Ghost Warrior NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Away Pt | Ghost Warrior NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Burst | Ghost Warrior NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Idle Pt | Ghost Warrior NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Sprite | Ghost Warrior NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Character Sprite (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Warp | Ghost Warrior NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| White Flash | Ghost Warrior NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
-| Wounded | Ghost Warrior NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Wounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level238)] |
+| Attack Pt | Ghost Warrior NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Attack Pt (Hollow Knight/hollow_knight_Data\level238)] |
+| Away Pt | Ghost Warrior NPC/Away Pt (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Away Pt (Hollow Knight/hollow_knight_Data\level238)] |
+| Burst | Ghost Warrior NPC/Burst (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Burst (Hollow Knight/hollow_knight_Data\level238)] |
+| Idle Pt | Ghost Warrior NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Idle Pt (Hollow Knight/hollow_knight_Data\level238)] |
+| Sprite | Ghost Warrior NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Character Sprite (Hollow Knight/hollow_knight_Data\level238)] |
+| Warp | Ghost Warrior NPC/Warp (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Warp (Hollow Knight/hollow_knight_Data\level238)] |
+| White Flash | Ghost Warrior NPC/White Flash (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/White Flash (Hollow Knight/hollow_knight_Data\level238)] |
+| Wounded | Ghost Warrior NPC/Wounded (Hollow Knight/hollow_knight_Data\level238) | NamedAssetPPtr: [Ghost Warrior NPC/Wounded (Hollow Knight/hollow_knight_Data\level238)] |
 
 ## States
 
@@ -194,7 +194,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetParticleEmission
 

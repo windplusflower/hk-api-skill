@@ -1,4 +1,4 @@
-﻿# Activate
+# Activate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate |
 | GameObject Name | Activator |
 | GameObject Path | _Scenery/Fungus Break Floor/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level277 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level277 |
 | Start State | Init |
 | FSM PathId | 2756 |
 | GameObject PathId | 287 |

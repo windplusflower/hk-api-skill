@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Beam Glow |
 | GameObject Path | Laser Turret Mega (2)/Beam/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level429 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level429 |
 | Start State | Init |
 | FSM PathId | 1660 |
 | GameObject PathId | 91 |

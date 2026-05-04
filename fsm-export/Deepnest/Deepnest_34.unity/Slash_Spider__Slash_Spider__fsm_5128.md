@@ -1,4 +1,4 @@
-﻿# Slash Spider
+# Slash Spider
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Slash Spider |
 | GameObject Name | Slash Spider |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level292 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level292 |
 | Start State | Init |
 | FSM PathId | 5128 |
 | GameObject PathId | 1176 |
@@ -47,9 +47,9 @@
 | Attack Range Obj | [null] | NamedAssetPPtr: [null] |
 | Ground Check B | [null] | NamedAssetPPtr: [null] |
 | Ground Check F | [null] | NamedAssetPPtr: [null] |
-| S1 | Slash Spider/S1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292)] |
-| S2 | Slash Spider/S2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292)] |
-| S3 | Slash Spider/S3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level292)] |
+| S1 | Slash Spider/S1 (Hollow Knight/hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S1 (Hollow Knight/hollow_knight_Data\level292)] |
+| S2 | Slash Spider/S2 (Hollow Knight/hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S2 (Hollow Knight/hollow_knight_Data\level292)] |
+| S3 | Slash Spider/S3 (Hollow Knight/hollow_knight_Data\level292) | NamedAssetPPtr: [Slash Spider/S3 (Hollow Knight/hollow_knight_Data\level292)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -298,9 +298,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spider_soldier_startle (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets292.assets)] |   |   |
+| audioClip |   | [spider_soldier_startle (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets292.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -635,7 +635,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -730,7 +730,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -925,7 +925,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1020,7 +1020,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -1188,9 +1188,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [spider_soldier_open (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets292.assets)] |   |   |
+| audioClip |   | [spider_soldier_open (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets292.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

@@ -1,4 +1,4 @@
-﻿# Constrain X
+# Constrain X
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Constrain X |
 | GameObject Name | Grey Prince |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level399 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level399 |
 | Start State | Idle |
 | FSM PathId | 1363 |
 | GameObject PathId | 320 |

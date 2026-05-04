@@ -1,4 +1,4 @@
-﻿# Battle Control
+# Battle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Control |
 | GameObject Name | Battle Scene |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level96 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level96 |
 | Start State | Pause |
 | FSM PathId | 1251 |
 | GameObject PathId | 223 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Mage | Battle Scene/Mage (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level96) | NamedAssetPPtr: [Battle Scene/Mage (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level96)] |
+| Mage | Battle Scene/Mage (Hollow Knight/hollow_knight_Data\level96) | NamedAssetPPtr: [Battle Scene/Mage (Hollow Knight/hollow_knight_Data\level96)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -106,7 +106,7 @@ Enabled: false
 | --- | --- | --- | --- | --- |
 | objectName |   | "Mage" |   |   |
 | withTag |   | "Untagged" | Tag |   |
-| store |   | [Battle Scene/Mage (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level96)] | Variable |   |
+| store |   | [Battle Scene/Mage (Hollow Knight/hollow_knight_Data\level96)] | Variable |   |
 
 ##### 2. BoolTest
 
@@ -191,7 +191,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action Only (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action Only (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0f |   |   |
 
 ##### 4. SendEventByName
@@ -275,7 +275,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 2f |   |   |
 
 #### Transitions

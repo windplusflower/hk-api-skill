@@ -1,4 +1,4 @@
-﻿# Activate Children
+# Activate Children
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Activate Children |
 | GameObject Name | Prompts |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Activate |
 | FSM PathId | 8910 |
 | GameObject PathId | 1069 |

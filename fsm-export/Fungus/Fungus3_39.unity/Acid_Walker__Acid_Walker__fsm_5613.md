@@ -1,4 +1,4 @@
-﻿# Acid Walker
+# Acid Walker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Acid Walker |
 | GameObject Name | Acid Walker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level219 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level219 |
 | Start State | Init |
 | FSM PathId | 5613 |
 | GameObject PathId | 1339 |

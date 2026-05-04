@@ -1,4 +1,4 @@
-﻿# Unparent, follow and notify
+# Unparent, follow and notify
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Unparent, follow and notify |
 | GameObject Name | Cap Hit |
 | GameObject Path | Battle Scene v2/Completed/Mushroom Brawler/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level169 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level169 |
 | Start State | Init |
 | FSM PathId | 2509 |
 | GameObject PathId | 554 |

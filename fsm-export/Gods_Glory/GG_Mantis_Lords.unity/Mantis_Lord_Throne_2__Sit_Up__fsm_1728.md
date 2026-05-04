@@ -1,4 +1,4 @@
-﻿# Sit Up
+# Sit Up
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sit Up |
 | GameObject Name | Mantis Lord Throne 2 |
 | GameObject Path | Mantis Battle/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level452 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level452 |
 | Start State | Idle |
 | FSM PathId | 1728 |
 | GameObject PathId | 115 |

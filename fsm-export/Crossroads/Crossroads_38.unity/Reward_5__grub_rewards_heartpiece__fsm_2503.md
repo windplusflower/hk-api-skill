@@ -1,4 +1,4 @@
-﻿# grub_rewards_heartpiece
+# grub_rewards_heartpiece
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | grub_rewards_heartpiece |
 | GameObject Name | Reward 5 |
 | GameObject Path | Grub King/Rewards Parent/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Pause |
 | FSM PathId | 2503 |
 | GameObject PathId | 677 |

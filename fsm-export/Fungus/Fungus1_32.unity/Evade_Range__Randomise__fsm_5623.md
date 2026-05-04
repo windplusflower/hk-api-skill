@@ -1,4 +1,4 @@
-﻿# Randomise
+# Randomise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Randomise |
 | GameObject Name | Evade Range |
 | GameObject Path | Moss Knight B/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level159 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level159 |
 | Start State | On |
 | FSM PathId | 5623 |
 | GameObject PathId | 960 |

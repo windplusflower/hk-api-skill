@@ -1,4 +1,4 @@
-﻿# Remove On Capture
+# Remove On Capture
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove On Capture |
 | GameObject Name | Music Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level304 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level304 |
 | Start State | State 1 |
 | FSM PathId | 12757 |
 | GameObject PathId | 1836 |

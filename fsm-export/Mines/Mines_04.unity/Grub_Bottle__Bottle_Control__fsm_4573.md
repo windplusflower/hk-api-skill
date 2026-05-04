@@ -1,4 +1,4 @@
-﻿# Bottle Control
+# Bottle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bottle Control |
 | GameObject Name | Grub Bottle |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level251 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level251 |
 | Start State | Pause |
 | FSM PathId | 4573 |
 | GameObject PathId | 622 |
@@ -37,8 +37,8 @@
 | Other Grub | [null] | NamedAssetPPtr: [null] |
 | Phys Box | [null] | NamedAssetPPtr: [null] |
 | Pool | [null] | NamedAssetPPtr: [null] |
-| Pt Glass L | Grub Bottle/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level251) | NamedAssetPPtr: [Grub Bottle/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level251)] |
-| Pt Glass M | Grub Bottle/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level251) | NamedAssetPPtr: [Grub Bottle/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level251)] |
+| Pt Glass L | Grub Bottle/Pt Glass L (Hollow Knight/hollow_knight_Data\level251) | NamedAssetPPtr: [Grub Bottle/Pt Glass L (Hollow Knight/hollow_knight_Data\level251)] |
+| Pt Glass M | Grub Bottle/Pt Glass S (Hollow Knight/hollow_knight_Data\level251) | NamedAssetPPtr: [Grub Bottle/Pt Glass S (Hollow Knight/hollow_knight_Data\level251)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -168,7 +168,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -279,7 +279,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Lid (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 1.69, 0) |   |   |
 | spawnMin |   | 1 |   |   |
@@ -396,7 +396,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Lid Grounded (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Lid Grounded (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

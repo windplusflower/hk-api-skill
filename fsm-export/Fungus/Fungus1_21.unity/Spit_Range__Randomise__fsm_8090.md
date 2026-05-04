@@ -1,4 +1,4 @@
-﻿# Randomise
+# Randomise
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Randomise |
 | GameObject Name | Spit Range |
 | GameObject Path | Battle Scene/Moss Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level149 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level149 |
 | Start State | On |
 | FSM PathId | 8090 |
 | GameObject PathId | 1832 |

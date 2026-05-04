@@ -1,4 +1,4 @@
-﻿# Remove
+# Remove
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove |
 | GameObject Name | CameraLockArea Intro |
 | GameObject Path | Battle Scene/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | State 1 |
 | FSM PathId | 1961 |
 | GameObject PathId | 404 |

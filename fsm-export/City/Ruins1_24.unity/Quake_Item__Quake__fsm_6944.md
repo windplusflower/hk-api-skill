@@ -1,4 +1,4 @@
-﻿# Quake
+# Quake
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Quake |
 | GameObject Name | Quake Item |
 | GameObject Path | Quake Real Parent/Quake Pickup/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level101 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level101 |
 | Start State | Pause |
 | FSM PathId | 6944 |
 | GameObject PathId | 1254 |
@@ -121,7 +121,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [White Flash R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [White Flash R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Hero |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# flyer_receive_direction_msg
+# flyer_receive_direction_msg
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | flyer_receive_direction_msg |
 | GameObject Name | Hatcher Baby Spawner (1) |
 | GameObject Path | Hatcher Cage/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level61 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level61 |
 | Start State | Idle |
 | FSM PathId | 3703 |
 | GameObject PathId | 158 |

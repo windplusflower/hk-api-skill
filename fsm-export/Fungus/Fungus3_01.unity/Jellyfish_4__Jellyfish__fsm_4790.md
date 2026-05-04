@@ -1,4 +1,4 @@
-﻿# Jellyfish
+# Jellyfish
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Jellyfish |
 | GameObject Name | Jellyfish 4 |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level197 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level197 |
 | Start State | Init |
 | FSM PathId | 4790 |
 | GameObject PathId | 1374 |
@@ -34,10 +34,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Ring B | _Enemies/Jellyfish 4/Ring B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Ring B (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197)] |
-| Ring F | _Enemies/Jellyfish 4/Ring F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Ring F (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197)] |
-| Tent Box | _Enemies/Jellyfish 4/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197)] |
-| Trail | _Enemies/Jellyfish 4/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Trail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197)] |
+| Ring B | _Enemies/Jellyfish 4/Ring B (Hollow Knight/hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Ring B (Hollow Knight/hollow_knight_Data\level197)] |
+| Ring F | _Enemies/Jellyfish 4/Ring F (Hollow Knight/hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Ring F (Hollow Knight/hollow_knight_Data\level197)] |
+| Tent Box | _Enemies/Jellyfish 4/Tentacle Box (Hollow Knight/hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Tentacle Box (Hollow Knight/hollow_knight_Data\level197)] |
+| Trail | _Enemies/Jellyfish 4/Trail (Hollow Knight/hollow_knight_Data\level197) | NamedAssetPPtr: [_Enemies/Jellyfish 4/Trail (Hollow Knight/hollow_knight_Data\level197)] |
 
 ## States
 
@@ -488,7 +488,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [_Enemies/Jellyfish 4/Tentacle Box (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level197)] |   |   |
+| gameObject |   | [_Enemies/Jellyfish 4/Tentacle Box (Hollow Knight/hollow_knight_Data\level197)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 

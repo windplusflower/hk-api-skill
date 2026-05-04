@@ -1,4 +1,4 @@
-﻿# Hide HUD
+# Hide HUD
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hide HUD |
 | GameObject Name | Cutscene Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level465 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level465 |
 | Start State | State 1 |
 | FSM PathId | 169 |
 | GameObject PathId | 23 |

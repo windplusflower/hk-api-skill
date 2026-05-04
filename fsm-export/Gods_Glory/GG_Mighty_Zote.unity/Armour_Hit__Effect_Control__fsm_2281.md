@@ -1,4 +1,4 @@
-﻿# Effect Control
+# Effect Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Effect Control |
 | GameObject Name | Armour Hit |
 | GameObject Path | Battle Control/Zote Thwomp/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level481 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level481 |
 | Start State | Idle |
 | FSM PathId | 2281 |
 | GameObject PathId | 550 |

@@ -1,4 +1,4 @@
-﻿# Award
+# Award
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Award |
 | GameObject Name | Award Achievements |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level418 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level418 |
 | Start State | Pause |
 | FSM PathId | 89 |
 | GameObject PathId | 7 |

@@ -1,4 +1,4 @@
-﻿# hero_detect_bool
+# hero_detect_bool
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect_bool |
 | GameObject Name | Attack Range |
 | GameObject Path | _Enemies/Zombie Miner 1/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level259 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level259 |
 | Start State | Initialise |
 | FSM PathId | 1967 |
 | GameObject PathId | 361 |

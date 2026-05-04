@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Yes |
 | GameObject Path | Shop Menu/Confirm/UI List/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level18 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level18 |
 | Start State | Init |
 | FSM PathId | 1039 |
 | GameObject PathId | 228 |

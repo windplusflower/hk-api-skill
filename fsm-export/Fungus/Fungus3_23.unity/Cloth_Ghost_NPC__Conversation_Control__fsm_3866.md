@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Cloth Ghost NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level208 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level208 |
 | Start State | Init |
 | FSM PathId | 3866 |
 | GameObject PathId | 137 |

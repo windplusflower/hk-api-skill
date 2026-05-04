@@ -1,4 +1,4 @@
-﻿# Transitions
+# Transitions
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Transitions |
 | GameObject Name | gg_battle_transitions |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level482 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level482 |
 | Start State | Disable |
 | FSM PathId | 2491 |
 | GameObject PathId | 753 |
@@ -26,9 +26,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| TransitionEnd | gg_battle_transitions/battle_final (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_final (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] |
-| TransitionIn | gg_battle_transitions/battle_enter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_enter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] |
-| TransitionOut | gg_battle_transitions/battle_end (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_end (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level482)] |
+| TransitionEnd | gg_battle_transitions/battle_final (Hollow Knight/hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_final (Hollow Knight/hollow_knight_Data\level482)] |
+| TransitionIn | gg_battle_transitions/battle_enter (Hollow Knight/hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_enter (Hollow Knight/hollow_knight_Data\level482)] |
+| TransitionOut | gg_battle_transitions/battle_end (Hollow Knight/hollow_knight_Data\level482) | NamedAssetPPtr: [gg_battle_transitions/battle_end (Hollow Knight/hollow_knight_Data\level482)] |
 
 ## States
 
@@ -238,11 +238,11 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioClip |   | [gg_room_transition (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| audioClip |   | [gg_room_transition (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
-| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | OwnerDefault FSM Owner |   |   |
 | spawnPosition |   | Vector3(0, 0, 0) |   |   |
 
@@ -376,11 +376,11 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioClip |   | [gg_room_transition_2_bit_shorter (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| audioClip |   | [gg_room_transition_2_bit_shorter (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
-| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | OwnerDefault FSM Owner |   |   |
 | spawnPosition |   | Vector3(0, 0, 0) |   |   |
 
@@ -579,11 +579,11 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioClip |   | [gg_room_transition (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets425.assets)] |   |   |
+| audioClip |   | [gg_room_transition (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets425.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
-| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayerPrefab |   | [Audio Player Actor 2D (AudioSource) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | OwnerDefault FSM Owner |   |   |
 | spawnPosition |   | Vector3(0, 0, 0) |   |   |
 
@@ -616,7 +616,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | float Transition Out Time |   |   |
 
 ##### 8. Wait

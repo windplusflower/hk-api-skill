@@ -1,4 +1,4 @@
-﻿# Battle End
+# Battle End
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle End |
 | GameObject Name | Galien Hammer |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level434 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level434 |
 | Start State | Idle |
 | FSM PathId | 1827 |
 | GameObject PathId | 17 |
@@ -18,9 +18,9 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Hit End | Warrior/Galien Hammer/Hit End (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit End (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
-| Hit Idle | Warrior/Galien Hammer/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Idle (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
-| Hit Spin | Warrior/Galien Hammer/Hit Spin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Spin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level434)] |
+| Hit End | Warrior/Galien Hammer/Hit End (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit End (Hollow Knight/hollow_knight_Data\level434)] |
+| Hit Idle | Warrior/Galien Hammer/Hit Idle (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Idle (Hollow Knight/hollow_knight_Data\level434)] |
+| Hit Spin | Warrior/Galien Hammer/Hit Spin (Hollow Knight/hollow_knight_Data\level434) | NamedAssetPPtr: [Warrior/Galien Hammer/Hit Spin (Hollow Knight/hollow_knight_Data\level434)] |
 
 ## States
 

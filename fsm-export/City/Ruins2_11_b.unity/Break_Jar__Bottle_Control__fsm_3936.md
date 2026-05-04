@@ -1,4 +1,4 @@
-﻿# Bottle Control
+# Bottle Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Bottle Control |
 | GameObject Name | Break Jar |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level125 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level125 |
 | Start State | Pause |
 | FSM PathId | 3936 |
 | GameObject PathId | 120 |
@@ -24,10 +24,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Lid | Break Jar/Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125)] |
-| Phys Box | Break Jar/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125)] |
-| Pt Glass L | Break Jar/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Pt Glass L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125)] |
-| Pt Glass S | Break Jar/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Pt Glass S (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125)] |
+| Lid | Break Jar/Bottle Lid (Hollow Knight/hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Bottle Lid (Hollow Knight/hollow_knight_Data\level125)] |
+| Phys Box | Break Jar/Bottle Physical (Hollow Knight/hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Bottle Physical (Hollow Knight/hollow_knight_Data\level125)] |
+| Pt Glass L | Break Jar/Pt Glass L (Hollow Knight/hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Pt Glass L (Hollow Knight/hollow_knight_Data\level125)] |
+| Pt Glass S | Break Jar/Pt Glass S (Hollow Knight/hollow_knight_Data\level125) | NamedAssetPPtr: [Break Jar/Pt Glass S (Hollow Knight/hollow_knight_Data\level125)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -87,7 +87,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Break Jar/Bottle Physical (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level125)] |   |   |
+| gameObject |   | [Break Jar/Bottle Physical (Hollow Knight/hollow_knight_Data\level125)] |   |   |
 | delay |   | 0f |   |   |
 | detachChildren |   | false |   |   |
 
@@ -111,7 +111,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail R (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -274,7 +274,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Bottle Lid (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets33.assets)] |   |   |
+| gameObject |   | [Global] [Bottle Lid (Hollow Knight/hollow_knight_Data\sharedassets33.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, -0.5, 0) |   |   |
 | spawnMin |   | 1 |   |   |

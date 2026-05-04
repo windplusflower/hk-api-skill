@@ -1,4 +1,4 @@
-﻿# Nail Arts
+# Nail Arts
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Nail Arts |
 | GameObject Name | Knight |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 918 |
 | GameObject PathId | 161 |
@@ -1160,7 +1160,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_nail_art_great_slash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_nail_art_great_slash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. PlayVibration
@@ -1171,12 +1171,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_nail_art_great_slash (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_nail_art_great_slash (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [GreatSlash (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [GreatSlash (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -1733,7 +1733,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [hero_nail_art_great_slash (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [hero_nail_art_great_slash (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 3. PlayVibration
@@ -1744,12 +1744,12 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | lowFidelityVibration |   | Enum(LowFidelityVibrations, 0) |   |   |
-| highFidelityVibration |   | [hero_nail_art_great_slash (TextAsset) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| highFidelityVibration |   | [hero_nail_art_great_slash (TextAsset) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | motors |   | Enum(VibrationMotors, 3) |   |   |
 | loopTime |   | 0f |   |   |
 | isLooping |   | false |   |   |
 | tag |   | "heroAction" |   |   |
-| gamepadVibration |   | [DashSlash (Script GamepadVibration) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| gamepadVibration |   | [DashSlash (Script GamepadVibration) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 4. SendEventByName
 
@@ -1921,9 +1921,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [hero_nail_art_cyclone_slash_long (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [hero_nail_art_cyclone_slash_long (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

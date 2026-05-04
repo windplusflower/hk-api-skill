@@ -1,4 +1,4 @@
-﻿# Final Burst
+# Final Burst
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Final Burst |
 | GameObject Name | Abyss Pit |
 | GameObject Path | Boss Control/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | State 1 |
 | FSM PathId | 3383 |
 | GameObject PathId | 622 |

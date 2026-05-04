@@ -1,4 +1,4 @@
-﻿# Up n Down
+# Up n Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Up n Down |
 | GameObject Name | Map_selector |
 | GameObject Path | Stag Map/Stag_Map_Pieces/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level244 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level244 |
 | Start State | State 1 |
 | FSM PathId | 1803 |
 | GameObject PathId | 230 |

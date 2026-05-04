@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Abyss Drop Corpse |
 | GameObject Path | Corpse Spawn (10)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level406 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level406 |
 | Start State | Init |
 | FSM PathId | 9462 |
 | GameObject PathId | 1740 |
@@ -26,7 +26,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Bone | Corpse Spawn (10)/Abyss Drop Corpse/Bone (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level406) | NamedAssetPPtr: [Corpse Spawn (10)/Abyss Drop Corpse/Bone (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level406)] |
+| Bone | Corpse Spawn (10)/Abyss Drop Corpse/Bone (Hollow Knight/hollow_knight_Data\level406) | NamedAssetPPtr: [Corpse Spawn (10)/Abyss Drop Corpse/Bone (Hollow Knight/hollow_knight_Data\level406)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -180,7 +180,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

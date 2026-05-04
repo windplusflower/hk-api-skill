@@ -1,4 +1,4 @@
-﻿# unmasker
+# unmasker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | unmasker |
 | GameObject Name | crossroads_03_mask |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level39 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level39 |
 | Start State | Idle |
 | FSM PathId | 4763 |
 | GameObject PathId | 82 |

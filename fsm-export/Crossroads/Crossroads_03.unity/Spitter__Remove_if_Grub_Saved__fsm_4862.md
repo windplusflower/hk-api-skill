@@ -1,4 +1,4 @@
-﻿# Remove if Grub Saved
+# Remove if Grub Saved
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove if Grub Saved |
 | GameObject Name | Spitter |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level39 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level39 |
 | Start State | Idle |
 | FSM PathId | 4862 |
 | GameObject PathId | 30 |

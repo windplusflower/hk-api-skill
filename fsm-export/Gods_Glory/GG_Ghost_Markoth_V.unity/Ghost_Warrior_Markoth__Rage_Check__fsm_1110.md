@@ -1,4 +1,4 @@
-﻿# Rage Check
+# Rage Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Rage Check |
 | GameObject Name | Ghost Warrior Markoth |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level490 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level490 |
 | Start State | Wait |
 | FSM PathId | 1110 |
 | GameObject PathId | 218 |

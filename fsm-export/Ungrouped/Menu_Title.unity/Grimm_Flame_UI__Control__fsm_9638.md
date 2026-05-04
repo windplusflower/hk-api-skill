@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Grimm Flame UI |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9638 |
 | GameObject PathId | 1761 |
@@ -25,11 +25,11 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| S1 Flame1 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| S1 Flame2 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
-| S1 Flame3 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 3 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| S1 Flame1 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 1 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 1 (Hollow Knight/hollow_knight_Data\level1)] |
+| S1 Flame2 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 2 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 2 (Hollow Knight/hollow_knight_Data\level1)] |
+| S1 Flame3 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 3 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1/Flame 3 (Hollow Knight/hollow_knight_Data\level1)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Set 1 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level1)] |
+| Set 1 | _GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1 (Hollow Knight/hollow_knight_Data\level1) | NamedAssetPPtr: [_GameCameras/HudCamera/Inventory/Charms/Grimm Flame UI/Set 1 (Hollow Knight/hollow_knight_Data\level1)] |
 
 ## States
 
@@ -202,7 +202,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame1 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. SetSpriteRendererSprite
 
@@ -212,7 +212,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame2 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetSpriteRendererSprite
 
@@ -222,7 +222,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame3 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -246,7 +246,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame1 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. SetSpriteRendererSprite
 
@@ -256,7 +256,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame2 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetSpriteRendererSprite
 
@@ -266,7 +266,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame3 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -290,7 +290,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame1 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. SetSpriteRendererSprite
 
@@ -300,7 +300,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame2 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetSpriteRendererSprite
 
@@ -310,7 +310,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame3 |   |   |
-| sprite |   | [Grimm_charm_flame_front (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_front (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 
@@ -334,7 +334,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame1 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 2. SetSpriteRendererSprite
 
@@ -344,7 +344,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame2 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. SetSpriteRendererSprite
 
@@ -354,7 +354,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault S1 Flame3 |   |   |
-| sprite |   | [Grimm_charm_flame_backboard (Sprite) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| sprite |   | [Grimm_charm_flame_backboard (Sprite) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

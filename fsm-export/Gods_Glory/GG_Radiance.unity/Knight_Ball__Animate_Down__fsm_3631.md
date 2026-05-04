@@ -1,4 +1,4 @@
-﻿# Animate Down
+# Animate Down
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Animate Down |
 | GameObject Name | Knight Ball |
 | GameObject Path | Boss Control/Absolute Radiance/Death/Knight Split/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level459 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level459 |
 | Start State | State 1 |
 | FSM PathId | 3631 |
 | GameObject PathId | 910 |

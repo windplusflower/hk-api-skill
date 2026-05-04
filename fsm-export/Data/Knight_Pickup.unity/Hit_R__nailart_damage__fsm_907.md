@@ -1,4 +1,4 @@
-﻿# nailart_damage
+# nailart_damage
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | nailart_damage |
 | GameObject Name | Hit R |
 | GameObject Path | Knight/Attacks/Cyclone Slash/Hits/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level4 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level4 |
 | Start State | Init |
 | FSM PathId | 907 |
 | GameObject PathId | 2 |

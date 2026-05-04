@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Windy_Set |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level342 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level342 |
 | Start State | Pause |
 | FSM PathId | 3494 |
 | GameObject PathId | 624 |

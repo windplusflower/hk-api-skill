@@ -1,4 +1,4 @@
-﻿# Globalise Area Title
+# Globalise Area Title
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Globalise Area Title |
 | GameObject Name | Area Title Holder |
 | GameObject Path | _GameCameras/HudCamera/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Globalise |
 | FSM PathId | 9809 |
 | GameObject PathId | 1882 |

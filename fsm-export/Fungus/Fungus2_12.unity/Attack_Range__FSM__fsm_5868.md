@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Attack Range |
 | GameObject Path | Mantis Flyer Child (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level176 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level176 |
 | Start State | Init |
 | FSM PathId | 5868 |
 | GameObject PathId | 459 |

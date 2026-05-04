@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Dig Check |
 | GameObject Path | Moss Charger/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level146 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level146 |
 | Start State | Init |
 | FSM PathId | 4071 |
 | GameObject PathId | 121 |

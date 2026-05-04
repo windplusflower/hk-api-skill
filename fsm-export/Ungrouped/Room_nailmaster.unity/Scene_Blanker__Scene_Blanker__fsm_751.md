@@ -1,4 +1,4 @@
-﻿# Scene Blanker
+# Scene Blanker
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Scene Blanker |
 | GameObject Name | Scene Blanker |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level13 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level13 |
 | Start State | Off |
 | FSM PathId | 751 |
 | GameObject PathId | 220 |

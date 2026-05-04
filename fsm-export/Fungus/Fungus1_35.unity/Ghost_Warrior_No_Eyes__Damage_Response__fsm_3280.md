@@ -1,4 +1,4 @@
-﻿# Damage Response
+# Damage Response
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Damage Response |
 | GameObject Name | Ghost Warrior No Eyes |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level161 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level161 |
 | Start State | Idle |
 | FSM PathId | 3280 |
 | GameObject PathId | 324 |

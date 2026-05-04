@@ -1,4 +1,4 @@
-﻿# Lesser Mawlek
+# Lesser Mawlek
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lesser Mawlek |
 | GameObject Name | Lesser Mawlek (3) |
 | GameObject Path | Cloth Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level341 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level341 |
 | Start State | Init |
 | FSM PathId | 8878 |
 | GameObject PathId | 1511 |
@@ -43,9 +43,9 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Shot Origin | Cloth Enemies/Lesser Mawlek (3)/Shot Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Shot Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341)] |
-| Slash Hit | Cloth Enemies/Lesser Mawlek (3)/Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Slash Hit (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341)] |
-| Spit Effect | Cloth Enemies/Lesser Mawlek (3)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Spit Effect (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341)] |
+| Shot Origin | Cloth Enemies/Lesser Mawlek (3)/Shot Origin (Hollow Knight/hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Shot Origin (Hollow Knight/hollow_knight_Data\level341)] |
+| Slash Hit | Cloth Enemies/Lesser Mawlek (3)/Slash Hit (Hollow Knight/hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Slash Hit (Hollow Knight/hollow_knight_Data\level341)] |
+| Spit Effect | Cloth Enemies/Lesser Mawlek (3)/Spit Effect (Hollow Knight/hollow_knight_Data\level341) | NamedAssetPPtr: [Cloth Enemies/Lesser Mawlek (3)/Spit Effect (Hollow Knight/hollow_knight_Data\level341)] |
 
 ## States
 
@@ -159,9 +159,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1.15f |   |   |
 | pitchMax |   | 1.25f |   |   |
 | volume |   | 1f |   |   |
@@ -370,9 +370,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mawlek_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| audioClip |   | [mawlek_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 | pitchMin |   | 1.35f |   |   |
 | pitchMax |   | 1.35f |   |   |
 | volume |   | 1f |   |   |
@@ -746,7 +746,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mawlek_big_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mawlek_big_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 #### Transitions
 
@@ -781,7 +781,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [mini_mawlek_spit (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
+| oneShotClip |   | [mini_mawlek_spit (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
 
 ##### 3. ActivateGameObject
 
@@ -942,8 +942,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Vomit Glob NoiseFix (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |   |   |
-| spawnPoint |   | [Cloth Enemies/Lesser Mawlek (3)/Shot Origin (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level341)] |   |   |
+| gameObject |   | [Global] [Vomit Glob NoiseFix (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |   |   |
+| spawnPoint |   | [Cloth Enemies/Lesser Mawlek (3)/Shot Origin (Hollow Knight/hollow_knight_Data\level341)] |   |   |
 | position |   | Vector3(0, 0, -0.004) |   |   |
 | spawnMin |   | 2 |   |   |
 | spawnMax |   | 4 |   |   |

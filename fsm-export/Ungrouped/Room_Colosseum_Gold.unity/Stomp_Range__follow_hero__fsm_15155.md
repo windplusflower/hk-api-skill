@@ -1,4 +1,4 @@
-﻿# follow_hero
+# follow_hero
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | follow_hero |
 | GameObject Name | Stomp Range |
 | GameObject Path | Colosseum Manager/Waves/Wave 24/Mage Knight/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Follow |
 | FSM PathId | 15155 |
 | GameObject PathId | 178 |

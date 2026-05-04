@@ -1,4 +1,4 @@
-﻿# Prompt
+# Prompt
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Prompt |
 | GameObject Name | Prompt Marker |
 | GameObject Path | Quirrel Slug Shrine/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level36 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level36 |
 | Start State | Init |
 | FSM PathId | 409 |
 | GameObject PathId | 93 |

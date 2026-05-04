@@ -1,4 +1,4 @@
-﻿# destroy_after_anim
+# destroy_after_anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | destroy_after_anim |
 | GameObject Name | Get Glow |
 | GameObject Path | Loose Rewards/Heart Piece/Get Anim/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Pause |
 | FSM PathId | 2485 |
 | GameObject PathId | 384 |

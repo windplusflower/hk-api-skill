@@ -1,4 +1,4 @@
-﻿# Generate Wave
+# Generate Wave
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Generate Wave |
 | GameObject Name | Shiny Item |
 | GameObject Path | Giant Slug NPC/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level164 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level164 |
 | Start State | Init |
 | FSM PathId | 4437 |
 | GameObject PathId | 453 |
@@ -25,7 +25,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Wave | Giant Slug NPC/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level164) | NamedAssetPPtr: [Giant Slug NPC/Shiny Item/White Wave (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level164)] |
+| Wave | Giant Slug NPC/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level164) | NamedAssetPPtr: [Giant Slug NPC/Shiny Item/White Wave (Hollow Knight/hollow_knight_Data\level164)] |
 
 ## States
 

@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Bee Dropper (4) |
 | GameObject Path | Battle Scene/Droppers/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level389 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level389 |
 | Start State | Init |
 | FSM PathId | 2920 |
 | GameObject PathId | 674 |
@@ -30,8 +30,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Pt Burst | Bee Dropper/Pt Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets) | NamedAssetPPtr: [Bee Dropper/Pt Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets)] |
-| Splat | Bee Dropper/Splat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets) | NamedAssetPPtr: [Bee Dropper/Splat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets)] |
+| Pt Burst | Bee Dropper/Pt Burst (Hollow Knight/hollow_knight_Data\sharedassets389.assets) | NamedAssetPPtr: [Bee Dropper/Pt Burst (Hollow Knight/hollow_knight_Data\sharedassets389.assets)] |
+| Splat | Bee Dropper/Splat (Hollow Knight/hollow_knight_Data\sharedassets389.assets) | NamedAssetPPtr: [Bee Dropper/Splat (Hollow Knight/hollow_knight_Data\sharedassets389.assets)] |
 
 ## States
 
@@ -52,7 +52,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Pt Burst" |   |   |
-| storeResult |   | [Bee Dropper/Pt Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets)] | Variable |   |
+| storeResult |   | [Bee Dropper/Pt Burst (Hollow Knight/hollow_knight_Data\sharedassets389.assets)] | Variable |   |
 
 ##### 2. FindChild
 
@@ -63,7 +63,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Splat" |   |   |
-| storeResult |   | [Bee Dropper/Splat (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets389.assets)] | Variable |   |
+| storeResult |   | [Bee Dropper/Splat (Hollow Knight/hollow_knight_Data\sharedassets389.assets)] | Variable |   |
 
 #### Transitions
 

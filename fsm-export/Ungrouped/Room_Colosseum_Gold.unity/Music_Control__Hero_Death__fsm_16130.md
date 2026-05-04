@@ -1,4 +1,4 @@
-﻿# Hero Death
+# Hero Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hero Death |
 | GameObject Name | Music Control |
 | GameObject Path | Colosseum Manager/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Idle |
 | FSM PathId | 16130 |
 | GameObject PathId | 4583 |
@@ -106,7 +106,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [S57 COLOSSEUM STING (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [S57 COLOSSEUM STING (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# Lift Control
+# Lift Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Lift Control |
 | GameObject Name | Mines Lift |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level73 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level73 |
 | Start State | Init |
 | FSM PathId | 3055 |
 | GameObject PathId | 796 |
@@ -36,8 +36,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Chain L | Mines Lift/BG Chain L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73) | NamedAssetPPtr: [Mines Lift/BG Chain L (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73)] |
-| Chain R | Mines Lift/BG Chain R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73) | NamedAssetPPtr: [Mines Lift/BG Chain R (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level73)] |
+| Chain L | Mines Lift/BG Chain L (Hollow Knight/hollow_knight_Data\level73) | NamedAssetPPtr: [Mines Lift/BG Chain L (Hollow Knight/hollow_knight_Data\level73)] |
+| Chain R | Mines Lift/BG Chain R (Hollow Knight/hollow_knight_Data\level73) | NamedAssetPPtr: [Mines Lift/BG Chain R (Hollow Knight/hollow_knight_Data\level73)] |
 | Cog 1 | [null] | NamedAssetPPtr: [null] |
 | Cog 2 | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
@@ -457,9 +457,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_activate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_activate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -727,9 +727,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_arrive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_arrive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -1023,9 +1023,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [lift_arrive (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets7.assets)] |   |   |
+| audioClip |   | [lift_arrive (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets7.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |

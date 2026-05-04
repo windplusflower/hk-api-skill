@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Appear Detect |
 | GameObject Path | Last Weaver/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level303 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level303 |
 | Start State | Init |
 | FSM PathId | 5055 |
 | GameObject PathId | 229 |

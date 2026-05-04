@@ -1,4 +1,4 @@
-﻿# ui_list_getinput
+# ui_list_getinput
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ui_list_getinput |
 | GameObject Name | Item List |
 | GameObject Path | Shop Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level12 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level12 |
 | Start State | Init |
 | FSM PathId | 462 |
 | GameObject PathId | 74 |

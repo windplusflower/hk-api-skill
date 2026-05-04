@@ -1,4 +1,4 @@
-﻿# Zombie Swipe
+# Zombie Swipe
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Zombie Swipe |
 | GameObject Name | Mossman_Runner |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level135 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level135 |
 | Start State | Initialise |
 | FSM PathId | 6445 |
 | GameObject PathId | 808 |
@@ -39,7 +39,7 @@
 | --- | --- | --- |
 | Attack Region | [null] | NamedAssetPPtr: [null] |
 | Hero | [null] | NamedAssetPPtr: [null] |
-| Pt Roll | Mossman_Runner/Pt Roll (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets) | NamedAssetPPtr: [Mossman_Runner/Pt Roll (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] |
+| Pt Roll | Mossman_Runner/Pt Roll (Hollow Knight/hollow_knight_Data\sharedassets128.assets) | NamedAssetPPtr: [Mossman_Runner/Pt Roll (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -81,7 +81,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Pt Roll" |   |   |
-| storeResult |   | [Mossman_Runner/Pt Roll (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets128.assets)] | Variable |   |
+| storeResult |   | [Mossman_Runner/Pt Roll (Hollow Knight/hollow_knight_Data\sharedassets128.assets)] | Variable |   |
 
 ##### 4. GetOwner
 

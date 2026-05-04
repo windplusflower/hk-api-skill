@@ -38,7 +38,7 @@
 ## Example Searches
 
 ```bash
-rg -n $'\tControl\t' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
-rg -n 'Hornet|Grimm|Radiance' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
-rg -n 'GG_Vengefly|GG_Hornet_1|Dream_Final_Boss' /home/windflower/.codex/skills/hk-api/fsm-index/fsm-manifest.tsv
+rg -n $'\tControl\t' fsm-index/fsm-manifest.tsv
+rg -n 'Hornet|Grimm|Radiance' fsm-index/fsm-manifest.tsv
+rg -n 'GG_Vengefly|GG_Hornet_1|Dream_Final_Boss' fsm-index/fsm-manifest.tsv
 ```

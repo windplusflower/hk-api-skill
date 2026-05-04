@@ -1,4 +1,4 @@
-﻿# Death Detect
+# Death Detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Death Detect |
 | GameObject Name | Lancer |
 | GameObject Path | Entry Object/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level441 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level441 |
 | Start State | Idle |
 | FSM PathId | 1684 |
 | GameObject PathId | 164 |

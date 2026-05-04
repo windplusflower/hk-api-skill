@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior Galien |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level298 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level298 |
 | Start State | Init |
 | FSM PathId | 5939 |
 | GameObject PathId | 115 |
@@ -67,12 +67,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Galien/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
+| Attack Pt | Warrior/Ghost Warrior Galien/Attack Pt (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Attack Pt (Hollow Knight/hollow_knight_Data\level298)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior Galien/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
+| Target | Warrior/Ghost Warrior Galien/Target (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Target (Hollow Knight/hollow_knight_Data\level298)] |
 | Warp | [null] | NamedAssetPPtr: [null] |
-| Warp Out | Warrior/Ghost Warrior Galien/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
-| White Flash | Warrior/Ghost Warrior Galien/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] |
+| Warp Out | Warrior/Ghost Warrior Galien/Warp Out (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/Warp Out (Hollow Knight/hollow_knight_Data\level298)] |
+| White Flash | Warrior/Ghost Warrior Galien/White Flash (Hollow Knight/hollow_knight_Data\level298) | NamedAssetPPtr: [Warrior/Ghost Warrior Galien/White Flash (Hollow Knight/hollow_knight_Data\level298)] |
 
 ## States
 
@@ -614,7 +614,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior Galien/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level298)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior Galien/Target (Hollow Knight/hollow_knight_Data\level298)] | Variable |   |
 | speedMax |   | 7f |   |   |
 | acceleration |   | 0.3f |   |   |
 | targetSpread |   | 0f |   |   |

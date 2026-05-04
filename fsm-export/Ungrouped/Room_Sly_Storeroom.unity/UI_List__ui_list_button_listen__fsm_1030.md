@@ -1,4 +1,4 @@
-﻿# ui_list_button_listen
+# ui_list_button_listen
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | ui_list_button_listen |
 | GameObject Name | UI List |
 | GameObject Path | Shop Menu/Confirm/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level18 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level18 |
 | Start State | Init |
 | FSM PathId | 1030 |
 | GameObject PathId | 219 |
@@ -209,9 +209,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player UI (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player UI (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | [Global] GameObject Hero |   |   |
-| audioClip |   | [button (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioClip |   | [button (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | pitchMin |   | 0.65f |   |   |
 | pitchMax |   | 0.65f |   |   |
 | volume |   | 0.6f |   |   |

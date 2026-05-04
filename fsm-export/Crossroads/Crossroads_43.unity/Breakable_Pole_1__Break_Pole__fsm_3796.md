@@ -1,4 +1,4 @@
-﻿# Break Pole
+# Break Pole
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Break Pole |
 | GameObject Name | Breakable Pole 1 |
 | GameObject Path | _Scenery/scenery_detail_5/pole_11/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level72 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level72 |
 | Start State | Initiate |
 | FSM PathId | 3796 |
 | GameObject PathId | 419 |
@@ -244,7 +244,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -302,7 +302,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Breakable Pole Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets41.assets)] |   |   |
+| gameObject |   | [Global] [Breakable Pole Top (Hollow Knight/hollow_knight_Data\sharedassets41.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0.8, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -387,7 +387,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Slash Impact (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| gameObject |   | [Global] [Slash Impact (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -445,7 +445,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Breakable Pole Top (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets41.assets)] |   |   |
+| gameObject |   | [Global] [Breakable Pole Top (Hollow Knight/hollow_knight_Data\sharedassets41.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0.8, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -583,7 +583,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Breakable Pole Base (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets41.assets)] |   |   |
+| gameObject |   | [Global] [Breakable Pole Base (Hollow Knight/hollow_knight_Data\sharedassets41.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

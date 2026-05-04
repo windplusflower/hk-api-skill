@@ -1,4 +1,4 @@
-﻿# InitFSM
+# InitFSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | InitFSM |
 | GameObject Name | _UIManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Initiliase |
 | FSM PathId | 8631 |
 | GameObject PathId | 550 |

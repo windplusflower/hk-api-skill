@@ -1,4 +1,4 @@
-﻿# Reactivate HUD
+# Reactivate HUD
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Reactivate HUD |
 | GameObject Name | Land of Storms Doors |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Wait |
 | FSM PathId | 4843 |
 | GameObject PathId | 1182 |

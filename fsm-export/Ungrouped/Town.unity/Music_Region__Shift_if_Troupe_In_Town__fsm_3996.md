@@ -1,4 +1,4 @@
-﻿# Shift if Troupe In Town
+# Shift if Troupe In Town
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shift if Troupe In Town |
 | GameObject Name | Music Region |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level7 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level7 |
 | Start State | Pause |
 | FSM PathId | 3996 |
 | GameObject PathId | 142 |

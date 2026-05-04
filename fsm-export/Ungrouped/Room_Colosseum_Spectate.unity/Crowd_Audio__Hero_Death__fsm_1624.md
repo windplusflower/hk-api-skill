@@ -1,4 +1,4 @@
-﻿# Hero Death
+# Hero Death
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Hero Death |
 | GameObject Name | Crowd Audio |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level35 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level35 |
 | Start State | Idle |
 | FSM PathId | 1624 |
 | GameObject PathId | 481 |
@@ -83,7 +83,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [crowd_laugh_3_long (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets32.assets)] |   |   |
+| oneShotClip |   | [crowd_laugh_3_long (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets32.assets)] |   |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# map_customcompass
+# map_customcompass
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | map_customcompass |
 | GameObject Name | _SceneManager |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level34 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level34 |
 | Start State | Pause |
 | FSM PathId | 15820 |
 | GameObject PathId | 3771 |

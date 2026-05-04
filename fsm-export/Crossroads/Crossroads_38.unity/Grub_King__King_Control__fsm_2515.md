@@ -1,4 +1,4 @@
-﻿# King Control
+# King Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | King Control |
 | GameObject Name | Grub King |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level68 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level68 |
 | Start State | Pause |
 | FSM PathId | 2515 |
 | GameObject PathId | 701 |
@@ -46,7 +46,7 @@
 | --- | --- | --- |
 | Audio Point | [null] | NamedAssetPPtr: [null] |
 | Reward Folder | [null] | NamedAssetPPtr: [null] |
-| Rewards Parent | Grub King/Rewards Parent (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level68) | NamedAssetPPtr: [Grub King/Rewards Parent (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level68)] |
+| Rewards Parent | Grub King/Rewards Parent (Hollow Knight/hollow_knight_Data\level68) | NamedAssetPPtr: [Grub King/Rewards Parent (Hollow Knight/hollow_knight_Data\level68)] |
 
 ## States
 
@@ -248,9 +248,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Audio Point |   |   |
-| audioClip |   | [Grub_King_wave (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets68.assets)] |   |   |
+| audioClip |   | [Grub_King_wave (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets68.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -334,7 +334,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Audio Point |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |
@@ -436,7 +436,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault Rewards Parent |   |   |
 | childName |   | string Reward Name |   |   |
-| storeResult |   | [Grub King/Rewards Parent (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level68)] | Variable |   |
+| storeResult |   | [Grub King/Rewards Parent (Hollow Knight/hollow_knight_Data\level68)] | Variable |   |
 
 ##### 7. SendEventByName
 
@@ -633,7 +633,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Audio Point |   |   |
 | audioClips |   | FSMViewAvalonia2.FsmArray2 |   |   |
 | weights |   | FSMViewAvalonia2.FsmArray2 |   |   |

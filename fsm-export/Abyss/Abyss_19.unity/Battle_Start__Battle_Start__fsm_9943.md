@@ -1,4 +1,4 @@
-﻿# Battle Start
+# Battle Start
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Battle Start |
 | GameObject Name | Battle Start |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level343 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level343 |
 | Start State | Detect |
 | FSM PathId | 9943 |
 | GameObject PathId | 2482 |

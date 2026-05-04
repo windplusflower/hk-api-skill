@@ -1,4 +1,4 @@
-﻿# Music Control
+# Music Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Music Control |
 | GameObject Name | Battle Music |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level155 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level155 |
 | Start State | Pause |
 | FSM PathId | 7918 |
 | GameObject PathId | 2081 |
@@ -24,8 +24,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Blocker 1 | Battle Music/Blocker 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level155) | NamedAssetPPtr: [Battle Music/Blocker 1 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level155)] |
-| Blocker 2 | Battle Music/Blocker 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level155) | NamedAssetPPtr: [Battle Music/Blocker 2 (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level155)] |
+| Blocker 1 | Battle Music/Blocker 1 (Hollow Knight/hollow_knight_Data\level155) | NamedAssetPPtr: [Battle Music/Blocker 1 (Hollow Knight/hollow_knight_Data\level155)] |
+| Blocker 2 | Battle Music/Blocker 2 (Hollow Knight/hollow_knight_Data\level155) | NamedAssetPPtr: [Battle Music/Blocker 2 (Hollow Knight/hollow_knight_Data\level155)] |
 
 ## States
 
@@ -137,7 +137,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 2. SetPlayerDataBool
@@ -182,7 +182,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| musicCue |   | [Crossroads (Script MusicCue) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets19.assets)] |   |   |
+| musicCue |   | [Crossroads (Script MusicCue) (Hollow Knight/hollow_knight_Data\sharedassets19.assets)] |   |   |
 | delayTime |   | 0f |   |   |
 | transitionTime |   | 0f |   |   |
 
@@ -193,7 +193,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Action Only (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Action Only (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 ##### 4. Wait
@@ -229,7 +229,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [Silent (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [Silent (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions

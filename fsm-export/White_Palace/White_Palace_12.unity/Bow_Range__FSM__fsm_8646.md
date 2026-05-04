@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Bow Range |
 | GameObject Path | White_Servant_01/Enemy/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level375 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level375 |
 | Start State | Init |
 | FSM PathId | 8646 |
 | GameObject PathId | 2948 |

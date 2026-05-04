@@ -1,4 +1,4 @@
-﻿# Distance Attack
+# Distance Attack
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Distance Attack |
 | GameObject Name | Ghost Warrior Slug |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level489 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level489 |
 | Start State | Init |
 | FSM PathId | 1329 |
 | GameObject PathId | 397 |
@@ -376,7 +376,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Shot Slug Spear (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets161.assets)] |   |   |
+| gameObject |   | [Global] [Shot Slug Spear (Hollow Knight/hollow_knight_Data\sharedassets161.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |

@@ -1,4 +1,4 @@
-﻿# Set Windy
+# Set Windy
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set Windy |
 | GameObject Name | Windy_Set |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level342 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level342 |
 | Start State | Pause |
 | FSM PathId | 3495 |
 | GameObject PathId | 624 |
@@ -147,7 +147,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [at None (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [at None (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 0.1f |   |   |
 
 ##### 5. SendMessageByTag

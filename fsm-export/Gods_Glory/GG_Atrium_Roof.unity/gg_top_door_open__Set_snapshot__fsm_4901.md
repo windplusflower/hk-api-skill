@@ -1,4 +1,4 @@
-﻿# Set snapshot
+# Set snapshot
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set snapshot |
 | GameObject Name | gg_top_door_open |
 | GameObject Path | GG_Final_Challenge_Door/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | State 1 |
 | FSM PathId | 4901 |
 | GameObject PathId | 1300 |
@@ -31,7 +31,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| snapshot |   | [en Arena (AudioMixerSnapshotController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| snapshot |   | [en Arena (AudioMixerSnapshotController) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | transitionTime |   | 1f |   |   |
 
 #### Transitions

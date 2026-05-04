@@ -1,4 +1,4 @@
-﻿# Tink
+# Tink
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tink |
 | GameObject Name | Grimm_sleep_shield |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level391 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level391 |
 | Start State | Init |
 | FSM PathId | 1987 |
 | GameObject PathId | 164 |
@@ -30,7 +30,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |
+| Attack Pt | Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets) | NamedAssetPPtr: [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |
 | Dream Impact | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
@@ -62,7 +62,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Attack Pt" |   |   |
-| storeResult |   | [Dream Dialogue/Active Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] | Variable |   |
+| storeResult |   | [Dream Dialogue/Active Pt (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] | Variable |   |
 
 ##### 3. FindChild
 

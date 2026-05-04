@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Godseeker Awake |
 | GameObject Path | Godseeker Waterways/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | Init |
 | FSM PathId | 6447 |
 | GameObject PathId | 2024 |
@@ -605,7 +605,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [GS_waterway_07 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| oneShotClip |   | [GS_waterway_07 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 
 #### Transitions
 
@@ -670,7 +670,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [GS_waterway_05 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| oneShotClip |   | [GS_waterway_05 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 
 #### Transitions
 
@@ -873,7 +873,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [GS_waterway_07 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| oneShotClip |   | [GS_waterway_07 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 
 #### Transitions
 
@@ -968,7 +968,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [GS_waterway_04 (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets225.assets)] |   |   |
+| oneShotClip |   | [GS_waterway_04 (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets225.assets)] |   |   |
 
 #### Transitions
 

@@ -1,4 +1,4 @@
-﻿# Blink
+# Blink
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Blink |
 | GameObject Name | Queen |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level348 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level348 |
 | Start State | Init |
 | FSM PathId | 1252 |
 | GameObject PathId | 318 |

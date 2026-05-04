@@ -1,4 +1,4 @@
-﻿# Conversation Control
+# Conversation Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Conversation Control |
 | GameObject Name | Inspect Region |
 | GameObject Path | Mantis Grave/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level225 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level225 |
 | Start State | Init |
 | FSM PathId | 1837 |
 | GameObject PathId | 285 |

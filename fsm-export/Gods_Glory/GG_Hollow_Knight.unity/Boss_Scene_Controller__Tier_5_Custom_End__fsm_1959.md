@@ -1,4 +1,4 @@
-﻿# Tier 5 Custom End
+# Tier 5 Custom End
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Tier 5 Custom End |
 | GameObject Name | Boss Scene Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level447 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level447 |
 | Start State | Check Tier |
 | FSM PathId | 1959 |
 | GameObject PathId | 429 |
@@ -31,7 +31,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| tierList |   | [Boss Sequence Tier 5 (Script BossSequence) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| tierList |   | [Boss Sequence Tier 5 (Script BossSequence) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | trueEvent |   | TIER 5 |   |   |
 | falseEvent |   | FINISHED |   |   |
 
@@ -71,7 +71,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| targetProperty |   | Property {[ (Script BossSceneController) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level447)]}.doTransitionOut |   |   |
+| targetProperty |   | Property {[ (Script BossSceneController) (Hollow Knight/hollow_knight_Data\level447)]}.doTransitionOut |   |   |
 | everyFrame |   | false |   |   |
 
 #### Transitions

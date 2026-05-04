@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Wake Range |
 | GameObject Path | Moss Flyer (2)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level205 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level205 |
 | Start State | Initialise |
 | FSM PathId | 2306 |
 | GameObject PathId | 592 |

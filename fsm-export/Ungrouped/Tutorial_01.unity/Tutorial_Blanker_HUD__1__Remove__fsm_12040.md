@@ -1,4 +1,4 @@
-﻿# Remove
+# Remove
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Remove |
 | GameObject Name | Tutorial Blanker HUD (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level6 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level6 |
 | Start State | Pause 1 |
 | FSM PathId | 12040 |
 | GameObject PathId | 1667 |

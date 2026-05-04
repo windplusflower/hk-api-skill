@@ -1,4 +1,4 @@
-﻿# Arrow Anim
+# Arrow Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Arrow Anim |
 | GameObject Name | Arrow D |
 | GameObject Path | Bank Menu/Withdraw Menu/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Init |
 | FSM PathId | 2662 |
 | GameObject PathId | 84 |

@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | waterways_manhole_open |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level349 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level349 |
 | Start State | Pause |
 | FSM PathId | 4758 |
 | GameObject PathId | 1396 |

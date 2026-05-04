@@ -1,4 +1,4 @@
-﻿# Fluke Fly
+# Fluke Fly
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Fluke Fly |
 | GameObject Name | Fluke Fly (2) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level353 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level353 |
 | Start State | Init |
 | FSM PathId | 4316 |
 | GameObject PathId | 694 |
@@ -51,9 +51,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [fluke_fairy_call (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets27.assets)] |   |   |
+| audioClip |   | [fluke_fairy_call (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets27.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -94,7 +94,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [fluke_fairy_charge_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [fluke_fairy_charge_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 
 ##### 2. AudioPlaySimple
 
@@ -203,7 +203,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [fluke_fairy_swim_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [fluke_fairy_swim_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 
 ##### 3. AudioPlaySimple
 
@@ -481,7 +481,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
-| audioClip |   | [fluke_fairy_swim_loop (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets350.assets)] |   |   |
+| audioClip |   | [fluke_fairy_swim_loop (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets350.assets)] |   |   |
 
 ##### 5. AudioPlaySimple
 

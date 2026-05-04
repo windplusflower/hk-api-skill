@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | White Palace Gate (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level367 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level367 |
 | Start State | Pause |
 | FSM PathId | 7653 |
 | GameObject PathId | 1611 |
@@ -31,8 +31,8 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Closed | White Palace Gate/Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Gate/Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
-| Open | White Palace Gate/Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Gate/Open (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] |
+| Closed | White Palace Gate/Closed (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Gate/Closed (Hollow Knight/hollow_knight_Data\level367)] |
+| Open | White Palace Gate/Open (Hollow Knight/hollow_knight_Data\level367) | NamedAssetPPtr: [White Palace Gate/Open (Hollow Knight/hollow_knight_Data\level367)] |
 
 ## States
 
@@ -62,7 +62,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | childName |   | "Closed" |   |   |
-| storeResult |   | [White Palace Gate (1)/Closed (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level367)] | Variable |   |
+| storeResult |   | [White Palace Gate (1)/Closed (Hollow Knight/hollow_knight_Data\level367)] | Variable |   |
 
 #### Transitions
 

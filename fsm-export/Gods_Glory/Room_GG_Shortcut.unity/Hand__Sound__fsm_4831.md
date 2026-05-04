@@ -1,4 +1,4 @@
-﻿# Sound
+# Sound
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Sound |
 | GameObject Name | Hand |
 | GameObject Path | Fluke Hermit/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level471 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level471 |
 | Start State | Init |
 | FSM PathId | 4831 |
 | GameObject PathId | 1514 |
@@ -32,7 +32,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Dust | [null] | NamedAssetPPtr: [null] |
-| Pt Rocks | Miner/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets471.assets) | NamedAssetPPtr: [Miner/Pt Rocks (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets471.assets)] |
+| Pt Rocks | Miner/Pt Rocks (Hollow Knight/hollow_knight_Data\sharedassets471.assets) | NamedAssetPPtr: [Miner/Pt Rocks (Hollow Knight/hollow_knight_Data\sharedassets471.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -115,7 +115,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [enemy_damage_over_time (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [enemy_damage_over_time (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 #### Transitions
 

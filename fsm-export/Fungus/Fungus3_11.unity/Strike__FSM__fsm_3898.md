@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Strike |
 | GameObject Path | Royal Gardens Plat S (3)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level204 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level204 |
 | Start State | Init |
 | FSM PathId | 3898 |
 | GameObject PathId | 332 |

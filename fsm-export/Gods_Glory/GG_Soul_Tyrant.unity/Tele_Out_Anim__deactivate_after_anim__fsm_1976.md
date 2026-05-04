@@ -1,4 +1,4 @@
-﻿# deactivate_after_anim
+# deactivate_after_anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate_after_anim |
 | GameObject Name | Tele Out Anim |
 | GameObject Path | Dream Mage Lord Phase2/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level462 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level462 |
 | Start State | Init |
 | FSM PathId | 1976 |
 | GameObject PathId | 50 |

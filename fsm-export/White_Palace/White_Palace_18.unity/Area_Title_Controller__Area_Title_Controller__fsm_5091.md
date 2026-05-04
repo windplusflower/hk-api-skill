@@ -1,4 +1,4 @@
-﻿# Area Title Controller
+# Area Title Controller
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Area Title Controller |
 | GameObject Name | Area Title Controller |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level381 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level381 |
 | Start State | Init |
 | FSM PathId | 5091 |
 | GameObject PathId | 967 |

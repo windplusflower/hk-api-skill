@@ -1,4 +1,4 @@
-﻿# deactivate
+# deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | deactivate |
 | GameObject Name | Quirrel Slug Shrine |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level36 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level36 |
 | Start State | Pause |
 | FSM PathId | 432 |
 | GameObject PathId | 92 |

@@ -1,4 +1,4 @@
-﻿# Movement
+# Movement
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Movement |
 | GameObject Name | Ghost Warrior Slug |
 | GameObject Path | Warrior/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level435 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level435 |
 | Start State | Init |
 | FSM PathId | 1473 |
 | GameObject PathId | 430 |
@@ -66,12 +66,12 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Attack Pt | Warrior/Ghost Warrior Slug/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Attack Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] |
+| Attack Pt | Warrior/Ghost Warrior Slug/Attack Pt (Hollow Knight/hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Attack Pt (Hollow Knight/hollow_knight_Data\level435)] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Target | Warrior/Ghost Warrior Slug/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] |
-| Warp | Warrior/Ghost Warrior Slug/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Warp (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] |
-| Warp Out | Warrior/Ghost Warrior Slug/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Warp Out (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] |
-| White Flash | Warrior/Ghost Warrior Slug/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/White Flash (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] |
+| Target | Warrior/Ghost Warrior Slug/Target (Hollow Knight/hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Target (Hollow Knight/hollow_knight_Data\level435)] |
+| Warp | Warrior/Ghost Warrior Slug/Warp (Hollow Knight/hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Warp (Hollow Knight/hollow_knight_Data\level435)] |
+| Warp Out | Warrior/Ghost Warrior Slug/Warp Out (Hollow Knight/hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/Warp Out (Hollow Knight/hollow_knight_Data\level435)] |
+| White Flash | Warrior/Ghost Warrior Slug/White Flash (Hollow Knight/hollow_knight_Data\level435) | NamedAssetPPtr: [Warrior/Ghost Warrior Slug/White Flash (Hollow Knight/hollow_knight_Data\level435)] |
 
 ## States
 
@@ -431,7 +431,7 @@ Enabled: true
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner | Variable |   |
-| target |   | [Warrior/Ghost Warrior Slug/Target (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level435)] | Variable |   |
+| target |   | [Warrior/Ghost Warrior Slug/Target (Hollow Knight/hollow_knight_Data\level435)] | Variable |   |
 | speedMax |   | 5f |   |   |
 | acceleration |   | 0.3f |   |   |
 | targetSpread |   | 0f |   |   |
@@ -996,9 +996,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [mage_knight_teleport (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| audioClip |   | [mage_knight_teleport (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

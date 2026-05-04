@@ -1,4 +1,4 @@
-﻿# Mantis Gate
+# Mantis Gate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Mantis Gate |
 | GameObject Name | Mantis Gate |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level179 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level179 |
 | Start State | Pause |
 | FSM PathId | 8798 |
 | GameObject PathId | 2719 |
@@ -18,7 +18,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Dust | Mantis Gate/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179) | NamedAssetPPtr: [Mantis Gate/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level179)] |
+| Dust | Mantis Gate/Dust (Hollow Knight/hollow_knight_Data\level179) | NamedAssetPPtr: [Mantis Gate/Dust (Hollow Knight/hollow_knight_Data\level179)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -255,9 +255,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [switch_gate_gate (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets39.assets)] |   |   |
+| audioClip |   | [switch_gate_gate (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets39.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

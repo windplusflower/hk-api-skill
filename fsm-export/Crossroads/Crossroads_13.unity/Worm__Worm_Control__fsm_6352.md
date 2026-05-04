@@ -1,4 +1,4 @@
-﻿# Worm Control
+# Worm Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Worm Control |
 | GameObject Name | Worm |
 | GameObject Path | _Enemies/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level52 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level52 |
 | Start State | Initialise |
 | FSM PathId | 6352 |
 | GameObject PathId | 177 |
@@ -34,7 +34,7 @@
 | Burst Rocks | [null] | NamedAssetPPtr: [null] |
 | Churn Rocks | [null] | NamedAssetPPtr: [null] |
 | Dust | [null] | NamedAssetPPtr: [null] |
-| Hero Hurter | Mage Orb/Hero Hurter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets) | NamedAssetPPtr: [Mage Orb/Hero Hurter (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets34.assets)] |
+| Hero Hurter | Mage Orb/Hero Hurter (Hollow Knight/hollow_knight_Data\sharedassets34.assets) | NamedAssetPPtr: [Mage Orb/Hero Hurter (Hollow Knight/hollow_knight_Data\sharedassets34.assets)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -253,7 +253,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [worm (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets51.assets)] |   |   |
+| oneShotClip |   | [worm (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets51.assets)] |   |   |
 | finishedEvent |   | Event() |   |   |
 
 ##### 2. Tk2dPlayAnimation

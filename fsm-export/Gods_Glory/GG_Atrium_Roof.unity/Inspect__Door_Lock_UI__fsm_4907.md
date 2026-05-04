@@ -1,4 +1,4 @@
-﻿# Door Lock UI
+# Door Lock UI
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Door Lock UI |
 | GameObject Name | Inspect |
 | GameObject Path | GG_Final_Challenge_Door/Lock Set/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level473 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level473 |
 | Start State | Inert |
 | FSM PathId | 4907 |
 | GameObject PathId | 1481 |
@@ -19,7 +19,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | CamLock | [null] | NamedAssetPPtr: [null] |
-| Door | GG_Final_Challenge_Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level473)] |
+| Door | GG_Final_Challenge_Door (Hollow Knight/hollow_knight_Data\level473) | NamedAssetPPtr: [GG_Final_Challenge_Door (Hollow Knight/hollow_knight_Data\level473)] |
 | Hero | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
 

@@ -1,4 +1,4 @@
-﻿# fader
+# fader
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | fader |
 | GameObject Name | Rush |
 | GameObject Path | Mantis Grave/Inspect Region/Mantis Ghost/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level225 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level225 |
 | Start State | Init |
 | FSM PathId | 1850 |
 | GameObject PathId | 541 |

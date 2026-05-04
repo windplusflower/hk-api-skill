@@ -1,4 +1,4 @@
-﻿# Deactivate
+# Deactivate
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Deactivate |
 | GameObject Name | Overcharm_Break |
 | GameObject Path | _GameCameras/HudCamera/Inventory/Charms/Overcharm/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Wait |
 | FSM PathId | 9066 |
 | GameObject PathId | 1164 |

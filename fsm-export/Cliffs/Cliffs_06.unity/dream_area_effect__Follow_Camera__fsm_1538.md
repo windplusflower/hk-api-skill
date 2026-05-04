@@ -1,4 +1,4 @@
-﻿# Follow Camera
+# Follow Camera
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Follow Camera |
 | GameObject Name | dream_area_effect |
 | GameObject Path | Nightmare Lantern/lantern_dream/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level236 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level236 |
 | Start State | Follow |
 | FSM PathId | 1538 |
 | GameObject PathId | 10 |

@@ -1,4 +1,4 @@
-﻿# Anim
+# Anim
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Anim |
 | GameObject Name | Emilitia NPC |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level85 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level85 |
 | Start State | Init |
 | FSM PathId | 1129 |
 | GameObject PathId | 285 |

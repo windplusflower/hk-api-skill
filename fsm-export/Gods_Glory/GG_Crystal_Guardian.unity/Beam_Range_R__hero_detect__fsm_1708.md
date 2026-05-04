@@ -1,4 +1,4 @@
-﻿# hero_detect
+# hero_detect
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | hero_detect |
 | GameObject Name | Beam Range R |
 | GameObject Path | Mega Zombie Beam Miner (1)/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level428 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level428 |
 | Start State | Initialise |
 | FSM PathId | 1708 |
 | GameObject PathId | 25 |

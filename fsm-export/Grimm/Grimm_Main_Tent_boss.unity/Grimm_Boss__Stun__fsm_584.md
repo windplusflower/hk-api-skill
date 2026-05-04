@@ -1,4 +1,4 @@
-﻿# Stun
+# Stun
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stun |
 | GameObject Name | Grimm Boss |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level392 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level392 |
 | Start State | Init |
 | FSM PathId | 584 |
 | GameObject PathId | 46 |

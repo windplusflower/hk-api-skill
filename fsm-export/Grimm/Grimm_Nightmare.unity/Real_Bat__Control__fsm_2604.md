@@ -1,4 +1,4 @@
-﻿# Control
+# Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Control |
 | GameObject Name | Real Bat |
 | GameObject Path | Grimm Control/Grimm Bats/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level393 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level393 |
 | Start State | Init |
 | FSM PathId | 2604 |
 | GameObject PathId | 651 |
@@ -37,7 +37,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Grimm | Grimm Control/Nightmare Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Nightmare Grimm Boss (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level393)] |
+| Grimm | Grimm Control/Nightmare Grimm Boss (Hollow Knight/hollow_knight_Data\level393) | NamedAssetPPtr: [Grimm Control/Nightmare Grimm Boss (Hollow Knight/hollow_knight_Data\level393)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

@@ -1,4 +1,4 @@
-﻿# Leave if Silver Unlocked
+# Leave if Silver Unlocked
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Leave if Silver Unlocked |
 | GameObject Name | Zote Ruins |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level95 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level95 |
 | Start State | Pause |
 | FSM PathId | 3137 |
 | GameObject PathId | 292 |

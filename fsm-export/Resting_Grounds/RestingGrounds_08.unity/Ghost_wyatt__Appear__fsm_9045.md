@@ -1,4 +1,4 @@
-﻿# Appear
+# Appear
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Appear |
 | GameObject Name | Ghost wyatt |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level243 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level243 |
 | Start State | Pause |
 | FSM PathId | 9045 |
 | GameObject PathId | 216 |
@@ -25,10 +25,10 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Away Pt | Ghost wyatt/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Away Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
-| Burst | Ghost wyatt/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Burst (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Away Pt | Ghost wyatt/Away Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Away Pt (Hollow Knight/hollow_knight_Data\level243)] |
+| Burst | Ghost wyatt/Burst (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Burst (Hollow Knight/hollow_knight_Data\level243)] |
 | Dreamnail Hit | [null] | NamedAssetPPtr: [null] |
-| Idle Pt | Ghost wyatt/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Idle Pt (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level243)] |
+| Idle Pt | Ghost wyatt/Idle Pt (Hollow Knight/hollow_knight_Data\level243) | NamedAssetPPtr: [Ghost wyatt/Idle Pt (Hollow Knight/hollow_knight_Data\level243)] |
 
 ## States
 
@@ -222,7 +222,7 @@ Enabled: true
 | --- | --- | --- | --- | --- |
 | gameObject |   | OwnerDefault FSM Owner |   |   |
 | volume |   | 1f |   |   |
-| oneShotClip |   | [dream_ghost_appear (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| oneShotClip |   | [dream_ghost_appear (AudioClip) (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 
 ##### 3. BoolTest
 

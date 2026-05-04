@@ -1,4 +1,4 @@
-﻿# Set encountered
+# Set encountered
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Set encountered |
 | GameObject Name | Hero Detector |
 | GameObject Path | Junk_Fluke_Nervous/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level423 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level423 |
 | Start State | State 1 |
 | FSM PathId | 6518 |
 | GameObject PathId | 2046 |

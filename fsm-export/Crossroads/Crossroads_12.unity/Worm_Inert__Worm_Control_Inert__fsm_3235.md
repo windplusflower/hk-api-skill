@@ -1,4 +1,4 @@
-﻿# Worm Control Inert
+# Worm Control Inert
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Worm Control Inert |
 | GameObject Name | Worm Inert |
 | GameObject Path | _Scenery/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level51 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level51 |
 | Start State | Initialise |
 | FSM PathId | 3235 |
 | GameObject PathId | 849 |

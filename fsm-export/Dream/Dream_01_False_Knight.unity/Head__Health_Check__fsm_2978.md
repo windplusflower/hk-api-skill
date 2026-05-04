@@ -1,4 +1,4 @@
-﻿# Health Check
+# Health Check
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Health Check |
 | GameObject Name | Head |
 | GameObject Path | False Knight Dream/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level395 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level395 |
 | Start State | PAUSE |
 | FSM PathId | 2978 |
 | GameObject PathId | 768 |
@@ -24,7 +24,7 @@
 
 | Name | Value | Raw/Type |
 | --- | --- | --- |
-| Body | False Knight Dream (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level395) | NamedAssetPPtr: [False Knight Dream (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level395)] |
+| Body | False Knight Dream (Hollow Knight/hollow_knight_Data\level395) | NamedAssetPPtr: [False Knight Dream (Hollow Knight/hollow_knight_Data\level395)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States

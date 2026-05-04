@@ -1,4 +1,4 @@
-﻿# Stand Control
+# Stand Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Stand Control |
 | GameObject Name | Bank Stand |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level218 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level218 |
 | Start State | Pause |
 | FSM PathId | 2595 |
 | GameObject PathId | 44 |
@@ -27,7 +27,7 @@
 | Name | Value | Raw/Type |
 | --- | --- | --- |
 | Damager | [null] | NamedAssetPPtr: [null] |
-| Dust | Bank Stand/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level218) | NamedAssetPPtr: [Bank Stand/Dust (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level218)] |
+| Dust | Bank Stand/Dust (Hollow Knight/hollow_knight_Data\level218) | NamedAssetPPtr: [Bank Stand/Dust (Hollow Knight/hollow_knight_Data\level218)] |
 | Self | [null] | NamedAssetPPtr: [null] |
 
 ## States
@@ -311,7 +311,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Damager |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -340,9 +340,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [banker_house_fall (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| audioClip |   | [banker_house_fall (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |
@@ -368,7 +368,7 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Strike Nail (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets6.assets)] |   |   |
+| gameObject |   | [Global] [Strike Nail (Hollow Knight/hollow_knight_Data\sharedassets6.assets)] |   |   |
 | spawnPoint |   | GameObject Damager |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
@@ -429,9 +429,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [banker_house_impact (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets218.assets)] |   |   |
+| audioClip |   | [banker_house_impact (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets218.assets)] |   |   |
 | pitchMin |   | 1f |   |   |
 | pitchMax |   | 1f |   |   |
 | volume |   | 1f |   |   |

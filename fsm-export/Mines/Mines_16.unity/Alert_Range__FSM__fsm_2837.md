@@ -1,4 +1,4 @@
-﻿# FSM
+# FSM
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | FSM |
 | GameObject Name | Alert Range |
 | GameObject Path | Crystal Flyer/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level258 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level258 |
 | Start State | Initialise |
 | FSM PathId | 2837 |
 | GameObject PathId | 417 |

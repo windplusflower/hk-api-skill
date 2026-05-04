@@ -1,4 +1,4 @@
-﻿# particle_cleanup
+# particle_cleanup
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | particle_cleanup |
 | GameObject Name | Bottle Glass L 2 (3) |
 | GameObject Path | ruind_dressing_light_01/Debris/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level207 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level207 |
 | Start State | Idle |
 | FSM PathId | 6344 |
 | GameObject PathId | 1670 |

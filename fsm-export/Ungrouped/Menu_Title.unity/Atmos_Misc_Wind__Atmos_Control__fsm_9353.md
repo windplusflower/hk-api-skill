@@ -1,4 +1,4 @@
-﻿# Atmos Control
+# Atmos Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Atmos Control |
 | GameObject Name | Atmos Misc Wind |
 | GameObject Path | _GameManager/AudioManager/Atmos/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Init |
 | FSM PathId | 9353 |
 | GameObject PathId | 1470 |

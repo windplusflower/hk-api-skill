@@ -1,4 +1,4 @@
-﻿# Liquid Control
+# Liquid Control
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Liquid Control |
 | GameObject Name | Liquid |
 | GameObject Path | _GameCameras/HudCamera/Hud Canvas/Soul Orb/SoulOrb_fill/ |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level1 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level1 |
 | Start State | Idle |
 | FSM PathId | 9337 |
 | GameObject PathId | 807 |

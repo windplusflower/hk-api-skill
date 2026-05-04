@@ -1,4 +1,4 @@
-﻿# Shroom Turret
+# Shroom Turret
 
 ## Summary
 
@@ -7,7 +7,7 @@
 | FSM Name | Shroom Turret |
 | GameObject Name | Mushroom Turret (1) |
 | GameObject Path |   |
-| Source Asset | D:/SteamLibrary/steamapps/common/Hollow Knight/hollow_knight_Data/level172 |
+| Source Asset | Hollow Knight/hollow_knight_Data/level172 |
 | Start State | Init |
 | FSM PathId | 3521 |
 | GameObject PathId | 751 |
@@ -26,8 +26,8 @@
 | --- | --- | --- |
 | Projectile | [null] | NamedAssetPPtr: [null] |
 | Self | [null] | NamedAssetPPtr: [null] |
-| Spawn Point | Mushroom Turret (1)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level172) | NamedAssetPPtr: [Mushroom Turret (1)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level172)] |
-| Spore Cloud | Mushroom Turret (1)/Spore Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level172) | NamedAssetPPtr: [Mushroom Turret (1)/Spore Cloud (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level172)] |
+| Spawn Point | Mushroom Turret (1)/Spawn Point (Hollow Knight/hollow_knight_Data\level172) | NamedAssetPPtr: [Mushroom Turret (1)/Spawn Point (Hollow Knight/hollow_knight_Data\level172)] |
+| Spore Cloud | Mushroom Turret (1)/Spore Cloud (Hollow Knight/hollow_knight_Data\level172) | NamedAssetPPtr: [Mushroom Turret (1)/Spore Cloud (Hollow Knight/hollow_knight_Data\level172)] |
 
 ## States
 
@@ -135,9 +135,9 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| audioPlayer |   | [Global] [Audio Player Actor (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\resources.assets)] |   |   |
+| audioPlayer |   | [Global] [Audio Player Actor (Hollow Knight/hollow_knight_Data\resources.assets)] |   |   |
 | spawnPoint |   | GameObject Self |   |   |
-| audioClip |   | [dung_defender_roll_dung_ball (AudioClip) (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets167.assets)] |   |   |
+| audioClip |   | [dung_defender_roll_dung_ball (AudioClip) (Hollow Knight/hollow_knight_Data\sharedassets167.assets)] |   |   |
 | pitchMin |   | 0.9f |   |   |
 | pitchMax |   | 1.1f |   |   |
 | volume |   | 1f |   |   |
@@ -250,8 +250,8 @@ Enabled: true
 
 | Name | Value | RawValue | UIHint | Group |
 | --- | --- | --- | --- | --- |
-| gameObject |   | [Global] [Spore Bomb (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\sharedassets167.assets)] |   |   |
-| spawnPoint |   | [Mushroom Turret (1)/Spawn Point (D:\SteamLibrary\steamapps\common\Hollow Knight\hollow_knight_Data\level172)] |   |   |
+| gameObject |   | [Global] [Spore Bomb (Hollow Knight/hollow_knight_Data\sharedassets167.assets)] |   |   |
+| spawnPoint |   | [Mushroom Turret (1)/Spawn Point (Hollow Knight/hollow_knight_Data\level172)] |   |   |
 | position |   | Vector3(0, 0, 0) |   |   |
 | rotation |   | Vector3(0, 0, 0) |   |   |
 | storeObject |   | GameObject Projectile | Variable |   |
