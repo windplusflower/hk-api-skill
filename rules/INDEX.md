@@ -104,7 +104,7 @@ If still ambiguous, prefer the more specific rule.
 **添加游戏内设置菜单**
 → [Code Patterns](development/code-patterns.md) - 搜索 `Menu`
 
-**从空目录创建 Mod 模板**
+**从空目录创建 Mod 模板 / 构建系统**
 → [Template Bootstrap](development/mod-template-bootstrap.md) → [Best Practices](development/best-practices.md)
 
 **优化资源加载**

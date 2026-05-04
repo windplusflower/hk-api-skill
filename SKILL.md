@@ -109,6 +109,16 @@ When working on Hollow Knight mods, treat logging as part of the API contract:
 3. **Log file priority**: when investigating a mod issue, check `ModLog.txt` first, then use `Player.log` only as a supplemental Unity/game trace.
 4. **Common ModLog location**: `Application.persistentDataPath` maps on this machine to `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight`, so the usual file is `C:\Users\33361\AppData\LocalLow\Team Cherry\Hollow Knight\ModLog.txt`.
 
+## Build & Dependency Rules
+
+When bootstrapping a new Hollow Knight mod project:
+
+1. Prefer real DLLs already present on the user's machine.
+2. On a machine where HK Modding API is already installed into the game, treat `Managed/Assembly-CSharp.dll` as the modded assembly that also provides the Modding API surface.
+3. Do not assume there is a separate `Modding.dll` unless the user or repository proves that layout.
+4. Keep machine-specific paths in a local untracked config file such as `LocalBuildProperties.props`.
+5. Normal builds should auto-install the mod output and generated zip into `Managed/Mods/<ModName>`.
+
 ## Gameplay Input Rules
 
 When a Hollow Knight modding task depends on current gameplay input:
@@ -198,7 +208,7 @@ The command creates a source-backed note and logs to `EVOLUTION_LOG.md`. Low-ris
 | [Best Practices](rules/development/best-practices.md) | 最佳实践和技巧 |
 | [Template Bootstrap](rules/development/mod-template-bootstrap.md) | 从空目录创建 HK Mod 模板 |
 
-Template bootstrap rule: once user machine `GameDir` is known and verified, prefer writing it directly into `.csproj` instead of requiring `-p:GameDir` each build.
+Template bootstrap rule: for new mod projects, keep machine-specific DLL and game paths in a local untracked config file such as `LocalBuildProperties.props`, prefer resolving references against real DLLs already present on the user's machine, ask when any required DLL cannot be found, and make normal builds auto-install the mod output plus zip into `Managed/Mods/<ModName>`.
 
 ## Key Classes Quick Reference
 
