@@ -162,7 +162,7 @@ python3 scripts/evolution_record.py \
   --risk low
 ```
 
-The command creates an entry in `rules/_pending/` and logs to `EVOLUTION_LOG.md`. Low-risk entries are auto-appended to the target rule file.
+The command creates a source-backed note and logs to `EVOLUTION_LOG.md`. Low-risk entries go to `rules/evolution-notes/` and are auto-appended to the target rule file. High-risk entries stay in `rules/_pending/` until confirmed.
 
 ## Rule Categories
 

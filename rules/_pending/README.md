@@ -1,8 +1,8 @@
 # Pending Evolution Notes
 
-This directory stores staged knowledge updates generated after fallback source research.
+This directory stores only high-risk knowledge updates that still need manual review.
 
-- Low-risk updates are also appended directly to the target rule file.
+- Low-risk updates do not belong here; they are archived under `rules/evolution-notes/` after being applied to the target rule file.
 - High-risk updates stay pending until manually reviewed.
 
 Each pending file includes:

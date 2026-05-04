@@ -11,13 +11,12 @@ Evolution is required when both are true:
 1. `rules/**` does not contain enough information to answer correctly.
 2. The answer depends on source-level findings from `hkapi/**`.
 
-## Two-Stage Update Strategy
+## Note Types
 
-1. Create a pending evolution note in `rules/_pending/`.
-2. Apply directly to the target rule file only when risk is `low`.
-3. Keep pending-only for `high` risk until user confirms.
+1. `low` risk: create an archive note in `rules/evolution-notes/` and apply directly to the target rule file.
+2. `high` risk: create a pending review note in `rules/_pending/` and wait for user confirmation before editing formal rules.
 
-This gives fast learning for safe additions and review gates for conceptual changes.
+This keeps `_pending` semantically strict while preserving source-backed learning notes for applied changes.
 
 ## Record Command
 
@@ -32,7 +31,8 @@ python scripts/evolution_record.py \
 
 ## Output Locations
 
-- Pending notes: `rules/_pending/*.md`
+- Applied low-risk notes: `rules/evolution-notes/*.md`
+- Pending high-risk notes: `rules/_pending/*.md`
 - Evolution log: `EVOLUTION_LOG.md`
 - Auto-applied rule updates: target file from `--target` when `--risk low`
 

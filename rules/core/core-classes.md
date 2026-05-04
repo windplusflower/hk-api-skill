@@ -230,3 +230,13 @@ GameCameras.instance.tk2dCam.ZoomFactor = 0.82f;
 // Hook camera update
 On.CameraController.LateUpdate += CameraLateUpdateHook;
 ```
+
+### Fallback Learning (2026-05-01)
+<!-- evolution:4e5af439e9d5 -->
+- Question: How can an HK mod derive the hero feet line for aura placement?
+- Facts:
+  - HeroController caches Rigidbody2D, Collider2D, Transform, and MeshRenderer directly from the hero GameObject during setup.
+  - Mods can read HeroController.instance.gameObject collider and renderer bounds directly to derive hero feet and visible height without searching child objects.
+- Sources:
+  - `hkapi/HeroController.cs:4504`
+  - `hkapi/HeroController.cs:4508`

@@ -1,8 +1,9 @@
-# Pending Evolution - 2026-04-11 06:58:28
+# Evolution Note - 2026-04-11 06:58:28
 
 - Question: 修复 SpellDetectAction 法术方向判定时，HK mod 应该读取哪个输入系统
 - Target: `rules/systems/spell-system.md`
 - Risk: `low`
+- Status: `applied to target rule`
 - Marker: `<!-- evolution:3990162f446c -->`
 
 ## Learned Facts

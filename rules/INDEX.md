@@ -156,6 +156,8 @@ hk-api-skill/
 │   ├── libraries/
 │   │   ├── satchel.md
 │   │   └── satchel-src-index.md
+│   ├── evolution-notes/
+│   │   └── README.md
 │   └── _pending/
 │       └── README.md
 ├── EVOLUTION.md

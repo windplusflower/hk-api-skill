@@ -51,7 +51,7 @@ def ensure_log_header(log_path: Path) -> None:
     )
 
 
-def build_pending_doc(
+def build_note_doc(
     now: dt.datetime,
     question: str,
     target_rel: str,
@@ -60,12 +60,15 @@ def build_pending_doc(
     sources: list[str],
     marker: str,
 ) -> str:
+    heading = "Pending Evolution" if risk == "high" else "Evolution Note"
+    status = "pending review" if risk == "high" else "applied to target rule"
     lines = [
-        f"# Pending Evolution - {now.strftime('%Y-%m-%d %H:%M:%S')}",
+        f"# {heading} - {now.strftime('%Y-%m-%d %H:%M:%S')}",
         "",
         f"- Question: {question}",
         f"- Target: `{target_rel}`",
         f"- Risk: `{risk}`",
+        f"- Status: `{status}`",
         f"- Marker: `{marker}`",
         "",
         "## Learned Facts",
@@ -115,7 +118,7 @@ def append_log(
     question: str,
     target_rel: str,
     risk: str,
-    pending_rel: str,
+    note_rel: str,
     applied: bool,
 ) -> None:
     status = "applied" if applied else "pending"
@@ -124,7 +127,7 @@ def append_log(
         f"- question: {question}",
         f"- target: `{target_rel}`",
         f"- risk: `{risk}`",
-        f"- pending_note: `{pending_rel}`",
+        f"- note: `{note_rel}`",
         f"- status: `{status}`",
         "",
     ]
@@ -151,12 +154,13 @@ def main() -> int:
 
     marker = make_marker(target_rel, args.question, args.fact, args.source)
 
-    pending_dir = repo_root / "rules" / "_pending"
-    pending_name = f"{now.strftime('%Y%m%d_%H%M%S')}_{slugify(args.question)[:60]}.md"
-    pending_path = pending_dir / pending_name
-    pending_rel = pending_path.relative_to(repo_root).as_posix()
+    note_dir_name = "_pending" if args.risk == "high" else "evolution-notes"
+    note_dir = repo_root / "rules" / note_dir_name
+    note_name = f"{now.strftime('%Y%m%d_%H%M%S')}_{slugify(args.question)[:60]}.md"
+    note_path = note_dir / note_name
+    note_rel = note_path.relative_to(repo_root).as_posix()
 
-    pending_doc = build_pending_doc(
+    note_doc = build_note_doc(
         now,
         args.question,
         target_rel,
@@ -165,7 +169,7 @@ def main() -> int:
         args.source,
         marker,
     )
-    write_text(pending_path, pending_doc)
+    write_text(note_path, note_doc)
 
     applied = False
     if args.risk == "low":
@@ -186,11 +190,11 @@ def main() -> int:
         args.question,
         target_rel,
         args.risk,
-        pending_rel,
+        note_rel,
         applied,
     )
 
-    print(f"pending note: {pending_rel}")
+    print(f"note: {note_rel}")
     print(f"rule updated: {'yes' if applied else 'no'}")
     return 0
 
