@@ -13,6 +13,41 @@ tags: hk-api, hooks, on-hooks, modhooks, il-hooks
 
 ## Hook 类型
 
+## Hook 前置引用要求
+
+在 Hollow Knight mod 项目里，以下 Hook 并不是只靠 `Assembly-CSharp.dll` 就能编译：
+
+- `On.PlayMakerFSM.*`
+- `On.<Assembly-CSharp class>.*`
+- `IL.PlayMakerFSM.*`
+- `IL.<Assembly-CSharp class>.*`
+
+如果项目需要这些 Hook，最少要确认 `.csproj` 已引用：
+
+1. `PlayMaker.dll`
+   - 提供 `HutongGames.PlayMaker.PlayMakerFSM`
+2. `MMHOOK_PlayMaker.dll`
+   - 提供 `On.PlayMakerFSM.*`
+3. `MMHOOK_Assembly-CSharp.dll`
+   - 提供 `On.HeroController.*`、`On.HitTaker.*` 等游戏类 Hook
+4. `MonoMod.Utils.dll`
+   - MMHOOK 常见伴随依赖
+
+典型 `HintPath` 来源：
+
+- `$(HKManagedDir)\PlayMaker.dll`
+- `$(HKManagedDir)\MMHOOK_PlayMaker.dll`
+- `$(HKManagedDir)\MMHOOK_Assembly-CSharp.dll`
+- `$(HKManagedDir)\MonoMod.Utils.dll`
+
+如果编译时报：
+
+- `找不到 PlayMakerFSM`
+- `找不到 On`
+- `找不到 On.PlayMakerFSM`
+
+先检查 `.csproj` 是否缺少这些 DLL 引用，而不是先改业务代码。
+
 ### On.Hooks
 
 拦截并调用原始方法：

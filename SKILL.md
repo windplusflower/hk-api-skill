@@ -1,6 +1,6 @@
 ---
 name: hk-api
-description: Proactively use this whenever the user mentions Hollow Knight or HK modding, or when the current repository appears to be a Hollow Knight mod project. Covers FSM hooks, PlayMakerFSM, HeroController, PlayerData, charms, spells, scene objects, game mechanics, and API implementation lookup.
+description: Proactively use this whenever the user mentions Hollow Knight or HK modding, or when the current repository appears to be a Hollow Knight mod project. Covers FSM hooks, PlayMakerFSM, HeroController, PlayerData, charms, spells, scene objects, game mechanics, API implementation lookup, and custom C# state machine patterns including RingLib.
 compatibility: opencode
 ---
 
@@ -14,9 +14,11 @@ compatibility: opencode
 
 **有具体 Boss / 场景？** 先看 [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv)，再按需打开 [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md) 和 [fsm-index/scene-summary.md](fsm-index/scene-summary.md)。
 
+**要做自定义状态机？** 先看 [rules/libraries/ringlib.md](rules/libraries/ringlib.md) 和 [rules/libraries/ringlib-src-index.md](rules/libraries/ringlib-src-index.md)。
+
 ## Overview
 
-This skill provides Hollow Knight API knowledge, source-code lookup, and local FSM dataset lookup for modding tasks.
+This skill provides Hollow Knight API knowledge, source-code lookup, local FSM dataset lookup, and custom C# state machine guidance for modding tasks.
 
 ## Proactive Trigger Rules
 
@@ -49,6 +51,7 @@ When triggered, load this skill before answering so you can use the rules, FSM d
 3. Locate FSM instances, states, actions, transitions, and events from the bundled `fsm-export/` dataset.
 4. Explain how source code and FSM behavior connect in actual modding work.
 5. Provide implementation patterns and caveats for HK mods.
+6. Recommend when to keep using PlayMaker FSM hooks versus when to build a custom C# state machine with `RingLib`.
 
 ## When to Use
 
@@ -61,6 +64,32 @@ When triggered, load this skill before answering so you can use the rules, FSM d
 - Finding states, actions, events, or transitions for a boss / NPC / UI flow
 - Solving API-related or FSM-related issues in mod development
 - Bootstrapping a new HK mod template from an empty directory
+- Designing a Boss / enemy / projectile behavior system that is too large or awkward for ad-hoc FSM patching
+
+## Custom State Machine Selection
+
+When a Hollow Knight modding task involves behavior orchestration, choose the approach deliberately instead of defaulting to one tool.
+
+Prefer existing PlayMaker FSM modification when:
+
+- the target behavior already exists in a game FSM and only needs a small patch
+- the task is a state edit, transition redirect, inserted action, or variable tweak
+- the object lifecycle is still mostly owned by the original game object and FSM
+
+Prefer a custom C# state machine with `RingLib` when:
+
+- creating a brand new Boss, enemy, projectile controller, or multi-phase encounter flow
+- the behavior needs many explicit states, waits, chained sequences, or interrupt rules
+- using plain `Update()` / `switch` code would become large and hard to maintain
+- multiple child routines or staged attacks need to be expressed in readable coroutine form
+- the mod is effectively taking control away from the original FSM instead of lightly patching it
+
+`RingLib` should be treated as the default in-skill recommendation for custom C# state machines in HK mods, but it remains an optional source dependency rather than a mandatory template dependency.
+
+For implementation details, see:
+
+- [rules/libraries/ringlib.md](rules/libraries/ringlib.md)
+- [rules/libraries/ringlib-src-index.md](rules/libraries/ringlib-src-index.md)
 
 ## Important: FSM Lookup Workflow
 
@@ -207,6 +236,15 @@ The command creates a source-backed note and logs to `EVOLUTION_LOG.md`. Low-ris
 | [Resource Management](rules/development/resources.md) | 资源加载和管理 |
 | [Best Practices](rules/development/best-practices.md) | 最佳实践和技巧 |
 | [Template Bootstrap](rules/development/mod-template-bootstrap.md) | 从空目录创建 HK Mod 模板 |
+
+### Libraries（第三方库）
+
+| 文档 | 用途 |
+|------|------|
+| [RingLib](rules/libraries/ringlib.md) | 自定义 C# 协程状态机的选型、接入方式与 HK mod 用法 |
+| [RingLib Source Index](rules/libraries/ringlib-src-index.md) | `RingLib` 内置源码索引 |
+| [Satchel](rules/libraries/satchel.md) | `Satchel` 工具库 |
+| [Satchel Source Index](rules/libraries/satchel-src-index.md) | `Satchel` 源代码索引 |
 
 Template bootstrap rule: for new mod projects, keep machine-specific DLL and game paths in a local untracked config file such as `LocalBuildProperties.props`, prefer resolving references against real DLLs already present on the user's machine, ask when any required DLL cannot be found, and make normal builds auto-install the mod output plus zip into `Managed/Mods/<ModName>`.
 

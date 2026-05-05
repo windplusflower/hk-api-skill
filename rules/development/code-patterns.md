@@ -22,7 +22,7 @@ tags: hk-api, code-patterns, fsm, hooks, object-pooling
 
 本文档整理了常见的代码模式和最佳实践。
 
-**注意**：本文档只包含通用的、不依赖第三方库的模式。
+**注意**：本文档主要包含通用模式。若任务已经明确需要自定义 C# 状态机，可转到 [RingLib](../libraries/ringlib.md)。
 
 **FSM 相关操作**：详细的 FSM 操作示例请参考 [FSM Reference](../core/fsm-reference.md#代码示例)。
 
@@ -37,6 +37,7 @@ tags: hk-api, code-patterns, fsm, hooks, object-pooling
 | FSM Custom Action | 创建自定义 FSM 动作 | 见下方详细说明 |
 | FSM Event Triggering | 触发 FSM 事件来取消或重定向状态流 | `fsm.SendEvent("CANCEL")` |
 | FSM Variable Access | 访问和修改 FSM 浮点变量 | `fsm.GetFloat("variableName")` |
+| RingLib State Machine | 用 C# 协程状态机组织复杂 Boss / 敌人 / 子弹逻辑 | 见下方详细说明 |
 | **对象管理** | | |
 | Object Pooling | 使用 Queue<T> 进行对象池管理 | 见下方详细说明 |
 | Component Attachment | 添加自定义 MonoBehaviour 组件 | `gameObject.AddComponent<T>()` |
@@ -97,6 +98,64 @@ fsm.ChangeTransition("State", "Event", "NewTargetState");
 ```
 
 **详细示例**：完整的 FSM 操作示例请参考 [FSM Reference](../core/fsm-reference.md#代码示例)。
+
+### 自定义状态机选型
+
+当需求是“改已有游戏流程”，优先考虑 PlayMaker FSM 修改。
+
+当需求是下面这类情况时，应主动想到 `RingLib`：
+
+- 新建 Boss / 敌人 / 子弹控制器
+- 多阶段攻击循环
+- 明确的状态切换和打断逻辑
+- 需要大量 `wait -> action -> next state` 链式流程
+- 用普通 `Update()` + `switch` 会快速膨胀
+
+简单判断规则：
+
+- **小改现有对象**：优先 `PlayMakerFSM`
+- **新建复杂行为层**：优先 `RingLib`
+
+参考： [RingLib](../libraries/ringlib.md)
+
+### RingLib State Machine
+
+`RingLib` 是当前 skill 推荐的自定义 C# 状态机方案，适合 HK mod 里的复杂行为组织。
+
+最常见用法：
+
+```csharp
+public class MyEnemyStateMachine : EntityStateMachine
+{
+    public MyEnemyStateMachine()
+        : base(
+            startState: nameof(Idle),
+            globalTransitions: new Dictionary<Type, string>(),
+            terrainLayer: "Terrain",
+            epsilon: 0.02f,
+            horizontalCornerCorrection: false,
+            spriteFacingLeft: true
+        ) { }
+
+    [State]
+    private IEnumerator<Transition> Idle()
+    {
+        yield return new WaitFor { Seconds = 0.3f };
+        yield return new ToState { State = nameof(Attack) };
+    }
+
+    [State]
+    private IEnumerator<Transition> Attack()
+    {
+        yield return new NoTransition();
+    }
+}
+```
+
+更完整的接入说明与源码入口：
+
+- [RingLib](../libraries/ringlib.md)
+- [RingLib Source Index](../libraries/ringlib-src-index.md)
 
 ### 对象池模式
 

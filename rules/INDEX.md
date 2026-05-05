@@ -72,6 +72,8 @@ If still ambiguous, prefer the more specific rule.
 |------|------|
 | [Satchel](libraries/satchel.md) | `Satchel` 工具库（BetterMenus / FUtils / 自定义 UI） |
 | [Satchel Source Index](libraries/satchel-src-index.md) | `Satchel` 源代码索引 |
+| [RingLib](libraries/ringlib.md) | 协程状态机源码库的定位、接入方式与 HK mod 用法 |
+| [RingLib Source Index](libraries/ringlib-src-index.md) | `RingLib` 内置源码索引 |
 
 ## 按任务查找
 
@@ -106,6 +108,9 @@ If still ambiguous, prefer the more specific rule.
 
 **从空目录创建 Mod 模板 / 构建系统**
 → [Template Bootstrap](development/mod-template-bootstrap.md) → [Best Practices](development/best-practices.md)
+
+**用 C# 协程状态机组织 Boss / 敌人逻辑**
+→ [RingLib](libraries/ringlib.md) → [RingLib Source Index](libraries/ringlib-src-index.md)
 
 **优化资源加载**
 → [Resource Management](development/resources.md) → [Preload Names](core/preload-names.md)
@@ -155,14 +160,18 @@ hk-api-skill/
 │   │   └── mod-template-bootstrap.md
 │   ├── libraries/
 │   │   ├── satchel.md
-│   │   └── satchel-src-index.md
+│   │   ├── satchel-src-index.md
+│   │   ├── ringlib.md
+│   │   └── ringlib-src-index.md
 │   ├── evolution-notes/
 │   │   └── README.md
 │   └── _pending/
 │       └── README.md
 ├── EVOLUTION.md
 ├── EVOLUTION_LOG.md
-└── hkapi/
+├── hkapi/
+└── third_party/
+    └── RingLib/
 ```
 
 ## 使用提示

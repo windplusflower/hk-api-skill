@@ -60,6 +60,7 @@ MyMod/
 - 只有当 mod 确实需要基于协程的自定义状态机、复杂阶段流转、或希望用 RingLib 管理行为状态时，才应把它加入项目。
 - 普通 Hook、FSM 修改、简单菜单、基础数据保存、基础预加载等模板场景，不需要为了“以后可能会用”而预先接入 RingLib。
 - 如果用户只是说“先建一个新 mod 项目”，默认不要创建 RingLib 依赖、引用、示例代码或目录。
+- 如果用户明确需要 RingLib，再参考 `rules/libraries/ringlib.md` 中的源码依赖与接入方式，而不是假设存在现成 DLL。
 
 ## 本地配置层设计
 
@@ -121,6 +122,44 @@ LocalBuildProperties.props
 - 找不到时不要瞎猜最终 `HintPath`，必须停下来问用户。
 - 问到用户提供路径后，应把这类“本机依赖位置”沉淀到本地配置模板说明，而不是写死到项目主 `.csproj`。
 - 如果依赖来自其他 mod，例如 `Satchel.dll`，优先从已安装的 `Managed/Mods/<Dependency>/` 查找。
+
+### PlayMaker / MMHOOK / Unity 模块最小完整引用集
+
+当项目会直接使用以下任一能力时：
+
+- `HutongGames.PlayMaker.PlayMakerFSM`
+- `On.PlayMakerFSM.*`
+- `On.<GameClass>.*` detour hook
+- `BoxCollider2D`、`Rigidbody2D`、`Collider`、`AudioSource` 等模块化 Unity API
+
+不要只引用 `Assembly-CSharp.dll`、`UnityEngine.dll`、`UnityEngine.CoreModule.dll`。应至少补齐以下真实 DLL：
+
+1. `PlayMaker.dll`
+   - 提供 `PlayMakerFSM`、FSM 变量类型和 PlayMaker 核心 API。
+2. `MMHOOK_Assembly-CSharp.dll`
+   - 提供 `On.<Assembly-CSharp class>` 和 `IL.<Assembly-CSharp class>` hook 入口。
+3. `MMHOOK_PlayMaker.dll`
+   - 提供 `On.PlayMakerFSM.*` 和 `IL.PlayMakerFSM.*` hook 入口。
+4. `MonoMod.Utils.dll`
+   - MMHOOK 常见伴随依赖；很多 detour 项目应一并引用。
+5. `UnityEngine.AudioModule.dll`
+   - 直接使用 `AudioSource`、音频组件时需要。
+6. `UnityEngine.PhysicsModule.dll`
+   - 直接使用 `Collider`、`Rigidbody` 等 3D 物理 API 时需要。
+7. `UnityEngine.Physics2DModule.dll`
+   - 直接使用 `BoxCollider2D`、`Rigidbody2D`、`Collider2D` 等 2D 物理 API 时需要。
+
+本机典型路径：
+
+- `$(HKManagedDir)\PlayMaker.dll`
+- `$(HKManagedDir)\MMHOOK_Assembly-CSharp.dll`
+- `$(HKManagedDir)\MMHOOK_PlayMaker.dll`
+- `$(HKManagedDir)\MonoMod.Utils.dll`
+- `$(HKManagedDir)\UnityEngine.AudioModule.dll`
+- `$(HKManagedDir)\UnityEngine.PhysicsModule.dll`
+- `$(HKManagedDir)\UnityEngine.Physics2DModule.dll`
+
+如果用户给出的项目示例能编译，而当前项目不能，优先先比对 `.csproj` 引用差异，不要先怀疑 API 不存在。
 
 ### 推荐的引用方式
 

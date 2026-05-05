@@ -117,6 +117,25 @@ private IEnumerator<Transition> Choose() {
 }
 ```
 
+### 6.1 状态机选型原则
+
+- 修改 Hollow Knight 现有对象的小范围行为时，优先保留并修改原 `PlayMakerFSM`
+- 当任务变成“自己管理一个复杂行为系统”时，应优先考虑 `RingLib`，而不是继续堆叠 `Update()` / `switch` / 多个零散协程
+- 特别是新 Boss、新敌人、新子弹控制器、多阶段技能循环、复杂打断逻辑，默认都应先评估 `RingLib`
+
+### 6.2 何时主动想到 RingLib
+
+出现以下信号时，使用这个 skill 的 AI 应主动检查 `rules/libraries/ringlib.md`：
+
+1. 用户明确说“自定义状态机”
+2. 用户要实现全新 Boss / 敌人 / projectile 行为流
+3. 逻辑包含大量等待、阶段切换、并行子流程、受击打断
+4. 方案如果不用状态机，就会演变成臃肿的 `Update()` / `switch`
+
+`RingLib` 在本 skill 中应被视为 HK mod 自定义 C# 状态机的首选参考实现，但它仍然是按需引入的源码依赖，不是模板默认依赖。
+
+参考： [RingLib](../libraries/ringlib.md)
+
 ## 7. 日志最佳实践
 
 ```csharp
