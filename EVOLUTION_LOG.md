@@ -31,3 +31,15 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - note: `rules/evolution-notes/20260505_082810_how-should-i-rename-vengefly-king-displays-in-godhome-and-wh.md`
 - status: `applied`
+## 2026-05-05 12:33:27
+- question: Why can a full-source RingLib state machine component mount successfully but never enter its first state?
+- target: `rules/development/code-patterns.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260505_123327_why-can-a-full-source-ringlib-state-machine-component-mount-.md`
+- status: `applied`
+## 2026-05-05 13:04:54
+- question: What is the correct RingLib integration pattern for HK boss state machines, and what common misuse should be avoided?
+- target: `rules/libraries/ringlib.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260505_130454_what-is-the-correct-ringlib-integration-pattern-for-hk-boss-.md`
+- status: `applied`

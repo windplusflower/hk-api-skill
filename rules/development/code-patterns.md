@@ -152,6 +152,19 @@ public class MyEnemyStateMachine : EntityStateMachine
 }
 ```
 
+完整源码集成 `RingLib` 时，还要注意一个非常容易漏掉的约束：
+
+- `RingLib.StateMachine.StateCollector` 只会收集带 `[State]` 特性的实例方法。
+- 仅仅把方法写成 `private IEnumerator<Transition> Intro()` / `Idle()` / `Attack()` 不够；如果忘了 `[State]`，该方法不会进入状态表。
+- 典型症状是：`AddComponent<YourStateMachine>()` 成功、初始化日志出现，但始终没有进入首状态，看起来像“mod 没生效”。
+
+排查顺序建议：
+
+1. 确认状态机组件确实挂到目标对象上。
+2. 确认 `StartState` 名称与方法名完全一致。
+3. 确认每个目标状态方法都显式标了 `[State]`。
+4. 如果仍未进入状态，再查 `StateCollector` 是否因为反射范围、程序集边界或命名冲突漏收集。
+
 更完整的接入说明与源码入口：
 
 - [RingLib](../libraries/ringlib.md)
@@ -730,3 +743,15 @@ public class WaterPhysics : MonoBehaviour {
   - `hkapi/tk2dBaseSprite.cs:223`
   - `hkapi/tk2dSpriteAnimationFrame.cs:50`
   - `hkapi/tk2dSpriteAnimationFrame.cs:53`
+
+### Fallback Learning (2026-05-05)
+<!-- evolution:8dc181cb2914 -->
+- Question: Why can a full-source RingLib state machine component mount successfully but never enter its first state?
+- Facts:
+  - RingLib.StateMachine.StateCollector only collects instance methods marked with the [State] attribute; a method with IEnumerator<Transition> signature alone is not enough.
+  - If the component is added and initialization logs appear but no state-entry logs appear, first verify that every intended state method has the [State] attribute.
+  - In full source integration, a missing [State] attribute can make runtime behavior look like the mod did nothing even though the component was mounted successfully.
+- Sources:
+  - `RingLib/StateMachine/StateCollector.cs:31`
+  - `RingLib/StateMachine/StateCollector.cs:33`
+  - `RingLib/StateMachine/StateCollector.cs:54`

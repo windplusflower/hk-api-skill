@@ -136,6 +136,17 @@ private IEnumerator<Transition> Choose() {
 
 参考： [RingLib](../libraries/ringlib.md)
 
+### 6.3 RingLib 接管模式最佳实践
+
+- 对 HK 里的 Boss / 敌人主行为接管，默认优先 `EntityStateMachine`，不要先入为主地选裸 `StateMachine`。
+- 外部入口（如 `On.PlayMakerFSM.OnEnable`）通常只负责命中目标并 `AddComponent<YourStateMachine>()`。
+- 宿主依赖抓取、旧 FSM 资源提取、`oldFsm.enabled = false`、Intro 运行前提准备，优先放在 `EntityStateMachineStart()` 里完成。
+- 不要默认把主接管路径拆成“外部控制器 `Initialize(...)` 一半，再由状态机继续接手”；这种结构更容易出现初始化顺序错误和原 FSM / 新状态机并行运行。
+- 如果状态机已经挂上，但表现像“完全没接管”，优先检查：
+  - 状态方法是否缺 `[State]`
+  - 旧 FSM 是否仍在并行运行
+  - 状态机的关键初始化是不是被放在外部而不是 `EntityStateMachineStart()`
+
 ## 7. 日志最佳实践
 
 ```csharp

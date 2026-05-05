@@ -144,6 +144,40 @@ RingLib 用返回值而不是回调来描述状态推进。
 
 实现参考：`third_party/RingLib/StateMachine/EntityStateMachine.cs`
 
+### 5.1 HK Boss / Enemy 的推荐接入模式
+
+对 Hollow Knight 里的 Boss / 敌人主行为，推荐默认优先使用 `EntityStateMachine`，而不是裸 `StateMachine`，前提是宿主本来就是实体对象并且你需要其中任一能力：
+
+- `Rigidbody2D`
+- `BoxCollider2D`
+- `Position` / `Velocity`
+- `Direction()` / `Turn()`
+- 依赖实体朝向、移动、碰撞缓存的状态逻辑
+
+更关键的是接入方式：
+
+- **外部入口**（例如 `On.PlayMakerFSM.OnEnable`、场景初始化 Hook）应尽量只负责命中目标并 `AddComponent<YourStateMachine>()`
+- **状态机自身**应在 `EntityStateMachineStart()` 里完成宿主初始化、引用抓取、旧 FSM 停用、资源准备等工作
+- 不要默认把“抓控制器引用 + 禁旧 FSM + 初始化运行依赖”拆成一个自定义外部 `Initialize(...)` 再寄希望于状态机随后自然接管
+
+`MossBeast` 的主模式就是这样：
+
+1. 外部入口命中目标对象
+2. `AddComponent<MossBeastStateMachine>()`
+3. `EntityStateMachineStart()` 中抓组件、提取旧 FSM 资源、`oldFsm.enabled = false`
+4. 然后状态机自然进入首状态
+
+这个模式通常比“外部控制器先做半套初始化，状态机再被动接手”更稳，因为它能减少以下竞态：
+
+- 控制器已经启动，但状态机还没准备好
+- 旧 PlayMaker FSM 和新 RingLib 状态机短时间并行运行
+- 外部 `Initialize(...)` 漏调、早调或依赖顺序错误
+
+简单判断：
+
+- **主行为接管 Boss / 敌人宿主**：优先 `EntityStateMachine` + `EntityStateMachineStart()`
+- **简单非实体协程流程**：可以用裸 `StateMachine`
+
 ### 6. 工具类
 
 - `GameObjectExtension`：在对象树里广播 RingLib 事件
@@ -281,6 +315,24 @@ enemy.AddComponent<MyEnemyStateMachine>();
 
 状态机会在 Unity `Update()` 中自动启动并推进，不需要你手动调用 `StartCoroutine`。
 
+对于 HK 里“接管现有 Boss / 敌人对象”的典型模式，外部入口通常只需要：
+
+```csharp
+if (target.GetComponent<MyBossStateMachine>() == null)
+{
+    target.AddComponent<MyBossStateMachine>();
+}
+```
+
+随后由 `EntityStateMachineStart()` 完成：
+
+- 抓 `HealthManager` / `tk2dSpriteAnimator` / `PlayMakerFSM`
+- 读取旧 FSM 中需要复用的资源或变量
+- `oldFsm.enabled = false`
+- 准备 Intro 所需的运行前提
+
+除非你有明确理由，否则不要把这套启动职责默认拆成外部 `Initialize(...)`。
+
 ## 事件模型
 
 RingLib 有一套轻量事件系统，可以用来做“当前状态内事件消费”或“全局跳转”。
@@ -344,6 +396,8 @@ public MyEnemyStateMachine()
 - 构造函数里声明起始状态和碰撞参数
 - `EntityStateMachineStart()` 中做资源、组件、音频、旧 FSM 接管初始化
 - 每个 Boss 技能 / 阶段都拆成 `[State]` 方法
+
+这一段应该被视为 `hk-api` 对 RingLib 的首选接入范式，而不是仅仅一个示例项目习惯。
 
 参考文件：
 
@@ -423,3 +477,17 @@ RingLib 不替代 HK 原生 PlayMaker FSM，它更像是：
 - `../MossBeast/MossBeastStateMachine.cs`
 - `../MossBeast/States/IntroState.cs`
 - `../MossBeast/States/Choose.cs`
+
+### Fallback Learning (2026-05-05)
+<!-- evolution:cf6f07cb38c1 -->
+- Question: What is the correct RingLib integration pattern for HK boss state machines, and what common misuse should be avoided?
+- Facts:
+  - For HK boss or enemy main behavior, the preferred RingLib pattern is to add the state machine component from the hook/entry point and let the state machine initialize itself in EntityStateMachineStart().
+  - In MossBeast, the external entry point mainly does AddComponent<...StateMachine>(); old FSM shutdown and dependency capture happen inside EntityStateMachineStart(), not through a custom external Initialize(...) call.
+  - When replacing an existing PlayMaker boss FSM, disabling the old FSM inside EntityStateMachineStart() is more robust than splitting initialization between an external controller and the state machine.
+  - Use plain StateMachine only for simpler non-entity behavior; for boss or enemy hosts that need Rigidbody2D, BoxCollider2D, Position, Velocity, Direction(), or Turn(), prefer EntityStateMachine.
+- Sources:
+  - `../MossBeast/MossBeast.cs:210`
+  - `../MossBeast/MossBeastStateMachine.cs:55`
+  - `../MossBeast/MossBeastStateMachine.cs:82`
+  - `../MossBeast/RingLib/StateMachine/EntityStateMachine.cs:62`
