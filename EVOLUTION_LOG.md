@@ -25,3 +25,9 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - note: `rules/evolution-notes/20260501_155407_how-can-an-hk-mod-derive-the-hero-feet-line-for-aura-placeme.md`
 - status: `applied`
+## 2026-05-05 08:28:10
+- question: How should I rename Vengefly King displays in Godhome and where can I verify localization keys?
+- target: `rules/systems/game-modification-patterns.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260505_082810_how-should-i-rename-vengefly-king-displays-in-godhome-and-wh.md`
+- status: `applied`

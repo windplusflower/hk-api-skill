@@ -266,6 +266,13 @@ ModHooks.LanguageGetHook += ModifyBossName;
 - ✅ 使用 `.Localize()` 支持多语言
 - ✅ Boss Key 需要查阅游戏文本文件
 
+### Godhome Vengefly 备注
+
+- `GG_Vengefly.unity` 的 Godhome 反击蝇之王主对象链路已确认是 `Giant_Buzzer_Col / Big Buzzer`，而 `Vengefly King` 是游戏显示名，不是主 `GameObject` 名。
+- 神居雕像挑战界面的名称显示链路可从 `GG_Workshop -> GG_Statue_Vengefly/Inspect -> GG Boss UI` 追踪，`ShowBossChallengeUI` 会把 `bossNameSheet` / `bossNameKey` 传给 `BossChallengeUI.Setup(...)`。
+- 因此修改 Godhome 反击蝇之王显示名时，优先使用 `ModHooks.LanguageGetHook`，而不是依赖场景内临时字符串覆盖。
+- 技能内置了一个可查语言键值的参考表：`data/gameDic.json`。需要核对 Boss 名、sheet、key 或原始文本时，优先用这个内置数据源，而不是依赖工作区外部文件路径。
+
 ### 通用性评估
 
 **⭐⭐⭐⭐⭐** - 适用于任何需要修改文本的 Mod
@@ -642,3 +649,18 @@ public override void Initialize(
 | 预加载管理 | ⭐⭐⭐⭐⭐ | 低 | 资源管理 |
 
 **所有模式都基于游戏自带系统**，不依赖 Mod 自定义框架，可直接用于任何 HK Mod 开发。
+
+### Fallback Learning (2026-05-05)
+<!-- evolution:506ba52af36e -->
+- Question: How should I rename Vengefly King displays in Godhome and where can I verify localization keys?
+- Facts:
+  - Godhome Vengefly challenge UI uses ShowBossChallengeUI and passes bossNameSheet/bossNameKey into BossChallengeUI.Setup, so display-name overrides should prefer ModHooks.LanguageGetHook over scene-local string edits.
+  - GG_Vengefly.unity contains Giant_Buzzer_Col with FSM Big Buzzer, while the in-game display name Vengefly King is not the primary GameObject name.
+  - GG_Workshop contains GG_Statue_Vengefly/Inspect with the GG Boss UI FSM, which is the relevant Godhome statue path for Vengefly challenge name display.
+  - The hk-api skill includes an internal lookup table at `data/gameDic.json`, which can be used to verify language keys, sheets, and original localized strings during boss-name overrides.
+- Sources:
+  - `C:/Users/33361/.config/opencode/skills/hk-api/hkapi/ShowBossChallengeUI.cs:21`
+  - `C:/Users/33361/.config/opencode/skills/hk-api/hkapi/ShowBossChallengeUI.cs:51`
+  - `C:/Users/33361/.config/opencode/skills/hk-api/fsm-export/Gods_Glory/GG_Vengefly.unity/Giant_Buzzer_Col__Big_Buzzer__fsm_1381.md:7`
+  - `C:/Users/33361/.config/opencode/skills/hk-api/fsm-export/Gods_Glory/GG_Workshop.unity/Inspect__GG_Boss_UI__fsm_12621.md:7`
+  - `C:/Users/33361/.config/opencode/skills/hk-api/data/gameDic.json:1`
