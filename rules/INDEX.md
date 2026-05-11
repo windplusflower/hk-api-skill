@@ -4,16 +4,32 @@
 
 When rules conflict, follow this priority:
 1. `SKILL.md` explicit statements
-2. `core/`
-3. `systems/`
-4. `development/`
-5. `libraries/`
+2. `modding-spec.md`
+3. `core/`
+4. `systems/`
+5. `development/`
+6. `libraries/`
 
 If still ambiguous, prefer the more specific rule.
 
 ## 快速导航
 
 按使用场景分类的规则文档索引。
+
+## 先读规范层
+
+`hk-api` 已重构为两层：
+
+1. **Modding Spec**：全量加载的工作规范
+2. **Modding Knowledge**：按需渐进查阅的知识文档
+
+开始处理 HK modding 任务时，先读：
+
+- [Modding Spec](modding-spec.md)
+
+再根据问题类型按需打开下面的知识文档。
+
+默认不应整批预读 `core/`、`systems/`、`development/`、`libraries/`、`fsm-index/` 或 `hkapi/`；只有当前问题需要时才打开最少必要内容。
 
 ## FSM 数据入口
 

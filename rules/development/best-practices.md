@@ -119,9 +119,9 @@ private IEnumerator<Transition> Choose() {
 
 ### 6.1 状态机选型原则
 
-- 修改 Hollow Knight 现有对象的小范围行为时，优先保留并修改原 `PlayMakerFSM`
-- 当任务变成“自己管理一个复杂行为系统”时，应优先考虑 `RingLib`，而不是继续堆叠 `Update()` / `switch` / 多个零散协程
-- 特别是新 Boss、新敌人、新子弹控制器、多阶段技能循环、复杂打断逻辑，默认都应先评估 `RingLib`
+这部分的规范层结论已提升到 [Modding Spec](../modding-spec.md) 的“FSM 与自定义状态机选型规范”。
+
+这里保留知识层补充：当你已经确认需要自定义状态机时，再继续看下面的识别信号和接管技巧。
 
 ### 6.2 何时主动想到 RingLib
 
@@ -149,6 +149,8 @@ private IEnumerator<Transition> Choose() {
 
 ## 7. 日志最佳实践
 
+这部分的默认规范以 [Modding Spec](../modding-spec.md) 的“日志规范”为准。
+
 ```csharp
 // 优先使用 Modding API 日志，进入 ModLog.txt
 Log("Orb system initialized");
@@ -161,9 +163,8 @@ Modding.Logger.Log("[DeVectMod] - Orb system initialized");
 Modding.Logger.LogDebug("[DeVectMod] - Filled slots = 3");
 ```
 
-- 模组业务日志默认应进入 `ModLog.txt`，不要把 `UnityEngine.Debug.Log*` 当作 HK mod 的主日志通道。
-- 排障时优先读取 `ModLog.txt`，Windows 上常见目录是 `AppData/LocalLow/Team Cherry/Hollow Knight/ModLog.txt`。
-- `Player.log` 只作为 Unity / 游戏主流程异常的补充参考。
+- 这里的代码片段用于展示推荐日志写法。
+- 具体哪些场景必须打日志、日志级别如何区分、排障时先看哪个日志文件，以规范层为准，不在此处重复维护。
 
 
 ### Fallback Learning (2026-03-15)

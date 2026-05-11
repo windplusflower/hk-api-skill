@@ -170,6 +170,48 @@ public class MyEnemyStateMachine : EntityStateMachine
 - [RingLib](../libraries/ringlib.md)
 - [RingLib Source Index](../libraries/ringlib-src-index.md)
 
+### Logging Pattern
+
+Hollow Knight mod 的业务日志应优先走 Modding API，并明确区分 `Debug` 与 `Release` 期望。
+
+```csharp
+public override void Initialize(Dictionary<string, Dictionary<string, GameObject>> preloadedObjects)
+{
+    Log("Initialize start");
+
+#if DEBUG
+    LogDebug($"Preload scenes = {preloadedObjects.Count}");
+#endif
+
+    On.PlayMakerFSM.OnEnable += PlayMakerFSM_OnEnable;
+    Log("Hooks registered");
+}
+
+private void PlayMakerFSM_OnEnable(On.PlayMakerFSM.orig_OnEnable orig, PlayMakerFSM self)
+{
+    orig(self);
+
+#if DEBUG
+    LogDebug($"FSM enabled: scene={self.gameObject.scene.name}, go={self.gameObject.name}, fsm={self.FsmName}");
+#endif
+
+    if (self.FsmName != "Control")
+    {
+#if DEBUG
+        LogDebug("Skipped non-target FSM");
+#endif
+        return;
+    }
+
+    Log("Target FSM matched");
+}
+```
+
+- 默认使用 `Log(...)`、`LogDebug(...)`、`LogWarn(...)`、`LogError(...)` 或 `Modding.Logger.*`，不要把 `UnityEngine.Debug.Log*` 当作主要业务日志接口。
+- `Debug` 构建保留详细路径日志，特别是 Hook 命中、状态切换、关键分支命中与提前返回原因。
+- `Release` 构建默认不输出常规调试噪音；必要时保留初始化成功、重要警告和错误。
+- 代码排障时先读 `ModLog.txt`，再根据日志回推代码路径，不要只凭症状猜测。
+
 ### 对象池模式
 
 使用 Queue<T> 进行对象池管理：
