@@ -51,6 +51,10 @@ If still ambiguous, prefer the more specific rule.
 
 索引只覆盖 level 文件里静态保存的 GameObject。运行时 `Instantiate` 出来的对象（投射物 / 生成的敌人 / 跨场景 DontDestroyOnLoad）需要 in-game 的 UnityExplorer mod。
 
+检索“一个视觉上固定的物品 / 摆件 / 交互物”时，不要默认它对应单一 GO。先分别查碰撞箱、本体显示、父子层级装饰和附近独立场景装饰，再判断哪些对象共同组成了玩家看到的那个东西。
+
+除非用户明确说要找贴图、纯装饰或显示层，否则默认优先保留有 collider 的候选对象；没有碰撞体积的渲染碎片通常只应作为辅助线索，而不是直接当成目标物品本体。
+
 ## 新手入门
 
 **刚开始做 Mod？** 按以下顺序阅读：
@@ -150,6 +154,9 @@ If still ambiguous, prefer the more specific rule.
 
 **列出场景里所有物体 / 查 GO 坐标 / collider 大小**
 → [Scene Index README](../scene-index/README.md) → 直接 grep `scene-index/scene-objects.tsv` → 需要细节时用 `scripts/dump_gameobject.py --scene X --pathid N`
+
+**找一个物品 / 摆件到底由哪些对象组成**
+→ 先用 [Scene Index README](../scene-index/README.md) 查附近候选 GO 与 collider/FSM，默认优先看有碰撞体积的对象 → 再用 `scripts/dump_gameobject.py` 分别检查主对象、父对象、子对象和周边装饰；不要先验假设所有相关对象都在同一棵层级树里
 
 **添加新护符效果**
 → [Item IDs](core/item-ids.md) → [Code Patterns](development/code-patterns.md)
