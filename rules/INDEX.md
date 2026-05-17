@@ -40,6 +40,17 @@ If still ambiguous, prefer the more specific rule.
 - [Boss Shortcuts](../fsm-index/boss-shortcuts.md) - 当前导出的 Boss / 战斗场景快速入口
 - [FSM Query Guide](core/fsm-query-guide.md) - 具体检索流程和查询范式
 
+## 场景物体 / 几何信息入口
+
+需要回答「场景里有哪些 GameObject」「某个 GO 的位置 / collider 大小」这类问题时：
+
+- [Scene Index README](../scene-index/README.md) - 场景物体索引（lazy-dump 架构）总览
+- `scene-index/scene-objects.tsv` - 静态行级索引：scene / go_path / pathid / world position / collider / renderer / fsm_count
+- `scripts/dump_gameobject.py` - 按需生成单个 GO 的完整组件 markdown（写入 `scene-cache/`）
+- `scripts/rebuild_scene_index.py` - 重建索引（依赖本地 HK 安装 + `pip install UnityPy`）
+
+索引只覆盖 level 文件里静态保存的 GameObject。运行时 `Instantiate` 出来的对象（投射物 / 生成的敌人 / 跨场景 DontDestroyOnLoad）需要 in-game 的 UnityExplorer mod。
+
 ## 新手入门
 
 **刚开始做 Mod？** 按以下顺序阅读：
@@ -137,6 +148,9 @@ If still ambiguous, prefer the more specific rule.
 **修改场景流程**
 → [FSM Query Guide](core/fsm-query-guide.md) → [Scene Summary](../fsm-index/scene-summary.md) → [Game Modification Patterns](systems/game-modification-patterns.md)
 
+**列出场景里所有物体 / 查 GO 坐标 / collider 大小**
+→ [Scene Index README](../scene-index/README.md) → 直接 grep `scene-index/scene-objects.tsv` → 需要细节时用 `scripts/dump_gameobject.py --scene X --pathid N`
+
 **添加新护符效果**
 → [Item IDs](core/item-ids.md) → [Code Patterns](development/code-patterns.md)
 
@@ -146,7 +160,7 @@ If still ambiguous, prefer the more specific rule.
 ## 文档层级
 
 ```text
-hk-api-skill/
+hk-api/
 ├── SKILL.md
 ├── fsm-export/           # 24701 个 FSM Markdown 文件
 ├── fsm-index/
@@ -154,6 +168,20 @@ hk-api-skill/
 │   ├── fsm-manifest.tsv
 │   ├── scene-summary.md
 │   └── boss-shortcuts.md
+├── scene-index/          # 静态场景物体索引（lazy-dump 架构）
+│   ├── README.md
+│   ├── scene-objects.tsv  # 587944 行
+│   └── scene-map.tsv      # scene → levelN 映射
+├── scene-cache/          # dump_gameobject.py 按需写入的单 GO markdown（gitignored）
+│   └── README.md
+├── scripts/
+│   ├── README.md
+│   ├── evolution_record.py
+│   ├── rebuild_scene_index.py
+│   └── dump_gameobject.py
+├── data/                 # 辅助数据
+│   └── gameDic.json      # 游戏内文本字典（中文本地化 key → 文本）
+├── satchel-src/          # Satchel 库源码镜像（rules/libraries/satchel-src-index.md 索引）
 ├── rules/
 │   ├── INDEX.md
 │   ├── core/
@@ -196,3 +224,18 @@ hk-api-skill/
 2. 查 FSM 时优先走 `fsm-manifest.tsv -> boss-shortcuts/scene-summary -> fsm-export`。
 3. 回答具体 FSM 问题时，尽量给出 `scene`、`gameobject_segment`、`fsm_name`、`fsm_id`、`relative_path`。
 4. 运行时改写、Hook 点和代码注入问题，再回到 `rules/development/` 和 `rules/systems/`。
+
+### Fallback Learning (2026-05-16)
+<!-- evolution:e490a98c975e -->
+- Question: 场景内 GameObject 列表 / 位置 / collider 大小如何静态查询？
+- Facts:
+  - Hollow Knight 关卡序列化在 hollow_knight_Data/levelN，N 与 globalgamemanagers.BuildSettings 索引一致 (501 scenes)。
+  - 用 UnityPy 读 levelN 可枚举所有 GameObject + Transform/Collider2D/Renderer 字段，但 MonoBehaviour 的 m_Script 类名解析需要跨文件 env，否则失败。
+  - 新增 scene-index/scene-objects.tsv 静态索引：scene/go_path/pathid/world_pos/collider/renderer/fsm_count，~MB 体量，覆盖所有场景静态 GO。
+  - fsm_count 通过解析 fsm-export/.../*.md 的 GameObject PathId 与 GO 精确 join，不能用名字 join（短名如 White_Flash 会过度匹配）。
+  - scripts/dump_gameobject.py 按 (scene, pathid) 在查询时生成单 GO 完整组件 markdown，写入 scene-cache/，避免全量预 dump。
+  - 运行时 Instantiate 出来的 GO（投射物、spawn 出来的敌人、DontDestroyOnLoad 上下文）静态拿不到，需 UnityExplorer mod。
+- Sources:
+  - `scripts/rebuild_scene_index.py:1`
+  - `scripts/dump_gameobject.py:1`
+  - `scene-index/README.md:1`

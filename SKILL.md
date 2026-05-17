@@ -58,7 +58,8 @@ When triggered, load this skill before answering so you can apply the always-loa
 3. Query API knowledge for `HeroController`, `HealthManager`, `PlayMakerFSM`, `PlayerData` and related classes.
 4. Locate source code inside `hkapi/`.
 5. Locate FSM instances, states, actions, transitions, and events from the bundled `fsm-export/` dataset.
-6. Recommend when to keep using PlayMaker FSM hooks versus when to build a custom C# state machine with `RingLib`.
+6. Look up scene GameObjects (position, scale, collider type, FSM count, hierarchy) via the `scene-index/` static index, with on-demand component dumps via `scripts/dump_gameobject.py`.
+7. Recommend when to keep using PlayMaker FSM hooks versus when to build a custom C# state machine with `RingLib`.
 
 ## When to Use
 
@@ -69,6 +70,7 @@ When triggered, load this skill before answering so you can apply the always-loa
 - Finding implementation of a feature in source code
 - Locating a concrete PlayMaker FSM instance in a scene
 - Finding states, actions, events, or transitions for a boss / NPC / UI flow
+- Listing GameObjects in a scene, or looking up a GO's world position, collider type, hierarchy path, or attached FSMs
 - Solving API-related or FSM-related issues in mod development
 - Bootstrapping a new HK mod template from an empty directory
 - Designing a Boss / enemy / projectile behavior system that is too large or awkward for ad-hoc FSM patching
@@ -81,6 +83,7 @@ Use the smallest relevant knowledge source for the task:
 - API / class / call-path questions: `rules/core/**`, then `hkapi/**` if needed
 - FSM questions: [fsm-index/README.md](fsm-index/README.md), [rules/core/fsm-query-guide.md](rules/core/fsm-query-guide.md), then `fsm-export/**`
 - Known Boss or scene lookup: [fsm-index/fsm-manifest.tsv](fsm-index/fsm-manifest.tsv), [fsm-index/boss-shortcuts.md](fsm-index/boss-shortcuts.md), [fsm-index/scene-summary.md](fsm-index/scene-summary.md)
+- Scene GameObject / geometry / collider questions: [scene-index/README.md](scene-index/README.md), then `scene-index/scene-objects.tsv` for index-only queries, or `scripts/dump_gameobject.py` for full per-GO detail
 - Custom state machine work: [rules/libraries/ringlib.md](rules/libraries/ringlib.md), [rules/libraries/ringlib-src-index.md](rules/libraries/ringlib-src-index.md)
 
 ## Data Locations
@@ -90,6 +93,12 @@ Use the smallest relevant knowledge source for the task:
 - `hkapi/`: decompiled source files
 - `fsm-index/`: FSM navigation layer
 - `fsm-export/`: full PlayMaker FSM dataset
+- `scene-index/`: per-scene GameObject index (lazy-dump architecture; pairs with `scripts/dump_gameobject.py`)
+- `scene-cache/`: on-demand single-GO dumps written by `scripts/dump_gameobject.py` (regenerable, gitignored)
+- `scripts/`: maintenance and query tools (evolution_record, rebuild_scene_index, dump_gameobject)
+- `data/gameDic.json`: HK in-game text dictionary (Chinese localization keys)
+- `satchel-src/`: Satchel library source mirror (referenced from `rules/libraries/satchel-src-index.md`)
+- `third_party/`: vendored libraries (e.g. `RingLib`)
 
 ## Repository Detection Workflow
 

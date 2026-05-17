@@ -43,3 +43,9 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - note: `rules/evolution-notes/20260505_130454_what-is-the-correct-ringlib-integration-pattern-for-hk-boss-.md`
 - status: `applied`
+## 2026-05-16 09:25:43
+- question: 场景内 GameObject 列表 / 位置 / collider 大小如何静态查询？
+- target: `rules/INDEX.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260516_092543_gameobject-collider.md`
+- status: `applied`

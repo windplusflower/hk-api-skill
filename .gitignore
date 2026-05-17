@@ -1,0 +1,13 @@
+# On-demand single-GO dumps (regenerable from scripts/dump_gameobject.py)
+scene-cache/
+
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# rebuild_scene_index.py log output
+scene-index/_build.log
+
+# Throwaway probes for debugging UnityPy / index logic
+scripts/_probe_*.py

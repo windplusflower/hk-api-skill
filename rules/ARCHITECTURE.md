@@ -29,7 +29,7 @@
 
 ### 2. Modding Knowledge
 
-位置：`rules/**`、`fsm-index/**`、`fsm-export/**`、`hkapi/**`
+位置：`rules/**`、`fsm-index/**`、`fsm-export/**`、`scene-index/**`、`hkapi/**`、`scripts/**`
 
 作用：
 
@@ -41,9 +41,19 @@
 
 - 类、方法、字段、调用链细节
 - Boss / 场景 / GameObject / FSM 具体结构
+- 场景物体的位置 / collider / hierarchy（走 `scene-index/scene-objects.tsv`，需要细节时用 `scripts/dump_gameobject.py` 生成 `scene-cache/`）
 - preload 名、item id、对象链路
 - 战斗、法术、音频、商店等系统知识
 - `RingLib`、`Satchel` 等库的细节用法
+
+### Lazy-dump 子模式
+
+`scene-index/` 与 `scripts/dump_gameobject.py` 配对体现了「轻索引 + 按需 dump」的子架构：
+
+- 静态索引（committed）只覆盖能廉价拿到的字段（位置 / 类型 / 数量）
+- 完整组件细节按 `(scene, pathid)` 在查询时生成，写入 `scene-cache/`（regenerable，不入库）
+
+任何未来「全量预 dump 体积过大但单点查询频率低」的数据都可以参照这个模式接入。
 
 ## 默认工作流
 
