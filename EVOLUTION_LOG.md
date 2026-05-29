@@ -49,3 +49,9 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - note: `rules/evolution-notes/20260516_092543_gameobject-collider.md`
 - status: `applied`
+## 2026-05-30 07:40:24
+- question: Which exact language keys drive the Godhome Vengefly statue/difficulty-select name vs the in-battle roar title, and how do I override both?
+- target: `rules/systems/game-modification-patterns.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260530_074024_which-exact-language-keys-drive-the-godhome-vengefly-statue-.md`
+- status: `applied`
