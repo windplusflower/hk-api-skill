@@ -55,6 +55,10 @@ If still ambiguous, prefer the more specific rule.
 
 除非用户明确说要找贴图、纯装饰或显示层，否则默认优先保留有 collider 的候选对象；没有碰撞体积的渲染碎片通常只应作为辅助线索，而不是直接当成目标物品本体。
 
+推荐流程：先用有碰撞体积的候选对象确认主体，再沿层级找直接关联对象，最后才按坐标邻近和命名模式补充零散装饰。
+
+确认主体时不要只看“有 collider”。还要结合对象名称，以及碰撞箱的形状和尺寸，判断它更像物品本体、交互区、触发器还是容器节点。
+
 ## 新手入门
 
 **刚开始做 Mod？** 按以下顺序阅读：
@@ -94,6 +98,7 @@ If still ambiguous, prefer the more specific rule.
 | [Common Hooks](development/common-hooks.md) | 常用 Hook 模式 |
 | [Code Patterns](development/code-patterns.md) | 常见代码模式 |
 | [Resource Management](development/resources.md) | 资源加载和管理 |
+| [Visual Asset Inspection](development/visual-asset-inspection.md) | 查看游戏原本贴图、atlas、动画原始帧 |
 | [Best Practices](development/best-practices.md) | 最佳实践和技巧 |
 | [Template Bootstrap](development/mod-template-bootstrap.md) | 从空目录创建 HK Mod 模板 |
 
@@ -140,11 +145,14 @@ If still ambiguous, prefer the more specific rule.
 **从空目录创建 Mod 模板 / 构建系统**
 → [Template Bootstrap](development/mod-template-bootstrap.md) → [Best Practices](development/best-practices.md)
 
-**用 C# 协程状态机组织 Boss / 敌人逻辑**
+**用 C# 协程状态机组织 Boss / 敌人逻辑，或接管原 Boss FSM**
 → [RingLib](libraries/ringlib.md) → [RingLib Source Index](libraries/ringlib-src-index.md)
 
 **优化资源加载**
 → [Resource Management](development/resources.md) → [Preload Names](core/preload-names.md)
+
+**看游戏内原本贴图 / atlas / 动画原始帧**
+→ [Visual Asset Inspection](development/visual-asset-inspection.md) → [Scene Index README](../scene-index/README.md) → 需要 runtime 当前对象/当前 clip 时用 UnityExplorer
 
 **添加新 NPC**
 → [FSM Query Guide](core/fsm-query-guide.md) → [Game Modification Patterns](systems/game-modification-patterns.md) → [Code Patterns](development/code-patterns.md)
@@ -157,6 +165,10 @@ If still ambiguous, prefer the more specific rule.
 
 **找一个物品 / 摆件到底由哪些对象组成**
 → 先用 [Scene Index README](../scene-index/README.md) 查附近候选 GO 与 collider/FSM，默认优先看有碰撞体积的对象 → 再用 `scripts/dump_gameobject.py` 分别检查主对象、父对象、子对象和周边装饰；不要先验假设所有相关对象都在同一棵层级树里
+
+推荐顺序：先锁定有碰撞体积的主体 → 再查它的父子层级关联对象 → 最后按坐标和命名扩展到零散装饰
+
+锁定主体时继续核对名称与 collider 形状/大小，避免把单纯触发区或检测框误判成物品本体
 
 **添加新护符效果**
 → [Item IDs](core/item-ids.md) → [Code Patterns](development/code-patterns.md)

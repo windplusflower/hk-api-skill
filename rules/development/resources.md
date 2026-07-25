@@ -11,6 +11,8 @@ tags: hk-api, resources, embedded, assets, texture
 
 本文件只保留资源实现示例和补充技巧，不再重复规范层的通用约束。
 
+如果当前需求不是“加载 mod 自带资源”，而是“先看到 Hollow Knight 原版游戏里的真实贴图 / atlas / 动画帧”，先看 [Visual Asset Inspection](visual-asset-inspection.md)。
+
 ### Embedded Resources Setup
 
 **In .csproj**:

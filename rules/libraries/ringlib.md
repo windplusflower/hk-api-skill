@@ -446,6 +446,21 @@ RingLib 不替代 HK 原生 PlayMaker FSM，它更像是：
 
 `MossBeast` 就有这类模式，例如从旧 FSM 中提取 `roarWavePrefab` 和音乐 cue，再让自己的状态机管理完整战斗流。
 
+### 接管原 Boss FSM 的实战清单
+
+当目标是“保留原 Boss 宿主对象，但完全改写战斗行为”时，先把原 FSM 当成资源表和行为契约来查，而不是直接盲写 C#：
+
+1. 用 `fsm-index/fsm-manifest.tsv` 精确定位 `scene + GameObject + FsmName`，再打开对应 `fsm-export/**`。不要只按 `FsmName` 判断，同名 FSM 很常见。
+2. 在入口 Hook（常见是 `On.PlayMakerFSM.OnEnable`）里先调用 `orig(self)`，再按 scene、宿主对象名、`FsmName` 严格过滤目标，只安装一次自定义 controller / state machine。
+3. controller 负责缓存宿主组件和原 FSM 引用，例如 `Rigidbody2D`、collider、`HealthManager`、`DamageHero`、`AudioSource`、动画器、原 `PlayMakerFSM`。
+4. 自定义 `EntityStateMachine` 启动时立刻验证 controller，并禁用原战斗 FSM（例如 `oldBossFsm.enabled = false`）。如果还需要原对象上的 `HealthManager`、Godhome/BossSceneController、标题 UI、音频 prefab、粒子或碰撞组件，只禁用“行为控制 FSM”，不要粗暴禁掉整个宿主。
+5. 明确列出原 FSM 中必须复刻的外部契约：锁/还玩家控制、Boss 标题、镜头震动、音效、粒子、发射器 prefab、碰撞/受击启停、死亡/胜利流程。完整接管行为不等于丢掉这些系统调用。
+6. 把原版演出封装成 controller helper，例如 `SendRoarEnter()`、`PlayRoarSfx()`、`SpawnRoarEmitter()`、`TriggerBigShake()`、`SpawnRoarParticles()`、`SendRoarExit()`。状态机只编排时序，避免每个状态复制一堆资源查找和 PlayMaker 事件发送。
+7. 每个大阶段先做最小闭环：命中目标 -> 禁原 FSM -> 播 intro -> 进入 idle/roam -> 可受击 -> 可死亡/结算。确认闭环后再加技能，否则很难区分是接管失败、资源缺失、还是技能逻辑失败。
+8. 保留详细日志：安装命中、重复安装跳过、原 FSM 禁用、状态进入、资源找不到、关键外部事件发送失败都应记录到 mod 日志。
+
+`VengeflyBombardier` 是一个可复用例子：它在 `GG_Vengefly.unity / Giant_Buzzer_Col / Big Buzzer` 命中目标 FSM，安装 controller，随后在 RingLib 状态机启动时禁用原 `Big Buzzer` FSM；它没有只播放 `Roar` 动画，而是按原 FSM 复刻 `Roar Lock` 的 `ROAR ENTER/EXIT`、`big_buzzer_scream`、`Roar Wave Emitter`、`CameraShake` 的 `BigShake`、黑血粒子，以及 intro 的约 `0.332s` antic 和 roar tail。类似 Boss 接管任务可以照这个顺序拆。
+
 ## 日志注意事项
 
 原始 RingLib 的 `Log.cs` 默认把日志发到 `UnityEngine.Debug.Log` / `LogError`。

@@ -55,3 +55,45 @@ Tracks fallback-to-source learning events and rule updates.
 - risk: `low`
 - note: `rules/evolution-notes/20260530_074024_which-exact-language-keys-drive-the-godhome-vengefly-statue-.md`
 - status: `applied`
+## 2026-05-31 10:49:54
+- question: 如何获取 Hollow Knight 游戏实际贴图而不是凭名字猜图？
+- target: `rules/development/visual-asset-inspection.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260531_104954_hollow-knight.md`
+- status: `applied`
+## 2026-06-13 07:51:49
+- question: How does Hollow Knight decide whether to show completion percentage on the ending screen versus normal UI?
+- target: `rules/core/core-classes.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260613_075149_how-does-hollow-knight-decide-whether-to-show-completion-per.md`
+- status: `applied`
+## 2026-06-14 18:00:34
+- question: How do enemy contact and weapon hitboxes damage the Knight?
+- target: `rules/systems/combat-system.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260614_180034_how-do-enemy-contact-and-weapon-hitboxes-damage-the-knight.md`
+- status: `applied`
+## 2026-06-27 10:56:19
+- question: Why can an enemy take damage but miss directional hit recoil events?
+- target: `rules/systems/combat-system.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260627_105619_why-can-an-enemy-take-damage-but-miss-directional-hit-recoil.md`
+- status: `applied`
+## 2026-07-19 17:26:54
+- question: 空洞骑士二段跳后冲刺贴墙，冲刺结束并下滑后墙跳只有横向速度而纵向自由下落的原因？
+- target: `rules/core/core-classes.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260719_172654_evolution.md`
+- status: `applied`
+## 2026-07-19 17:36:05
+- question: jump_steps 污染除了落地外，原版哪些情况会恢复正常？
+- target: `rules/core/core-classes.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260719_173605_jump-steps.md`
+- status: `applied`
+## 2026-07-19 17:42:29
+- question: 玩家在正常游戏中可以主动执行哪些操作来清除 jump_steps 污染？
+- target: `rules/core/core-classes.md`
+- risk: `low`
+- note: `rules/evolution-notes/20260719_174229_jump-steps.md`
+- status: `applied`

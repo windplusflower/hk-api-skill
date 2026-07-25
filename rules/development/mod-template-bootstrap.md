@@ -8,6 +8,15 @@
 - 目录为空，只有需求说明
 - 需要快速得到可运行的最小项目
 
+## 空模验收标准
+
+默认新建的空模必须满足：
+
+1. `dotnet build` 可以直接编译成功。
+2. 构建后自动把 `<ModName>.dll` 和可选 `.pdb` 安装到 `Managed/Mods/<ModName>`。
+3. 同一次构建自动生成 `<ModName>.zip` 和 `SHA256.txt`，并放在同一个 mod 安装目录。
+4. 仓库不提交真实机器路径；换机器后只需要补 `LocalBuildProperties.props` 或等效环境变量即可编译。
+
 ## 最小目录结构
 
 ```text
@@ -22,14 +31,14 @@ MyMod/
 
 1. 创建 `net472` SDK 风格项目（`MyMod.csproj`）
 2. 建立跨机器可移植的本地配置层：仓库内保留模板配置，机器相关路径放到未跟踪文件
-3. 添加 HK/Unity/Modding 必需引用（Assembly-CSharp、UnityEngine.*、PlayMaker、MMHOOK_*），优先引用用户机器上已存在的真实 DLL
+3. 添加 HK/Unity/Modding 必需引用；空模最小集是 `Assembly-CSharp`、`Modding`、`UnityEngine`、`UnityEngine.CoreModule`，只有代码实际使用 FSM、detour hook、音频、物理等能力时才补 `PlayMaker`、`MMHOOK_*`、`UnityEngine.*Module`
 4. 创建 `Mod` 主类并实现：
    - `GetVersion()`
    - `Initialize(...)`
-   - `IGlobalSettings<T>`
-   - `IMenuMod`（至少一个开关）
+   - 可选：`IGlobalSettings<T>`，仅当模板需要保存设置
+   - 可选：`IMenuMod`，仅当模板需要内置菜单项或开关
 5. 配置构建后安装：复制构建产物到 `Managed/Mods/<ModName>`，并自动生成可分发的 `<ModName>.zip`
-6. 确保构建流程在新机器上只需补本地配置即可运行，不依赖硬编码环境路径
+6. 确保构建流程在新机器上只需补本地配置或环境变量即可运行，不依赖硬编码环境路径
 7. 在 README 写明：本地配置文件、构建命令、安装路径、找不到 DLL 时需要补哪些路径
 
 ## 核心原则
@@ -43,7 +52,8 @@ MyMod/
 
 ### 2. 机器相关配置必须和仓库代码分离
 
-- 构建系统必须满足跨平台、跨机器拉取后仍可编译。
+- 构建系统必须满足跨机器可编译：换机器拉取仓库后，补 `LocalBuildProperties.props` 或环境变量即可构建。
+- 如果还要求跨 Windows/macOS/Linux 编译 `net472`，需要额外处理 .NET Framework reference assemblies，并避免在仓库配置中假设 Windows 盘符路径。
 - 仓库提交的文件只能包含可移植模板、相对路径、环境变量回退、以及导入本地配置文件的逻辑。
 - 机器相关的绝对路径应放在未跟踪文件中，例如 `LocalBuildProperties.props`、`.env.local`、`.local/` 或类似本地配置层。
 - 这类本地配置文件应加入 `.gitignore`，并同时提供可提交的示例文件，例如 `LocalBuildProperties.props.example`。
@@ -88,7 +98,6 @@ LocalBuildProperties.props
   <PropertyGroup>
     <HKManagedDir>C:\Path\To\Hollow Knight\hollow_knight_Data\Managed</HKManagedDir>
     <HKModsDir>C:\Path\To\Hollow Knight\hollow_knight_Data\Managed\Mods</HKModsDir>
-    <HKModdingApiDir>C:\Path\To\HKModdingAPI</HKModdingApiDir>
   </PropertyGroup>
 </Project>
 ```
@@ -105,6 +114,31 @@ LocalBuildProperties.props
 - 仓库内必须有示例文件，但不要提交真实机器路径。
 - 如果本地配置缺失，构建报错信息要明确指出缺的是哪个目录或 DLL。
 - AI 在新项目里发现缺少本地配置时，应先创建 example 文件和 `.gitignore`，再提示用户补真实路径。
+
+### 推荐的 `.csproj` 基础属性
+
+```xml
+<Project Sdk="Microsoft.NET.Sdk">
+  <Import Project="LocalBuildProperties.props" Condition="Exists('LocalBuildProperties.props')" />
+
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>MyMod</AssemblyName>
+    <RootNamespace>MyMod</RootNamespace>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
+    <DebugType>portable</DebugType>
+    <HKManagedDir Condition="'$(HKManagedDir)' == ''">$(HK_MANAGED_DIR)</HKManagedDir>
+    <HKModsDir Condition="'$(HKModsDir)' == ''">$(HK_MODS_DIR)</HKModsDir>
+  </PropertyGroup>
+
+  <!-- 继续加入下方章节里的引用与构建目标 -->
+</Project>
+```
+
+实际创建项目时，把下方的引用与构建目标插入同一个 `.csproj`，不要另建第二个 project 文件。
 
 ## DLL 解析策略
 
@@ -123,7 +157,49 @@ LocalBuildProperties.props
 - 问到用户提供路径后，应把这类“本机依赖位置”沉淀到本地配置模板说明，而不是写死到项目主 `.csproj`。
 - 如果依赖来自其他 mod，例如 `Satchel.dll`，优先从已安装的 `Managed/Mods/<Dependency>/` 查找。
 
-### PlayMaker / MMHOOK / Unity 模块最小完整引用集
+### 代码变更必须带上引用变更
+
+新建模板或后续改代码时，不要只改 `.cs` 文件而漏改 `.csproj`。凡是新增代码引入了新的 HK / Unity / PlayMaker / hook / 第三方 mod 类型，都必须在同一轮变更里检查并补齐引用：
+
+1. `using HutongGames.PlayMaker`、`PlayMakerFSM`、FSM 变量类型 -> 补 `PlayMaker.dll`
+2. `On.<GameClass>`、`IL.<GameClass>` -> 补 `MMHOOK_Assembly-CSharp.dll`，通常也补 `MonoMod.Utils.dll`
+3. `On.PlayMakerFSM`、`IL.PlayMakerFSM` -> 补 `MMHOOK_PlayMaker.dll` 和 `PlayMaker.dll`
+4. `AudioSource`、`AudioClip` -> 补 `UnityEngine.AudioModule.dll`
+5. `BoxCollider2D`、`Rigidbody2D`、`Collider2D` -> 补 `UnityEngine.Physics2DModule.dll`
+6. `Collider`、`Rigidbody` 等 3D 物理类型 -> 补 `UnityEngine.PhysicsModule.dll`
+7. `ParticleSystem` -> 补 `UnityEngine.ParticleSystemModule.dll`
+8. 其他 mod API，如 `Satchel`、`ItemChanger` -> 从 `$(HKModsDir)\<Dependency>\` 或用户提供路径引用真实 DLL
+
+补引用后必须跑一次 `dotnet build`。如果构建错误是“命名空间或类型不存在”，优先回查 `.csproj` 引用是否缺失，而不是先改业务代码。
+
+### 空模最小引用集
+
+空模默认只放能支撑 `Mod` 主类编译的引用：
+
+```xml
+<ItemGroup>
+  <Reference Include="Assembly-CSharp">
+    <HintPath>$(HKManagedDir)\Assembly-CSharp.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+  <Reference Include="Modding">
+    <HintPath>$(HKManagedDir)\Assembly-CSharp.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+  <Reference Include="UnityEngine">
+    <HintPath>$(HKManagedDir)\UnityEngine.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+  <Reference Include="UnityEngine.CoreModule">
+    <HintPath>$(HKManagedDir)\UnityEngine.CoreModule.dll</HintPath>
+    <Private>false</Private>
+  </Reference>
+</ItemGroup>
+```
+
+如果空模主类不使用 `GameObject` 预加载参数，可以更轻；但推荐保留上面的 Unity 核心引用，因为 HK mod 很快会用到 `GameObject`、`MonoBehaviour`、`Debug` 或对象预加载。
+
+### PlayMaker / MMHOOK / Unity 模块能力引用集
 
 当项目会直接使用以下任一能力时：
 
@@ -161,18 +237,10 @@ LocalBuildProperties.props
 
 如果用户给出的项目示例能编译，而当前项目不能，优先先比对 `.csproj` 引用差异，不要先怀疑 API 不存在。
 
-### 推荐的引用方式
+### 可选依赖引用方式
 
 ```xml
 <ItemGroup>
-  <Reference Include="Assembly-CSharp">
-    <HintPath>$(HKManagedDir)\Assembly-CSharp.dll</HintPath>
-    <Private>false</Private>
-  </Reference>
-  <Reference Include="Modding">
-    <HintPath>$(HKManagedDir)\Assembly-CSharp.dll</HintPath>
-    <Private>false</Private>
-  </Reference>
   <Reference Include="Satchel" Condition="Exists('$(HKModsDir)\Satchel\Satchel.dll')">
     <HintPath>$(HKModsDir)\Satchel\Satchel.dll</HintPath>
     <Private>false</Private>
@@ -184,10 +252,10 @@ LocalBuildProperties.props
 
 ## 构建产物打包策略（推荐默认启用）
 
-对于 HK Mod 模板，推荐在 `.csproj` 的构建后目标里同时完成三件事：
+对于 HK Mod 模板，推荐在 `.csproj` 的构建后目标里同时完成四件事：
 
 1. 将 `.dll/.pdb` 与资源文件复制到 `Managed/Mods/<ModName>`
-2. 在临时 `Archive/` 目录中整理要发布的文件
+2. 在临时 `package/` 目录中整理要发布的文件
 3. 自动生成 `<ModName>.zip`，并输出 `SHA256.txt`
 4. 把生成的 zip 一并放进 `Managed/Mods/<ModName>`，使本地安装目录同时具备运行产物和分发包
 
@@ -202,7 +270,7 @@ LocalBuildProperties.props
 ```xml
 <PropertyGroup>
   <InstallDir>$(HKModsDir)\$(AssemblyName)</InstallDir>
-  <PackageDir>$(OutputPath)package\</PackageDir>
+  <PackageDir>$(BaseIntermediateOutputPath)package\</PackageDir>
 </PropertyGroup>
 
 <Target Name="ValidateLocalBuildConfig" BeforeTargets="Build">
@@ -216,22 +284,29 @@ LocalBuildProperties.props
 
 <Target Name="InstallMod" AfterTargets="Build">
   <MakeDir Directories="$(InstallDir)" />
-  <MakeDir Directories="$(InstallDir)\assets" />
-  <Copy SourceFiles="$(TargetPath)" DestinationFolder="$(InstallDir)" />
-  <Copy SourceFiles="$(TargetDir)$(AssemblyName).pdb" DestinationFolder="$(InstallDir)" Condition="Exists('$(TargetDir)$(AssemblyName).pdb')" />
+
+  <ItemGroup>
+    <RuntimeFiles Include="$(TargetPath)" />
+    <RuntimeFiles Include="$(TargetDir)$(AssemblyName).pdb" Condition="Exists('$(TargetDir)$(AssemblyName).pdb')" />
+    <LooseAssetFiles Include="assets\**\*" Condition="Exists('assets')" />
+  </ItemGroup>
+
+  <Copy SourceFiles="@(RuntimeFiles)" DestinationFolder="$(InstallDir)" />
+  <Copy
+    SourceFiles="@(LooseAssetFiles)"
+    DestinationFiles="@(LooseAssetFiles->'$(InstallDir)\assets\%(RecursiveDir)%(Filename)%(Extension)')"
+  />
 
   <RemoveDir Condition="Exists('$(PackageDir)')" Directories="$(PackageDir)" />
   <MakeDir Directories="$(PackageDir)" />
 
-  <ItemGroup>
-    <PackageFiles Include="$(TargetPath)" />
-    <PackageFiles Include="$(TargetDir)$(AssemblyName).pdb" Condition="Exists('$(TargetDir)$(AssemblyName).pdb')" />
-    <PackageFiles Include="assets\**\*" />
-  </ItemGroup>
-
   <Copy
-    SourceFiles="@(PackageFiles)"
-    DestinationFiles="@(PackageFiles->'$(PackageDir)%(RecursiveDir)%(Filename)%(Extension)')"
+    SourceFiles="@(RuntimeFiles)"
+    DestinationFiles="@(RuntimeFiles->'$(PackageDir)%(Filename)%(Extension)')"
+  />
+  <Copy
+    SourceFiles="@(LooseAssetFiles)"
+    DestinationFiles="@(LooseAssetFiles->'$(PackageDir)assets\%(RecursiveDir)%(Filename)%(Extension)')"
   />
 
   <ZipDirectory
@@ -299,24 +374,17 @@ LocalBuildProperties.props
 </PropertyGroup>
 ```
 
-## 推荐的模板主类骨架
+## 推荐的空模主类骨架
 
 ```csharp
+using System.Collections.Generic;
 using Modding;
 using UnityEngine;
 
 namespace MyMod;
 
-[Serializable]
-public class ModSettings
+public partial class MyMod : Mod
 {
-    public bool Enabled = true;
-}
-
-public class MyMod : Mod, IGlobalSettings<ModSettings>, IMenuMod
-{
-    private ModSettings settings = new();
-
     public MyMod() : base("MyMod") { }
     public override string GetVersion() => "1.0.0";
 
@@ -324,6 +392,25 @@ public class MyMod : Mod, IGlobalSettings<ModSettings>, IMenuMod
     {
         // register hooks
     }
+}
+```
+
+如果模板需要菜单开关和全局设置，再额外加入：
+
+```csharp
+using System;
+using System.Collections.Generic;
+using Modding;
+
+[Serializable]
+public class ModSettings
+{
+    public bool Enabled = true;
+}
+
+public partial class MyMod : IGlobalSettings<ModSettings>, IMenuMod
+{
+    private ModSettings settings = new();
 
     public void OnLoadGlobal(ModSettings s) => settings = s ?? new ModSettings();
     public ModSettings OnSaveGlobal() => settings;
